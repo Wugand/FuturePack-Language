@@ -1,0 +1,14 @@
+[
+	"Bei der Analyse verschiedenster Materialien fiel mir auf, dass die Extrakte der Seltenen Erden verschiedene stabile Formen haben. Für meine weiteren Experimente habe ich Gadolinium gewählt, für das ich 5 stabile Isotope entdecken konnte. Den Zustandswechsel kann ich dabei wieder durch gezielte Bestrahlung auslösen, welche ich durch ein kompliziertes Steuersystem erzeuge, welches auf Smaragd-Kristallstrukturen basiert. Dadurch dass ich 5 Zustände pro Zelle zur Verfügung habe kann ich insgesamt deutlich mehr Daten speichern.",	
+	"Assembly:",
+	{
+		"type": "assembly",
+		"slots": {
+			"in1": {"name":"fp:chip","meta":0,"size":1},
+			"in2": {OreDict:"gemEmerald",size:1},
+			"in3": {OreDict:"ingotGadolinium",size:1},
+			"out": {name:"fp:spaceship", meta:<spaceship.SupportSpeicher4>, size:1}
+		}
+	},
+	"Kapazität: 2048 SP"
+]

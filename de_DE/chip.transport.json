@@ -1,0 +1,19 @@
+[
+	"Ich habe ein Upgrade für meine Maschinen entwickelt, dieser besteht aus einem dem Item Schieber ähnlichen Prinzip in Kombination mit einem spezialisierten Chipsatz.",
+	"Dieses System sorgt dafür, dass die Maschinen automatisch ihre Produkte oder nicht mehr benötigten Materialen an eine als Ausgang gewählte Seite abgeben. Die Auswahl der Seite erfolgt dabei mithilfe des Logistik-Editors.",
+
+	"Assembly:",
+	{
+		"type": "assembly",
+		"slots": {
+			"in1": {"name":"fp:spaceship","meta":"<spaceship.Silizium>","size":1},
+			"in2": {"name":"fp:spaceship","meta":"<spaceship.QuartzParts>","size":1},
+			"in3": {"name":"fp:pucher","meta":0,"size":1},
+			"out": {name:"fp:chip", meta:"<chip.LogisticChip>", size:1}
+		}
+	},	
+	
+	"Ein qualitativ hochwertiger Transportchipsatz (hohe Chippower) erbringt gegenüber eines normalen keinerlei Vorteile!",
+	"Info: Ein abweichender Effekt ist ggf. bei der entsprechenden Maschine vermerkt.",
+	"Info: Für allgemeine Informationen siehe Logikchipsatz."
+]

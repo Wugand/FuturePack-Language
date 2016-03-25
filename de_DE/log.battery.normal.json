@@ -1,0 +1,20 @@
+[
+	"Eine Kombination aus Zinn und Zink in einer geeigneten Flüssigkeit werden Teile von einem der Material abgetragen und wandern zum entsprechend anderen Element der Baterie. Dabei entsteht ein Eneergiestrom in die entgegengesetzte Richtung.",
+	"Durch Zufuhr von Energie kann der Prozess umkehert werden, was den Ausgangszustand langsam wieder her stellt.",
+	"Crafting:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {},
+			"2": [{name:"fp:spaceship",meta:<spaceship.CopperParts>}],
+			"3": {},
+			"4": "OreDict:ingotTin",
+			"5": "OreDict:ingotZinc",
+			"6": "OreDict:ingotTin",
+			"7": "OreDict:ingotTin",
+			"8": "OreDict:ingotZinc",
+			"9": "OreDict:ingotTin",
+			"out": {name:"fp:spaceship",meta:<spaceship.NormalBaterrie>}
+		}
+	}
+]

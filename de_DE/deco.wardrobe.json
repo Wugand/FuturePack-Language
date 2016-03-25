@@ -1,0 +1,69 @@
+[
+	"Aus Metallblöcken und Aluminium konnte ich einen Schrank kreieren. Er bietet genauso viel Stauraum wie eine klassische Holztruhe, ist allerdings stabiler und in verschiedenen Designs und Farben herstellbar.",
+	"Aber der größte Vorteil ist, dass auch beim Transport des Schrankes der Inhalt sicher verstaut bleibt.",
+	"Information: Der (gefüllte) Schrank kann abgebaut und wieder platziert werden, ohne seinen Inhalt zu verlieren!",
+	"Tür - Hell:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {OreDict:"ingotAluminum"},
+			"2": [{name:"fp:color_iron", meta:0},{name:"fp:color_iron", meta:8},{name:"fp:color_iron", meta:15}],
+			"3": {OreDict:"ingotAluminum"},
+			"4": {OreDict:"ingotAluminum"},
+			"5": {name:"minecraft:dye", meta:7},
+			"6": {OreDict:"ingotAluminum"},
+			"7": {OreDict:"ingotAluminum"},
+			"8": {},
+			"9": {OreDict:"ingotAluminum"},
+			"out": [{name:"fp:wandrope", meta:2, size:1},{name:"fp:wandrope", meta:6, size:1},{name:"fp:wandrope", meta:10, size:1}]
+		}
+	},	
+	"Tür - Dunkel:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {OreDict:"ingotAluminum"},
+			"2": [{name:"fp:color_iron", meta:0},{name:"fp:color_iron", meta:8},{name:"fp:color_iron", meta:15}],
+			"3": {OreDict:"ingotAluminum"},
+			"4": {OreDict:"ingotAluminum"},
+			"5": {name:"minecraft:dye", meta:8},
+			"6": {OreDict:"ingotAluminum"},
+			"7": {OreDict:"ingotAluminum"},
+			"8": {},
+			"9": {OreDict:"ingotAluminum"},
+			"out": [{name:"fp:wandrope", meta:3, size:1},{name:"fp:wandrope", meta:7, size:1},{name:"fp:wandrope", meta:11, size:1}]
+		}
+	},
+	"Schublade - Hell:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {OreDict:"ingotAluminum"},
+			"2": [{name:"fp:color_iron", meta:0},{name:"fp:color_iron", meta:8},{name:"fp:color_iron", meta:15}],
+			"3": {OreDict:"ingotAluminum"},
+			"4": {OreDict:"ingotAluminum"},
+			"5": {name:"minecraft:dye", meta:7},
+			"6": {OreDict:"ingotAluminum"},
+			"7": {OreDict:"ingotAluminum"},
+			"8": {name:"minecraft:dye", meta:7},
+			"9": {OreDict:"ingotAluminum"},
+			"out": [{name:"fp:wandrope", meta:0, size:1},{name:"fp:wandrope", meta:4, size:1},{name:"fp:wandrope", meta:8, size:1}]
+		}
+	},	
+	"Schublade - Dunkel:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {OreDict:"ingotAluminum"},
+			"2": [{name:"fp:color_iron", meta:0},{name:"fp:color_iron", meta:8},{name:"fp:color_iron", meta:15}],
+			"3": {OreDict:"ingotAluminum"},
+			"4": {OreDict:"ingotAluminum"},
+			"5": {name:"minecraft:dye", meta:8},
+			"6": {OreDict:"ingotAluminum"},
+			"7": {OreDict:"ingotAluminum"},
+			"8": {name:"minecraft:dye", meta:8},
+			"9": {OreDict:"ingotAluminum"},
+			"out": [{name:"fp:wandrope", meta:1, size:1},{name:"fp:wandrope", meta:5, size:1},{name:"fp:wandrope", meta:9, size:1}]
+		}
+	}	
+]

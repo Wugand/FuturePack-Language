@@ -1,0 +1,14 @@
+[
+	"Das momentan größte Problem meiner Flashspeicher ist es, das jede Speicherzelle eine eigene Ansteuerung zum Lesen und Schreiben benötigt. Bei meiner neusten Entwicklung konnte ich dieses Problem beseitigen. Als Speichermedium nutzte ich nun einen Glowtit-Kristall, welcher sich bei gezielter Bestrahlung so umstrukturiert, dass er sein Brechungsverhalten ändert. Zum Lesen und Schreiben einer Speicherposition nutzte ich dabei einen sehr speziellen Laser, dabei zeigte Retium das günstigste Frequenzspektrum für diese Anwendung.",	
+	"Assembly:",
+	{
+		"type": "assembly",
+		"slots": {
+			"in1": {"name":"fp:chip","meta":0,"size":1},
+			"in2": {OreDict:"ingotRetium",size:1},
+			"in3": {OreDict:"gemGlowtit",size:1},
+			"out": {name:"fp:spaceship", meta:<spaceship.SupportSpeicher3>, size:1}
+		}
+	},
+	"Kapazität: 1024 SP"
+]

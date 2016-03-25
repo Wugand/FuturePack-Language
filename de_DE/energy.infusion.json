@@ -1,0 +1,27 @@
+[
+	"Die hier vorkommenden Kristalle können Lebewesen beträchtlichen Schaden zufügen. Durch genauere Analyse habe ich herausgefunden, dass die Kristalle eine Wechselwirkung mit organischer Substanz eingehen, dabei wird das organische Material aufgelöst und ebenso die Kristallstruktur aufgebrochen. Dabei wird die Energie des organischen Materials als Wärme freigesetzt.",
+	"Mit diesem Prinzip habe ich einen Generator entwickelt, der Kristallfragmente in Lebensmittel oder Brennmaterial (außer Lava, Kohle) injiziert und die freigesetzte Wärme in Neonenergie umgewandelt. Als Abfallprodukt entsteht dabei Kristallstaub.",
+	
+	"Crafting:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {name:"fp:spaceship", meta:<spaceship.IronStick>},
+			"2": {name:"minecraft:furnace"},
+			"3": {name:"fp:spaceship", meta:<spaceship.IronStick>},
+			"4": {OreDict:"ingotZinc"},
+			"5": [{name:"fp:color_iron",meta:0},{name:"fp:color_iron",meta:8},{name:"fp:color_iron",meta:15}],
+			"6": {OreDict:"ingotZinc"},
+			"7": {name:"fp:spaceship", meta:<spaceship.CompositeMetall>},
+			"8": {name:"fp:spaceship", meta:<spaceship.Maschinboard>},
+			"9": {name:"fp:spaceship", meta:<spaceship.CompositeMetall>},
+			"out": [{name:"fp:plasma_generator_on",meta:2},{name:"fp:plasma_generator_on",meta:6},{name:"fp:plasma_generator_on",meta:10}]
+		}
+	},
+	
+	"Die Menge an Energie, die aus einer Kombination erzeugt wird ist Abhängigkeit von: Dem Wert der Industirechipsätze, der Art des Kristalls und dem Nährwert/Brennwert des organischen Materials.",
+	"Durch die Erhöhung des \"Ram\"-Wertes wird diese Energie entsprechend schneller erzeugt und abgegeben.",
+	
+	"Unterstützte Chipsätze:",
+	"Logikchipsatz\nIndustriechipsatz (Energieausbeute)\nTransportchipsatz\nRedstonesteuerungschipsatz\nSchadenskontrollchipsatz"	
+]
