@@ -1,0 +1,33 @@
+[
+	"Durch eine spezielle Maschine und ein Programm für das Computersystem ist es mir gelungen eine Anlage zu erschaffen, welche automatisch Crafting-Vorgänge ausführen kann. Das Computersystem ist dabei in Funktion und Geschwindigkeit anpassbar( siehe \"Übertakten\").",
+		"Crafting:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {name:"minecraft:crafting_table"},
+			"2": {name:"minecraft:piston"},
+			"3": {name:"minecraft:crafting_table"},
+			"4": {OreDict:"ingotNeon"},
+			"5": [{name:"fp:color_iron",meta:0},{name:"fp:color_iron",meta:8},{name:"fp:color_iron",meta:15}],
+			"6": {OreDict:"ingotNeon"},
+			"7": {name:"fp:spaceship", meta:<spaceship.CompositeMetall>},
+			"8": {name:"fp:spaceship", meta:<spaceship.Maschinboard>},
+			"9": {name:"fp:spaceship", meta:<spaceship.CompositeMetall>},
+			"out": [{name:"fp:opti_bench",meta:2},{name:"fp:opti_bench",meta:6},{name:"fp:opti_bench",meta:10}]
+		}
+	},
+	
+	"In ihrer Grundfunktion führt die Maschine das in den 9 Slots des Crafting-Feldes liegende Rezepte aus, sofern das Computersystem funktionsfähig und die Maschine mit ausreichend Neonenergie versorgt ist. Da die Grundfunktion jedoch selten sinnvoll ist, können Rezepte benutzt werden.",
+	
+	"Zum Erstellen eines Rezeptes wechselt man zuerst in die Rezeptansicht, durch klicken auf den Knopf oberhalb des Fortschrittspfeils. Danach legt man in die 9 Slots das Crafting-Rezept, welches die Maschine später bearbeiten soll, und in den oberen Slot einen beliebigen Kristall. Im mittleren Ausgangsslot erscheint dann das Resultat des eingelegten Rezepts (noch nicht herausnehmen) und im unteren, rechten Slot ein Rezept, das herausgenommen werden kann. Dabei erzeugt die Maschine aus dem Kristall eine Struktur in der die Vorlage gespeichert ist. Das eingelegte Rezept kann jetzt ausgeführt, oder wieder herausgenommen werden.",
+	
+	"Nach dem zurückschalten in die normale Ansicht der Maschine, kann das erzeugte Rezept in den oberen Slot (neben dem Knopf) eingelegt werden. Daraufhin wird die Anlage nur noch dieses eine Rezept ausführen, nur noch entsprechende Items annehmen und den Inhalt des Crafting-Feldes automatisch Anordnen und Veteilen.",
+	
+	"Das Produkt kann von Hand entnommen, oder automatisch abgesaugt/abgegeben werden. Im Support-Solt können Flash-Speicher geladen werden. Die Maschine akzeptiert und arbeitet mit allen durch das Rezept deklarierten Items, also ggf. auch Metazustände und OreDictionary.",
+	
+	"Unterstützte Chipsätze:",
+	"Logikchipsatz\nTransportchipsatz\nRedstonesteuerungschipsatz\nUnterstützungschipsatz\nUltimativer Chipsatz\nSchadenskontrollchipsatz"
+	
+	
+	
+]

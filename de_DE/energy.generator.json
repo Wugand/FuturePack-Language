@@ -1,0 +1,26 @@
+[
+	"Ich konnte einen einfachen Stirlingmotor bauen und die Drehbewegung in Neonenergie umwandeln. Der Motor beruht dabei auf 2 Zylindern, von denen einer durch die Umgebung gekühlt wird und der andere durch ein Feuer erhitzt. Die Zylinder bilden dabei zusammen ein geschlossenes System, in dem Luft erhitzt/abgekühlt und in den jeweils anderen Zylinder gedrückt wird. Die Ausdehnung und das Zusammenziehen der Luft erzeugt dabei Energie.",
+	"Die Hitze kann, dank des speziellen Designs, dabei durch jedes beliebige Brennmaterial erzeugt werden. Allerdings ist der Generator nicht besonders leistungsstark, sollte für meine momentanen Zwecke allerdings ausreichen.",
+	"Crafting:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {OreDict:"ingotIron"},
+			"2": {OreDict:"ingotIron"},
+			"3": {OreDict:"ingotIron"},
+			"4": {name:"fp:spaceship", meta:<spaceship.CopperCoil>},
+			"5": {name:"minecraft:piston"},
+			"6": {OreDict:"ingotNeon"},
+			"7": {OreDict:"ingotIron"},
+			"8": {name:"minecraft:furnace"},
+			"9": {OreDict:"ingotIron"},
+			"out": {name:"fp:brennstoff_generator",meta:0}
+		}
+	},
+	
+	"Technische Daten:",
+	"Energie pro Tick: 0.5 NE",
+	"Energie pro Burntime: 0.5 NE",
+	"",
+	"Information: Im unteren Slot kann Brennmaterial eingefüllt werden, im oberen Slot können Batterien geladen werden. Der Balken links zeigt den Füllstand des internen Energiespeichers."
+]

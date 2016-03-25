@@ -1,0 +1,32 @@
+[
+	"Alle Computergestützten Systeme kann ich jederzeit Modifizieren, dazu: §lShift + Rechtsklick§r mit dem §5Schraubendrehschlüssel§r (Modification-Mode) auf eine entsprechende Maschine.",
+	
+	"Tuning-GUI:",
+	{
+		"type":"image",
+		"width":246,
+		"height":68,
+		"resource":"fp:textures/show_gui_tuning.png"
+	},
+	"Info: Du solltest \"Standartprzessor\", \"Standartspeicher\" und \"Logikchipsatz\" gelesen haben!",
+	
+	"Komponenten:",
+	"Prozessor: zentraler Slot\nRam: 3 Slots rechts\nChipsätze: 9 Slots links",
+	"",
+	"Ram / Geschwindigkeit:",
+	"Es können bis zu 3 Speicher eingebaut werden, einer ist jedoch mindestens erforderlich. Bei der Verwendung von mehreren Speichern werden die Werte der einzelnen Module addiert.",
+	"Die Summe der \"Ram\"-Werte, beeinflusst dann direkt die Geschwindigkeit der Maschine in all ihren Funktionen (\"Arbeitstakte\" pro Sekunde). Der Gesamtwert wird dabei auch noch einmal links unten angezeigt (1 Ram = 0.05%).",
+	"",
+	"Chipsätze / Effekte:",
+	"In jedes System können bis zu 9 Chipsätze eingebaut werden, dabei ist ein Logikchipsatz bzw. ein *Tier 2*-Chipsatz (\"Corepower\" = 2) immer erfordelich damit das System arbeiten kann. Alle weiteren eingesetzten Chipsätze fügen der Maschine Spezialeffekte hinzu.",
+	"Diese Effekte können beim entsprechenden Chipsatz nachgelesen werden. Dabei ist zu beachten, dass nicht jeder Chipsatz in jeder Maschine Sinn macht, oder den gleichen Effekt erzielt. Spezifische Besonderheiten sind ebenfalls an entsprechenden Stellen des Forschungsbaumes nachzulesen.",
+	"",
+	"Corepower / Überlastung:",
+	"Der Prozessor ist die Grundkomponente von jedem System, die Auslastung des Prozessors wird oberhalb des Prozessors visualisiert. Der rote Pfeil stellt dabei die Kapazität des Prozessors dar. Wird der so markierte Wert überschritten beginnt sich die Temperatur des Systems zu erhöhen, welche an der linken Seite beim Thermometersymbol ablesbar ist. Die Kapazität und/oder die Temperaturerhöhung kann dabei durch externe Maßnahmen verändert werden.",
+	"Wird die Temperatur von 1000.0 C überschritten, dann wird der Prozessor zerstört und das System ist bis zur Reparatur funktionsunfähig.",
+	"",
+	"Verbrauch / Funktionsfähigkeit:",
+	"Wenn das rote Warnsymbol links oben zu sehen ist, dann ist die Maschine NICHT funktionsfähig. Dies wird durch das Fehlen der notwendigsten Komponenten ausgelöst.",
+	"Die linke, mittlere Anzeige (Blitzsymbol) zeigt bei Verbrauchern den Energieverbrauch pro Arbeitstakt der Maschine an, welcher von den eingesetzten Bauteilen abhängig ist. Bei Energierzeugern ist diese Anzeige Auskunft über die erzeugte Energiemenge, genaueres ist bei dem entsprechenden Erzeuger vermerkt."
+	
+]

@@ -1,0 +1,786 @@
+tile.colorIron_white.name=Weiß lackiertes Metall
+tile.colorIron_orange.name=Orange lackiertes Metall
+tile.colorIron_magenta.name=Magenta lackiertes Metall
+tile.colorIron_lightBlue.name=Hellblau lackiertes Metall
+tile.colorIron_yellow.name=Gelb lackiertes Metall
+tile.colorIron_lime.name=Hellgrün lackiertes Metall
+tile.colorIron_pink.name=Pink lackiertes Metall
+tile.colorIron_gray.name=Grau lackiertes Metall
+tile.colorIron_silver.name=Hellgrau lackiertes Metall
+tile.colorIron_cyan.name=Türkis lackiertes Metall
+tile.colorIron_purple.name=Violett lackiertes Metall
+tile.colorIron_blue.name=Blau lackiertes Metall
+tile.colorIron_brown.name=Braun lackiertes Metall
+tile.colorIron_green.name=Grün lackiertes Metall
+tile.colorIron_red.name=Rot lackiertes Metall
+tile.colorIron_black.name=Schwarz lackiertes Metall
+
+tile.colorLuftung_white.name=Weiß lackierte Lüftung
+tile.colorLuftung_orange.name=Orange lackierte Lüftung
+tile.colorLuftung_magenta.name=Magenta lackierte Lüftung
+tile.colorLuftung_lightBlue.name=Hellblau lackierte Lüftung
+tile.colorLuftung_yellow.name=Gelb lackierte Lüftung
+tile.colorLuftung_lime.name=Hellgrün lackierte Lüftung
+tile.colorLuftung_pink.name=Pink lackierte Lüftung
+tile.colorLuftung_gray.name=Grau lackierte Lüftung
+tile.colorLuftung_silver.name=Hellgrau lackierte Lüftung
+tile.colorLuftung_cyan.name=Türkis lackierte Lüftung
+tile.colorLuftung_purple.name=Violett lackierte Lüftung
+tile.colorLuftung_blue.name=Blau lackierte Lüftung
+tile.colorLuftung_brown.name=Braun lackierte Lüftung
+tile.colorLuftung_green.name=Grün lackierte Lüftung
+tile.colorLuftung_red.name=Rot lackierte Lüftung
+tile.colorLuftung_black.name=Schwarz lackierte Lüftung
+
+tile.colorGitter_white.name=Weiß lackierter Gitterblock
+tile.colorGitter_orange.name=Orange lackierter Gitterblock
+tile.colorGitter_magenta.name=Magenta lackierter Gitterblock
+tile.colorGitter_lightBlue.name=Hellblau lackierter Gitterblock
+tile.colorGitter_yellow.name=Gelb lackierter Gitterblock
+tile.colorGitter_lime.name=Hellgrün lackierter Gitterblock
+tile.colorGitter_pink.name=Pink lackierter Gitterblock
+tile.colorGitter_gray.name=Grau lackierter Gitterblock
+tile.colorGitter_silver.name=Hellgrau lackierter Gitterblock
+tile.colorGitter_cyan.name=Türkis lackierter Gitterblock
+tile.colorGitter_purple.name=Violett lackierter Gitterblock
+tile.colorGitter_blue.name=Blau lackierter Gitterblock
+tile.colorGitter_brown.name=Braun lackierter Gitterblock
+tile.colorGitter_green.name=Grün lackierter Gitterblock
+tile.colorGitter_red.name=Rot lackierter Gitterblock
+tile.colorGitter_black.name=Schwarz lackierter Gitterblock
+
+tile.colorGlas_white.name=Weiß lackiertes Panzerglas
+tile.colorGlas_orange.name=Orange lackiertes Panzerglas
+tile.colorGlas_magenta.name=Magenta lackiertes Panzerglas
+tile.colorGlas_lightBlue.name=Hellblau lackiertes Panzerglas
+tile.colorGlas_yellow.name=Gelb lackiertes Panzerglas
+tile.colorGlas_lime.name=Hellgrün lackiertes Panzerglas
+tile.colorGlas_pink.name=Pink lackiertes Panzerglas
+tile.colorGlas_gray.name=Grau lackiertes Panzerglas
+tile.colorGlas_silver.name=Hellgrau lackiertes Panzerglas
+tile.colorGlas_cyan.name=Türkis lackiertes Panzerglas
+tile.colorGlas_purple.name=Violett lackiertes Panzerglas
+tile.colorGlas_blue.name=Blau lackiertes Panzerglas
+tile.colorGlas_brown.name=Braun lackiertes Panzerglas
+tile.colorGlas_green.name=Grün lackiertes Panzerglas
+tile.colorGlas_red.name=Rot lackiertes Panzerglas
+tile.colorGlas_black.name=Schwarz lackiertes Panzerglas
+
+tile.colorIronTreppe_white.name=Weiß lackierte Metalltreppe
+tile.colorIronTreppe_orange.name=Orange lackierte Metalltreppe
+tile.colorIronTreppe_magenta.name=Magenta lackierte Metalltreppe
+tile.colorIronTreppe_lightBlue.name=Hellblau lackierte Metalltreppe
+tile.colorIronTreppe_yellow.name=Gelb lackierte Metalltreppe
+tile.colorIronTreppe_lime.name=Hellgrün lackierte Metalltreppe
+tile.colorIronTreppe_pink.name=Pink lackierte Metalltreppe
+tile.colorIronTreppe_gray.name=Grau lackierte Metalltreppe
+tile.colorIronTreppe_silver.name=Hellgrau lackierte Metalltreppe
+tile.colorIronTreppe_cyan.name=Türkis lackierte Metalltreppe
+tile.colorIronTreppe_purple.name=Violett lackierte Metalltreppe
+tile.colorIronTreppe_blue.name=Blau lackierte Metalltreppe
+tile.colorIronTreppe_brown.name=Braun lackierte Metalltreppe
+tile.colorIronTreppe_green.name=Grün lackierte Metalltreppe
+tile.colorIronTreppe_red.name=Rot lackierte Metalltreppe
+tile.colorIronTreppe_black.name=Schwarz lackierte Metalltreppe
+
+tile.colorGitterTreppe_white.name=Weiß lackierte Gittertreppe
+tile.colorGitterTreppe_orange.name=Orange lackierte Gittertreppe
+tile.colorGitterTreppe_magenta.name=Magenta lackierte Gittertreppe
+tile.colorGitterTreppe_lightBlue.name=Hellblau lackierte Gittertreppe
+tile.colorGitterTreppe_yellow.name=Gelb lackierte Gittertreppe
+tile.colorGitterTreppe_lime.name=Hellgrün lackierte Gittertreppe
+tile.colorGitterTreppe_pink.name=Pink lackierte Gittertreppe
+tile.colorGitterTreppe_gray.name=Grau lackierte Gittertreppe
+tile.colorGitterTreppe_silver.name=Hellgrau lackierte Gittertreppe
+tile.colorGitterTreppe_cyan.name=Türkis lackierte Gittertreppe
+tile.colorGitterTreppe_purple.name=Violett lackierte Gittertreppe
+tile.colorGitterTreppe_blue.name=Blau lackierte Gittertreppe
+tile.colorGitterTreppe_brown.name=Braun lackierte Gittertreppe
+tile.colorGitterTreppe_green.name=Grün lackierte Gittertreppe
+tile.colorGitterTreppe_red.name=Rot lackierte Gittertreppe
+tile.colorGitterTreppe_black.name=Schwarz lackierte Gittertreppe
+
+tile.colorIronStep_white.name=Weiß lackierte Metallstufe
+tile.colorIronStep_orange.name=Orange lackierte Metallstufe
+tile.colorIronStep_magenta.name=Magenta lackierte Metallstufe
+tile.colorIronStep_lightBlue.name=Hellblau lackierte Metallstufe
+tile.colorIronStep_yellow.name=Gelb lackierte Metallstufe
+tile.colorIronStep_lime.name=Hellgrün lackierte Metallstufe
+tile.colorIronStep_pink.name=Pink lackierte Metallstufe
+tile.colorIronStep_gray.name=Grau lackierte Metallstufe
+tile.colorIronStep_silver.name=Hellgrau lackierte Metallstufe
+tile.colorIronStep_cyan.name=Türkis lackierte Metallstufe
+tile.colorIronStep_purple.name=Violett lackierte Metallstufe
+tile.colorIronStep_blue.name=Blau lackierte Metallstufe
+tile.colorIronStep_brown.name=Braun lackierte Metallstufe
+tile.colorIronStep_green.name=Grün lackierte Metallstufe
+tile.colorIronStep_red.name=Rot lackierte Metallstufe
+tile.colorIronStep_black.name=Schwarz lackierte Metallstufe
+
+tile.colorGitterStep_white.name=Weiß lackierte Gitterstufe
+tile.colorGitterStep_orange.name=Orange lackierte Gitterstufe
+tile.colorGitterStep_magenta.name=Magenta lackierte Gitterstufe
+tile.colorGitterStep_lightBlue.name=Hellblau lackierte Gitterstufe
+tile.colorGitterStep_yellow.name=Gelb lackierte Gitterstufe
+tile.colorGitterStep_lime.name=Hellgrün lackierte Gitterstufe
+tile.colorGitterStep_pink.name=Pink lackierte Gitterstufe
+tile.colorGitterStep_gray.name=Grau lackierte Gitterstufe
+tile.colorGitterStep_silver.name=Hellgrau lackierte Gitterstufe
+tile.colorGitterStep_cyan.name=Türkis lackierte Gitterstufe
+tile.colorGitterStep_purple.name=Violett lackierte Gitterstufe
+tile.colorGitterStep_blue.name=Blau lackierte Gitterstufe
+tile.colorGitterStep_brown.name=Braun lackierte Gitterstufe
+tile.colorGitterStep_green.name=Grün lackierte Gitterstufe
+tile.colorGitterStep_red.name=Rot lackierte Gitterstufe
+tile.colorGitterStep_black.name=Schwarz lackierte Gitterstufe
+
+tile.colorLuftungStep_white.name=Weiß lackierte Lüftungsstufe
+tile.colorLuftungStep_orange.name=Orange lackierte Lüftungsstufe
+tile.colorLuftungStep_magenta.name=Magenta lackierte Lüftungsstufe
+tile.colorLuftungStep_lightBlue.name=Hellblau lackierte Lüftungsstufe
+tile.colorLuftungStep_yellow.name=Gelb lackierte Lüftungsstufe
+tile.colorLuftungStep_lime.name=Hellgrün lackierte Lüftungsstufe
+tile.colorLuftungStep_pink.name=Pink lackierte Lüftungsstufe
+tile.colorLuftungStep_gray.name=Grau lackierte Lüftungsstufe
+tile.colorLuftungStep_silver.name=Hellgrau lackierte Lüftungsstufe
+tile.colorLuftungStep_cyan.name=Türkis lackierte Lüftungsstufe
+tile.colorLuftungStep_purple.name=Violett lackierte Lüftungsstufe
+tile.colorLuftungStep_blue.name=Blau lackierte Lüftungsstufe
+tile.colorLuftungStep_brown.name=Braun lackierte Lüftungsstufe
+tile.colorLuftungStep_green.name=Grün lackierte Lüftungsstufe
+tile.colorLuftungStep_red.name=Rot lackierte Lüftungsstufe
+tile.colorLuftungStep_black.name=Schwarz lackierte Lüftungsstufe
+
+tile.eisenleiter.name=Eisenleiter
+tile.antenne.name=Antenne
+
+tile.colorFence_white.name=Weiß lackierter Zaun
+tile.colorFence_orange.name=Orange lackierter Zaun
+tile.colorFence_magenta.name=Magenta lackierter Zaun
+tile.colorFence_lightBlue.name=Hellblau lackierter Zaun
+tile.colorFence_yellow.name=Gelb lackierter Zaun
+tile.colorFence_lime.name=Hellgrün lackierter Zaun
+tile.colorFence_pink.name=Pink lackierter Zaun
+tile.colorFence_gray.name=Grau lackierter Zaun
+tile.colorFence_silver.name=Hellgrau lackierter Zaun
+tile.colorFence_cyan.name=Türkis lackierter Zaun
+tile.colorFence_purple.name=Violett lackierter Zaun
+tile.colorFence_blue.name=Blau lackierter Zaun
+tile.colorFence_brown.name=Braun lackierter Zaun
+tile.colorFence_green.name=Grün lackierter Zaun
+tile.colorFence_red.name=Rot lackierter Zaun
+tile.colorFence_black.name=Schwarz lackierter Zaun
+
+tile.colorPane_white.name=Weiß lackiertes Gitter
+tile.colorPane_orange.name=Orange lackiertes Gitter
+tile.colorPane_magenta.name=Magenta lackiertes Gitter
+tile.colorPane_lightBlue.name=Hellblau lackiertes Gitter
+tile.colorPane_yellow.name=Gelb lackiertes Gitter
+tile.colorPane_lime.name=Hellgrün lackiertes Gitter
+tile.colorPane_pink.name=Pink lackiertes Gitter
+tile.colorPane_gray.name=Grau lackiertes Gitter
+tile.colorPane_silver.name=Hellgrau lackiertes Gitter
+tile.colorPane_cyan.name=Türkis lackiertes Gitter
+tile.colorPane_purple.name=Violett lackiertes Gitter
+tile.colorPane_blue.name=Blau lackiertes Gitter
+tile.colorPane_brown.name=Braun lackiertes Gitter
+tile.colorPane_green.name=Grün lackiertes Gitter
+tile.colorPane_red.name=Rot lackiertes Gitter
+tile.colorPane_black.name=Schwarz lackiertes Gitter
+
+tile.funkcomputer.name=Funkcomputer
+
+tile.colorNeonLamp_white.name=Weiße Neonlampe
+tile.colorNeonLamp_orange.name=Orange Neonlampe
+tile.colorNeonLamp_magenta.name=Magenta Neonlampe
+tile.colorNeonLamp_lightBlue.name=Hellblaue Neonlampe
+tile.colorNeonLamp_yellow.name=Gelbe Neonlampe
+tile.colorNeonLamp_lime.name=Hellgrüne Neonlampe
+tile.colorNeonLamp_pink.name=Pinke Neonlampe
+tile.colorNeonLamp_gray.name=Graue Neonlampe
+tile.colorNeonLamp_silver.name=Hellgraue Neonlampe
+tile.colorNeonLamp_cyan.name=Türkise Neonlampe
+tile.colorNeonLamp_purple.name=Violette Neonlampe
+tile.colorNeonLamp_blue.name=Blaue Neonlampe
+tile.colorNeonLamp_brown.name=Braune Neonlampe
+tile.colorNeonLamp_green.name=Grüne Neonlampe
+tile.colorNeonLamp_red.name=Rote Neonlampe
+tile.colorNeonLamp_black.name=Schwarze Neonlampe
+
+tile.colorPlasmaLamp_white.name=Weiße Plasmalampe
+tile.colorPlasmaLamp_orange.name=Orange Plasmalampe
+tile.colorPlasmaLamp_magenta.name=Magenta Plasmalampe
+tile.colorPlasmaLamp_lightBlue.name=Hellblaue Plasmalampe
+tile.colorPlasmaLamp_yellow.name=Gelbe Plasmalampe
+tile.colorPlasmaLamp_lime.name=Hellgrüne Plasmalampe
+tile.colorPlasmaLamp_pink.name=Pinke Plasmalampe
+tile.colorPlasmaLamp_gray.name=Graue Plasmalampe
+tile.colorPlasmaLamp_silver.name=Hellgraue Plasmalampe
+tile.colorPlasmaLamp_cyan.name=Türkise Plasmalampe
+tile.colorPlasmaLamp_purple.name=Violette Plasmalampe
+tile.colorPlasmaLamp_blue.name=Blaue Plasmalampe
+tile.colorPlasmaLamp_brown.name=Braune Plasmalampe
+tile.colorPlasmaLamp_green.name=Grüne Plasmalampe
+tile.colorPlasmaLamp_red.name=Rote Plasmalampe
+tile.colorPlasmaLamp_black.name=Schwarze Plasmalampe
+
+tile.microbox.name=Mikrobox
+tile.protonenCollektor.name=Ionenkollektor
+tile.wire_0.name=Kabel
+tile.wire_1.name=Redstone-Kabel
+tile.wire_2.name=WIP-Kabel
+tile.wire_3.name=Support-Kabel
+tile.wire_4.name=Netzwerkkabel
+tile.spacedoor.name=Luftschleuse
+tile.spaceship.name=Hologrammbox
+
+tile.erze_zinn.name=Zinnerz
+tile.erze_zink.name=Zinkerz
+tile.erze_kupfer.name=Kupfererz
+tile.erze_bauxit.name=Bauxit
+tile.erze_magnetit.name=Magnetiterz
+
+tile.erzBlocke_zinnBlock.name=Zinnblock
+tile.erzBlocke_zinkBlock.name=Zinkblock
+tile.erzBlocke_kupferBlock.name=Kupferblock
+tile.erzBlocke_kristall_block.name=Kristallblock
+tile.erzBlocke_metalBlock.name=Metallblock
+tile.Magnet.name=Magnetitblock
+tile.metalTreppe_yellow.name=Metalltreppe
+tile.metalSlap_metal.name=Metallstufe
+tile.metalSlap_gitter.name=Gitterstufe
+tile.metalSlap_luftung.name=Lüftungsstufe
+tile.metalTreppe_white.name=Gittertreppe
+
+tile.wandrobe.name=Wandschrank
+tile.neonsand.name=Neonsand
+
+tile.cristall_0.name=Neonkristall
+tile.cristall_1.name=Retiumkristall
+tile.cristall_2.name=Glowtitkristall
+tile.cristall_3.name=Bioteriumkristall
+tile.cristall_4.name=Alutinkristall
+
+tile.optiBench.name=Optibench
+tile.elektroMagnet.name=Elektromagnet
+tile.pulsit.name=Gravity-Pulser
+tile.monorail.name=Monorail
+tile.pucher.name=Itemschieber
+tile.blockFish.name=Fischblock
+tile.industrieFurnace.name=Industrieofen
+tile.blockBreaker.name=Blockbrecher
+tile.partpress.name=Teilstanze
+tile.efurnace.name=Neonofen
+tile.solarpanel.name=Solarzelle
+tile.assemblytable.name=Montagetisch
+tile.crusher.name=Superbrecher
+tile.entityeater_eater.name=Absorbationslaser
+tile.entityeater_killer.name=Laserturm
+tile.entityeater_healer.name=Regenerationslaser
+tile.brennstoff_generator.name=Generator
+
+tile.bateriebox.name=Batteriebox
+tile.DroneStation.name=Drohnenstation
+tile.externCooler.name=Kühler
+tile.pipe_0.name=Normales Rohr
+tile.pipe_1.name=Redstone-Rohr
+tile.pipe_2.name=Neonrohr
+tile.pipe_3.name=Support-Rohr
+tile.sorter.name=Sortierer
+tile.erzBlocke_kristall_block_retium.name=Retiumkristallblock
+tile.erzBlocke_kristall_block_Glowtit.name=Glowtitkristallblock
+tile.erzBlocke_kristall_block_bioterium.name=Bioteriumkristallblock
+tile.erzBlocke_kristall_block_alutin.name=Alutinkristallblock
+tile.erzBlocke_metalBlock_luftschacht.name=Lüftung
+tile.uncolorPane.name=Gitter
+tile.uncolorGitter.name=Gitterblock
+tile.claime.name=Claime-Überträger
+tile.neonengine.name=Neonmotor
+tile.plasmaGenerator.name=Infusionsgenerator
+tile.neonbricks_Neonbrick.name=Neonziegel
+tile.neonbricks_Retiumbrick.name=Retiumziegel
+tile.neonbricks_Glowtitbrick.name=Glowtitziegel
+tile.neonbricks_Bioteriumbrick.name=Bioteriumziegel
+tile.triebwerk.name=Triebwerk
+tile.block_placer.name=Blockplatzierer
+tile.wasserTurbine.name=Wasserturbine
+tile.waterCooler.name=Wasserkühler
+tile.externalCore.name=Quantenprozessor
+tile.techtable.name=Technikwerkbank
+tile.modul.1.name=Forschungsmodul - Energie
+tile.modul.2.name=Forschungsmodul - Support
+tile.modul.3.name=Forschungsmodul - Erfahrung
+tile.scanner.name=Scanner
+tile.forscher.name=Forscher
+tile.laser_transmitter.name=Lasertransmitter
+tile.industrial_neon_furnace.name=Neonindustrieofen
+tile.neonsand_neon.name=Neonsand
+tile.neonsand_retium.name=Retiumsand
+tile.neonsand_glowtit.name=Glowtitsand
+tile.neonsand_bioterium.name=Bioteriumsandsand
+tile.neonsand_alutin.name=Alutinsand
+tile.metalFence_metal.name=Metallzaun
+tile.stone_stoneM.name=Menelaus Stein
+tile.stone_cobbleM.name=Menelaus Bruchstein
+tile.stone_brickM.name=Menelaus Steinziegel
+tile.stone_crackedM.name=Rissige Menelaus Steinziegel
+tile.stone_sandM.name=Menelaus Sandstein
+tile.stone_smoothsandM.name=Glatter Menelaus Sandstein
+tile.stone_chiseledsandM.name=Gemeißelter Menelaus Sandstein
+tile.sand_M.name=Menelaus Sand
+tile.gravel_M.name=Menelaus Kies
+tile.glowmelo.name=Glowmelo
+tile.wood_tyros.name=Tyrosholz
+tile.wood_menelaus.name=Menelausholz
+tile.boardcomputer.name=Navigationscomputer
+tile.beam_button.name=Teleporter (Hoch/Runter)
+tile.beam_up.name=Teleporter (Hoch)
+tile.beam_down.name=Teleporter (Runter)
+tile.beam_.name=Teleporter Block
+tile.erse.name=Erse
+tile.sapling_menelaus.name=Menelauspilz-Setzling
+tile.sapling_tyros.name=Tyrosbaum-Setzling
+tile.flashserver.name=Flashserver
+tile.zentrifuge.name=Zentrifuge
+tile.fuelcell.name=Treibstofftank
+tile.dirt_M.name=Menelaus Erde
+
+item.scrench.name=Schraubendrehschlüssel
+item.NeonBattery.name=Leere Neonbatterie
+item.NeonBattery_full.name=Neonbatterie
+item.NormalBattery.name=Leere Batterie
+item.Battery_N_full.name=Batterie
+item.LargeBattery.name=Leere große Batterie
+item.Battery_L_full.name=Große Batterie
+
+item.Objektscenner.name=Konstruktionskopierer
+item.Kristall_Blueprint.name=Blaupause
+item.Kristall_Blueprint_empty.name=Leere Blaupause
+
+item.escenner.name=E-Scanner
+item.logistic_editor.ENERGIE.name=Logistikeditor (Energie)
+item.logistic_editor.SUPPORT.name=Logistikeditor (Support)
+item.logistic_editor.NETWORK.name=Logistikeditor (Netzwerk)
+item.logistic_editor.ITEMS.name=Logistikeditor (Items)
+item.logistic_editor.FLUIDS.name=Logistikeditor (Flüssigkeiten)
+
+
+item.LogicChip.name=Logikchipsatz
+item.KIChip.name=KI-Chipsatz
+item.LogistcChip.name=Transportchipsatz
+item.NavigationChip.name=Navigationschipsatz
+item.NetworkChip.name=Netzwerkchipsatz
+item.ProduktionChip.name=Industriechipsatz
+item.RedstoneChip.name=Redstonesteuerungschipsatz
+item.SuportChip.name=Unterstützungschipsatz
+item.TacticChip.name=Taktikkontrollchipsatz
+item.UltimateChip.name=Ultimativer Chipsatz
+item.DamageControlChip.name=Schadenskontrollchipsatz
+
+item.Standart-ram.name=Standartspeicher
+item.A-ram.name=Alon-Speicher
+item.P-ram.name=Penton-Speicher
+item.TCT-ram.name=TCT-Speicher
+item.Master-ram.name=Master-Speicher
+item.Non-ram.name=NoN-Speicher
+item.Dungon-ram.name=Dungeonspeicher
+item.Univ-ram.name=Torus-Speicher
+
+item.Standart-Core.name=Standardprozessor
+item.A1-Core.name=Alon I-Prozessor
+item.P2-Core.name=Penton II-Prozessor
+item.TCT-Core.name=TCT-Prozessor
+item.Master-Core.name=Master Mind-Prozessor
+item.Non-Core.name=NoN-Prozessor
+item.Dungon-Core.name=Dungeonherz-Prozessor
+item.Univ-Core.name=Torus-Prozessor
+
+item.erse.name=Erse
+
+item.CopperCoil.name=Kupferspule
+item.IronCoil.name=Eisenspule
+item.NeonCoil.name=Neonspule
+item.GoldCoil.name=Goldspule
+
+item.Eisenteile.name=Eisenteile
+item.Diamandteile.name=Diamantenteile
+item.Quarzteile.name=Quarzteile
+item.Neonteile.name=Neonteile
+item.Kupferteile.name=Kupferteile
+
+item.Iron_Stick.name=Eisenstock
+item.Aluminiumplatten.name=Aluminiumplatten
+item.Verbuntmetall.name=Verbundmetall
+item.Silizium.name=Siliziumwafer
+item.Tank.name=Tank
+item.itemErze_zinnbarren.name=Zinnbarren
+item.itemErze_zinkbarren.name=Zinkbarren
+item.itemErze_kupferbarren.name=Kupferbarren
+item.itemErze_magnet.name=Magnetbarren
+item.itemErze_neon_ingot.name=Neonbarren
+item.itemErze_retium_ingot.name=Retiumbarren
+item.itemErze_glowtit_ingot.name=Glowtitbarren
+item.itemErze_bioterium_ingot.name=Bioteriumbarren
+item.itemErze_ingot_wakurum.name=Wakuriumbarren
+item.itemErze_ingot_quantanium.name=Quantanium
+item.itemErze_ingot_seltenerde.name=Seltene Erden
+item.itemErze_ingot_gadolinium.name=Gadolinium
+item.itemErze_ingot_lanthanum.name=Lanthan
+item.itemErze_ingot_neodymium.name=Neodym
+item.recipe.name=Rezept
+item.MaschinBord.name=Mainboard
+
+item.LackTank0.name=Weißer Farbtank
+item.LackTank1.name=Orangener Farbtank
+item.LackTank2.name=Magenta Farbtank
+item.LackTank3.name=Hellblauer Farbtank
+item.LackTank4.name=Gelber Farbtank
+item.LackTank5.name=Hellgrüner Farbtank
+item.LackTank6.name=Pinker Farbtank
+item.LackTank7.name=Grauer Farbtank
+item.LackTank8.name=Hellgrauer Farbtank
+item.LackTank9.name=Türkiser Farbtank
+item.LackTank10.name=Violetter Farbtank
+item.LackTank11.name=Blauer Farbtank
+item.LackTank12.name=Brown Farbtank
+item.LackTank13.name=Grüner Farbtank
+item.LackTank14.name=Roter Farbtank
+item.LackTank15.name=Schwarzer Farbtank
+
+item.AirBrush.name=Farbpistole
+item.dust.name=Pulver
+item.aiflash0.name=Einfacher Redstone-Flashspeicher
+item.aiflash1.name=Verbesserter Redstone-Flashspeicher
+item.aiflash2.name=Glowstone-Flashspeicher
+item.aiflash3.name=Kistall-Flashspeicher
+item.aiflash4.name=Isotop-Flashspeicher
+item.aiflash5.name=Qubit-Flashspeicher
+item.AI_Flash_Speicher_0.name=Leerer Einfacher Redstone-Flashspeicher
+item.AI_Flash_Speicher_1.name=Leerer Verbesserter Redstone-Flashspeicher
+item.AI_Flash_Speicher_2.name=Leerer Glowstone-Flashspeicher
+item.AI_Flash_Speicher_3.name=Leerer Kistall-Flashspeicher
+item.AI_Flash_Speicher_4.name=Leerer Isotop-Flashspeicher
+item.AI_Flash_Speicher_5.name=Leerer Qubit-Flashspeicher
+
+item.entityegger0.name=Entity-Egger
+item.entityegger2.name=Spawnerkiste
+item.entityegger3.name=Gefüllte Spawnerkiste
+item.entityegger4.name=Bausatz Abbaudrone
+item.creeperWurfel.name=Schleimwürfel
+item.sauerstofftank.name=Sauerstofftank
+item.laserBow.name=Laserbogen
+
+item.helmetMagnetit.name=Magnetithelm
+item.chestplateMagnetit.name=Magnetitbrustplatte
+item.leggingsMagnetit.name=Magnetithose
+item.bootsMagnetit.name=Magnetitschuhe
+
+item.itemMonitor.name=Monitor
+item.grablingHook.name=Kletterschleim
+item.plasmaschneider.name=Plasmaschneider
+item.hologramcontroler.name=Hologrammsteuergerät
+item.research_blueprint.name=Forschungsblaupause
+
+item.goldteile.name=Goldteile
+item.laserdiode.name=Laserdiode
+item.linse_l.name=Lila Fokussierlinse
+item.linse_g.name=Grüne Fokussierlinse
+item.linse_r.name=Rote Fokussierlinse
+item.linse_w.name=Weiße Fokussierlinse
+item.fragment_core.name=Prozessorfragment
+item.fragment_ram.name=Speicherfragment
+item.fuel_cell.name=Raketentreibstoff
+item.keramik.name=Hitzeschutzkachel
+item.itemErze_ingot_bitripentium.name=Bitripentium
+
+item.composite_pickaxe.name=Leichtbau-Spitzhacke
+item.composite_axe.name=Leichtbau-Axt
+item.composite_hoe.name=Leichtbau-Hacke
+item.composite_spade.name=Leichtbau-Spaten
+item.gleiter.name=Gleitschirm
+
+item.spawnnote.name=Mysteriöses Dokument
+
+itemGroup.fpTab.deco=Future Pack-Materialien
+itemGroup.fpTab.maschiens=Future Pack-Maschinen
+itemGroup.fpTab.items=Future Pack-Gegenstände
+
+container.opticrafting=Optibench
+container.collector=Ionenkollektor
+
+gui.fp.wandrope=Wandschrank
+
+aspect.geologie.name=Geologie
+aspect.chemie.name=Chemie
+aspect.tierhaltung.name=Tierhaltung
+aspect.logistik.name=Logistik
+aspect.biologie.name=Biologie
+aspect.morphologie.name=Morphologie
+aspect.metallurgie.name=Metallurgie
+aspect.maschinenbau.name=Maschinenbau
+aspect.thermodynamik.name=Thermodynamik
+aspect.energieverbindung.name=Energieverbindung
+aspect.neonenergie.name=Neonenergie
+aspect.hydraulic.name=Hydraulik
+
+death.attack.neonDamage=%s wurde durch Neonenergie getötet.
+
+
+chat.beam.noBlockAbove=Über diesem Block befindet sich kein Zielteleporter!
+chat.beam.noBlockBelow=Unter diesem Block befindet sich kein Zielteleporter!
+chat.beam.lowEnergie=Es ist zu wenig Neonenergie vorhanden!
+
+chat.spaceship.open=Das Raumschiff ist nicht geschlossen!
+chat.spaceship.missingEngine=Das Raumschiff benötigt eine Energiequelle! 
+chat.spaceship.missingThruster=Das Raumschiff besteht aus %1$s Blöcken, hat aber nur %2$s Triebwerk(e), es werden mindestens %3$s weitere benötigt!
+chat.spaceship.lowEnergie=Es ist zu wenig Neonenergie vorhanden!
+chat.spaceship.missingBeam=Das Raumschiff hat keinen Teleporter!
+chat.spaceship.missingFuel=Es ist nicht genug Treibstoff für die Triebwerke vorhanden! Es müssen %s Triebwerke versorgt werden.
+
+chat.research.add=Die Forschung(%s) wurde beendet. 
+research.useblock.missing=Du weißt nicht, wie man dieses Objekt benutzt!
+
+hologram.error.set.notsupported=Für diesen Block kann kein Hologramm gesetzt werden!
+hologram.error.set.notileentity=Für diesen Block kann kein Hologramm gesetzt werden!
+hologram.error.select.tileentity=Dieser Block kann nicht als Hologramm genutzt werden!
+
+achievement.installFP=Ich mag die Sterne!
+achievement.installFP.desc=Installiere das Futurepack!
+achievement.sushi=Ich mag Sushi!
+achievement.sushi.desc=Fischblock ?!
+achievement.erse=Erse für die Welt!
+achievement.erse.desc=Finde eine Erse
+achievement.theImpalpable=Technik der Ungreifbaren
+achievement.theImpalpable.desc=Finde einen E-Scanner
+achievement.labor=Forschungslabor
+achievement.labor.desc=Crafte Scanner und Forscher
+achievement.mainboard=Mein erster PC
+achievement.mainboard.desc=Crafte ein Mainboard
+achievement.neonEnergie=Elektrizität
+achievement.neonEnergie.desc=Erzeuge Neon-Energie
+achievement.isntDiamond=Es ist kein Diamant...
+achievement.isntDiamond.desc=Baue Zink ab!
+achievement.needBukkit=Ich brauche mehr Eimer!
+achievement.needBukkit.desc=Crafte einen Industrieofen!
+achievement.composite=Verbundmetall
+achievement.composite.desc=Einfach etwas von allem
+achievement.menelaus=Menelaus
+achievement.menelaus.desc=Reise nach Menelaus
+achievement.metalhaltig=Metallhaltig
+achievement.metalhaltig.desc=Finde Menelaus Kies oder Dirt
+achievement.tyros=Tyros
+achievement.tyros.desc=Reise nach Tyros
+achievement.glowmelo=Glowmelo
+achievement.glowmelo.desc=Ernte eine Glowmelo
+
+scanner.button.0.name=Technologiebaum
+scanner.button.1.name=Scan-Ergebnis
+scanner.button.2.name=Technologieinfo
+scanner.button.3.name=Rechner
+gui.scanner.start.name=Scannen
+
+info.note.read=§2Rechtsklick zum Ansehen!
+
+research.need.achievement=Benötigt %s
+
+research.page.base.name=Grundlagen
+research.page.story.name=Story
+research.page.chips.name=Schaltkreise
+research.page.deco.name=Dekoration
+research.page.logistic.name=Logistik
+research.page.energy.name=Energieerzeugung
+research.page.production.name=Produktion
+research.page.space.name=Raumfahrt
+research.page.tools.name=Werkzeug
+
+research.get_started=Das Future Pack
+research.forschung=Das Forschungssystem
+research.techtabel=Technikwerkbank
+research.util=Verschiedenes
+research.scanner=Scanner
+research.forscher=Forscher
+research.production=Produktion 1
+research.itemlogistik=Itemlogistik
+research.werkzeug=Werkzeug
+research.decoration=Dekoration
+research.energieerzeugung=Energieerzeugung 1
+research.energielogistik=Energielogistik
+
+research.upgradeT1=Forschungsmodul - Energie
+research.assembly=Chipherstellung
+research.optik=Optik
+research.energiespeicher=Energiespeicher
+research.energieerzeugung2=Energieerzeugung 2
+research.production2=Produktion 2
+research.magnetismus=Magnetismus
+research.thermodynamik=Thermodynamik
+research.ai=Künstliche Intelligenz
+
+research.upgradeT2=Forschungsmodul - KI
+research.erneuerbare=Erneuerbare Energien
+research.aispeicher=Erweiterte AI-Speicher
+research.energietools=Energie-Tools
+research.lasertechnik=Lasertechnik 1
+research.bergbau=Bergbau
+research.waffentechnik=Waffentechnik
+research.production3=Produktion 3
+research.netzwerke=Netzwerke
+research.hologrammtechnik=Hologrammtechnik
+research.raumfahrt=Raumfahrt
+research.menelaus=Menelaus
+research.upgradeT3=Forschungsmodul - Erfahrung
+
+research.quantentechnik=Quantentechnik
+research.ionentechnik=Ionentechnik
+research.lasertechnik2=Lasertechnik 2
+research.astronomie1=Astronomie 1
+
+
+
+
+research.itempipe=Normales Rohr
+
+
+
+research.story.tec_dungeon=Schritt ins Ungewisse
+research.hs.geologie=Geologie
+research.hs.chemie=Chemie
+research.hs.tierhaltung=Tierhaltung
+research.hs.logistik=Logistik
+research.hs.biologie=Biologie
+research.hs.morphologie=Morphologie
+research.hs.metallurgie=Metallurgie
+research.hs.maschinenbau=Maschinenbau
+research.hs.thermodynamik=Thermodynamik
+research.hs.energieverbindungen=Energieverbindung
+research.hs.neonenergie=Neonenergie
+research.hs.hydraulic=Hydraulik
+research.story.labor=Forscherdrang
+research.story.labor2=Labor
+
+
+research.production.blockbreaker=Blockbrecher
+research.production.blockplacer=Blockplatzierer
+research.production.partpress=Teilstanze
+research.production.industrieofen=Industrieofen
+research.production.ind.compositemetal=Verbundmetall
+research.production.ind.aluminium=Aluminium
+research.production.ind.reduktion=Reduktion
+research.production.decoration=Dekoration
+research.production.optibench=Optibench
+research.production.supercrusher=Superbrecher
+research.production.neonfurnace=Neonofen
+
+research.energy.generator=Generator
+research.energy.neonmotor=Neonmotor
+research.energy.infusion=Infusionsgenerator
+research.energy.solar=Solarzelle
+research.energy.wasser_turbine=Wasserturbine
+research.energy.ionen=Ionenkollektor
+
+research.log.itempipe=Normales Rohr
+research.log.cable=Kabel
+research.log.neonpipe=Neonrohr
+research.log.redstonepipe=Redstone-Rohr
+research.log.supportpipe=Support-Rohr
+research.log.pusher=Itemschieber
+research.log.sorter=Sortierer
+research.log.redstonecable=Redstone-Kabel
+research.log.supportcable=Support-Kabel
+research.log.batbox=Batteriebox
+research.log.networkcable=Netzwerkkabel
+research.log.network=Netzwerke
+research.log.antenne=Antenne
+research.log.laser=Lasertransmitter
+research.log.flashserver=Flashserver
+
+research.log.battery.normal=Batterie
+research.log.battery.large=große Batterie
+research.log.battery.neon=Neonbatterie
+
+research.log.flash.1=Einfacher Redstone-Flashspeicher
+research.log.flash.2=Verbesserter Redstone-Flashspeicher
+research.log.flash.3=Glowstone-Flashspeicher
+research.log.flash.4=Kistall-Flashspeicher
+research.log.flash.5=Isotop-Flashspeicher
+research.log.flash.6=Qubit-Flashspeicher
+
+research.assembly_chip=Montagetisch
+research.motherboard=Mainboard
+research.tuning=Übertakten!
+
+research.ram.standart=Standardspeicher
+research.ram.alon=Alon-Speicher
+research.ram.penton=Penton-Speicher
+research.ram.tct=TCT-Speicher
+research.ram.mm=Master-Speicher
+research.ram.non=NoN-Speicher
+research.ram.dungeon=Dungeonherz-Speicher
+research.ram.univers=Torus-Speicher
+
+research.core.standart=Standartprozessor
+research.core.alon=Alon I-Prozessor
+research.core.penton=Penton II-Prozessor
+research.core.tct=TCT-Prozessor
+research.core.mm=Master Mind-Prozessor
+research.core.non=NoN-Prozessor
+research.core.dungeon=Dungeonherz-Prozessor
+research.core.univers=Torus-Prozessor
+
+research.chip.logic=Logikchipsatz
+research.chip.industrial=Industriechipsatz
+research.chip.tactic=Taktikkontrollchipsatz
+research.chip.transport=Transportchipsatz
+research.chip.navigation=Navigationschipsatz
+research.chip.damage=Schadenskontrollchipsatz
+research.chip.ai=KI-Chipsatz
+research.chip.redstone=Redstonesteuerungschipsatz
+research.chip.network=Netzwerkchipsatz
+research.chip.support=Unterstützungschipsatz
+research.chip.ultimate=Ultimativer Chipsatz
+
+research.chips.cooler=Kühler
+research.chips.watercooler=Wasserkühler
+
+research.deco.metall=Metallblock
+research.deco.metallslab=Metallstufe
+research.deco.metalltreppe=Metalltreppe
+research.deco.metallzaun=Metallzaun
+research.deco.gitter=Gitterblock
+research.deco.gitterslab=Gitterstufe
+research.deco.gittertreppe=Gittertreppe
+research.deco.gitterpane=Gitter
+research.deco.eisenleiter=Eisenleiter
+research.deco.vent=Lüftung
+research.deco.ventslab=Lüftungsstufe
+research.deco.glass=Lackiertes Glas
+research.deco.plasmalamp=Plasmalampe
+research.deco.neonlamp=Neonlampe
+research.deco.monitor=Monitor
+research.deco.wardrobe=Wandschrank
+
+research.tools.scrench=Schraubendrehschlüssel
+research.tools.airbrush=Farbpistole
+research.tools.sauerstofftank=Sauerstofftank
+research.tools.logistik_editor=Logistik Editor
+research.tools.composite_pickaxe=Leichtbau Spitzhacke
+research.tools.composite_axe=Leichtbau-Axt
+research.tools.composite_hoe=Leichtbau-Hacke
+research.tools.composite_spade=Leichtbau-Spaten
+research.tools.gleiter=Gleitschirm
+research.tools.egger=Entity-Egger
+research.tools.spawnerchest=Spawnerkiste
+research.tools.plasma=Plasmaschneider
+research.tools.escanner=E-Scanner
+research.tools.laserbow=Laserbogen
+research.tools.grabling=Kletterschleim
+research.tools.hologramm=Hologrammsteuergerät
+
+
+
+
+
+
+
+
+

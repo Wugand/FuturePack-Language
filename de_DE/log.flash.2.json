@@ -1,0 +1,14 @@
+[
+	"Bei Experimenten zur Verbesserung des einfachen Redstone-Speichers viel mir ein besonderes Material auf: Obsidian. Es ist nicht nur sehr robust, sondern auch ein hervorragender Isolator, wodurch ich die Speicherzellen in kleineren Abständen verbauen kann, wenn ich diese durch eine Obsidianschicht trenne. Damit kann ich nun einen Speicher mit deutlich höherer Kapazität konstruieren.",
+	"Assembly:",
+	{
+		"type": "assembly",
+		"slots": {
+			"in1": {"name":"fp:chip","meta":0,"size":1},
+			"in2": {"name":"minecraft:obsidian","meta":0,"size":1},
+			"in3": {OreDict:"dustRedstone",size:1},
+			"out": {name:"fp:spaceship", meta:<spaceship.SupportSpeicher1>, size:1}
+		}
+	},
+	"Kapazität: 256 SP"
+]

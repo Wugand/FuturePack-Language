@@ -1,0 +1,28 @@
+[
+	"I managed to create a machine with my basic knowledge of chip-crafting, which gives me ideal conditions for assembling these components.",
+	"The main part is made up from a metal frame with various machinery for assembly and testing. Additionally, the facility makes it possible to perform the crucial steps of assembly in a very clean surrounding, which has proven to be decisive for the success of the component.",
+		"Crafting:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {name:"minecraft:stone_slab"},
+			"2": {name:"minecraft:crafting_table"},
+			"3": {name:"minecraft:stone_slab"},
+			"4": {name:"fp:spaceship", meta:<spaceship.CompositeMetall>},
+			"5": [{name:"fp:color_iron",meta:0},{name:"fp:color_iron",meta:8},{name:"fp:color_iron",meta:15}],
+			"6": {name:"fp:spaceship", meta:<spaceship.CompositeMetall>},
+			"7": {name:"fp:spaceship", meta:<spaceship.CompositeMetall>},
+			"8": {OreDict:"ingotNeon"},
+			"9": {name:"fp:spaceship", meta:<spaceship.CompositeMetall>},
+			"out": [{name:"fp:assembly_table",meta:2},{name:"fp:assembly_table",meta:6},{name:"fp:assembly_table",meta:10}]
+		}
+	},
+	
+	"Usage:",
+	"An item created here always consists of 3 components, which are placed in the central 3 slots. Their order is of importance! The finished product can be taken from the big slot beneath.",
+	
+	"At random:",
+	"Although the surroundings are optimal, the quality of the actual component can't be fully predicted. That being said, upon assembly a random value for core/ram/chippower gets created. A minimum value is set by the used recipe.",
+	"The maximum value usually is only slightly higher than minimum, but can be increased noticeable by supply with energy and/or Support (gets available with further research).",
+	"Note: There are situations and recipes in which supplied energy/Support gets wasted or isn't wanted."	
+]
