@@ -606,10 +606,10 @@ research.energieerzeugung=Energy Generation 1
 research.energielogistik=Energy Logistics
 
 research.upgradeT1=Research Module - Energy
-research.assembly=CHip Assembly
+research.assembly=Chip Assembly
 research.optik=Optics
 research.energiespeicher=Energy Storage
-research.energieerzeugung2=(Energy Generation 2
+research.energieerzeugung2=Energy Generation 2
 research.production2=Production 2
 research.magnetismus=Magnetism
 research.thermodynamik=Thermodynamics
@@ -631,7 +631,7 @@ research.upgradeT3=Research Module - Experience
 
 research.quantentechnik=Quantum Tech
 research.ionentechnik=Ion Tech
-research.lasertechnik2=(Laser Tech 2
+research.lasertechnik2=Laser Tech 2
 research.astronomie1=Astronomy 1
 
 
