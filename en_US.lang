@@ -509,18 +509,18 @@ container.collector=Ion Collector
 
 gui.fp.wandrope=Wardrobe
 
-aspect.geologie.name=((TODO)) #Geologie
-aspect.chemie.name=((TODO)) #Chemie
-aspect.tierhaltung.name=((TODO)) #Tierhaltung
-aspect.logistik.name=((TODO)) #Logistik
-aspect.biologie.name=((TODO)) #Biologie
-aspect.morphologie.name=((TODO)) #Morphologie
-aspect.metallurgie.name=((TODO)) #Metallurgie
-aspect.maschinenbau.name=((TODO)) #Maschinenbau
-aspect.thermodynamik.name=((TODO)) #Thermodynamik
-aspect.energieverbindung.name=((TODO)) #Energieverbindung
-aspect.neonenergie.name=((TODO)) #Neonenergie
-aspect.hydraulic.name=((TODO)) #Hydraulik
+aspect.geologie.name=Geology
+aspect.chemie.name=Chemistry
+aspect.tierhaltung.name=Stockbreeding
+aspect.logistik.name=Logistics
+aspect.biologie.name=Biology
+aspect.morphologie.name=Morphology
+aspect.metallurgie.name=Metallurgy
+aspect.maschinenbau.name=Engineering
+aspect.termodynamic.name=Thermodynamics
+aspect.energieverbindung.name=Power Connection
+aspect.neonenergie.name=Neon Energy
+aspect.hydraulic.name=Hydraulics
 
 death.attack.neonDamage=%s was killed by Neon Energy
 
@@ -549,7 +549,7 @@ achievement.sushi=I like Sushi
 achievement.sushi.desc=Fish Blocks?!
 achievement.erse=((TODO)) #Erse für die Welt!
 achievement.erse.desc=((TODO)) #Finde eine Erse
-achievement.theImpalpable=((TODO)) #Technik der Ungreifbaren
+achievement.theImpalpable=Technology of the Unreachable
 achievement.theImpalpable.desc=((TODO)) #Finde einen E-Scanner
 achievement.labor=((TODO)) #Forschungslabor
 achievement.labor.desc=((TODO)) #Crafte Scanner und Forscher
@@ -574,9 +574,9 @@ achievement.glowmelo.desc=((TODO)) #Ernte eine Glowmelo
 
 scanner.button.0.name=Tech Tree
 scanner.button.1.name=Scan Result
-scanner.button.2.name= Tech Info
-scanner.button.3.name=((TODO)) #Rechner
-gui.scanner.start.name=((TODO)) #Scannen
+scanner.button.2.name=Tech Info
+scanner.button.3.name=Calculator
+gui.scanner.start.name=Scan
 
 info.note.read=((TODO)) #§2Rechtsklick zum Ansehen!
 
@@ -606,10 +606,10 @@ research.energieerzeugung=Energy Generation 1
 research.energielogistik=Energy Logistics
 
 research.upgradeT1=Research Module - Energy
-research.assembly=CHip Assembly
+research.assembly=Chip Assembly
 research.optik=Optics
 research.energiespeicher=Energy Storage
-research.energieerzeugung2=(Energy Generation 2
+research.energieerzeugung2=Energy Generation 2
 research.production2=Production 2
 research.magnetismus=Magnetism
 research.thermodynamik=Thermodynamics
@@ -631,7 +631,7 @@ research.upgradeT3=Research Module - Experience
 
 research.quantentechnik=Quantum Tech
 research.ionentechnik=Ion Tech
-research.lasertechnik2=(Laser Tech 2
+research.lasertechnik2=Laser Tech 2
 research.astronomie1=Astronomy 1
 
 
@@ -650,7 +650,7 @@ research.hs.biologie=Biology
 research.hs.morphologie=Morphology
 research.hs.metallurgie=Metallurgy
 research.hs.maschinenbau=Engineering
-research.hs.thermodynamik=((TODO)) #Thermodynamik
+research.hs.thermodynamik=Thermodynamics
 research.hs.energieverbindungen=Power Connection
 research.hs.neonenergie=Neon Energy
 research.hs.hydraulic=Hydraulics

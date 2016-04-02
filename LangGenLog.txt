@@ -1,0 +1,33 @@
+Copy Lang-File from E:\MC_Dev\FP2\src\main\resources\assets\fp\lang\.\de_DE.lang to E:\MC_Dev\FP2\src\main\resources\assets\fp\lang\.\en_US.lang
+
+Reading Source File ...
+
+Readed Lines: 779
+Readed Keys: 689
+Unclear Keys: 0
+
+Reading Destination File ...
+
+Readed Lines: 732
+Readed Keys: 643
+Ignored Keys: 5
+Unclear Keys: 0
+
+Generating Output ...
+
+Copied Comments: 90
+Prozessed Keys: 689
+Unresolved Keys: 49
+
+Searching for wasted Keys ...
+Wasted Key found: research.hs.theromodynamik
+Wasted Key found: achievement.neugierig
+Wasted Key found: achievement.neugierig.desc
+
+Wasted Keys: 3
+
+Creating Backup ...
+
+Writing File ...
+
+Done!
