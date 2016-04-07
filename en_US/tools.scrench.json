@@ -1,0 +1,39 @@
+[
+	"I created a usefull multifunction tool. It allows me to rotate Blocks and schould be usefull to modify machines.",
+	
+	{
+		"type": "crafting",
+		"slots": {
+			"1": "OreDict:ingotIron",
+			"2": {},
+			"3": "OreDict:ingotIron",
+			"4": {},
+			"5": {name:"fp:spaceship", meta:<spaceship.CompositeMetall>},
+			"6": {},
+			"7": {},
+			"8": {name:"fp:spaceship", meta:<spaceship.IronStick>},
+			"9": {},
+			"out": {name:"fp:scrench"}
+		}
+	},
+	"Mode-change: §lright click \"in the air\"§r",
+	
+	"Rotation-Mode:",
+	{
+		"type":"image",
+		"width":32,
+		"height":32,
+		"resource":"fp:textures/items/tool_sub.png"
+	},
+	"§lright click§r on an block, to rotate these.",
+	
+	"Modification-Mode:",
+	{
+		"type":"image",
+		"width":32,
+		"height":32,
+		"resource":"fp:textures/items/tool.png"
+	},
+	"§lShift + right click§r on an machine, to modify these.",
+	"Note: The first modifyable machine will by unlocked later on!"
+]

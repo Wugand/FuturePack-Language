@@ -1,0 +1,21 @@
+[
+	"I was able to evolve an combination of pipe and cable, by doing furthr reserches with them. To implement this I have added Neon conductors in the alumium frame of the pipes. So I created an Itempipe thats able to transport neon energy.",
+	"Crafting:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {},
+			"2": {OreDict:"ingotNeon"},
+			"3": {},
+			"4": {name:"fp:pipe", meta:0},
+			"5": {name:"fp:pipe", meta:0},
+			"6": {name:"fp:pipe", meta:0},
+			"7": {},
+			"8": {},
+			"9": {},
+			"out": {name:"fp:pipe", meta:2, size:3}
+		}
+	},
+	"Configuration: Using the Scrench I'm able to configurate every side of an pipe segment, so I can prevent from connect to this side. (§lright click§r on desired side). Further more this pipes have an thrid state, marked by en blue dot on the side. In this state it's only connected for neon energy, but not for Items."
+
+]

@@ -1,0 +1,19 @@
+[
+	"I evolved an spade composed of composite metal, this makes these some more strong and durable then conventional tools. A spade is much better then an shovel to dig up holes.",
+	"Crafting:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {},
+			"2": {name:"fp:spaceship", meta:<spaceship.CompositeMetall>},
+			"3": {},
+			"4": {},
+			"5": {name:"fp:spaceship", meta:<spaceship.IronStick>},
+			"6": {},
+			"7": {},
+			"8": {name:"fp:spaceship", meta:<spaceship.IronStick>},
+			"9": {},
+			"out": {name:"fp:composite_spade"}
+		}
+	}
+]

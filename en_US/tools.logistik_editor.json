@@ -1,0 +1,27 @@
+[
+	"I crated an mtultifunction tool, to adjust the inout/output behavior of my machines.",
+	"Crafting:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {name:"minecraft:glass_pane"},
+			"2": {OreDict:"ingotAluminum"},
+			"3": {name:"fp:scrench"},
+			"4": {name:"fp:spaceship", meta:<spaceship.NeonCoil>},
+			"5": {name:"fp:wire", meta:0},
+			"6": {name:"fp:spaceship", meta:<spaceship.CopperParts>},
+			"7": {name:"fp:chip", meta:0},
+			"8": {OreDict:"ingotAluminum"},
+			"9": {name:"fp:scrench"},
+			"out": {name:"fp:logisticEditor"}
+		}
+	},
+	
+	"Usage:",
+	"By §lright click§r (in the air) the mode can be switched, among:",
+	"Energy, Support, Network, Items, Fluids",
+	"In every single mode you will see a overlay (colored boarder) on the faces of your machines, if they support this mode.",
+	"By §lShift + right click§r you can configure the side for:",
+	"Inactive(no symbol), Input(green arrow), Output(red arrow), Input+Output(both)",
+	"You can only select modes and configurrations that usefull for the targetet machine."
+]

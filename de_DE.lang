@@ -573,6 +573,13 @@ achievement.tyros.desc=Reise nach Tyros
 achievement.glowmelo=Glowmelo
 achievement.glowmelo.desc=Ernte eine Glowmelo
 
+command.fp.usage=/fp <research> ...
+command.fp.research.usage=/fp research <Spieler> <reset:unlock> [...]
+command.fp.research.unlock.usage=/fp research <Spieler> unlock <all:basics:Forschung> [path:single]
+command.fp.research.reset.feedback=Deine Forschungen wurden zurückgesetzt!
+command.fp.research.reset.success=Die Forschungen von %s wurden zurückgesetzt!
+command.fp.research.unlock.success=Die Forschung [%s] wurde für %s freigeschaltet!
+
 scanner.button.0.name=Technologiebaum
 scanner.button.1.name=Scan-Ergebnis
 scanner.button.2.name=Technologieinfo
