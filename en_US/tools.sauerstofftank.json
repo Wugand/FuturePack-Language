@@ -1,0 +1,26 @@
+[
+	"To work under water for longer times, I have to take along air. The simple Tanks I created are useful for that, in combination with a light aluminum casing I can take the tanks as a backpack.",
+	"I also add a controller and a compressor, for an automatic refill of the tanks outside of the water.",
+
+	"Crafting:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {OreDict:"ingotAluminum"},
+			"2": {name:"fp:chip", meta:0},
+			"3": {OreDict:"ingotAluminum"},
+			"4": {name:"fp:spaceship", meta:<spaceship.Tank>},
+			"5": {OreDict:"ingotMagnetit"},
+			"6": {name:"fp:spaceship", meta:<spaceship.Tank>},
+			"7": {},
+			"8": {name:"fp:spaceship", meta:<spaceship.CopperCoil>},
+			"9": {},
+			"out": {name:"fp:sauerstofftank"}
+		}
+	},
+	"Capacity: 2 min",
+	"Refill: 2 min",
+		
+	"Display: The filling level of the tanks is showed using the normal oxygen bar. If these empty (after 2 min), your oxygen tanks is empty. Your oxygen will be filled up one time, when this happens, and used in usual speed.",
+	"Outside of the water the tanks refill slowly, as long as they are equipped."
+]
