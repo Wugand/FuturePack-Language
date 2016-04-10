@@ -1,0 +1,17 @@
+[
+	"With this Core series I have reached my current possibilities, I am not able to add more units on a processor. In this series I upgraded the connectors inside the core to gold ones, because gold have much better conductivity.",
+	"I reached another improvement by adding a build-in unit for the processing and the output of Support data. This extremely relieved the unspecified part of the processor.",
+
+	"Assembly:",
+	{
+		"type": "assembly",
+		"slots": {
+			"in1": {name:"fp:spaceship", meta:<spaceship.Silizium>, size:3},
+			"in2": {name:"fp:spaceship", meta:<spaceship.GoldParts>, size:3},
+			"in3": {name:"fp:spaceship", meta:<spaceship.SupportSpeicher1>},
+			"out": {name:"fp:core", meta:2, size:1}
+		}
+	},
+	
+	"Hint: Refer \"Standart Core\" for general informations."
+]
