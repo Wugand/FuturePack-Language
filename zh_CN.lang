@@ -1,4 +1,4 @@
-﻿tile.colorIron_white.name=白色金属块
+tile.colorIron_white.name=白色金属块
 tile.colorIron_orange.name=橙色金属块
 tile.colorIron_magenta.name=品红色金属块
 tile.colorIron_lightBlue.name=浅蓝色金属块
@@ -365,17 +365,17 @@ item.logistic_editor.ITEMS.name=物流编辑器(项目)
 item.logistic_editor.FLUIDS.name=物流编辑器(液体)
 
 
-item.LogicChip.name=逻辑芯片
-item.KIChip.name=AI芯片
-item.LogistcChip.name=运输芯片
-item.NavigationChip.name=导航芯片
-item.NetworkChip.name=网络芯片
-item.ProduktionChip.name=工业芯片
-item.RedstoneChip.name=红石控制芯片
-item.SuportChip.name=支撑芯片
-item.TacticChip.name=策略控制芯片
-item.UltimateChip.name=终极芯片
-item.DamageControlChip.name=损害控制芯片
+item.LogicChip.name=逻辑芯片组
+item.KIChip.name=AI芯片组
+item.LogistcChip.name=运输芯片组
+item.NavigationChip.name=导航芯片组
+item.NetworkChip.name=网络芯片组
+item.ProduktionChip.name=工业芯片组
+item.RedstoneChip.name=红石控制芯片组
+item.SuportChip.name=支撑芯片组
+item.TacticChip.name=策略控制芯片组
+item.UltimateChip.name=终极芯片组
+item.DamageControlChip.name=损害控制芯片组
 
 item.Standart-RAM.name=标准存储器 
 item.A-RAM.name=Alon储存器
@@ -726,17 +726,17 @@ research.core.non=非核心
 research.core.dungeon=地牢核心
 research.core.univers=通用核心
 
-research.chip.logic=逻辑芯片
-research.chip.industrial=工业芯片
-research.chip.tactic=策略控制芯片
-research.chip.transport=传输芯片
-research.chip.navigation=导航芯片
-research.chip.damage=损坏控制芯片
-research.chip.ai=AI芯片
-research.chip.redstone=红石控制芯片
-research.chip.network=网络芯片
-research.chip.support=支撑芯片
-research.chip.ultimate=终极芯片
+research.chip.logic=逻辑芯片组
+research.chip.industrial=工业芯片组
+research.chip.tactic=策略控制芯片组
+research.chip.transport=传输芯片组
+research.chip.navigation=导航芯片组
+research.chip.damage=损坏控制芯片组
+research.chip.ai=AI芯片组
+research.chip.redstone=红石控制芯片组
+research.chip.network=网络芯片组
+research.chip.support=支撑芯片组
+research.chip.ultimate=终极芯片组
 
 research.chips.cooler=((TODO)) #Kühler
 research.chips.watercooler=((TODO)) #Wasserkühler
