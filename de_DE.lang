@@ -228,7 +228,7 @@ tile.microbox.name=Mikrobox
 tile.protonenCollektor.name=Ionenkollektor
 tile.wire_0.name=Kabel
 tile.wire_1.name=Redstone-Kabel
-tile.wire_2.name=WIP-Kabel
+tile.wire_2.name=Super-Kabel
 tile.wire_3.name=Support-Kabel
 tile.wire_4.name=Netzwerkkabel
 tile.spacedoor.name=Luftschleuse
@@ -677,6 +677,9 @@ research.production.decoration=Dekoration
 research.production.optibench=Optibench
 research.production.supercrusher=Superbrecher
 research.production.neonfurnace=Neonofen
+research.production.neonind=Neonindustrieofen
+research.production.zentrifuge=Zentrifuge
+
 
 research.energy.generator=Generator
 research.energy.neonmotor=Neonmotor
