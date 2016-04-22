@@ -344,6 +344,7 @@ tile.flashserver.name=Flash Server
 tile.zentrifuge.name=Centrifuge
 tile.fuelcell.name=Fueltank
 tile.dirt_M.name=Menelaus Dirt
+tile.ftl_drive.name=FTL Block
 
 item.scrench.name=Scrench
 item.NeonBattery.name=Empty Neon Battery
@@ -498,6 +499,7 @@ item.composite_axe.name=Composite Axe
 item.composite_hoe.name=Composit Hoe
 item.composite_spade.name=Composite Spade
 item.gleiter.name=Paraglider
+item.dust_obsidian.name=Obsidian Dust
 
 item.spawnnote.name=Mysterious Document
 
@@ -572,6 +574,16 @@ achievement.tyros=Tyros
 achievement.tyros.desc=Travel to Tyros
 achievement.glowmelo=Glowmelo
 achievement.glowmelo.desc=Harvest a Glowmelo
+achievement.crys_neon=Neon Crystal
+achievement.crys_neon.desc=Find a Neon Crystal
+achievement.crys_alutin=Alutine Crystal
+achievement.crys_alutin.desc=Find a Alutin Crystal
+achievement.crys_glowtit=Glowtite Crystal
+achievement.crys_glowtit.desc=Find a Glowtite Crystal
+achievement.crys_retium=Retium Crystal
+achievement.crys_retium.desc=Find a Retium Crystal
+achievement.crys_bioterium=Bioterium Crystal
+achievement.crys_bioterium.desc=Find a Bioterium Crystal
 
 command.fp.usage=/fp <research> ...
 command.fp.research.usage=/fp research <player> <reset:unlock> [...]
@@ -587,6 +599,9 @@ scanner.button.3.name=Calculator
 gui.scanner.start.name=Scan
 
 info.note.read=§2Right click to view!
+
+key.categories.futurepack=Futurepack
+key.fp.gleiter=Paraglider open/close
 
 research.need.achievement=Need %s
 
@@ -664,7 +679,16 @@ research.hs.neonenergie=Neon Energy
 research.hs.hydraulic=Hydraulics
 research.story.labor=Scientific Curiosity
 research.story.labor2=Laboratory
-
+research.story.erse=Erse
+research.story.neonenergie=Electricity
+research.story.mainboard=My first Computer
+research.story.metalhaltig=It contains metals
+research.story.glowmelo=Glowmelo
+research.story.crystal_n=Neon Crystal
+research.story.crystal_a=Alutine Crystal
+research.story.crystal_g=Glowtite Crystal
+research.story.crystal_r=Retium Crystal
+research.story.crystal_b=Bioterium Crystal
 
 research.production.blockbreaker=Block Crusher
 research.production.blockplacer=Block Placer
@@ -785,3 +809,12 @@ research.tools.escanner=E-Scanner
 research.tools.laserbow=Laser Bow
 research.tools.grabling=Grappling Slime
 research.tools.hologramm=Hologram Controller
+
+
+
+
+
+
+
+
+

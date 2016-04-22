@@ -344,6 +344,7 @@ tile.flashserver.name=Flashserver
 tile.zentrifuge.name=Zentrifuge
 tile.fuelcell.name=Treibstofftank
 tile.dirt_M.name=Menelaus Erde
+tile.ftl_drive.name=FTL Block
 
 item.scrench.name=Schraubendrehschlüssel
 item.NeonBattery.name=Leere Neonbatterie
@@ -498,6 +499,7 @@ item.composite_axe.name=Leichtbau-Axt
 item.composite_hoe.name=Leichtbau-Hacke
 item.composite_spade.name=Leichtbau-Spaten
 item.gleiter.name=Gleitschirm
+item.dust_obsidian.name=Obsidian Dust
 
 item.spawnnote.name=Mysteriöses Dokument
 
@@ -572,6 +574,16 @@ achievement.tyros=Tyros
 achievement.tyros.desc=Reise nach Tyros
 achievement.glowmelo=Glowmelo
 achievement.glowmelo.desc=Ernte eine Glowmelo
+achievement.crys_neon=Neonkristall
+achievement.crys_neon.desc=Finde einen Neonkristall
+achievement.crys_alutin=Alutinkristall
+achievement.crys_alutin.desc=Finde einen Alutinkristall
+achievement.crys_glowtit=Glowtitkristall
+achievement.crys_glowtit.desc=Finde einen Glowtitkristall
+achievement.crys_retium=Retiumkristall
+achievement.crys_retium.desc=Finde einen Retiumkristall
+achievement.crys_bioterium=Bioteriumkristall
+achievement.crys_bioterium.desc=Finde einen Bioteriumkristall
 
 command.fp.usage=/fp <research> ...
 command.fp.research.usage=/fp research <Spieler> <reset:unlock> [...]
@@ -587,6 +599,9 @@ scanner.button.3.name=Rechner
 gui.scanner.start.name=Scannen
 
 info.note.read=§2Rechtsklick zum Ansehen!
+
+key.categories.futurepack=Futurepack
+key.fp.gleiter=Gleitschirm öffnen/schließen
 
 research.need.achievement=Benötigt %s
 
@@ -664,7 +679,16 @@ research.hs.neonenergie=Neonenergie
 research.hs.hydraulic=Hydraulik
 research.story.labor=Forscherdrang
 research.story.labor2=Labor
-
+research.story.erse=Erse
+research.story.neonenergie=Elektrizität
+research.story.mainboard=Mein erster PC
+research.story.metalhaltig=Metallhaltig
+research.story.glowmelo=Glowmelo
+research.story.crystal_n=Neonkristall
+research.story.crystal_a=Alutinkristall
+research.story.crystal_g=Glowtitkristall
+research.story.crystal_r=Retiumkristall
+research.story.crystal_b=Bioteriumkristall
 
 research.production.blockbreaker=Blockbrecher
 research.production.blockplacer=Blockplatzierer
