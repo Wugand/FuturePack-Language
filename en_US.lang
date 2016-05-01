@@ -228,7 +228,7 @@ tile.microbox.name=Micro Box
 tile.protonenCollektor.name=Ionen Collector
 tile.wire_0.name=Cable
 tile.wire_1.name=Redstone Cable
-tile.wire_2.name=AI Cable
+tile.wire_2.name=Super Cable
 tile.wire_3.name=Support Cable
 tile.wire_4.name=Network Cable
 tile.spacedoor.name=Airlock
@@ -341,9 +341,10 @@ tile.erse.name=Plant Erse
 tile.sapling_menelaus.name=Menelaus Sapling
 tile.sapling_tyros.name=Tyros Sapling
 tile.flashserver.name=Flash Server
-tile.zentrifuge.name=((TODO)) #Zentrifuge
-tile.fuelcell.name=((TODO)) #Treibstofftank
-tile.dirt_M.name=((TODO)) #Menelaus Erde
+tile.zentrifuge.name=Centrifuge
+tile.fuelcell.name=Fueltank
+tile.dirt_M.name=Menelaus Dirt
+tile.ftl_drive.name=FTL Block
 
 item.scrench.name=Scrench
 item.NeonBattery.name=Empty Neon Battery
@@ -423,7 +424,7 @@ item.itemErze_glowtit_ingot.name=Glowtite Ingot
 item.itemErze_bioterium_ingot.name=Bioterium Ingot
 item.itemErze_ingot_wakurum.name=Wakurium Ingot
 item.itemErze_ingot_quantanium.name=Quantium Ingot
-item.itemErze_ingot_seltenerde.name=((TODO)) #Seltene Erden
+item.itemErze_ingot_seltenerde.name=Rare earth
 item.itemErze_ingot_gadolinium.name=Gadolinium Ingot
 item.itemErze_ingot_lanthanum.name=Lanthanium Ingot
 item.itemErze_ingot_neodymium.name=Neodynium Ingot
@@ -497,8 +498,10 @@ item.composite_pickaxe.name=Composite Pickaxe
 item.composite_axe.name=Composite Axe
 item.composite_hoe.name=Composit Hoe
 item.composite_spade.name=Composite Spade
+item.gleiter.name=Paraglider
+item.dust_obsidian.name=Obsidian Dust
 
-item.spawnnote.name=((TODO)) #Mysteriöses Dokument
+item.spawnnote.name=Mysterious Document
 
 itemGroup.fpTab.deco=Future Pack Materials
 itemGroup.fpTab.maschiens=Future Pack Machinery
@@ -509,18 +512,18 @@ container.collector=Ion Collector
 
 gui.fp.wandrope=Wardrobe
 
-aspect.geologie.name=((TODO)) #Geologie
-aspect.chemie.name=((TODO)) #Chemie
-aspect.tierhaltung.name=((TODO)) #Tierhaltung
-aspect.logistik.name=((TODO)) #Logistik
-aspect.biologie.name=((TODO)) #Biologie
-aspect.morphologie.name=((TODO)) #Morphologie
-aspect.metallurgie.name=((TODO)) #Metallurgie
-aspect.maschinenbau.name=((TODO)) #Maschinenbau
-aspect.thermodynamik.name=((TODO)) #Thermodynamik
-aspect.energieverbindung.name=((TODO)) #Energieverbindung
-aspect.neonenergie.name=((TODO)) #Neonenergie
-aspect.hydraulic.name=((TODO)) #Hydraulik
+aspect.geologie.name=Geology
+aspect.chemie.name=Chemistry
+aspect.tierhaltung.name=Stockbreeding
+aspect.logistik.name=Logistics
+aspect.biologie.name=Biology
+aspect.morphologie.name=Morphology
+aspect.metallurgie.name=Metallurgy
+aspect.maschinenbau.name=Engineering
+aspect.thermodynamik.name=Thermodynamics
+aspect.energieverbindung.name=Power Connection
+aspect.neonenergie.name=Neon Energy
+aspect.hydraulic.name=Hydraulics
 
 death.attack.neonDamage=%s was killed by Neon Energy
 
@@ -539,46 +542,66 @@ chat.spaceship.missingFuel=The thrusters don't have enough fuel. You still have 
 chat.research.add=Your research(%s) finished. 
 research.useblock.missing=You don't know how to use this object!
 
-hologram.error.set.notsupported=((TODO)) #Für diesen Block kann kein Hologramm gesetzt werden!
-hologram.error.set.notileentity=((TODO)) #Für diesen Block kann kein Hologramm gesetzt werden!
-hologram.error.select.tileentity=((TODO)) #Dieser Block kann nicht als Hologramm genutzt werden!
+hologram.error.set.notsupported=You can't set an hologram for this block!
+hologram.error.set.notileentity=You can't set an hologram for this block!
+hologram.error.select.tileentity=You can't use this block for an hologram!
 
 achievement.installFP=I like the Stars
 achievement.installFP.desc=Install the Futurepack
 achievement.sushi=I like Sushi
 achievement.sushi.desc=Fish Blocks?!
-achievement.erse=((TODO)) #Erse für die Welt!
-achievement.erse.desc=((TODO)) #Finde eine Erse
-achievement.theImpalpable=((TODO)) #Technik der Ungreifbaren
-achievement.theImpalpable.desc=((TODO)) #Finde einen E-Scanner
-achievement.labor=((TODO)) #Forschungslabor
-achievement.labor.desc=((TODO)) #Crafte Scanner und Forscher
-achievement.mainboard=((TODO)) #Mein erster PC
-achievement.mainboard.desc=((TODO)) #Crafte ein Mainboard
-achievement.neonEnergie=((TODO)) #Elektrizität
-achievement.neonEnergie.desc=((TODO)) #Erzeuge Neon-Energie
+achievement.erse=Erse for the world!
+achievement.erse.desc=Find a Erse
+achievement.theImpalpable=Technology of the Unreachable
+achievement.theImpalpable.desc=Get an E-Scanner
+achievement.labor=Research Laboratory
+achievement.labor.desc=Craft a Scanner and a Researcher
+achievement.mainboard=My first computer
+achievement.mainboard.desc=Craft a Mainboard
+achievement.neonEnergie=Electricity
+achievement.neonEnergie.desc=Generate Neon-Energy
 achievement.isntDiamond=It's not a Diamond
 achievement.isntDiamond.desc=Mining Zinc
 achievement.needBukkit=I need more Buckets
 achievement.needBukkit.desc=Craft an Industrial Furnace
 achievement.composite=Composite Metal
 achievement.composite.desc=Just a little bit of everything
-achievement.menelaus=((TODO)) #Menelaus
-achievement.menelaus.desc=((TODO)) #Reise nach Menelaus
-achievement.metalhaltig=((TODO)) #Metallhaltig
-achievement.metalhaltig.desc=((TODO)) #Finde Menelaus Kies oder Dirt
-achievement.tyros=((TODO)) #Tyros
-achievement.tyros.desc=((TODO)) #Reise nach Tyros
-achievement.glowmelo=((TODO)) #Glowmelo
-achievement.glowmelo.desc=((TODO)) #Ernte eine Glowmelo
+achievement.menelaus=Menelaus
+achievement.menelaus.desc=Travel to Menelaus
+achievement.metalhaltig=It contains metals
+achievement.metalhaltig.desc=Get Menelaus Gravel od Dirt
+achievement.tyros=Tyros
+achievement.tyros.desc=Travel to Tyros
+achievement.glowmelo=Glowmelo
+achievement.glowmelo.desc=Harvest a Glowmelo
+achievement.crys_neon=Neon Crystal
+achievement.crys_neon.desc=Find a Neon Crystal
+achievement.crys_alutin=Alutine Crystal
+achievement.crys_alutin.desc=Find a Alutin Crystal
+achievement.crys_glowtit=Glowtite Crystal
+achievement.crys_glowtit.desc=Find a Glowtite Crystal
+achievement.crys_retium=Retium Crystal
+achievement.crys_retium.desc=Find a Retium Crystal
+achievement.crys_bioterium=Bioterium Crystal
+achievement.crys_bioterium.desc=Find a Bioterium Crystal
+
+command.fp.usage=/fp <research> ...
+command.fp.research.usage=/fp research <player> <reset:unlock> [...]
+command.fp.research.unlock.usage=/fp research <player> unlock <all:basics:Research> [path:single]
+command.fp.research.reset.feedback=Your Researches has been reseted!
+command.fp.research.reset.success=The Researches from %s has been reseted!
+command.fp.research.unlock.success=The Researches [%s] has been unlocked for %s!
 
 scanner.button.0.name=Tech Tree
 scanner.button.1.name=Scan Result
-scanner.button.2.name= Tech Info
-scanner.button.3.name=((TODO)) #Rechner
-gui.scanner.start.name=((TODO)) #Scannen
+scanner.button.2.name=Tech Info
+scanner.button.3.name=Calculator
+gui.scanner.start.name=Scan
 
-info.note.read=((TODO)) #§2Rechtsklick zum Ansehen!
+info.note.read=§2Right click to view!
+
+key.categories.futurepack=Futurepack
+key.fp.gleiter=Paraglider open/close
 
 research.need.achievement=Need %s
 
@@ -606,10 +629,10 @@ research.energieerzeugung=Energy Generation 1
 research.energielogistik=Energy Logistics
 
 research.upgradeT1=Research Module - Energy
-research.assembly=CHip Assembly
+research.assembly=Chip Assembly
 research.optik=Optics
 research.energiespeicher=Energy Storage
-research.energieerzeugung2=(Energy Generation 2
+research.energieerzeugung2=Energy Generation 2
 research.production2=Production 2
 research.magnetismus=Magnetism
 research.thermodynamik=Thermodynamics
@@ -631,7 +654,7 @@ research.upgradeT3=Research Module - Experience
 
 research.quantentechnik=Quantum Tech
 research.ionentechnik=Ion Tech
-research.lasertechnik2=(Laser Tech 2
+research.lasertechnik2=Laser Tech 2
 research.astronomie1=Astronomy 1
 
 
@@ -650,13 +673,22 @@ research.hs.biologie=Biology
 research.hs.morphologie=Morphology
 research.hs.metallurgie=Metallurgy
 research.hs.maschinenbau=Engineering
-research.hs.thermodynamik=((TODO)) #Thermodynamik
+research.hs.thermodynamik=Thermodynamics
 research.hs.energieverbindungen=Power Connection
 research.hs.neonenergie=Neon Energy
 research.hs.hydraulic=Hydraulics
 research.story.labor=Scientific Curiosity
 research.story.labor2=Laboratory
-
+research.story.erse=Erse
+research.story.neonenergie=Electricity
+research.story.mainboard=My first Computer
+research.story.metalhaltig=It contains metals
+research.story.glowmelo=Glowmelo
+research.story.crystal_n=Neon Crystal
+research.story.crystal_a=Alutine Crystal
+research.story.crystal_g=Glowtite Crystal
+research.story.crystal_r=Retium Crystal
+research.story.crystal_b=Bioterium Crystal
 
 research.production.blockbreaker=Block Crusher
 research.production.blockplacer=Block Placer
@@ -669,13 +701,16 @@ research.production.decoration=Decoration
 research.production.optibench=Opti Bench
 research.production.supercrusher=Super Crusher
 research.production.neonfurnace=Neon Furnace
+research.production.neonind=Neon Industrial Furnace
+research.production.zentrifuge=Centrifuge
+
 
 research.energy.generator=Generator
-research.energy.neonmotor=((TODO)) #Neonmotor
-research.energy.infusion=((TODO)) #Infusionsgenerator
-research.energy.solar=((TODO)) #Solarzelle
-research.energy.wasser_turbine=((TODO)) #Wasserturbine
-research.energy.ionen=((TODO)) #Ionenkollektor
+research.energy.neonmotor=Neon Engine
+research.energy.infusion=Infusion Generator
+research.energy.solar=Solar Panel
+research.energy.wasser_turbine=Water Turbine
+research.energy.ionen=Ion Collector
 
 research.log.itempipe=Normal Pipe
 research.log.cable=Cable
@@ -738,8 +773,8 @@ research.chip.network=Network Chipset
 research.chip.support=Support Chipset
 research.chip.ultimate=Ultimate Chipset
 
-research.chips.cooler=((TODO)) #Kühler
-research.chips.watercooler=((TODO)) #Wasserkühler
+research.chips.cooler=Cooler
+research.chips.watercooler=Water Cooler
 
 research.deco.metall=Metal Block
 research.deco.metallslab=Metal Slab
@@ -766,8 +801,14 @@ research.tools.composite_pickaxe=Composite Pickaxe
 research.tools.composite_axe=Composite Axe
 research.tools.composite_hoe=Composite Hoe
 research.tools.composite_spade=Composite Spade
-
-
+research.tools.gleiter=Paraglider
+research.tools.egger=Entity Egger
+research.tools.spawnerchest=Spawner Chest
+research.tools.plasma=Plasma Cutter
+research.tools.escanner=E-Scanner
+research.tools.laserbow=Laser Bow
+research.tools.grabling=Grappling Slime
+research.tools.hologramm=Hologram Controller
 
 
 

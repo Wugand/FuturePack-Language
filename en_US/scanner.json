@@ -1,0 +1,34 @@
+[
+	"Furthermore the mechanics of the E-Scanner, which I found in a structure from the Unreachable, is a big secret to me. But by trying to modify the device, I have found some interesting features which not available in normal.",
+	"I named my new construct the \"Scanner\", because I can analyze and improve my technologies using that device. To do that I need a researched Item und some patience. The Unreachable-Technology supports me by recognizing the possibilities, but I must choose the basic aspects, I want to use, by myself.",
+	"If I created an implementable idea, the result will be printable as an Blueprint, to improve the technology.",
+	"Crafting:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {name:"fp:cristall",meta:0},
+			"2": {name:"fp:escenner",meta:0},
+			"3": {name:"fp:cristall",meta:0},
+			"4": "OreDict:ingotIron",
+			"5": [{name:"fp:color_iron",meta:0},{name:"fp:color_iron",meta:8},{name:"fp:color_iron",meta:15}],
+			"6": "OreDict:ingotIron",
+			"7": {name:"fp:spaceship",meta:<spaceship.CopperCoil>},
+			"8": {name:"fp:spaceship",meta:<spaceship.IronParts>},
+			"9": {name:"fp:spaceship",meta:<spaceship.CopperCoil>},
+			"out": [{name:"fp:scanner_block",meta:2},{name:"fp:scanner_block",meta:6},{name:"fp:scanner_block",meta:10}]
+		}
+	},
+	"Hint: Read the informations at \"The Research System\" first.",
+	"Usage in detail:",
+	"After I put the Item, I want to exam, in the top left slot, the yellow bar shows me how many Researches are still available using this Item (relative to total).",
+	"In the right area are placed the 12 Aspects, I must choose the matching 1 to 6 from them to find a new Research.",
+	"In the middle area is (now) placed the \"Scan\"-Button, I can use to check the currently chosen combination. After an animation on of the following outputs can appears:",
+	"Puzzle: The current selection is correct, but more aspects are needed.",
+	"Golden star: Research successful. Blueprint can be taken.",
+	"Yellow X: At least one of the chosen aspects is wrong.",
+	"Red X: There are no researches for this Item.",
+	"Green checkmark: All researches for this Item are finished.",
+	"Yellow question mark: There are more Researches with this Item, but you don't have all conditions.",
+	"Hint: A Blueprint can only be created until this research is completed in the Researcher, during this it is possible to generate other Blueprints using other Items or Aspects (as long they exist).",
+	"Hint: On the left of the Blueprint-Slot is a button to open the Tech-Tree."
+]	
