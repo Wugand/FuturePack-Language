@@ -225,7 +225,7 @@ tile.colorPlasmaLamp_red.name=Rote Plasmalampe
 tile.colorPlasmaLamp_black.name=Schwarze Plasmalampe
 
 tile.microbox.name=Mikrobox
-tile.protonenCollektor.name=Ionenkollektor
+tile.ionCollector.name=Ionenkollektor
 tile.wire_0.name=Kabel
 tile.wire_1.name=Redstone-Kabel
 tile.wire_2.name=Super-Kabel
@@ -703,7 +703,21 @@ research.production.supercrusher=Superbrecher
 research.production.neonfurnace=Neonofen
 research.production.neonind=Neonindustrieofen
 research.production.zentrifuge=Zentrifuge
-
+research.production.nind.reduktion=Verbesserte Reduktion
+research.production.nind.reloaded=Optimierung
+research.production.nind.magnet=Magnete
+research.production.nind.wakurum=Wakurium
+research.production.nind.quantanium=Quantanium
+research.production.nind.keramik=Hitzeschutzkachel
+research.production.nind.special=Materialverbesserung
+research.production.nind.linse.r=Rote Linse
+research.production.nind.linse.l=Lila Linse
+research.production.nind.linse.g=Grüne Linse
+research.production.zent.extraction1=Steinextraktion
+research.production.zent.extraction2=Erzextraction
+research.production.zent.neon=Kristallverarbeitung
+research.production.zent.bio=Pflanzenextraction
+research.production.zent.color=Farbherstellung
 
 research.energy.generator=Generator
 research.energy.neonmotor=Neonmotor
@@ -729,7 +743,7 @@ research.log.laser=Lasertransmitter
 research.log.flashserver=Flashserver
 
 research.log.battery.normal=Batterie
-research.log.battery.large=große Batterie
+research.log.battery.large=Große Batterie
 research.log.battery.neon=Neonbatterie
 
 research.log.flash.1=Einfacher Redstone-Flashspeicher
@@ -792,6 +806,20 @@ research.deco.plasmalamp=Plasmalampe
 research.deco.neonlamp=Neonlampe
 research.deco.monitor=Monitor
 research.deco.wardrobe=Wandschrank
+
+research.space.magnetblock=Magnetblock
+research.space.emagnet=Elektromagnet
+research.space.gravity=Gravity-Pulser
+research.space.airlock=Luftschleuse
+research.space.fuel=Raketentreibstoff
+research.space.thruster=Triebwerk
+research.space.tank=Treibstofftank
+research.space.teleport=Teleporter
+research.space.computer=Boardcomputer
+research.space.spaceship=Navigation und Steuerung
+research.space.navcord.menelaus=Koordinatensatz Menelaus
+research.space.drive.ftl=FTL-Antrieb
+research.space.navcord.tyros=Koordinatensatz Tyros
 
 research.tools.scrench=Schraubendrehschlüssel
 research.tools.airbrush=Farbpistole

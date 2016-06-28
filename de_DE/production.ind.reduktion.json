@@ -19,7 +19,7 @@
 			"in1":  [{name:"minecraft:coal", meta:0, size:1},{name:"minecraft:coal", meta:0, size:1}],
 			"in2":  [{OreDict:"gemNeon"},{OreDict:"gemAluminum"},{OreDict:"gemGlowtit"},{OreDict:"gemRetium"},{OreDict:"gemBioterium"}],
 			"in3":  [{OreDict:"gemNeon"},{OreDict:"gemAluminum"},{OreDict:"gemGlowtit"},{OreDict:"gemRetium"},{OreDict:"gemBioterium"}],
-			"out1": [{OreDict:"ingotNeon"},{OreDict:"ingotAluminum"},{OreDict:"ingotGlowtit"},{OreDict:"ingotRetium"},{OreDict:"ingotBioterium"}],
+			"out1": [{OreDict:"ingotNeon"},{OreDict:"ingotAluminum"},{OreDict:"ingotGlowtite"},{OreDict:"ingotRetium"},{OreDict:"ingotBioterium"}],
 			"out2": {},
 			"out3": {}
 		}

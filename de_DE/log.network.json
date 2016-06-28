@@ -1,0 +1,5 @@
+[
+	"Ich habe beim Forschen festgestellt, dass es mitunter sehr schwierig sein kann alle Module mit dem Forscher zu verbinden.",
+	"Also habe ich eine einfache Idee eines Netzwerkes umgesetzt. Die Maschinen sind miteinander verbunden und können kommunizieren.",
+	"Der Forscher, Scanner und die Module können alle Über das Netzwerk verbunden werden, und müssen deswegen nicht mehr alle am selben Ort stehen. Das Ermöglicht mir große Speicher-Kammern zu bauen und sie trotzdem alle mit dem Forscher zu verbinden."
+]

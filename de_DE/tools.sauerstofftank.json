@@ -10,7 +10,7 @@
 			"2": {name:"fp:chip", meta:0},
 			"3": {OreDict:"ingotAluminum"},
 			"4": {name:"fp:spaceship", meta:<spaceship.Tank>},
-			"5": {OreDict:"ingotMagnetit"},
+			"5": {OreDict:"ingotMagnetite"},
 			"6": {name:"fp:spaceship", meta:<spaceship.Tank>},
 			"7": {},
 			"8": {name:"fp:spaceship", meta:<spaceship.CopperCoil>},
