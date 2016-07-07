@@ -1,0 +1,14 @@
+[
+    "Ich habe einen Chipsatz entwickelt, mit dem Maschinen im Netzwerk kommunizieren können.",
+    "Assembly:",
+    {
+        "type": "assembly",
+        "slots": {
+            "in1": {"name":"fp:spaceship","meta":"<spaceship.Silizium>","size":2},
+            "in2": {"name":"fp:spaceship","meta":"<spaceship.QuartzParts>","size":2},
+            "in3": {"name":"fp:spaceship","meta":"<spaceship.NeonCoil>","size":1},
+            "out": {"name":"fp:chip", "meta":"<chip.NetworkChip>", "size":1}
+        }
+    },
+    "Noch habe ich keine direkte Verwendung für diesen Chip, aber vielleicht kann ich ihn gebrauchen."
+]

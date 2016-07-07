@@ -1,5 +1,7 @@
 [
-    "Ich habe Leute gesehen die mit anderen Maschinen arbeiten. Diese brauchen jedoch sogenanntes Redstoneflux. Dammit ich trzdem Neonenergie nutzen kann habe ich einen konverter gebaut.",
+	"Ich habe eine Energieform entdeckt, die sich grundlegend von meiner und der der Ungreifbaren unterscheidet. Diese fremde Energieform nennt sich Redstone Flux und arbeitet mit einer instabilen Form von Redstone. Ich habe deshalb versucht einen Konverter zu entwickeln.",
+	"Dieser beruht auf einer Art Motor, der Neonenergie in die niedere Energieform umwandelt. Auf mich wirkt das ganze allerdings unberechenbar und gef‰hrlich, ich traue dieser Technologie nicht wirklich.",
+	"Aber wer weis, vieleicht muss ich diese Technologie irgendwann benutzen.",
     "Crafting:",
     {
         "type": "crafting",
@@ -32,5 +34,6 @@
             "9": "OreDict:ingotNeon",
             "out": {"name":"fp:neon_engine","meta":0}
         }
-    }
+    },
+    "Zur einfachen Handhabung habe ich den Neonmotor so konstruiert, dass man ihn mit Redstone beschalten kann. Auﬂerdem braucht er eine Weile um hoch zu heizen, entsprechend der Temperatur steigert sich auch die RF Produktion."
 ]

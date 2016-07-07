@@ -1,0 +1,16 @@
+[
+    "Es ist lästig mit Flashspeichern die Supportpunkte aus Maschinen zu holen und dann irgendwo anders hin zu bringen. Also habe ich einen Chip entwickelt der dafür sorgt, dass die Maschine von selbst die gespeicherten Punkte an umliegende Empfänger abgibt.",
+    "Assembly:",
+    {
+        "type": "assembly",
+        "slots": {
+            "in1": {"name":"fp:spaceship","meta":"<spaceship.Silizium>","size":2},
+            "in2": {"name":"fp:spaceship","meta":"<spaceship.QuartzParts>","size":2},
+            "in3": "OreDict:ingotGlowtite",
+            "out": {"name":"fp:chip", "meta":"<chip.SupportChip>", "size":1}
+        }
+    },  
+    "Ein qualitativ hochwertiger Supportchipsatz (hohe Chippower) erbringt gegenüber eines normalen keinerlei Vorteile!",
+    "Info: Ein abweichender Effekt ist ggf. bei der entsprechenden Maschine vermerkt.",
+    "Info: Für allgemeine Informationen siehe Logikchipsatz."
+]

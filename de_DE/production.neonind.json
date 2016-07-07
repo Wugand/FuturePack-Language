@@ -1,0 +1,26 @@
+[
+	"Ich habe den einfachen Industrieofen mit neuer Technologie verbessert. Nun verbraucht er wie meine anderen Maschinen Neonenergie und verfügt über ein verbesserbares Computersystem.",
+	"Der Neonindustrieofen verfügt nun über zahlreiche Sensoren und genau regelbare Heizspulen um den Schmelzvorgang genau zu regeln.",
+	"Zudem habe ich den Ofen so verbessert, dass meine alten Rezepte nun um einiges sparsamer sind. (alle Rezepte sind in den folgenden Forschungseinträgen erklärt)",
+	"Ich kann sicher noch einige Verbesserungen an der Maschine vornehmen um weitere Funktionen hinzuzufügen. Zudem habe ich auch hier ein System zur Arbeit mit Supportpunkten eingebaut um diese eventuell später noch nutzen zu können.",
+	
+	"Crafting:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {name:"fp:spaceship",meta:<spaceship.IronCoil>},
+			"2": {name:"fp:industrie_ofen", meta:0},
+			"3": {name:"fp:spaceship",meta:<spaceship.IronCoil>},
+			"4": {name:"fp:chip",meta:<chip.DamageControlChip>},
+			"5": [{name:"fp:color_iron",meta:0},{name:"fp:color_iron",meta:8},{name:"fp:color_iron",meta:15}],
+			"6": {name:"fp:extern_cooler", meta:0},
+			"7": {name:"fp:spaceship", meta:<spaceship.CompositeMetall>},
+			"8": {name:"fp:spaceship", meta:<spaceship.Maschinboard>},
+			"9": {name:"fp:spaceship", meta:<spaceship.CompositeMetall>},
+			"out": [{name:"fp:ind_neon_furn",meta:2},{name:"fp:ind_neon_furn",meta:6},{name:"fp:ind_neon_furn",meta:10}]
+		}
+	},
+
+	"Wichtig: Die Zuführung von Supportpunkten (SP) ist nicht mit Flash-Speichern möglich, die entsprechende Technologie wird erst später Verfügbar!"
+
+]
