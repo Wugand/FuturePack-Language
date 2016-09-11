@@ -345,6 +345,7 @@ tile.zentrifuge.name=Zentrifuge
 tile.fuelcell.name=Treibstofftank
 tile.dirt_M.name=Menelaus Erde
 tile.ftl_drive.name=FTL Block
+tile.advanced_boardcomputer.name=Erweiterter Bordcomputer
 
 item.scrench.name=Schraubendrehschlüssel
 item.NeonBattery.name=Leere Neonbatterie
@@ -502,6 +503,25 @@ item.gleiter.name=Gleitschirm
 item.dust_obsidian.name=Obsidian Dust
 
 item.spawnnote.name=Mysteriöses Dokument
+item.coordinats.name=Koordinaten
+item.fasern.name=Biopolymer
+item.hack_schnitzel.name=Hackschnitzel
+item.kompost.name=Kompost
+item.telescope.name=Teleskop
+item.laser_riffle.name=Lasergewehr
+item.sword_neon.name=Neonschwert
+item.sword_retium.name=Retiumschwert
+item.sword_glowtite.name=Glowtitschwert
+item.sword_bioterium.name=Bioteriumschwert
+item.grenade_launcher.name=Granatwerfer
+item.blazegranate.name=Blazegranate
+item.granate.name=Granate
+item.plasmagranate.name=Plasmagranate
+item.schleimgranate.name=Schleimgranate
+item.granate_leer.name=Granathülse
+item.kompostgranate.name=Kompostgranate
+item.futtergranate.name=Fütterungsgranate
+item.saatgranate.name=Saatgutgranate
 
 itemGroup.fpTab.deco=Future Pack-Materialien
 itemGroup.fpTab.maschiens=Future Pack-Maschinen
@@ -521,6 +541,7 @@ aspect.morphologie.name=Morphologie
 aspect.metallurgie.name=Metallurgie
 aspect.maschinenbau.name=Maschinenbau
 aspect.thermodynamik.name=Thermodynamik
+aspect.termodynamic.name=Thermodynamik
 aspect.energieverbindung.name=Energieverbindung
 aspect.neonenergie.name=Neonenergie
 aspect.hydraulic.name=Hydraulik
@@ -657,6 +678,7 @@ research.ionentechnik=Ionentechnik
 research.lasertechnik2=Lasertechnik 2
 research.astronomie1=Astronomie 1
 
+research.drones=Drohnentechnik
 
 
 
@@ -820,6 +842,9 @@ research.space.spaceship=Navigation und Steuerung
 research.space.navcord.menelaus=Koordinatensatz Menelaus
 research.space.drive.ftl=FTL-Antrieb
 research.space.navcord.tyros=Koordinatensatz Tyros
+research.space.dronestation=Drohnenstation
+research.space.claime=Claime-Überträger
+research.space.miner=Bergbaudrohne
 
 research.tools.scrench=Schraubendrehschlüssel
 research.tools.airbrush=Farbpistole

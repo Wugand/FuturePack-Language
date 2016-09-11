@@ -1,0 +1,15 @@
+[
+	"Der Redstonesteuerungschipsatz funktioniert für alle Maschinen mit Mainboard. Er sorgt dafür das die Maschine überprüft, ob sie eine Redstone Signal bekommt und schaltet sich dann selbstständig ab",
+	"Das eröffnet mir die Möglichkeit größere System abzuschalten um Energie zu sparen",
+	
+	"Assembly:",
+	{
+		"type": "assembly",
+		"slots": {
+			"in1": {"name":"fp:spaceship","meta":"<spaceship.Silizium>","size":2},
+			"in2": {"name":"fp:spaceship","meta":"<spaceship.QuartzParts>","size":2},
+			"in3": {"name":"minecraft:comparator","meta":0,"size":1},
+			"out": {name:"fp:chip", meta:"<chip.RedstoneChip>", size:1}
+		}
+	},
+]
