@@ -1,7 +1,7 @@
 [
-	"Drohnen brauchen eine Basstation an der sie Energie aufnehmen und Items austauschen können. Dazu habe ich die Drohnenstation entwickelt, auf deren Oberseite mehrere Drohnen platziert werden können.",
-	"Die Drohnenstation beinhaltet ein großes Inventar (oben) und einer Batterieleiste (unten). In der Batterieleiste muss mindestens eine Batterie eingelegt werden um Drohnen zu versorgen.",
-	"Die Station kann über Rohre/Trichter geleert und gefüllt werden. Durch anschließen eines Kabels können auch die Batterien automatisch aufgeladen werden.",
+	"Drones need an base to load energy and exchange items. So I designed the Drone Station. On their top I am able to place drones.",
+	"The Drone Station contains an large inventory (at top) and an battery bar (at bottom). I must add at least one battery to power the drones.",
+	"The inventory can be filled and emptied by the use of pipes/hopper. By connecting a cable, the batteries can charge automatically.",
 	"Crafting:",
 	{
 		"type": "crafting",
