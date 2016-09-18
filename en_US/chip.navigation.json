@@ -1,0 +1,17 @@
+[
+	"I designed a new set of chips which makes it possible for the machines to locate themselves.",
+	"Once I analyzed the function of the compass I was able to rebuild its functioning principle in an electronically modified form.",
+	"Assembly:",
+	{
+		"type": "assembly",
+		"slots": {
+			"in1": {"name":"fp:spaceship","meta":"<spaceship.Silizium>","size":1},
+			"in2": {"name":"fp:spaceship","meta":"<spaceship.QuartzParts>","size":1},
+			"in3": {"name":"compass","meta":0,"size":1},
+			"out": {"name":"fp:chip", "meta":"<chip.NavigationChip>", "size":1}
+		}
+	},	
+	"A high-quality transportation chip set (high chip power) does not provide any benefits compared to normal ones!",
+	"Information: A differing effect is possibly noted at the corresponding machine."
+	"Information: For general information check logic chip set."
+]
