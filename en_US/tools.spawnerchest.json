@@ -4,10 +4,10 @@
 	{
 		"type": "assembly",
 		"slots": {
-			"in1": {name:"minecraft:slime_ball",meta:0,size:1},
-			"in2": {name:"minecraft:chest",meta:0,size:1},
-			"in3": {name:"fp:chip",meta:"<chip.LogicChip>",size:1},
-			"out": {name:"fp:entityEgger", meta:2, size:1}
+			"in1": {"name":"minecraft:slime_ball","meta":0,"size":1},
+			"in2": {"name":"minecraft:chest","meta":0,"size":1},
+			"in3": {"name":"fp:chip","meta":"<chip.LogicChip>","size":1},
+			"out": {"name":"fp:entityEgger", "meta":2, "size":1}
 		}
 	},
 	"It's possible to click on a spawner with a \"Spawn Chest\" to save it into the item. After doing this it is possible to place it anywhere."
