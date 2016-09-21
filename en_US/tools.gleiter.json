@@ -1,6 +1,6 @@
 [
-	"I noticed that light objects with large surface is gliding through the air. I advanced this to create a kind of parachute and put it in a backpack.",
-	"If I open the paraglider it deploy independently itself and let me glide slowly down to the ground.",
+	"I noticed that light objects with large surface are gliding through the air. I advanced this to create a kind of parachute and put it inside a backpack.",
+	"If I open the paraglider it deploys itself independently and lets me glide slowly down to the ground.",
 
 	"Crafting:",
 	{
@@ -19,6 +19,6 @@
 		}
 	},
 	
-	"During a free fall I can deploy the paraglider by pressing the \"F\"-Key (press once, don't hold it). By hit the key again, you can pack up the paraglider again.",
+	"During a free fall I can deploy the paraglider by pressing the \"F\"-Key (press once, don't hold it). By hitting the key again, you can pack up the paraglider again.",
 	"Info: The key can be changed in the Options"
 ]

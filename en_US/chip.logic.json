@@ -1,8 +1,8 @@
 [
-	"My researches resulted in the fact that small quartz crystals can work both as a tact generator and a memory to permanently save once added information.",
-	"In Combination with some controlling logic made of silicium and some energy conductor made of copper I constructed an universal chip set working mainly as a bridge connecting the processor and the surrounding outside world.",
-	"However this logic chip set contains general program codes for the processor enabling the system start. Because of this any system will need one of those chip sets for the moment.",
-	"Assembly:",
+	"I came to the close that small quartzcrystals can be used as both a clock generator and for permanent storage of input information alike.",
+	"In combination with some controlling logic, as well as silicon and some energy conductors made from copper I developed an universal chipset, which mainly functions as a bridge between processor and outside world.",
+	"Further, this logic chipset contains basic code for the processor, which allows the system to boot. So for the time being, every system will need one of these chipsets.",
+		"Assembly:",
 	{
 		"type": "assembly",
 		"slots": {
@@ -12,8 +12,9 @@
 			"out": {name:"fp:chip", meta:0, size:1}
 		}
 	},
-	"A high-quality logic chip set (high chip power) does not provide 
-	any benefits compared to normal ones!",
-	"Information:",
-	"Chip sets have got 2 important values: their power (§1Chippower§r) specifying the strength of their effect and their consumption (§1Corepower§r) specifying the claim of power for the processor."
+	
+	"A logic chipset of high quality (high chippower) has no benefits compared to a normal one!",
+		
+	"Info:",
+	"Chipsets possess 2 critical properties: Their performance (§lchippower§r), which tells the power of their effect, and their cost (§lcorepower§r), which tells the performance needed from the processor."
 ]

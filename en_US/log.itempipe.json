@@ -1,6 +1,6 @@
 [
-	"I implemented my idea of an Item transport System. To that I designed a simple tube, composed of an aluminum frame and vision panels made of glass.",
-	"The pipe can be placed free standing and can be filled by hoppers or any device that works the same. An Item putted in going to wait at this pipe segment until it found a possible target. It prefer the nearest Inventory.",
+	"I've implemented my idea of an Item transport System. For that I designed a simple tube, composed of an aluminum frame and vision panels made of glass.",
+	"The pipe can be placed free standing and can be filled by hoppers or any device that works in a similar way. An Item put in is going to wait at this pipe segment until it found a possible target. It prefers the nearest Inventory.",
 	"If an item stack can't be carried away it will block the pipe segment against Inserting more Items.",
 
 	"Crafting:",
@@ -20,5 +20,5 @@
 		}
 	},
 	
-	"Configuration: Using the Scrench I'm able to configure every side of a pipe segment, so I can prevent from connect to this side. (§lright click§r on desired side)"
+	"Configuration: Using the Scrench I'm able to configure every side of a pipe segment, so I can prevent it from connecting with this side. (§lright click§r on desired side)"
 ]

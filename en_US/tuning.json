@@ -1,5 +1,5 @@
 [
-	"I can modify all of my computerized systems at every time. This can be done by §lshift + right click§r with an Scrench§r (Modification-Mode) on the machine.",
+	"I can modify all of my computerized systems any time. This can be done by §lshift + right click§r with a Scrench§r (Modification-Mode) on the machine.",
 	
 	"Tuning-GUI:",
 	{
@@ -14,18 +14,18 @@
 	"Core: central slot\nMemory: right 3 slots \nChipset: left 9 slots",
 	"",
 	"Memory / Speed:",
-	"I can inset up to 3 Memory modules, but it needs at least one. By the usage of multiple Memories, their values will be added together.",
-	"The sum of the \"Ram\"-Values, affects directly the speed of the machine in all their functions (\"work cycles\" per second). The total is showed in the left bottom corner. (1 Ram = 5%; 100% is the natural Minecraft tick)",
+	"I can insert up to 3 Memory modules, but it needs at least one. By the usage of multiple Memories, their values will be added together.",
+	"The sum of the \"Ram\"-Values, directly affects the speed of the machine in all it's functions (\"work cycles\" per second). The total is shown in the left bottom corner. (1 Ram = 5%; 100% is the natural Minecraft tick)",
 	"",
 	"Chipset / Effects:",
 	"I can insert up to 9 Chipsets, but it needs at least one Logic Chipset or one *Tier 2*-Chipset (\"Corepower\" = 2). All other Chipsets add special effects to the machine.",
-	"This effect can be looked up at the Research for the Chipset. It should be noted, that not every Chipset has the same effect in every machine. Also some Chipsets can be useless for an specific machine. This specials can also be looked up in the Tech Tree.",
+	"This effect can be looked up at the Research for the Chipset. It should be noted, that not every Chipset has the same effect in every machine. Also some Chipsets can be useless for a specific machine. These specials can also be looked up in the Tech Tree.",
 	"",
 	"Corepower / Overload:",
-	"The Core is the heart of every system, its current capacity is shown with to upper bar. The red arrow marks the maximal capacity of the Core. If the limit is exceeded the system begins to heat up, this can be put off by external devices. The temperature is shown at the left side.",
-	"If the system is hotter than 1000.0 C, the core going to break down and the system is inoperable until the core is replaced.",
+	"The Core is the heart of every system, its current capacity is shown with the upper bar. The red arrow marks the maximal capacity of the Core. If the limit is exceeded the system begins to heat up, this can be put off by external devices. The temperature is shown at the left side.",
+	"If the system is hotter than 1000.0 C, the core is going to break down and the system is inoperable until the core is replaced.",
 	"",
 	"Consumption / Operability:",
-	"If the red warning symbol is shown in the top left, the machine is inoperable. This is caused by the missing of especial components.",
-	"The middle, left display (flash icon) shows the energy consumption (only at consumers) per work cycle, this value is dependent by the used components. At energy generators its show the production per cycle or item."
+	"If the red warning symbol is shown in the top left, the machine is inoperable. This is caused by the missing of special components.",
+	"The middle left display (lightning icon) shows the energy consumption (only at consumers) per work cycle, this value is dependent on the used components. For energy generators it shows the production per cycle or item."
 ]

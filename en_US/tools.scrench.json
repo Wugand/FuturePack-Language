@@ -25,7 +25,7 @@
 		"height":32,
 		"resource":"fp:textures/items/tool_sub.png"
 	},
-	"§lright click§r on an block, to rotate these.",
+	"§lright click§r on a block to rotate it.",
 	
 	"Modification-Mode:",
 	{
@@ -35,5 +35,5 @@
 		"resource":"fp:textures/items/tool.png"
 	},
 	"§lShift + right click§r on an machine, to modify these.",
-	"Note: The first modifiable machine will by unlocked later on!"
+	"Note: The first modifiable machine will be unlocked later on!"
 ]

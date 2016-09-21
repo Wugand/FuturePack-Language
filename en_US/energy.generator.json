@@ -1,5 +1,5 @@
 [
-	"I made a simple Stirling engine and a way to transform the rotation into neon energy. The engine works with tow cylinders, one is cooled and the other heated up by fire. In combination they create a closed system, which heat/cools air inside and press them in the other cylinder. Through the expansion and contraction of air the system creates energy.",
+	"I made a simple Stirling engine and found a way to transform the rotation into neon energy. The engine works with two cylinders, one is cooled and the other heated up by fire. In combination they create a closed system, which heats/cools air inside and presses them into the other cylinder. Through the expansion and contraction of air the system creates energy.",
 	"The heat can be created by every burnable material. The generator is not really powerful, but enough for my current usage.",
 	"Crafting:",
 	{

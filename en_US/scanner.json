@@ -1,7 +1,7 @@
 [
-	"Furthermore the mechanics of the E-Scanner, which I found in a structure from the Unreachable, is a big secret to me. But by trying to modify the device, I have found some interesting features which not available in normal.",
-	"I named my new construct the \"Scanner\", because I can analyze and improve my technologies using that device. To do that I need a researched Item und some patience. The Unreachable-Technology supports me by recognizing the possibilities, but I must choose the basic aspects, I want to use, by myself.",
-	"If I created an implementable idea, the result will be printable as an Blueprint, to improve the technology.",
+	"At the moment the mechanics of the E-Scanner, which I found in a structure from the Unreachable, is a big secret to me. But by trying to modify the device, I have found some interesting features which are not available normally.",
+	"I named my new construct the \"Scanner\", because I can analyze and improve my technologies using that device. To do that I need a researched Item and some patience. The Unreachable-Technology helps me realize the possibilities, but I must choose the basic aspects I want to use by myself.",
+	"If I created an implementable idea, the result will be printable as a Blueprint, to improve the technology.",
 	"Crafting:",
 	{
 		"type": "crafting",
@@ -18,11 +18,11 @@
 			"out": [{name:"fp:scanner_block",meta:2},{name:"fp:scanner_block",meta:6},{name:"fp:scanner_block",meta:10}]
 		}
 	},
-	"Hint: Read the informations at \"The Research System\" first.",
+	"Hint: Read the information at \"The Research System\" first.",
 	"Usage in detail:",
-	"After I put the Item, I want to exam, in the top left slot, the yellow bar shows me how many Researches are still available using this Item (relative to total).",
-	"In the right area are placed the 12 Aspects, I must choose the matching 1 to 6 from them to find a new Research.",
-	"In the middle area is (now) placed the \"Scan\"-Button, I can use to check the currently chosen combination. After an animation on of the following outputs can appears:",
+	"After I put the Item I want to examine in the top left slot, the yellow bar shows me how many Researches are still available using this Item (relative to total).",
+	"In the right area the 12 Aspects are placed, I must choose the matching 1 to 6 from them to find a new Research.",
+	"Now in the middle area the \"Scan\"-Button shows up, which I can use to check the currently chosen combination. After an animation one of the following outputs can appear:",
 	"Puzzle: The current selection is correct, but more aspects are needed.",
 	"Golden star: Research successful. Blueprint can be taken.",
 	"Yellow X: At least one of the chosen aspects is wrong.",

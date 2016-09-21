@@ -13,7 +13,7 @@
 			"7": {name:"fp:spaceship", meta:<spaceship.CompositeMetall>},
 			"8": {name:"minecraft:iron_bars"},
 			"9": {name:"fp:spaceship", meta:<spaceship.CompositeMetall>},
-			"out": {name:"fp:erz_blocke", meta:9, size:6}
+			"out": {name:"fp:erz_blocke", meta:9, size:4}
 		}
 	},	
 	"Info: One can use the airbrush to color/sandblast the block."

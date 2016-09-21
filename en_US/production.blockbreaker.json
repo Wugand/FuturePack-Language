@@ -1,6 +1,6 @@
 [
 	"With a pickaxe triggered by a simple dispenser I can break Blocks automatically.",
-	"If this machine is placed in front of an destroyable block and activated by an Redstone pulse, it destroy the block and put it out to its back.",
+	"If this machine is placed in front of a destroyable block and activated by a Redstone pulse, it destroys the block and puts it out behind.",
 	
 	"Crafting:",
 	{
@@ -20,5 +20,5 @@
 		}
 	},
 	
-	"The machine can be upgraded by putting enchanted books in."
+	"The machine can be upgraded by putting enchanted books inside."
 ]
