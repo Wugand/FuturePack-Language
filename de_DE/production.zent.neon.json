@@ -1,0 +1,20 @@
+[
+	"Das Zentrifugieren zeigt auch bei Neonkristallen einen Effekt, sie bestehen großteils aus einfachem Siliziumquartz. Allerdings bleiben auch winzige leuchtende Strukturen übrig.",
+	"Bei genauerer Analyse scheint es sich um ein extrem seltenes Atom zu handeln das durch eine Siliuziumhülle stabilisiert wird, das Bitripentium.",
+	"Ich kann dieses Verfahren auf alle Kristalle anwenden, allerdings muss ich diese zuvor zu Staub zermahlen.",
+	"Beispiele:",
+    {
+        "type":"zentrifuge",
+        "slots":
+        {
+            "in":{"OreDict":"dustNeon", "size":32},
+            "out1":{"OreDict":"gemQuartz", "size":32},
+            "out2":{"OreDict":"gemBitripentium", "size":1},
+            "out3":{}
+        },
+	    "support":0,
+	    "time":150
+    },
+	
+    "Information: Die Zentrifuge hat sehr viele Rezepte, es werden hier nicht alle aufgelistet!"
+]

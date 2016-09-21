@@ -1,0 +1,19 @@
+[
+	"Normale Metalle schmelzen recht schnell, wenn ich sie großer Hitze aussetzte. Ich habe nach Materialien gesucht die eine wesentlich höhere Hitzebeständigkeit haben.",
+	"Gebrannter Ton und Obsidian zeigten dabei die interessantesten Eigenschaften. Nachdem ich die Verunreinigungen des Tons entfernt habe, konnte ich eine Art Hitzeschutzplatte entwickeln.",
+	"Diese Platten halten nicht nur extreme Temperaturen stand, sondern schirmen die Hitze auch ab.",
+
+	{
+		"type": "industrialneonfurnace",
+		"slots": {
+			"in1":  {"OreDict":"dustObsidian", "size":1},
+			"in2":  {"name":"minecraft:clay_ball", "meta":0, "size":1},
+			"in3":  {"OreDict":"dustObsidian", "size":1},
+			"out1": {"OreDict":"keramik", "size":2},
+			"out2": {},
+			"out3": {}
+		},
+		"support":0
+	}
+		
+]
