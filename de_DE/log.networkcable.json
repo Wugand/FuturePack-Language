@@ -1,0 +1,23 @@
+[
+	"Wakurum hat wirklich sehr interessante Fähigkeiten. Es kann problemlos große Datenmengen nahezu verlustfrei über große Distanzen transportieren.",
+	"Ich habe probiert daraus eine Ummantelung für meine Kabel zu entwickeln und es hat perfekt funktioniert. Wenn ich diese Kabel mit einem Netzwerk verbinde werden die Signale weitergeleitet.",
+	
+	"Crafting:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {},
+			"2": "OreDict:ingotWakurum",
+			"3": {},
+			"4": {"name":"fp:wire", "meta":0},
+			"5": {"name":"fp:wire", "meta":0},
+			"6": {"name":"fp:wire", "meta":0},
+			"7": {},
+			"8": {},
+			"9": {},
+			"out": {"name":"fp:wire", "meta":4, "size":3}
+		}
+	},
+	
+	"Da ich nicht auf das Problem stoßen will, dass ich einen Netzwerk-Switch habe der ausfallen oder überlastet werden könnte, habe ich die Kabel speziell konstruiert. Sie haben einen eigenen Verteiler und Verstärker eingebaut, dadurch kann ich problemlos das Netzwerk erweitern ohne dass es langsamer wird."
+]

@@ -1,0 +1,22 @@
+[
+	"Ich habe festgestellt, dass ich Signale über große Strecken versenden muss. Wenn ich dafür Netzwerkkabel verwenden würde, bräuchte ich Unmengen an Ressourcen.",
+	"Deshalb habe ich einen Laser entwickelt der Signale bis zu 1024 Meter weit verschicken kann. Weil ich im Netzwerk auch antworten muss, sind Sender und Empfänger in einem Block integriert.",
+	"Eigentlich wollte ich ultraviolettes Licht für die Datenübermittlung nutzen, jedoch war die Ablenkung durch die Atmosphäre zu groß deswegen musste ich infrarotes Licht verwenden.",
+	"Crafting:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": "OreDict:ingotAluminum",
+			"2": {"name":"fp:spaceship", "meta":"<spaceship.Fasern>"},
+			"3": "",
+			"4": {"name":"fp:chip", "meta":"<chip.NetworkChip>"},
+			"5": {"name":"fp:spaceship", "meta":"<spaceship.Laserdiode>"},
+			"6": {"name":"fp:spaceship", "meta":"<spaceship.LinseR>"},
+			"7": "OreDict:ingotAluminum",
+			"8": {"name":"fp:spaceship", "meta":"<spaceship.Fasern>"},
+			"9": "",
+			"out": {"name":"fp:laser_transmitter", "meta":0, "size":1}
+		}
+	},
+	"Damit der Laser funktioniert, muss er mit dem anderen Laser (auch über große Distanzen) auf einer Liene stehen."
+]

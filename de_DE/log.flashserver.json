@@ -15,7 +15,7 @@
 			"7": {name:"fp:spaceship", meta:<spaceship.SupportSpeicher2>},
 			"8": {name:"fp:wire", meta:3},
 			"9": {name:"fp:spaceship", meta:<spaceship.SupportSpeicher2>},
-			"out": [{name:"fp:flashserver", meta:2, size:1},{name:"fp:flashserver", meta:6, size:1},{name:"fp:flashserver", meta:10, size:1}]
+			"out": [{name:"fp:flash_server", meta:2, size:1},{name:"fp:flash_server", meta:6, size:1},{name:"fp:flash_server", meta:10, size:1}]
 		}
 	},
 	"Eigenkapazität: 2048 SP",

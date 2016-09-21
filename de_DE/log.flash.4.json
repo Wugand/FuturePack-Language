@@ -6,7 +6,7 @@
 		"slots": {
 			"in1": {"name":"fp:chip","meta":0,"size":1},
 			"in2": {OreDict:"ingotRetium",size:1},
-			"in3": {OreDict:"gemGlowtit",size:1},
+			"in3": {OreDict:"gemGlowtite",size:1},
 			"out": {name:"fp:spaceship", meta:<spaceship.SupportSpeicher3>, size:1}
 		}
 	},

@@ -1,0 +1,14 @@
+[
+    "Ich habe einen Chip entwickelt der die Entscheidungsfähigkeit des Computersystems verbessert.",
+    "Assembly:",
+    {
+        "type": "assembly",
+        "slots": {
+            "in1": {"name":"fp:spaceship","meta":"<spaceship.Silizium>","size":2},
+            "in2": {"name":"fp:spaceship","meta":"<spaceship.QuartzParts>","size":2},
+            "in3": "OreDict:gemGlowtite",
+            "out": {"name":"fp:chip", "meta":"<chip.KIChip>", "size":1}
+        }
+    },
+    "Durch den KI (Künstliche Intelligenz) Chip kann zum Beispiel der Absorptionslaser (Entity Eater) keine Ziele mehr töten, sondern lässt sie nur stark geschwächt zurück."
+]

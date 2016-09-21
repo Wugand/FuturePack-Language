@@ -225,7 +225,7 @@ tile.colorPlasmaLamp_red.name=Red Plasma Lamp
 tile.colorPlasmaLamp_black.name=Black Plasma Lamp
 
 tile.microbox.name=Micro Box
-tile.protonenCollektor.name=Ionen Collector
+tile.ionCollector.name=Ionen Collector
 tile.wire_0.name=Cable
 tile.wire_1.name=Redstone Cable
 tile.wire_2.name=Super Cable
@@ -345,6 +345,7 @@ tile.zentrifuge.name=Centrifuge
 tile.fuelcell.name=Fueltank
 tile.dirt_M.name=Menelaus Dirt
 tile.ftl_drive.name=FTL Block
+tile.advanced_boardcomputer.name=Advanced Bordcomputer
 
 item.scrench.name=Scrench
 item.NeonBattery.name=Empty Neon Battery
@@ -502,6 +503,22 @@ item.gleiter.name=Paraglider
 item.dust_obsidian.name=Obsidian Dust
 
 item.spawnnote.name=Mysterious Document
+item.coordinats.name=Coordinates
+item.fasern.name=Fibre
+item.hack_schnitzel.name=Woodchips
+item.kompost.name=Compost
+item.telescope.name=Telescope
+item.laser_riffle.name=Laser Riffle
+item.sword_neon.name=Neon Sword
+item.sword_retium.name=Retium Sword
+item.sword_glowtite.name=Glowtite Sword
+item.sword_bioterium.name=Bioterium Sword
+item.grenade_launcher.name=Grenade Launcher
+item.blazegranate.name=Blaze Grenade
+item.granate.name=Grenade
+item.plasmagranate.name=Plasma Grenade
+item.schleimgranate.name=Slime Grenade
+item.granate_leer.name=Empty Grenade
 
 itemGroup.fpTab.deco=Future Pack Materials
 itemGroup.fpTab.maschiens=Future Pack Machinery
@@ -690,7 +707,7 @@ research.story.crystal_g=Glowtite Crystal
 research.story.crystal_r=Retium Crystal
 research.story.crystal_b=Bioterium Crystal
 
-research.production.blockbreaker=Block Crusher
+research.production.blockbreaker=Block Breaker
 research.production.blockplacer=Block Placer
 research.production.partpress=Part Press
 research.production.industrieofen=Industrial Furnace

@@ -1,0 +1,21 @@
+[
+    "Als ich ein wenig mit Magneten und Kristallen herum probiert habe, ist mir etwas Interessantes aufgefallen. Ich weiß nicht genau wie, aber ich kann eine Art Gravitationswelle erzeugen die alles in einem bestimmten Bereich in eine Richtung stößt.",
+    "Der Puls wird über ein Redstonesignal aktiviert, was vermutlich durch das Retium kommt.",
+	"Crafting:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": "OreDict:ingotRetium",
+			"2": {"name":"fp:magnet","meta":0},
+			"3": "OreDict:ingotRetium",
+			"4": "OreDict:ingotRetium",
+			"5": {"name":"fp:erz_blocke","meta":3},
+			"6": "OreDict:ingotRetium",
+			"7": "OreDict:ingotRetium",
+			"8": {"name":"fp:magnet","meta":0},
+			"9": "OreDict:ingotRetium",
+			"out": {"name":"fp:pulsit","meta":0}
+		}
+	},
+	"Vielleicht liege ich auch völlig falsch und es ist etwas ganz anderes als Gravitation."
+]

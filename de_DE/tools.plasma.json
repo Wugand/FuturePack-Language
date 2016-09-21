@@ -1,0 +1,21 @@
+[
+	"Metallblöcke mit einer Spitzhacke abzubauen dauert lange, und ist nicht effizient. Also habe ich ein Werkzeug entwickelt, dass ähnlich wie ein Bunsenbrenner, große Hitze entwickelt mit der ich die Metalle schmelzen kann. Für Stahl oder Eisen benötigt man allerdings viel mehr Energie, deshalb kommt ein super heißer Plasmastrahl zum Einsatz. Dieser wird erzeugt in dem die umliegende Luft ionisiert und dann durch Entladungen stark erhitzt wird, dieser Prozess verbraucht jedoch viel Energie.",
+	"Damit die gewaltige Hitze nicht alles zerstört wird ein Magnetfeld erzeugt, jedoch sollte ich aufpassen dass immer genügend Energie für die Erzeugung vorhanden ist.",
+	"Crafting:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {},
+			"2": {name:"fp:spaceship", meta:"<spaceship.NeonCoil>"},
+			"3": "OreDict:ingotRetium",
+			"4": "OreDict:ingotAluminum",
+			"5": "OreDict:ingotGlowtite",
+			"6": {name:"fp:spaceship", meta:"<spaceship.NeonCoil>"},
+			"7": "OreDict:ingotNeon",
+			"8": "OreDict:ingotAluminum",
+			"9": {name:"fp:spaceship", meta:"<spaceship.IronStick>"},
+			"out": {name:"fp:plasmaschneider", meta:2500, size:1}
+		}
+	},	
+	"Es wird Neonenergie für die (wieder-)Aufladung benötigt. Wenn die Ladung komplett aufgebraucht ist wird der Plasmaschneider zerstört."
+]

@@ -1,0 +1,21 @@
+[
+    "Da im Weltraum Vakuum herrscht und mein Schiff dicht sein muss, habe ich eine Luftschleuse entwickelt.",
+    "Sie ist ein drehbarer und ausfahrbarer Block. Im eingefahrenen Zustand ist sie 1x1x1 im ausgefahrenen Zustand 1x2.5x1 Blöcke groß.",
+    "Mithilfe von Redstone kann ich sie ein- und ausfahren. Sie ist so konstruiert das man optimal zwischen zwei Schleusen 3 Blöcke Platz hat. Dank der Rotation Eigenschaften kann man so sowohl breit als auch hoch bauen.",
+	"Crafting:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {},
+			"2": "OreDict:ingotAluminum",
+			"3": {},
+			"4": {"name":"fp:spaceship","meta":"<spaceship.CompositeMetall>"},
+			"5": "OreDict:ingotAluminum",
+			"6": {"name":"fp:spaceship","meta":"<spaceship.CompositeMetall>"},
+			"7": {"name":"fp:spaceship","meta":"<spaceship.NeonCoil>"},
+			"8": {"name":"sticky_piston","meta":0},
+			"9": "OreDict:ingotMagnetite",
+			"out": {"name":"fp:spacedoor","meta":0}
+		}
+	}
+]
