@@ -12,7 +12,7 @@
 			"slots": {
 				"in1": {OreDict:"ingotQuantanium", size:1},
 				"in2": {name:"fp:spaceship", meta:<spaceship.DiaParts>, size:1},
-				"in3": {OreDict:"ingotGlowtit"},
+				"in3": {OreDict:"ingotGlowtite"},
 				"out": {name:"fp:core", meta:4, size:1}
 			}
 		}

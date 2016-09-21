@@ -1,0 +1,23 @@
+[
+	"Für mein Raumschiff benötige ich nun nur noch ein Ziel, ich werde mir ein Teleskop bauen um den Himmel nach Planeten abzusuchen.",
+	"Wenn ich etwas finde werde ich einen entsprechenden Datensatz anfertigen, den ich in den Bordcomputer einlegen kann.",
+    
+	"Crafting:",
+    {
+        "type": "crafting",
+        "slots": {
+            "1": {},
+            "2": {},
+            "3": {name:"minecraft:glass_pane", meta:0},
+            "4": {},
+            "5": {OreDict:"ingotAluminum"},
+            "6": {},
+            "7": {OreDict:"ingotCopper"},
+            "8": {},
+            "9": {},
+            "out": {name:"fp:telescope", meta:0}
+        }
+    },
+	
+	"Benutzung mit \"Rechtsklick\"."
+]

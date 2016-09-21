@@ -345,7 +345,7 @@ tile.zentrifuge.name=Centrifuge
 tile.fuelcell.name=Fueltank
 tile.dirt_M.name=Menelaus Dirt
 tile.ftl_drive.name=FTL Block
-tile.advanced_boardcomputer.name=Advanced Bordcomputer
+tile.advanced_boardcomputer.name=Advanced Boardcomputer
 
 item.scrench.name=Scrench
 item.NeonBattery.name=Empty Neon Battery
@@ -519,6 +519,9 @@ item.granate.name=Grenade
 item.plasmagranate.name=Plasma Grenade
 item.schleimgranate.name=Slime Grenade
 item.granate_leer.name=Empty Grenade
+item.kompostgranate.name=Compost Grenade
+item.futtergranate.name=Feeding Grenade
+item.saatgranate.name=Seed Grenade
 
 itemGroup.fpTab.deco=Future Pack Materials
 itemGroup.fpTab.maschiens=Future Pack Machinery
@@ -538,6 +541,7 @@ aspect.morphologie.name=Morphology
 aspect.metallurgie.name=Metallurgy
 aspect.maschinenbau.name=Engineering
 aspect.thermodynamik.name=Thermodynamics
+aspect.termodynamic.name=Thermodynamics
 aspect.energieverbindung.name=Power Connection
 aspect.neonenergie.name=Neon Energy
 aspect.hydraulic.name=Hydraulics
@@ -674,6 +678,7 @@ research.ionentechnik=Ion Tech
 research.lasertechnik2=Laser Tech 2
 research.astronomie1=Astronomy 1
 
+research.drones=Drone Technology
 
 
 
@@ -720,7 +725,21 @@ research.production.supercrusher=Super Crusher
 research.production.neonfurnace=Neon Furnace
 research.production.neonind=Neon Industrial Furnace
 research.production.zentrifuge=Centrifuge
-
+research.production.nind.reduktion=Advanced Reduction
+research.production.nind.reloaded=Optimization
+research.production.nind.magnet=Magnets
+research.production.nind.wakurum=Wakurium
+research.production.nind.quantanium=Quantanium
+research.production.nind.keramik=Heat Protection Plate
+research.production.nind.special=Material Improvement
+research.production.nind.linse.r=Red Focus Lens
+research.production.nind.linse.l=Purple Focus Lens
+research.production.nind.linse.g=Green Focus Lens
+research.production.zent.extraction1=Rock Extraction
+research.production.zent.extraction2=Ore Extraction
+research.production.zent.neon=Crystal Processing
+research.production.zent.bio=Plant Extraction
+research.production.zent.color=Color Production
 
 research.energy.generator=Generator
 research.energy.neonmotor=Neon Engine
@@ -809,6 +828,23 @@ research.deco.plasmalamp=Plasma Lamp
 research.deco.neonlamp=Neon Lamp
 research.deco.monitor=Monitor
 research.deco.wardrobe=Wardrobe
+
+research.space.magnetblock=Magnet Block
+research.space.emagnet=Electro Magnet
+research.space.gravity=Gravity-Pulser
+research.space.airlock=Airlock
+research.space.fuel=Rocket Fuel
+research.space.thruster=Thruster
+research.space.tank=Fueltank
+research.space.teleport=Teleporter
+research.space.computer=Boardcomputer
+research.space.spaceship=Navigation and Control
+research.space.navcord.menelaus=Coordinates Menelaus
+research.space.drive.ftl=FTL-Drive
+research.space.navcord.tyros=Coordinates Tyros
+research.space.dronestation=Drone Station
+research.space.claime=Claim Transmitter
+research.space.miner=Mining Drone
 
 research.tools.scrench=Scrench
 research.tools.airbrush=Airbrush
