@@ -1,0 +1,22 @@
+[
+	"It takes a lot of time to break down metal blocks with a pickaxe, also it is very inefficient. That's why I developed a tool that, similar to a bunsen burner, creates much heat to melt metals.",
+	" For steel or iron is a bigger amount of energy needed though, that's why a super hot plasma ray is used. This is created by ionizing the surrounding air and heating it up by dischargings. This process however needs a lot of energy.",
+	"To prevent the big heat from destroying everything a magnetic field is created, it may be useful to check that there's enough energy for its creation though.",
+	"Crafting:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {},
+			"2": {name:"fp:spaceship", meta:"<spaceship.NeonCoil>"},
+			"3": "OreDict:ingotRetium",
+			"4": "OreDict:ingotAluminum",
+			"5": "OreDict:ingotGlowtite",
+			"6": {name:"fp:spaceship", meta:"<spaceship.NeonCoil>"},
+			"7": "OreDict:ingotNeon",
+			"8": "OreDict:ingotAluminum",
+			"9": {name:"fp:spaceship", meta:"<spaceship.IronStick>"},
+			"out": {name:"fp:plasmaschneider", meta:2500, size:1}
+		}
+	},	
+	"Neon energy is needed for the (re-)charging. If the energy reserves are exhausted, the plasma cutter will be destroyed."
+]
