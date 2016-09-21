@@ -1,6 +1,6 @@
 Research  | Status
 --------- | ------
-aispeicher | Base/
+aispeicher | Base
 bergbau | Base
 chip.ai | Base 
 chip.navigation | Base
