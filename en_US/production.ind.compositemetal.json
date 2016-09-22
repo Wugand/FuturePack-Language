@@ -4,10 +4,10 @@
 	{
 		"type": "industrialfurnace",
 		"slots": {
-			"in1":  {OreDict:"ingotIron"},
-			"in2":  {OreDict:"ingotCopper"},
-			"in3":  [{OreDict:"ingotTin"}, {OreDict:"ingotZinc"}],
-			"out1": {name:"fp:spaceship",  meta:<spaceship.CompositeMetall>, size:6},
+			"in1":  {"OreDict":"ingotIron"},
+			"in2":  {"OreDict":"ingotCopper"},
+			"in3":  [{"OreDict":"ingotTin"}, {"OreDict":"ingotZinc"}],
+			"out1": {"name":"fp:spaceship",  "meta":"<spaceship.CompositeMetall>", size:6},
 			"out2": {},
 			"out3": {}
 		}
