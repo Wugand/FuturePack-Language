@@ -12,7 +12,7 @@
 			"6": {"name":"fp:spaceship", "meta":"<spaceship.CopperCoil>"},
 			"7": {"name":"fp:spaceship", "meta":"<spaceship.QuartzParts>"},
 			"8": [{"name":"fp:chip","meta":0}],
-			"9": {"name":"fp:spaceship", "meta":"<spaceship.QuartzParts>""},
+			"9": {"name":"fp:spaceship", "meta":"<spaceship.QuartzParts>"},
 			"out": {"name":"fp:spaceship","meta":"<spaceship.Maschinboard>"}
 		}
 	},
