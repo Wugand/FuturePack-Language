@@ -1,5 +1,5 @@
 [
-	"I crated a multifunction tool, to adjust the input/output behavior of my machines.",
+	"I created a multifunction tool, to adjust the input/output behavior of my machines.",
 	"Crafting:",
 	{
 		"type": "crafting",
@@ -23,5 +23,5 @@
 	"In every single mode you will see an overlay (colored boarder) on the faces of your machines, if they support this mode.",
 	"By §lShift + right click§r you can configure the side for:",
 	"Inactive (no symbol), Input (green arrow), Output (red arrow), Input+Output (both)",
-	"You can only select modes and configurations that useful for the targeted machine."
+	"You can only select modes and configurations that are useful for the targeted machine."
 ]

@@ -1,6 +1,6 @@
 [
-	"The small rechargeable batteries works good for transporting energy by hand, but not for automatic storage or buffering. To reach this I connected some of this batteries to a Battery Box.",
-	"This storage unit can depending on the settings act as energy Collector, Source or Buffer. Furthermore I added slots inside the machine for manually charge and discharge as well as for a permanent improvement of the capacity (12 Slots).",
+	"The small rechargeable batteries work good for transporting energy by hand, but not for automatic storage or buffering. To reach this I connected some of these batteries to a Battery Box.",
+	"This storage unit can, depending on the settings, act as energy collector, source or buffer. Furthermore I added slots inside the machine for manual charge and discharge as well as for a permanent improvement of the capacity (12 Slots).",
 	"Crafting:",
 	{
 		"type": "crafting",
@@ -18,5 +18,5 @@
 		}
 	},
 	"Own capacity: 6000 NE",
-	"Settings: I can set any side as energy input or energy output by using the \"Logistics Editor\"."
+	"Settings: I can set either side as energy input or energy output by using the \"Logistics Editor\"."
 ]
