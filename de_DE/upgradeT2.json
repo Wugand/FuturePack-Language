@@ -1,22 +1,22 @@
 [
-	"Um die Analysedaten (Support) meiner Maschinen (Optibench, Neonofen, ...) für meine Forschungen verwenden zu können, benötige ich ein weiteres angepasstes Forschungsmodul.",
-	"Das Modul muss direkt mit dem Forscher verknüpft werden um zu funktionieren (daneben stehen), wodurch die eigentliche Arbeit weiter im Forscher ausgeführt wird.",
+	"Um die Analysedaten (Support) meiner Maschinen (Optibench, Neonofen, ...) fÃ¼r meine Forschungen verwenden zu kÃ¶nnen, benÃ¶tige ich ein weiteres angepasstes Forschungsmodul.",
+	"Das Modul muss direkt mit dem Forscher verknÃ¼pft werden um zu funktionieren (daneben stehen), wodurch die eigentliche Arbeit weiter im Forscher ausgefÃ¼hrt wird.",
 
 	"Crafting:",
 	{
 		"type": "crafting",
 		"slots": {
-			"1": {name:"fp:spaceship", meta:<spaceship.GoldParts>},
-			"2": {name:"fp:scrench"},
-			"3": {name:"fp:spaceship", meta:<spaceship.GoldParts>},
-			"4": {name:"fp:spaceship", meta:<spaceship.Silizium>},
-			"5": [{name:"fp:color_iron",meta:0},{name:"fp:color_iron",meta:8},{name:"fp:color_iron",meta:15}],
-			"6": {name:"fp:spaceship", meta:<spaceship.Silizium>},
-			"7": {name:"fp:spaceship", meta:<spaceship.SupportSpeicher0>},
-			"8": {name:"fp:spaceship", meta:<spaceship.GoldCoil>},
-			"9": {name:"fp:spaceship", meta:<spaceship.SupportSpeicher0>},
-			"out": [{name:"fp:modul_2",meta:2},{name:"fp:modul_2",meta:6},{name:"fp:modul_2",meta:10}]
+			"1": {"name":"fp:spaceship", "meta":"<spaceship.GoldParts>"},
+			"2": {"name":"fp:scrench"},
+			"3": {"name":"fp:spaceship", "meta":"<spaceship.GoldParts>"},
+			"4": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>"},
+			"5": [{"name":"fp:color_iron","meta":0},{"name":"fp:color_iron","meta":8},{"name":"fp:color_iron","meta":15}],
+			"6": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>"},
+			"7": {"name":"fp:spaceship", "meta":"<spaceship.SupportSpeicher0>"},
+			"8": {"name":"fp:spaceship", "meta":"<spaceship.GoldCoil>"},
+			"9": {"name":"fp:spaceship", "meta":"<spaceship.SupportSpeicher0>"},
+			"out": [{"name":"fp:modul_2","meta":2},{"name":"fp:modul_2","meta":6},{"name":"fp:modul_2","meta":10}]
 		}
 	},	
-	"Das Modul speichert bis zu 512 SP, falls dies einmal nicht genügen sollte (siehe Angaben in den Blaupausen), muss ich mehrere dieser Module mit dem Forscher verbinden. Die Supportpunkte kann ich per Batterien in das Modul transportieren."
+	"Das Modul speichert bis zu 512 SP, falls dies einmal nicht genÃ¼gen sollte (siehe Angaben in den Blaupausen), muss ich mehrere dieser Module mit dem Forscher verbinden. Die Supportpunkte kann ich per Batterien in das Modul transportieren."
 ]
