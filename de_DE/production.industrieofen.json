@@ -1,19 +1,19 @@
 [
-	"Dieser verbesserte Ofen wird mit Lava beheizt, welche mit Eimern oder Rohren eingefüllt werden kann. Er benutzt die Energie um Items zu schmelzen und kühlt dabei die Lava langsam ab, bis diese zu Obsidian erstarrt. Damit ist es möglich, bis zu 3 Items gleichzeitig zu schmelzen.",
+	"Dieser verbesserte Ofen wird mit Lava beheizt, welche mit Eimern oder Rohren eingefÃ¼llt werden kann. Er benutzt die Energie um Items zu schmelzen und kÃ¼hlt dabei die Lava langsam ab, bis diese zu Obsidian erstarrt. Damit ist es mÃ¶glich, bis zu 3 Items gleichzeitig zu schmelzen.",
 	"Crafting:",
 	{
 		"type": "crafting",
 		"slots": {
-			"1": {name:"fp:spaceship",meta:<spaceship.Tank>},
-			"2": {OreDict:"ingotIron"},
-			"3": {name:"fp:spaceship",meta:<spaceship.Tank>},
-			"4": {name:"minecraft:furnace",meta:0},
-			"5": {name:"minecraft:furnace",meta:0},
-			"6": {name:"minecraft:furnace",meta:0},
-			"7": {OreDict:"ingotIron"},
-			"8": {name:"fp:spaceship",meta:<spaceship.Tank>},
-			"9": {OreDict:"ingotIron"},
-			"out": {name:"fp:industrie_ofen",meta:0}
+			"1": {"name":"fp:spaceship","meta":"<spaceship.Tank>"},
+			"2": {"OreDict":"ingotIron"},
+			"3": {"name":"fp:spaceship","meta:<spaceship.Tank>"},
+			"4": {"name":"minecraft:furnace","meta":0},
+			"5": {"name":"minecraft:furnace","meta":0},
+			"6": {"name":"minecraft:furnace","meta":0},
+			"7": {"OreDict":"ingotIron"},
+			"8": {"name":"fp:spaceship","meta":"<spaceship.Tank>"},
+			"9": {"OreDict":"ingotIron"},
+			"out": {"name":"fp:industrie_ofen","meta":0}
 		}
 	},
 		
@@ -21,18 +21,18 @@
 	{
 		"type": "industrialfurnace",
 		"slots": {
-			"in1": {name:"minecraft:cobblestone", size:32},
-			"in2": {OreDict:"oreCopper"},
+			"in1": {"name":"minecraft:cobblestone", "size":32},
+			"in2": {"OreDict":"oreCopper"},
 			"in3": {},
-			"out1": {name:"minecraft:stone", size:32},
-			"out2": {name:"fp:ItemErze", meta:2, size:1},
+			"out1": {"name":"minecraft:stone", "size":32},
+			"out2": {"name":"fp:ItemErze", "meta":2, "size":1},
 			"out3": {}
 		}
 	},
 		
 		
 	"Technische Daten:",
-	"Lava-Verbrauch: 10 mB pro geschmolzenem Item; Das bedeutet, bei der Benutzung aller 3 Slots benötigt man 3 mal so viel Lava.",
+	"Lava-Verbrauch: 10 mB pro geschmolzenem Item; Das bedeutet, bei der Benutzung aller 3 Slots benÃ¶tigt man 3 mal so viel Lava.",
 	"Obsidianproduktion: 1 Obsidian pro 1000mB verbrauchte Lava",
 	"Geschwindigkeit: 400 Ticks pro Durchlauf (20 sec)",
 	"",
