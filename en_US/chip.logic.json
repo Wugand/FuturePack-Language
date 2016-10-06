@@ -6,15 +6,15 @@
 	{
 		"type": "assembly",
 		"slots": {
-			"in1": {name:"fp:spaceship", meta:<spaceship.Silizium>},
-			"in2": {name:"fp:spaceship", meta:<spaceship.QuartzParts>},
-			"in3": {OreDict:"ingotCopper"},
-			"out": {name:"fp:chip", meta:0, size:1}
+			"in1": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>"},
+			"in2": {"name":"fp:spaceship", "meta":"<spaceship.QuartzParts>"},
+			"in3": {"OreDict":"ingotCopper"},
+			"out": {"name":"fp:chip", "meta":0, "size":1}
 		}
 	},
 	
 	"A logic chipset of high quality (high chippower) has no benefits compared to a normal one!",
 		
 	"Info:",
-	"Chipsets possess 2 critical properties: Their performance (§lchippower§r), which tells the power of their effect, and their cost (§lcorepower§r), which tells the performance needed from the processor."
+	"Chipsets possess 2 critical properties: Their performance (Â§lchippowerÂ§r), which tells the power of their effect, and their cost (Â§lcorepowerÂ§r), which tells the performance needed from the processor."
 ]

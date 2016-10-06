@@ -1,0 +1,14 @@
+[
+	"I've tried to develop an intelligent fishing lure, but something went wrong, so I accidentally developed an egg that absorbs organisms and puts them into stasis.",
+	"Assembly:",
+	{
+		"type": "assembly",
+		"slots": {
+			"in1": {"name":"minecraft:slime_ball", "meta":0, "size":1},
+			"in2": {"name":"minecraft:egg", "meta":0, "size":1},
+			"in3": {"name":"fp:chip", "meta":"<chip.LogicChip>", "size":1},
+			"out": {"name":"fp:entityEgger", "meta":0, "size":1}
+		}
+	},
+	"The \"Entity Egger\" can be thrown, if it hits an organism it will be absorbed. The creature can be released the same way."
+]
