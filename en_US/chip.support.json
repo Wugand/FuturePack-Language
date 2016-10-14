@@ -1,0 +1,16 @@
+[
+    "It's bothersome using flash drives to take support points from machines and then take them somewhere else. Therefore I developed a chip that enables a machine to transfer stored points to nearby receivers by himself.",
+    "Assembly:",
+    {
+        "type": "assembly",
+        "slots": {
+            "in1": {"name":"fp:spaceship","meta":"<spaceship.Silizium>","size":2},
+            "in2": {"name":"fp:spaceship","meta":"<spaceship.QuartzParts>","size":2},
+            "in3": "OreDict:ingotGlowtite",
+            "out": {"name":"fp:chip", "meta":"<chip.SupportChip>", "size":1}
+        }
+    },  
+    "A high quality chipset (high chip power) has no advantages over a normal one!",
+    "Info: A possible deviating effect is mentioned at the corresponding machine.",
+    "Info: For general information, refer to logic chipset."
+]
