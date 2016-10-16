@@ -1,7 +1,7 @@
 [
 	"I created a locker from aluminum and metal blocks. While it provides the same storage space as a standard chest, it is more stable and comes in various designs and colors.",
-	"But the most significant advantage is that even if the locker is moved, its content remains safe.",
-	"Info: The (filled) locker can be broken down and placed again without its content getting lost!",
+	"The most significant advantage is that even if the locker is moved, its contents remain safe.",
+	"Info: The (filled) locker can be broken down and placed again without its contents becoming lost!",
 	"Door - light:",
 	{
 		"type": "crafting",
