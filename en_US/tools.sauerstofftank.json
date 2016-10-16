@@ -1,6 +1,6 @@
 [
-	"To work under water for longer times, I have to take along air. The simple Tanks I created are useful for that, in combination with a light aluminum casing I can take the tanks as a backpack.",
-	"I also added a controller and a compressor, for an automatic refill of the tanks outside of the water.",
+	"To work underwater for longer time periods, I have to take along air. The simple tanks I created are useful for that; and in combination with a light aluminum casing, I can take the tanks as a backpack.",
+	"I also added a controller and a compressor, for automatic refilling of the tanks above water.",
 
 	"Crafting:",
 	{
@@ -21,6 +21,6 @@
 	"Capacity: 2 min",
 	"Refill: 2 min",
 		
-	"Display: The filling level of the tanks is shown using the normal oxygen bar. If it's empty (after 2 min), your oxygen tanks are empty. Your oxygen will be filled up one time, when this happens, and depletes in usual speed.",
-	"Outside of the water the tanks refill slowly, as long as they are equipped."
+	"Display: The fill level of the tanks is shown using the normal oxygen bar. Once it's empty (after 2 min), your oxygen tanks are depleted. Your oxygen level will be filled up once when this happens, and depletes at normal speed.",
+	"Above water, the tanks refill slowly, as long as they are equipped."
 ]
