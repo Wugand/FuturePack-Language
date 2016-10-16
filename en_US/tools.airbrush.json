@@ -1,6 +1,6 @@
 [
 	"I created a tool to color my composite metal blocks.",
-	"It's an airbrush, which accelerates the material in the storage tank and disperses it evenly. The device is able to color blocks, but also to sandblast them. To do this I have to use sand or gravel.",
+	"It's an airbrush, which accelerates the material in the storage tank and disperses it evenly. The device is able to color blocks, but also to sandblast them to remove coloring. To do this I must use sand or gravel.",
 	"Crafting:",
 	{
 		"type": "crafting",
@@ -34,8 +34,8 @@
 		}
 	},
 	"Usage:",
-	"§lsShift + right click§r opens the airbrush inventory, I can insert a color Tank or Sand/Gravel.",
-	"§lright click§r on an Metal/Grid - Block to brush. By sandblasting blocks get back the uncolored state. By using a color Tank it is colored in the corresponding color.",
-	"If a block is colorable or not you can read in their researches. (or by trying).",
-	"Note: A colored Block can't be recolored directly, you have to sandblast it first."
+	"Â§lsShift + right clickÂ§r opens the airbrush inventory, where I can insert a color tank or Sand/Gravel.",
+	"Â§lright clickÂ§r on an Metal/Grid - Block to brush. By sandblasting blocks, they return to their uncolored state. By using a color tank it is colored with the corresponding color.",
+	"You can read in a block's research information if it is colorable or not. (As well as by simply trying).",
+	"Note: A colored block can't be recolored directly, you have to sandblast it first."
 ]
