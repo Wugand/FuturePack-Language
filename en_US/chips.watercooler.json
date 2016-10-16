@@ -1,6 +1,6 @@
 [
     "Because I want to strongly overclock the machines to reach maximized speeds, I invented an active watercooler.",
-    "I don't want to waste the energy though, so the cooling and creation of steam really kicks in at about 100°C.",
+    "I don't want to waste the energy though, so the cooling and creation of steam really kicks in at about 100Â°C.",
 	"Crafting:",
     {
         "type": "crafting",
@@ -17,5 +17,5 @@
             "out": {"name":"fp:water_cooler", "meta":0}
         }
     },
-	"I can bring water buckets into the cooler using item pipes, though steam emits from the top, so I can only input items from the sides."
+	"I can bring water buckets into the cooler using item pipes; however, steam emits from the top, so I can only input items from the sides."
 ]
