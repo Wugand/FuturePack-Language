@@ -291,7 +291,7 @@ tile.erzBlocke_kristall_block_retium.name=Retiumkristallblock
 tile.erzBlocke_kristall_block_Glowtit.name=Glowtitkristallblock
 tile.erzBlocke_kristall_block_bioterium.name=Bioteriumkristallblock
 tile.erzBlocke_kristall_block_alutin.name=Alutinkristallblock
-tile.erzBlocke_metalBlock_luftschacht.name=Lüftung
+tile.erzBlocke_metalBlocke_metal_block_luftschacht.name=Lüftung
 tile.uncolorPane.name=Gitter
 tile.uncolorGitter.name=Gitterblock
 tile.claime.name=Claime-Überträger
@@ -346,6 +346,10 @@ tile.fuelcell.name=Treibstofftank
 tile.dirt_M.name=Menelaus Erde
 tile.ftl_drive.name=FTL Block
 tile.advanced_boardcomputer.name=Erweiterter Bordcomputer
+
+tile.modular_door.name=Modulares Tor
+
+fluid.liquid.neon=Neonflüssigkeit
 
 item.scrench.name=Schraubendrehschlüssel
 item.NeonBattery.name=Leere Neonbatterie
@@ -529,6 +533,8 @@ itemGroup.fpTab.items=Future Pack-Gegenstände
 
 container.opticrafting=Optibench
 container.collector=Ionenkollektor
+
+potion.paralyze=Paralyse
 
 gui.fp.wandrope=Wandschrank
 
