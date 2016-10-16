@@ -1,6 +1,6 @@
 [
-	"It seems that the neon energy is the key to many new technologies, so I created a module to improve my Researcher. It allows me to do more researches using this type of energy.",
-	"The Module must be directly connected to the Researcher, that means that all work is done in the Researcher as usual.",
+	"It seems that the neon energy is the key to many new technologies, so I created a module to improve my Researcher. It allows me to do more research using this type of energy.",
+	"The Module must be directly connected to the Researcher. All work is done in the Researcher as usual.",
 	
 	"Crafting:",
 	{
@@ -18,5 +18,5 @@
 			"out": [{name:"fp:modul_1",meta:2},{name:"fp:modul_1",meta:6},{name:"fp:modul_1",meta:10}]
 		}
 	},	
-	"The module stores up to 10000 NE, if this not enough for a research you can use more modules or wait until its fills up again. The energy can be inserted by cables or batteries."
+	"The module stores up to 10000 NE, if this not enough for a research project, you can use more modules or wait until it fills up again. The energy can be provided by cables or batteries."
 ]
