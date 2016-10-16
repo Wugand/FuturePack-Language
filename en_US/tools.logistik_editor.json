@@ -1,5 +1,5 @@
 [
-	"I created a multifunction tool, to adjust the input/output behavior of my machines.",
+	"I created a multitool to adjust the input/output behavior of my machines.",
 	"Crafting:",
 	{
 		"type": "crafting",
@@ -18,10 +18,10 @@
 	},
 	
 	"Usage:",
-	"By §lright click§r (in the air) the mode can be switched, among:",
+	"By Â§lright clickÂ§r (in the air) the modes can be switched, among:",
 	"Energy, Support, Network, Items, Fluids",
-	"In every single mode you will see an overlay (colored boarder) on the faces of your machines, if they support this mode.",
-	"By §lShift + right click§r you can configure the side for:",
+	"In each mode you will see an overlay (colored border) on the faces of your machines if they support this mode.",
+	"By Â§lShift + right clickÂ§r you can configure the sides to be:",
 	"Inactive (no symbol), Input (green arrow), Output (red arrow), Input+Output (both)",
-	"You can only select modes and configurations that are useful for the targeted machine."
+	"You can only select modes and configurations that are relative to the target machine."
 ]
