@@ -1,6 +1,6 @@
 [
-	"I have developed a special Workbench, it has an internal item-storage to make my crafting more efficient.",
-	"Only this Workbench has the facilities for all of my future Crafting-Recipes, which I will discover.",
+	"I have developed a special workbench which has internal item storage to make my crafting more efficient.",
+	"Only this workbench has the facilities for all of my future crafting recipes, which I will soon discover.",
 
 	"Crafting:",
 	{
@@ -18,6 +18,6 @@
 			"out": {"name":"fp:techtable","meta":0}
 		}
 	},
-	"IMPORTANT: All Crafting-Recipes enabled by this mod ONLY possible in this Workbench!"
+	"IMPORTANT: All crafting recipes enabled by this mod are ONLY possible in this workbench!"
 
 ]
