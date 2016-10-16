@@ -1,8 +1,8 @@
 [
-	"I improved the simple Industrial Furnace with my newest technologies. Now it consumes Neon-Energy and got an upgradable computer system.",
-	"The Neon Industrial Furnace is featured with some sensors and precisely controllable heating coils. So it can perfectly control the smelting process.",
-	"With this new abilities I was also able to renew my old recipes, to make them more efficient. (all Recipes are listed in the following Researches)",
-	"I am sure, that there are more functions that I can apply to the machine. Also I have integrated a system for consumption of support points, which I can use in complex recipes.",
+	"I improved the simple Industrial Furnace with my newest technologies. Now it consumes Neon Energy and received an upgradable computer system.",
+	"The Neon Industrial Furnace features some sensors and precisely adjustable heating coils. So it can perfectly control the smelting process.",
+	"With these new abilities, I was also able to modify my old recipes to make them more efficient. (all Recipes are listed in the following Researches)",
+	"I am sure that there are more uses for this machine. I have also integrated a system for consumption of support points, which I can use in more complex recipes.",
 
 	"Crafting:",
 	{
@@ -21,5 +21,5 @@
 		}
 	},
 
-	"Important: The insertion of support points (SP) is not able, by using the Flash Memories. Required technique will be researchable later!"
+	"Important: The consumption of support points (SP) is not able to be done by using the Flash Memory. The required technique will be researchable later!"
 ]
