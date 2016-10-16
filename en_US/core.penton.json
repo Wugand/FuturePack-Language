@@ -1,6 +1,6 @@
 [
-	"With this Core series I have reached my current possibilities, I am not able to add more units on a processor. In this series I upgraded the connectors inside the core to gold ones, because gold have much better conductivity.",
-	"I reached another improvement by adding a build-in unit for the processing and the output of Support data. This extremely relieved the unspecified part of the processor.",
+	"With this Core series, I have reached the limit to my current possibilities. I am not able to add any more units on a processor. In this series I upgraded the connectors inside the core to gold ones, as gold has much better conductivity.",
+	"I developed an additional improvement by adding a built-in unit for the processing and output of Support data. This extremely relieved the work load on the unspecified part of the processor.",
 
 	"Assembly:",
 	{
@@ -13,5 +13,5 @@
 		}
 	},
 	
-	"Hint: Refer \"Standart Core\" for general informations."
+	"Hint: Refer to \"Standart Core\" for general informations."
 ]
