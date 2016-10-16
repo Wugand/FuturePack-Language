@@ -1,5 +1,5 @@
 [
-	"I created a more complex structure from compound metal, a solid metal fence.",
+	"I created a more complex structure from compound metal: a solid metal fence.",
 	"Crafting:",
 	{
 		"type": "crafting",
@@ -16,5 +16,5 @@
 			"out": {name:"fp:metal_fence", meta:0, size:3}
 		}
 	},	
-	"Info: One can use the airbrush to color/sandblast the block."
+	"Information: This block can be (un)colored using the air brush."
 ]
