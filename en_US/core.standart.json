@@ -12,5 +12,5 @@
 		}
 	},
 	"Info:",
-	"Processors possess 1 critical property: Their capacity (§lcore§r), which tells the maximum load (refer chipset/memory) the processor can handle before it begins to heat up. When the temperature exceeds 1000C it'll go kaput!",
+	"Processors possess 1 critical property: Their capacity (Â§lcoreÂ§r), which indicates the maximum load (refer to chipset/memory) the processor can handle before it begins to heat up. When the temperature exceeds 1000C it'll go kaput!",
 ]
