@@ -1,6 +1,6 @@
 [
-	"I developed an upgrade for my machines, which consists of a principle akin to the item pusher in combination with a specialized chipset.",
-	"This system ensures that the machines put out their products or no longer required materials to a side assigned as output. The assignment of this side is done using the logistics-editor.",
+	"I developed an upgrade for my machines, which consists of a principle similar to the item pusher in combination with a specialized chipset.",
+	"This system ensures that the machines expel their products or materials that are no longer needed to a side assigned as output. The assignment of this side is done using the logistics-editor.",
 
 	"Assembly:",
 	{
@@ -14,6 +14,6 @@
 	},	
 	
 	"A high quality transport chipset (high chip power) has no advantages over a normal one!",
-	"Info: A possible deviating effect is mentioned at the corresponding machine.",
+	"Info: Any possible differing effect is mentioned at the corresponding machine.",
 	"Info: For general information, refer to logic chipset."
 ]
