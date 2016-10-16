@@ -1,5 +1,5 @@
 [
-	"I have programmed a special Chipset, which deactivate the whole machine if their temperature is to high. This prevents overheating and the destruction of the components.",
+	"I have programmed a special chipset, which deactivates the whole machine if its temperature becomes too high. This prevents overheating and the destruction of the components.",
 	"Assembly:",
 	{
 		"type": "assembly",
@@ -11,6 +11,6 @@
 		}
 	},
 	
-	"A damage chipset of high quality (high chippower) has no benefits compared to a normal one!",
-	"Hint: Refer \"Logic Chipset\" for general information."
+	"A damage chipset of high quality (high chip power) has no benefits compared to a normal one!",
+	"Hint: Refer to \"Logic Chipset\" for general information."
 ]
