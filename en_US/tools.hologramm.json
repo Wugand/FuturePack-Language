@@ -17,8 +17,8 @@
 			"out": {"name":"fp:hologramcontroler"}
 		}
 	},
-	"shift-click to save structure",
-	"simple click to change the appearance",
+	"§lShift + right click§r to save structure",
+	"simple §lright click§r to change the appearance",
 	"Note: Some structures are too complex to be saved.",
 	"Supported blocks:\nAny tubes \nAny cables\n"
 ]
