@@ -1,20 +1,20 @@
 [
-	"Aus ein paar Eisenelementen und einigen Siliziumchips kann ich eine Vielzahl von Anzeigen und Bedienelementen herstellen, die sich in vielen Verwendungen als \"n¸tzlich\" erweisen.",
-	"Information: Der Monitor ist rein dekorativ und verh‰lt sich wie ein Gem‰lde!",
+	"Aus ein paar Eisenelementen und einigen Siliziumchips kann ich eine Vielzahl von Anzeigen und Bedienelementen herstellen, die sich in vielen Verwendungen als \"n√ºtzlich\" erweisen.",
+	"Information: Der Monitor ist rein dekorativ und verh√§lt sich wie ein Gem√§lde!",
 	"Crafting:",
 	{
 		"type": "crafting",
 		"slots": {
-			"1": {name:"fp:spaceship", meta:<spaceship.IronStick>},
-			"2": {name:"fp:spaceship", meta:<spaceship.IronStick>},
-			"3": {name:"fp:spaceship", meta:<spaceship.IronStick>},
-			"4": {name:"fp:spaceship", meta:<spaceship.IronStick>},
-			"5": {name:"fp:spaceship", meta:<spaceship.Silizium>},
-			"6": {name:"fp:spaceship", meta:<spaceship.IronStick>},
-			"7": {name:"fp:spaceship", meta:<spaceship.IronStick>},
-			"8": {name:"fp:spaceship", meta:<spaceship.IronStick>},
-			"9": {name:"fp:spaceship", meta:<spaceship.IronStick>},
-			"out": [{name:"fp:spaceship", meta:<spaceship.Display>}]
+			"1": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
+			"2": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
+			"3": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
+			"4": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
+			"5": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>"},
+			"6": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
+			"7": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
+			"8": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
+			"9": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
+			"out": [{"name":"fp:spaceship", "meta":"<spaceship.Display>"}]
 		}
-	},
+	}
 ]

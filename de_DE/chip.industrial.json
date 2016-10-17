@@ -1,19 +1,19 @@
 [
-	"Ich habe einen spezialisierten Chipsatz entwickelt, mit dem ich die Effizienz von Maschinen erhöhen kann.",
-	"Einsetzbar ist der Chipsatz vor allem bei Energieproduzenten, wo er für besser geregelte Erzeugung und Umwandlung von Energie sorgt. Dadurch erhöht er die Energieerzeugung pro Takt oder die Ausbeute der Ressourcen.",
+	"Ich habe einen spezialisierten Chipsatz entwickelt, mit dem ich die Effizienz von Maschinen erhÃ¶hen kann.",
+	"Einsetzbar ist der Chipsatz vor allem bei Energieproduzenten, wo er fÃ¼r besser geregelte Erzeugung und Umwandlung von Energie sorgt. Dadurch erhÃ¶ht er die Energieerzeugung pro Takt oder die Ausbeute der Ressourcen.",
 
 	"Assembly:",
 	{
 		"type": "assembly",
 		"slots": {
-			"in1": {name:"fp:spaceship", meta:<spaceship.Silizium>},
-			"in2": {name:"fp:spaceship", meta:<spaceship.QuartzParts>},
-			"in3": {OreDict:"ingotTin"},
-			"out": {name:"fp:chip", meta:<chip.ProduktionChip>, size:1}
+			"in1": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>"},
+			"in2": {"name":"fp:spaceship", "meta":"<spaceship.QuartzParts>"},
+			"in3": {"OreDict":"ingotTin"},
+			"out": {"name":"fp:chip", "meta":"<chip.ProduktionChip>", "size":1}
 		}
 	},
 	
-	"Ein qualitativ hochwertiger Industriechipsatz (hohe Chippower), sowie der Einbau von mehreren Chipsätzen erhöht entsprechend den Effekt.",
+	"Ein qualitativ hochwertiger Industriechipsatz (hohe Chippower), sowie der Einbau von mehreren ChipsÃ¤tzen erhÃ¶ht entsprechend den Effekt.",
 	"Info: Der genaue Effekt ist bei der entsprechenden Maschine vermerkt.",
-	"Info: Für allgemeine Informationen siehe Logikchipsatz."
+	"Info: FÃ¼r allgemeine Informationen siehe Logikchipsatz."
 ]

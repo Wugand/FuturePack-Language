@@ -1,19 +1,19 @@
 [
-	"Ich habe eine Spitzhacke aus Verbundmetall entwickelt, sie ist wesentlich stabiler und langlebiger als die herkömmlichen Werkzeuge. Vor allem der Eisenstiel trägt zur Haltbarkeit der Spitzhacke bei.",
+	"Ich habe eine Spitzhacke aus Verbundmetall entwickelt, sie ist wesentlich stabiler und langlebiger als die herkÃ¶mmlichen Werkzeuge. Vor allem der Eisenstiel trÃ¤gt zur Haltbarkeit der Spitzhacke bei.",
 	"Crafting:",
 	{
 		"type": "crafting",
 		"slots": {
-			"1": {name:"fp:spaceship", meta:<spaceship.CompositeMetall>},
-			"2": {name:"fp:spaceship", meta:<spaceship.CompositeMetall>},
-			"3": {name:"fp:spaceship", meta:<spaceship.CompositeMetall>},
+			"1": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"2": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"3": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
 			"4": {},
-			"5": {name:"fp:spaceship", meta:<spaceship.IronStick>},
+			"5": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
 			"6": {},
 			"7": {},
-			"8": {name:"fp:spaceship", meta:<spaceship.IronStick>},
+			"8": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
 			"9": {},
-			"out": {name:"fp:composite_pickaxe"}
+			"out": {"name":"fp:composite_pickaxe"}
 		}
 	}
 ]

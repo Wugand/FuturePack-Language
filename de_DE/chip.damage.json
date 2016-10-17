@@ -1,5 +1,5 @@
 [
-	"Ich habe einen spezialisierten Chipsatz entwickelt, der die Maschine ab einer bestimmten Temperatur automatisch abschaltet, dies verhindert das Bauteile durch Überhitzung zerstört werden.",
+	"Ich habe einen spezialisierten Chipsatz entwickelt, der die Maschine ab einer bestimmten Temperatur automatisch abschaltet, dies verhindert das Bauteile durch Ãœberhitzung zerstÃ¶rt werden.",
 	"Assembly:",
 	{
 		"type": "assembly",
@@ -11,6 +11,6 @@
 		}
 	},
 	
-	"Ein qualitativ hochwertiger Schadenskontrollchipsatz (hohe Chippower) sorgt für höhere Abschalttemperaturen.",
-	"Info: Für allgemeine Informationen siehe Logikchipsatz."
+	"Ein qualitativ hochwertiger Schadenskontrollchipsatz (hohe Chippower) sorgt fÃ¼r hÃ¶here Abschalttemperaturen.",
+	"Info: FÃ¼r allgemeine Informationen siehe Logikchipsatz."
 ]

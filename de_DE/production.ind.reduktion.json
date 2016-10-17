@@ -1,13 +1,13 @@
 [
 	"Mit Hilfe von Kohle kann ich im Industrieofen manchen Stoffen Sauerstoff und andere Fremdstoffe entziehen.",
-	"Bei der Anwendung auf Sand habe ich so Silizium erhalten, ein br‰unlich gl‰nzender Feststoff. Vielleicht kann ich sp‰ter daraus noch etwas herstellen ...",
+	"Bei der Anwendung auf Sand habe ich so Silizium erhalten, ein br√§unlich gl√§nzender Feststoff. Vielleicht kann ich sp√§ter daraus noch etwas herstellen ...",
 	{
 		"type": "industrialfurnace",
 		"slots": {
-			"in1":  [{name:"minecraft:coal", meta:0, size:1},{name:"minecraft:coal", meta:0, size:1}],
-			"in2":  [{name:"minecraft:coal", meta:0, size:1},{name:"minecraft:coal", meta:0, size:1}],
-			"in3":  {OreDict:"sand"},
-			"out1": {name:"fp:spaceship",  meta:<spaceship.Silizium>, size:4},
+			"in1":  [{"name":"minecraft:coal", "meta":0, "size":1},{"name":"minecraft:coal", "meta":0, "size":1}],
+			"in2":  [{"name":"minecraft:coal", "meta":0, "size":1},{"name":"minecraft:coal", "meta":0, "size":1}],
+			"in3":  {"OreDict":"sand"},
+			"out1": {"name":"fp:spaceship",  "meta":"<spaceship.Silizium>", "size":4},
 			"out2": {},
 			"out3": {}
 		}
@@ -16,10 +16,10 @@
 	{
 		"type": "industrialfurnace",
 		"slots": {
-			"in1":  [{name:"minecraft:coal", meta:0, size:1},{name:"minecraft:coal", meta:0, size:1}],
-			"in2":  [{OreDict:"gemNeon"},{OreDict:"gemAluminum"},{OreDict:"gemGlowtite"},{OreDict:"gemRetium"},{OreDict:"gemBioterium"}],
-			"in3":  [{OreDict:"gemNeon"},{OreDict:"gemAluminum"},{OreDict:"gemGlowtite"},{OreDict:"gemRetium"},{OreDict:"gemBioterium"}],
-			"out1": [{OreDict:"ingotNeon"},{OreDict:"ingotAluminum"},{OreDict:"ingotGlowtite"},{OreDict:"ingotRetium"},{OreDict:"ingotBioterium"}],
+			"in1":  [{"name":"minecraft:coal", "meta":0, "size":1},{"name":"minecraft:coal", "meta":0, "size":1}],
+			"in2":  [{"OreDict":"gemNeon"},{"OreDict":"gemAluminum"},{"OreDict":"gemGlowtite"},{"OreDict":"gemRetium"},{"OreDict":"gemBioterium"}],
+			"in3":  [{"OreDict":"gemNeon"},{"OreDict":"gemAluminum"},{"OreDict":"gemGlowtite"},{"OreDict":"gemRetium"},{"OreDict":"gemBioterium"}],
+			"out1": [{"OreDict":"ingotNeon"},{"OreDict":"ingotAluminum"},{"OreDict":"ingotGlowtite"},{"OreDict":"ingotRetium"},{"OreDict":"ingotBioterium"}],
 			"out2": {},
 			"out3": {}
 		}

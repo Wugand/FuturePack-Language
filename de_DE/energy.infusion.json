@@ -1,27 +1,27 @@
 [
-	"Die hier vorkommenden Kristalle kˆnnen Lebewesen betr‰chtlichen Schaden zuf¸gen. Durch genauere Analyse habe ich herausgefunden, dass die Kristalle eine Wechselwirkung mit organischer Substanz eingehen, dabei wird das organische Material aufgelˆst und ebenso die Kristallstruktur aufgebrochen. Dabei wird die Energie des organischen Materials als W‰rme freigesetzt.",
-	"Mit diesem Prinzip habe ich einen Generator entwickelt, der Kristallfragmente in Lebensmittel oder Brennmaterial (auﬂer Lava, Kohle) injiziert und die freigesetzte W‰rme in Neonenergie umgewandelt. Als Abfallprodukt entsteht dabei Kristallstaub.",
+	"Die hier vorkommenden Kristalle k√∂nnen Lebewesen betr√§chtlichen Schaden zuf√ºgen. Durch genauere Analyse habe ich herausgefunden, dass die Kristalle eine Wechselwirkung mit organischer Substanz eingehen, dabei wird das organische Material aufgel√∂st und ebenso die Kristallstruktur aufgebrochen. Dabei wird die Energie des organischen Materials als W√§rme freigesetzt.",
+	"Mit diesem Prinzip habe ich einen Generator entwickelt, der Kristallfragmente in Lebensmittel oder Brennmaterial (au√üer Lava, Kohle) injiziert und die freigesetzte W√§rme in Neonenergie umgewandelt. Als Abfallprodukt entsteht dabei Kristallstaub.",
 	
 	"Crafting:",
 	{
 		"type": "crafting",
 		"slots": {
-			"1": {name:"fp:spaceship", meta:<spaceship.IronStick>},
-			"2": {name:"minecraft:furnace"},
-			"3": {name:"fp:spaceship", meta:<spaceship.IronStick>},
-			"4": {OreDict:"ingotZinc"},
-			"5": [{name:"fp:color_iron",meta:0},{name:"fp:color_iron",meta:8},{name:"fp:color_iron",meta:15}],
-			"6": {OreDict:"ingotZinc"},
-			"7": {name:"fp:spaceship", meta:<spaceship.CompositeMetall>},
-			"8": {name:"fp:spaceship", meta:<spaceship.Maschinboard>},
-			"9": {name:"fp:spaceship", meta:<spaceship.CompositeMetall>},
-			"out": [{name:"fp:plasma_generator_on",meta:2},{name:"fp:plasma_generator_on",meta:6},{name:"fp:plasma_generator_on",meta:10}]
+			"1": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
+			"2": {"name":"minecraft:furnace"},
+			"3": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
+			"4": {"OreDict":"ingotZinc"},
+			"5": [{"name":"fp:color_iron","meta":0},{"name":"fp:color_iron","meta":8},{"name":"fp:color_iron","meta":15}],
+			"6": {"OreDict":"ingotZinc"},
+			"7": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"8": {"name":"fp:spaceship", "meta":"<spaceship.Maschinboard>"},
+			"9": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"out": [{"name":"fp:plasma_generator_on","meta":2},{"name":"fp:plasma_generator_on","meta":6},{"name":"fp:plasma_generator_on","meta":10}]
 		}
 	},
 	
-	"Die Menge an Energie, die aus einer Kombination erzeugt wird ist Abh‰ngigkeit von: Dem Wert der Industirechips‰tze, der Art des Kristalls und dem N‰hrwert/Brennwert des organischen Materials.",
-	"Durch die Erhˆhung des \"Ram\"-Wertes wird diese Energie entsprechend schneller erzeugt und abgegeben.",
+	"Die Menge an Energie, die aus einer Kombination erzeugt wird ist Abh√§ngigkeit von: Dem Wert der Industirechips√§tze, der Art des Kristalls und dem N√§hrwert/Brennwert des organischen Materials.",
+	"Durch die Erh√∂hung des \"Ram\"-Wertes wird diese Energie entsprechend schneller erzeugt und abgegeben.",
 	
-	"Unterst¸tzte Chips‰tze:",
+	"Unterst√ºtzte Chips√§tze:",
 	"Logikchipsatz\nIndustriechipsatz (Energieausbeute)\nTransportchipsatz\nRedstonesteuerungschipsatz\nSchadenskontrollchipsatz"	
 ]

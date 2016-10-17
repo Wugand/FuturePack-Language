@@ -1,22 +1,22 @@
 [
-	"Ich habe einen Elektromagnet entwickelt der deutlich st‰rker ist, als ein normaler Magnetblock. Im Gegensatz zu diesem braucht er allerdings Neonenergie. Auﬂerdem kann man in mir Redstonesignalen ein- und ausschalten.",
+	"Ich habe einen Elektromagnet entwickelt der deutlich st√§rker ist, als ein normaler Magnetblock. Im Gegensatz zu diesem braucht er allerdings Neonenergie. Au√üerdem kann man in mir Redstonesignalen ein- und ausschalten.",
 	"Crafting:",
 	{
 		"type": "crafting",
 		"slots": {
-			"1": {name:"fp:spaceship",meta:"<spaceship.CopperCoil>"},
-			"2": {name:"fp:magnet",meta:0},
-			"3": {name:"fp:spaceship",meta:"<spaceship.CopperCoil>"},
-			"4": {name:"fp:spaceship",meta:"<spaceship.CompositeMetall>"},
-			"5": {name:"fp:color_iron",meta:15},
-			"6": {name:"fp:spaceship",meta:"<spaceship.CompositeMetall>"},
+			"1": {"name":"fp:spaceship","meta":"<spaceship.CopperCoil>"},
+			"2": {"name":"fp:magnet","meta":0},
+			"3": {"name":"fp:spaceship","meta":"<spaceship.CopperCoil>"},
+			"4": {"name":"fp:spaceship","meta":"<spaceship.CompositeMetall>"},
+			"5": {"name":"fp:color_iron","meta":15},
+			"6": {"name":"fp:spaceship","meta":"<spaceship.CompositeMetall>"},
 			"7": "OreDict:ingotNeon",
-			"8": {name:"fp:spaceship",meta:"<spaceship.Maschinboard>"},
+			"8": {"name":"fp:spaceship","meta":"<spaceship.Maschinboard>"},
 			"9": "OreDict:ingotNeon",
-			"out": {name:"fp:elektro_magnet",meta:0}
+			"out": {"name":"fp:elektro_magnet","meta":0}
 		}
 	},
-	"Dieser Magnetblock wird ¸ber ein Computersystem gesteuert, um die Spule von einer ‹berhitzung abzuhalten und um die magnetische Intensit‰t besser steuern zu kˆnnen. Es sollte beachtet werden, dass die Geschwindigkeit des Rams die Frequenz des Magnetfelds bestimmt. Dadurch kann durch Interferenzen das Magnetfeld um einiges st‰rker werden, als normale Elektromagneten es erzeugen kˆnnten.",
-	"unterst¸tzte Chips‰tze:\nIndustriechipsatz",
+	"Dieser Magnetblock wird √ºber ein Computersystem gesteuert, um die Spule von einer √úberhitzung abzuhalten und um die magnetische Intensit√§t besser steuern zu k√∂nnen. Es sollte beachtet werden, dass die Geschwindigkeit des Rams die Frequenz des Magnetfelds bestimmt. Dadurch kann durch Interferenzen das Magnetfeld um einiges st√§rker werden, als normale Elektromagneten es erzeugen k√∂nnten.",
+	"unterst√ºtzte Chips√§tze:\nIndustriechipsatz"
 	
 ]

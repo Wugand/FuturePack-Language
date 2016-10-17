@@ -1,6 +1,6 @@
 [
-    "Da ich Maschinen stark übertakten will, um maximale Geschwindigkeiten zu bekommen, habe ich einen aktiven Wasserkühler erfunden.",
-    "Allerdings will ich die Energie nicht verschwenden, deswegen wird erst ab ~100°C richtig gekühlt und Wasserdampf erzeugt.",
+    "Da ich Maschinen stark Ã¼bertakten will, um maximale Geschwindigkeiten zu bekommen, habe ich einen aktiven WasserkÃ¼hler erfunden.",
+    "Allerdings will ich die Energie nicht verschwenden, deswegen wird erst ab ~100Â°C richtig gekÃ¼hlt und Wasserdampf erzeugt.",
 	"Crafting:",
     {
         "type": "crafting",
@@ -17,5 +17,5 @@
             "out": {"name":"fp:water_cooler", "meta":0}
         }
     },
-	"Über Item-Rohre kann ich Wassereimer in den Kühler bringen, allerdings kommt auf der Oberseite der Dampf heraus, ich kann also nur an den Seiten Items einführen."
+	"Ãœber Item-Rohre kann ich Wassereimer in den KÃ¼hler bringen, allerdings kommt auf der Oberseite der Dampf heraus, ich kann also nur an den Seiten Items einfÃ¼hren."
 ]

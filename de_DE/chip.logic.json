@@ -1,20 +1,20 @@
 [
-	"Mein Studien ergaben, dass kleine Quarzkristalle sowohl als Takterzeuger, als auch zum dauerhaften Speichern einmalig eingegebener Informationen genutzt werden können.",
-	"In Kombination mit einiger Steuerlogik aus Silizium und einigen Energieleitern aus Kupfer habe ich einen universellen Chipsatz entwickelt, welcher vor allem als Brücke zwischen Prozessor und Außenwelt dient.",
-	"Allerdings enthält dieser Logikchipsatz auch grundlegenden Programmcode für den Prozessor, der das Starten des Systems ermöglicht. Damit wird jedes System vorerst einen dieser Chipsätze benötigen.",
+	"Mein Studien ergaben, dass kleine Quarzkristalle sowohl als Takterzeuger, als auch zum dauerhaften Speichern einmalig eingegebener Informationen genutzt werden kÃ¶nnen.",
+	"In Kombination mit einiger Steuerlogik aus Silizium und einigen Energieleitern aus Kupfer habe ich einen universellen Chipsatz entwickelt, welcher vor allem als BrÃ¼cke zwischen Prozessor und AuÃŸenwelt dient.",
+	"Allerdings enthÃ¤lt dieser Logikchipsatz auch grundlegenden Programmcode fÃ¼r den Prozessor, der das Starten des Systems ermÃ¶glicht. Damit wird jedes System vorerst einen dieser ChipsÃ¤tze benÃ¶tigen.",
 		"Assembly:",
 	{
 		"type": "assembly",
 		"slots": {
-			"in1": {name:"fp:spaceship", meta:<spaceship.Silizium>},
-			"in2": {name:"fp:spaceship", meta:<spaceship.QuartzParts>},
-			"in3": {OreDict:"ingotCopper"},
-			"out": {name:"fp:chip", meta:0, size:1}
+			"in1": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>"},
+			"in2": {"name":"fp:spaceship", "meta":"<spaceship.QuartzParts>"},
+			"in3": {"OreDict":"ingotCopper"},
+			"out": {"name":"fp:chip", "meta":0, "size":1}
 		}
 	},
 	
-	"Ein qualitativ hochwertiger Logikchipsatz (hohe Chippower) erbringt gegenüber eines normalen keinerlei Vorteile!",
+	"Ein qualitativ hochwertiger Logikchipsatz (hohe Chippower) erbringt gegenÃ¼ber eines normalen keinerlei Vorteile!",
 		
 	"Information:",
-	"Chipsätze haben 2 entscheidende Werte: ihre Leistung (§lChippower§r), welche die Stärke ihres Effekts angibt und ihre Kosten (§lCorepower§r), welche den Leistungsanspruch an den Prozessor angibt."
+	"ChipsÃ¤tze haben 2 entscheidende Werte: ihre Leistung (Â§lChippowerÂ§r), welche die StÃ¤rke ihres Effekts angibt und ihre Kosten (Â§lCorepowerÂ§r), welche den Leistungsanspruch an den Prozessor angibt."
 ]

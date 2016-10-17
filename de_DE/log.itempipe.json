@@ -1,24 +1,24 @@
 [
-	"Ich habe meine Idee eines Item - Transportsystems umgesetzt. Ich konnte ein einfaches Rohr entwickeln, es besteht aus einem Aluminiumgerüst und Sichtfenstern aus Glas.",
-	"Das Rohr kann ich frei platzieren und Items mit Hilfe von Trichtern oder beliebigen anderen Apparaturen in eines der Rohrsegmente füllen. Das in die Rohrleitung gefüllte Item wird in diesem Segment gelagert bis ein geeignetes Ziel gefunden wurde, dabei wird das nächstgelegene Inventar bevorzugt.",
-	"Falls das Item nicht abtransportiert werden kann blockiert es dieses Rohrsegement (dies gilt nur für das einfüllen neuer Items)",
+	"Ich habe meine Idee eines Item - Transportsystems umgesetzt. Ich konnte ein einfaches Rohr entwickeln, es besteht aus einem AluminiumgerÃ¼st und Sichtfenstern aus Glas.",
+	"Das Rohr kann ich frei platzieren und Items mit Hilfe von Trichtern oder beliebigen anderen Apparaturen in eines der Rohrsegmente fÃ¼llen. Das in die Rohrleitung gefÃ¼llte Item wird in diesem Segment gelagert bis ein geeignetes Ziel gefunden wurde, dabei wird das nÃ¤chstgelegene Inventar bevorzugt.",
+	"Falls das Item nicht abtransportiert werden kann blockiert es dieses Rohrsegement (dies gilt nur fÃ¼r das einfÃ¼llen neuer Items)",
 	
 	"Crafting:",
 	{
 		"type": "crafting",
 		"slots": {
-			"1": {OreDict:"ingotAluminum"},
-			"2": {OreDict:"ingotAluminum"},
-			"3": {OreDict:"ingotAluminum"},
-			"4": {OreDict:"blockGlassColorless"},
-			"5": {OreDict:"blockGlassColorless"},
-			"6": {OreDict:"blockGlassColorless"},
-			"7": {OreDict:"ingotAluminum"},
-			"8": {OreDict:"ingotAluminum"},
-			"9": {OreDict:"ingotAluminum"},
-			"out": {name:"fp:pipe", meta:0, size:16}
+			"1": {"OreDict":"ingotAluminum"},
+			"2": {"OreDict":"ingotAluminum"},
+			"3": {"OreDict":"ingotAluminum"},
+			"4": {"OreDict":"blockGlassColorless"},
+			"5": {"OreDict":"blockGlassColorless"},
+			"6": {"OreDict":"blockGlassColorless"},
+			"7": {"OreDict":"ingotAluminum"},
+			"8": {"OreDict":"ingotAluminum"},
+			"9": {"OreDict":"ingotAluminum"},
+			"out": {"name":"fp:pipe", "meta":0, "size":16}
 		}
 	},
 	
-	"Einstellungen: Mit dem Schraubendrehschlüssel kann ich einzelnen Seiten des Rohrs umstellen, damit sie sich nicht mehr mit anderen Rohren und Inventaren verbinden. (§lRechstklick§r auf die entsprechende Seite des Rohrs)"
+	"Einstellungen: Mit dem SchraubendrehschlÃ¼ssel kann ich einzelnen Seiten des Rohrs umstellen, damit sie sich nicht mehr mit anderen Rohren und Inventaren verbinden. (Â§lRechstklickÂ§r auf die entsprechende Seite des Rohrs)"
 ]

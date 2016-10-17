@@ -1,21 +1,21 @@
 [
-	"Ein einfacher Stabmagnet ist zwar gut, ist aber relativ schwach. Deshalb habe ich viele Stabmagnete zu einem groﬂen Magnetblock verbunden.",
+	"Ein einfacher Stabmagnet ist zwar gut, ist aber relativ schwach. Deshalb habe ich viele Stabmagnete zu einem gro√üen Magnetblock verbunden.",
 	"Crafting:",
 	{
 		"type": "crafting",
 		"slots": {
-			"1": {name:"fp:ItemErze",meta:4},
-			"2": {name:"fp:ItemErze",meta:4},
-			"3": {name:"fp:ItemErze",meta:4},
-			"4": {name:"fp:ItemErze",meta:4},
+			"1": {"name":"fp:ItemErze","meta":4},
+			"2": {"name":"fp:ItemErze","meta":4},
+			"3": {"name":"fp:ItemErze","meta":4},
+			"4": {"name":"fp:ItemErze","meta":4},
 			"5": "OreDict:ingotMagnetite",
-			"6": {name:"fp:ItemErze",meta:4},
-			"7": {name:"fp:ItemErze",meta:4},
-			"8": {name:"fp:ItemErze",meta:4},
-			"9": {name:"fp:ItemErze",meta:4},
-			"out": {name:"fp:magnet",meta:0}
+			"6": {"name":"fp:ItemErze","meta":4},
+			"7": {"name":"fp:ItemErze","meta":4},
+			"8": {"name":"fp:ItemErze","meta":4},
+			"9": {"name":"fp:ItemErze","meta":4},
+			"out": {"name":"fp:magnet","meta":0}
 		}
 	},
-	"Er kann in einem Radius von 5 Blˆcken Items, Minecarts und andere Objekte aus Metall anziehen.",
+	"Er kann in einem Radius von 5 Bl√∂cken Items, Minecarts und andere Objekte aus Metall anziehen.",
 	"Ich frage mich wie andere Magneten auf diesen Block reagieren."
 ]

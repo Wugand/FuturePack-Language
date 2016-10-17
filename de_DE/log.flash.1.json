@@ -1,19 +1,19 @@
 [
 	"Die von meinen Maschinen produzierten Supportpunkte kann ich nicht einfach Transportieren, da es eigentlich nur Daten sind. Deshalb habe ich eine Art Flash-Speicher entwickelt, in denen ich eine gewisse Menge der Supportpunkte aufbewahren und transportieren kann.",
-	"Dieser sehr einfache Redstone-Speicher beruht auf winzigen Redstoneelementen die je 2 Zust‰nde annehmen kˆnnen, diese Zellen sind jedoch sehr anf‰llig gegen physische und elektrische Einfl¸sse. Deshalb habe ich die Speicheranordnung in ein Goldgeh‰use eingebettet, dieses ist korrosionsresistent und durch seine Leitf‰higkeit auch ein guter Schutz gegen elektrische Felder.",
-	"Zur Organisation und zum Zugriff auf den Speicher gen¸gt ein einfacher Logikchipsatz mit entsprechendem Programm.",
+	"Dieser sehr einfache Redstone-Speicher beruht auf winzigen Redstoneelementen die je 2 Zust√§nde annehmen k√∂nnen, diese Zellen sind jedoch sehr anf√§llig gegen physische und elektrische Einfl√ºsse. Deshalb habe ich die Speicheranordnung in ein Goldgeh√§use eingebettet, dieses ist korrosionsresistent und durch seine Leitf√§higkeit auch ein guter Schutz gegen elektrische Felder.",
+	"Zur Organisation und zum Zugriff auf den Speicher gen√ºgt ein einfacher Logikchipsatz mit entsprechendem Programm.",
 	
 	"Assembly:",
 	{
 		"type": "assembly",
 		"slots": {
 			"in1": {"name":"fp:chip","meta":0,"size":1},
-			"in2": {OreDict:"ingotGold",size:1},
-			"in3": {OreDict:"dustRedstone",size:1},
-			"out": {name:"fp:spaceship", meta:<spaceship.SupportSpeicher0>, size:1}
+			"in2": {"OreDict":"ingotGold","size":1},
+			"in3": {"OreDict":"dustRedstone","size":1},
+			"out": {"name":"fp:spaceship", "meta":"<spaceship.SupportSpeicher0>", "size":1}
 		}
 	},
-	"Kapazit‰t: 128 SP",
+	"Kapazit√§t: 128 SP",
 	
 	"Information: Folgender Slot ist, falls in einer Maschine vorhanden zum Laden/Entladen von Flashspeichern.",
 	{

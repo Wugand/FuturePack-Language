@@ -1,16 +1,16 @@
 [
-	"Durch Verfeinerung des Herstellungsverfahrens konnte ich die doppelte Menge an Speichereinheiten in einem Speicher-Modul unterbringen. Zudem habe ich durch bessere Materialen den Wärmeabtransport verbessert.",
+	"Durch Verfeinerung des Herstellungsverfahrens konnte ich die doppelte Menge an Speichereinheiten in einem Speicher-Modul unterbringen. Zudem habe ich durch bessere Materialen den WÃ¤rmeabtransport verbessert.",
 	
 	"Assembly:",
 	{
 		"type": "assembly",
 		"slots": {
-			"in1": {name:"fp:spaceship", meta:<spaceship.Silizium>, size:2},
-			"in2": {name:"fp:spaceship", meta:<spaceship.NeonParts>, size:2},
-			"in3": {name:"fp:spaceship", meta:<spaceship.CompositeMetall>},
-			"out": {name:"fp:ram", meta:1, size:1}
+			"in1": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>", "size":2},
+			"in2": {"name":"fp:spaceship", "meta":"<spaceship.NeonParts>", "size":2},
+			"in3": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"out": {"name":"fp:ram", "meta":1, "size":1}
 		}
 	},
 	
-	"Info: Für allgemeine Informationen siehe Standartspeicher."
+	"Info: FÃ¼r allgemeine Informationen siehe Standartspeicher."
 ]
