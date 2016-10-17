@@ -8,12 +8,12 @@
 			"2": {},
 			"3": "OreDict:ingotIron",
 			"4": {},
-			"5": {name:"fp:spaceship", meta:<spaceship.CompositeMetall>},
+			"5": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
 			"6": {},
 			"7": {},
-			"8": {name:"fp:spaceship", meta:<spaceship.IronStick>},
+			"8": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
 			"9": {},
-			"out": {name:"fp:scrench"}
+			"out": {"name":"fp:scrench"}
 		}
 	},
 	"Mode-change: §lright click \"in the air\"§r",

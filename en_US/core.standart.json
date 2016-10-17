@@ -5,12 +5,12 @@
 	{
 		"type": "assembly",
 		"slots": {
-			"in1": {name:"fp:spaceship", meta:<spaceship.Silizium>},
-			"in2": {name:"fp:spaceship", meta:<spaceship.CopperParts>},
-			"in3": {OreDict:"ingotIron"},
-			"out": {name:"fp:core", meta:0, size:1}
+			"in1": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>"},
+			"in2": {"name":"fp:spaceship", "meta":"<spaceship.CopperParts>"},
+			"in3": {"OreDict":"ingotIron"},
+			"out": {"name":"fp:core", "meta":0, "size":1}
 		}
 	},
 	"Info:",
-	"Processors possess 1 critical property: Their capacity (§lcore§r), which indicates the maximum load (refer to chipset/memory) the processor can handle before it begins to heat up. When the temperature exceeds 1000C it'll go kaput!",
+	"Processors possess 1 critical property: Their capacity (§lcore§r), which indicates the maximum load (refer to chipset/memory) the processor can handle before it begins to heat up. When the temperature exceeds 1000C it'll go kaput!"
 ]

@@ -4,16 +4,16 @@
 	{
 		"type": "crafting",
 		"slots": {
-			"1": {name:"fp:spaceship",meta:<spaceship.Tank>},
-			"2": {OreDict:"ingotIron"},
-			"3": {name:"fp:spaceship",meta:<spaceship.Tank>},
-			"4": {name:"minecraft:furnace",meta:0},
-			"5": {name:"minecraft:furnace",meta:0},
-			"6": {name:"minecraft:furnace",meta:0},
-			"7": {OreDict:"ingotIron"},
-			"8": {name:"fp:spaceship",meta:<spaceship.Tank>},
-			"9": {OreDict:"ingotIron"},
-			"out": {name:"fp:industrie_ofen",meta:0}
+			"1": {"name":"fp:spaceship","meta":"<spaceship.Tank>"},
+			"2": {"OreDict":"ingotIron"},
+			"3": {"name":"fp:spaceship","meta":"<spaceship.Tank>"},
+			"4": {"name":"minecraft:furnace","meta":0},
+			"5": {"name":"minecraft:furnace","meta":0},
+			"6": {"name":"minecraft:furnace","meta":0},
+			"7": {"OreDict":"ingotIron"},
+			"8": {"name":"fp:spaceship","meta":"<spaceship.Tank>"},
+			"9": {"OreDict":"ingotIron"},
+			"out": {"name":"fp:industrie_ofen","meta":0}
 		}
 	},
 		
@@ -21,11 +21,11 @@
 	{
 		"type": "industrialfurnace",
 		"slots": {
-			"in1": {name:"minecraft:cobblestone", size:32},
-			"in2": {OreDict:"oreCopper"},
+			"in1": {"name":"minecraft:cobblestone", "size":32},
+			"in2": {"OreDict":"oreCopper"},
 			"in3": {},
-			"out1": {name:"minecraft:stone", size:32},
-			"out2": {name:"fp:ItemErze", meta:2, size:1},
+			"out1": {"name":"minecraft:stone", "size":32},
+			"out2": {"name":"fp:ItemErze", "meta":2, "size":1},
 			"out3": {}
 		}
 	},

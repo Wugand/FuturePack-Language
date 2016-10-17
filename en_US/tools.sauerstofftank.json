@@ -6,16 +6,16 @@
 	{
 		"type": "crafting",
 		"slots": {
-			"1": {OreDict:"ingotAluminum"},
-			"2": {name:"fp:chip", meta:0},
-			"3": {OreDict:"ingotAluminum"},
-			"4": {name:"fp:spaceship", meta:<spaceship.Tank>},
-			"5": {OreDict:"ingotMagnetite"},
-			"6": {name:"fp:spaceship", meta:<spaceship.Tank>},
+			"1": {"OreDict":"ingotAluminum"},
+			"2": {"name":"fp:chip", "meta":0},
+			"3": {"OreDict":"ingotAluminum"},
+			"4": {"name":"fp:spaceship", "meta":"<spaceship.Tank>"},
+			"5": {"OreDict":"ingotMagnetite"},
+			"6": {"name":"fp:spaceship", "meta":"<spaceship.Tank>"},
 			"7": {},
-			"8": {name:"fp:spaceship", meta:<spaceship.CopperCoil>},
+			"8": {"name":"fp:spaceship", "meta":"<spaceship.CopperCoil>"},
 			"9": {},
-			"out": {name:"fp:sauerstofftank"}
+			"out": {"name":"fp:sauerstofftank"}
 		}
 	},
 	"Capacity: 2 min",
