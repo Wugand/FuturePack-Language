@@ -1,19 +1,19 @@
 [
 	"Ich habe einen spezialisierten Chipsatz entwickelt, mit dem ich die Interaktion von wenigen Maschinen mit ihrer Umwelt verbessern kann.",
-	"Einsetzbar ist der Chipsatz vor allem bei Maschinen die Kreaturen töten, da dieser Chip ihre Reichweite erhöht.",
+	"Einsetzbar ist der Chipsatz vor allem bei Maschinen die Kreaturen tÃ¶ten, da dieser Chip ihre Reichweite erhÃ¶ht.",
 
 	"Assembly:",
 	{
 		"type": "assembly",
 		"slots": {
-			"in1": {name:"fp:spaceship", meta:<spaceship.Silizium>},
-			"in2": {name:"fp:spaceship", meta:<spaceship.QuartzParts>},
-			"in3": {name:"golden_sword", meta:0, size:1},
-			"out": {name:"fp:chip", meta:<chip.TacticChip>, size:1}
+			"in1": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>"},
+			"in2": {"name":"fp:spaceship", "meta":"<spaceship.QuartzParts>"},
+			"in3": {"name":"golden_sword", "meta":0, "size":1},
+			"out": {"name":"fp:chip", "meta":"<chip.TacticChip>", "size":1}
 		}
 	},
 	
-	"Ein qualitativ hochwertiger Taktikkontrollchipsatz (hohe Chippower), sowie der Einbau von mehreren Chipsätzen erhöht entsprechend den Effekt.",
+	"Ein qualitativ hochwertiger Taktikkontrollchipsatz (hohe Chippower), sowie der Einbau von mehreren ChipsÃ¤tzen erhÃ¶ht entsprechend den Effekt.",
 	"Info: Der genaue Effekt ist bei der entsprechenden Maschine vermerkt.",
-	"Info: Für allgemeine Informationen siehe Logikchipsatz."
+	"Info: FÃ¼r allgemeine Informationen siehe Logikchipsatz."
 ]

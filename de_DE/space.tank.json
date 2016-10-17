@@ -1,6 +1,6 @@
 [
-	"Das größte Problem bei der Raumfahrt ist neben dem Masse-Treibstoff Verhältnis, die Tatsache das Treibstoff auch sicher gelagert werden muss, damit er kein Risiko darstellt.",
-    "Deshalb habe ich Treibstofftanks entwickelt, die bis zu 8000mB fassen können. Zusätzlich kann man noch 21 Raketentreibstoff in fester Form einlegen.",
+	"Das grÃ¶ÃŸte Problem bei der Raumfahrt ist neben dem Masse-Treibstoff VerhÃ¤ltnis, die Tatsache das Treibstoff auch sicher gelagert werden muss, damit er kein Risiko darstellt.",
+    "Deshalb habe ich Treibstofftanks entwickelt, die bis zu 8000mB fassen kÃ¶nnen. ZusÃ¤tzlich kann man noch 21 Raketentreibstoff in fester Form einlegen.",
     "Crafting:",
     {
         "type": "crafting",
@@ -17,6 +17,6 @@
             "out": {"name":"fp:fuelcell","meta":0}
         }
     },
-    "Die Tanks müssen nicht extra mit den Triebwerken verbunden werden, es reicht eine einfache Verbindung zum Schiff aus."
+    "Die Tanks mÃ¼ssen nicht extra mit den Triebwerken verbunden werden, es reicht eine einfache Verbindung zum Schiff aus."
 
 ]

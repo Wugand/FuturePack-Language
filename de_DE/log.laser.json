@@ -1,7 +1,7 @@
 [
-	"Ich habe festgestellt, dass ich Signale über große Strecken versenden muss. Wenn ich dafür Netzwerkkabel verwenden würde, bräuchte ich Unmengen an Ressourcen.",
-	"Deshalb habe ich einen Laser entwickelt der Signale bis zu 1024 Meter weit verschicken kann. Weil ich im Netzwerk auch antworten muss, sind Sender und Empfänger in einem Block integriert.",
-	"Eigentlich wollte ich ultraviolettes Licht für die Datenübermittlung nutzen, jedoch war die Ablenkung durch die Atmosphäre zu groß deswegen musste ich infrarotes Licht verwenden.",
+	"Ich habe festgestellt, dass ich Signale Ã¼ber groÃŸe Strecken versenden muss. Wenn ich dafÃ¼r Netzwerkkabel verwenden wÃ¼rde, brÃ¤uchte ich Unmengen an Ressourcen.",
+	"Deshalb habe ich einen Laser entwickelt der Signale bis zu 1024 Meter weit verschicken kann. Weil ich im Netzwerk auch antworten muss, sind Sender und EmpfÃ¤nger in einem Block integriert.",
+	"Eigentlich wollte ich ultraviolettes Licht fÃ¼r die DatenÃ¼bermittlung nutzen, jedoch war die Ablenkung durch die AtmosphÃ¤re zu groÃŸ deswegen musste ich infrarotes Licht verwenden.",
 	"Crafting:",
 	{
 		"type": "crafting",
@@ -18,5 +18,5 @@
 			"out": {"name":"fp:laser_transmitter", "meta":0, "size":1}
 		}
 	},
-	"Damit der Laser funktioniert, muss er mit dem anderen Laser (auch über große Distanzen) auf einer Liene stehen."
+	"Damit der Laser funktioniert, muss er mit dem anderen Laser (auch Ã¼ber groÃŸe Distanzen) auf einer Liene stehen."
 ]

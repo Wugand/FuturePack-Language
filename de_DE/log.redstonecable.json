@@ -1,5 +1,5 @@
 [
-	"Das natürlich vorkommende Redstone kann einfache Signale übertragen, durch die Integration des Redstonestaubes in die Ummantelung der Kabel, können diese nun zusätzlich auch Redstone-Signale übertragen.",
+	"Das natÃ¼rlich vorkommende Redstone kann einfache Signale Ã¼bertragen, durch die Integration des Redstonestaubes in die Ummantelung der Kabel, kÃ¶nnen diese nun zusÃ¤tzlich auch Redstone-Signale Ã¼bertragen.",
 	"Zudem leiten diese Kabel das Signal wesentlich weiter als der lose Redstonestaub, verbinden sich aber wie gewohnt mit normalenm Redstone.",
 	
 	"Crafting:",
@@ -7,15 +7,15 @@
 		"type": "crafting",
 		"slots": {
 			"1": {},
-			"2": {OreDict:"dustRedstone"},
+			"2": {"OreDict":"dustRedstone"},
 			"3": {},
-			"4": {name:"fp:wire", meta:0},
-			"5": {name:"fp:wire", meta:0},
-			"6": {name:"fp:wire", meta:0},
+			"4": {"name":"fp:wire", "meta":0},
+			"5": {"name":"fp:wire", "meta":0},
+			"6": {"name":"fp:wire", "meta":0},
 			"7": {},
 			"8": {},
 			"9": {},
-			"out": {name:"fp:wire", meta:1, size:3}
+			"out": {"name":"fp:wire", "meta":1, "size":3}
 		}
 	},
 	

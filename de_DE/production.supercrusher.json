@@ -1,27 +1,27 @@
 [
-	"Diamanten sind das bisher h‰rteste Material das ich kenne, ich kann mit einem entsprechenden Konstrukt aus diesem Material s‰mtliche mir bekannten Barren, Erze und Kristalle zu feinem Staub mahlen. Aus diesem Prinzip konnte ich eine Maschine entwickeln, welche diese Aufgabe automatisiert ausf¸hrt.",
+	"Diamanten sind das bisher h√§rteste Material das ich kenne, ich kann mit einem entsprechenden Konstrukt aus diesem Material s√§mtliche mir bekannten Barren, Erze und Kristalle zu feinem Staub mahlen. Aus diesem Prinzip konnte ich eine Maschine entwickeln, welche diese Aufgabe automatisiert ausf√ºhrt.",
 	
 	"Crafting:",
 	{
 		"type": "crafting",
 		"slots": {
-			"1": {OreDict:"gemDiamond"},
-			"2": {name:"fp:spaceship", meta:<spaceship.DiaParts>},
-			"3": {OreDict:"gemDiamond"},
-			"4": {OreDict:"ingotNeon"},
-			"5": [{name:"fp:color_iron",meta:0},{name:"fp:color_iron",meta:8},{name:"fp:color_iron",meta:15}],
-			"6": {OreDict:"ingotNeon"},
-			"7": {name:"fp:spaceship", meta:<spaceship.CompositeMetall>},
-			"8": {name:"fp:spaceship", meta:<spaceship.Maschinboard>},
-			"9": {name:"fp:spaceship", meta:<spaceship.CompositeMetall>},
-			"out": [{name:"fp:crusher",meta:2},{name:"fp:crusher",meta:6},{name:"fp:crusher",meta:10}]
+			"1": {"OreDict":"gemDiamond"},
+			"2": {"name":"fp:spaceship", "meta":"<spaceship.DiaParts>"},
+			"3": {"OreDict":"gemDiamond"},
+			"4": {"OreDict":"ingotNeon"},
+			"5": [{"name":"fp:color_iron","meta":0},{"name":"fp:color_iron","meta":8},{"name":"fp:color_iron","meta":15}],
+			"6": {"OreDict":"ingotNeon"},
+			"7": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"8": {"name":"fp:spaceship", "meta":"<spaceship.Maschinboard>"},
+			"9": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"out": [{"name":"fp:crusher","meta":2},{"name":"fp:crusher","meta":6},{"name":"fp:crusher","meta":10}]
 		}
 	},
 		
-	"Dazu setzte ich ein diamantenbesetztes Mahlwerk ein, welches durch ein Computersystem gesteuert wird und so die genannten Materialien mahlen kann ohne sich erw‰hnenswert abzunutzen.",
-	"Zudem habe ich erkannt das ich durch dieses Verfahren die Ausbeute aus Roherzen verdoppeln kann und auch Kristalle kann ich mahlen um sie ohne Kohleaufwand zu verarbeiten, nat¸rlich muss ich den erzeugten Staub danach noch zu Barren einschmelzen.",
+	"Dazu setzte ich ein diamantenbesetztes Mahlwerk ein, welches durch ein Computersystem gesteuert wird und so die genannten Materialien mahlen kann ohne sich erw√§hnenswert abzunutzen.",
+	"Zudem habe ich erkannt das ich durch dieses Verfahren die Ausbeute aus Roherzen verdoppeln kann und auch Kristalle kann ich mahlen um sie ohne Kohleaufwand zu verarbeiten, nat√ºrlich muss ich den erzeugten Staub danach noch zu Barren einschmelzen.",
 		
-	"Unterst¸tzte Chips‰tze:",
+	"Unterst√ºtzte Chips√§tze:",
 	"Logikchipsatz\nTransportchipsatz\nRedstonesteuerungschipsatz\nUltimativer Chipsatz\nSchadenskontrollchipsatz"
 	
 ]

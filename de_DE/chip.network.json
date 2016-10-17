@@ -1,5 +1,5 @@
 [
-    "Ich habe einen Chipsatz entwickelt, mit dem Maschinen im Netzwerk kommunizieren können.",
+    "Ich habe einen Chipsatz entwickelt, mit dem Maschinen im Netzwerk kommunizieren kÃ¶nnen.",
     "Assembly:",
     {
         "type": "assembly",
@@ -10,5 +10,5 @@
             "out": {"name":"fp:chip", "meta":"<chip.NetworkChip>", "size":1}
         }
     },
-    "Noch habe ich keine direkte Verwendung für diesen Chip, aber vielleicht kann ich ihn gebrauchen."
+    "Noch habe ich keine direkte Verwendung fÃ¼r diesen Chip, aber vielleicht kann ich ihn gebrauchen."
 ]

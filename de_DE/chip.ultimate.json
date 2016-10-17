@@ -1,5 +1,5 @@
 [
-    "Ich habe einen Chip entwickelt der die Herstellung von Gegenständen dokumentiert, dadurch kann ich die Prozesse optimieren und Erfahrung sammeln.",
+    "Ich habe einen Chip entwickelt der die Herstellung von GegenstÃ¤nden dokumentiert, dadurch kann ich die Prozesse optimieren und Erfahrung sammeln.",
     "Assembly:",
     {
         "type": "assembly",
@@ -10,6 +10,6 @@
             "out": {"name":"fp:chip", "meta":"<chip.UltimateChip>", "size":1}
         }
     },  
-    "Die eine höhere Chippower sorgt für mehr Erfahrung bei herausnehmen des Items.",
-    "Info: Für allgemeine Informationen siehe Logikchipsatz."
+    "Die eine hÃ¶here Chippower sorgt fÃ¼r mehr Erfahrung bei herausnehmen des Items.",
+    "Info: FÃ¼r allgemeine Informationen siehe Logikchipsatz."
 ]
