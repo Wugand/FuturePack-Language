@@ -1,7 +1,7 @@
 [
-	"At the moment the mechanics of the E-Scanner, which I found in a structure from the Unreachable, is a big secret to me. But by trying to modify the device, I have found some interesting features which are not available normally.",
-	"I named my new construct the \"Scanner\", because I can analyze and improve my technologies using that device. To do that I need a researched Item and some patience. The Unreachable-Technology helps me realize the possibilities, but I must choose the basic aspects I want to use by myself.",
-	"If I created an implementable idea, the result will be printable as a Blueprint, to improve the technology.",
+	"At the moment, the mechanics of the E-Scanner, which I found in a structure from the Unreachable, is a big secret to me. But by trying to modify the device, I have found some interesting features which are not available on the handheld device.",
+	"I named my new construct the \"Scanner\", with this machine I can analyze and improve my technologies. To do this I need an Item I have researched and a little patience. The technology I modified from the Unreachable helps me develop and bring to life the possibilities, but I myself must choose the basic aspects I want to build upon.",
+	"Once I have created an implementable idea, the result will be printable as a Blueprint. This allows me to improve the related technology.",
 	"Crafting:",
 	{
 		"type": "crafting",
@@ -20,15 +20,16 @@
 	},
 	"Hint: Read the information at \"The Research System\" first.",
 	"Usage in detail:",
-	"After I put the Item I want to examine in the top left slot, the yellow bar shows me how many Researches are still available using this Item (relative to total).",
-	"In the right area the 12 Aspects are placed, I must choose the matching 1 to 6 from them to find a new Research.",
-	"Now in the middle area the \"Scan\"-Button shows up, which I can use to check the currently chosen combination. After an animation one of the following outputs can appear:",
-	"Puzzle: The current selection is correct, but more aspects are needed.",
-	"Golden star: Research successful. Blueprint can be taken.",
-	"Yellow X: At least one of the chosen aspects is wrong.",
-	"Red X: There are no researches for this Item.",
-	"Green checkmark: All researches for this Item are finished.",
-	"Yellow question mark: There are more Researches with this Item, but you don't have all conditions.",
-	"Hint: A Blueprint can only be created until this research is completed in the Researcher, during this it is possible to generate other Blueprints using other Items or Aspects (as long they exist).",
-	"Hint: On the left of the Blueprint-Slot is a button to open the Tech-Tree."
+	"I must first put the Item I want to examine in the top left slot. The yellow bars below it show me how many Research concepts are still available with this Item (this is shown as relative to the total number).",
+	"In the right area, the 12 Aspects are displayed as buttons. To develop a new Blueprint, I must select 1 to 6 Aspects.",
+	"Then, in the center screen, a \"Scan\" button appears, which I can use to verify the chosen combination. After an animation, one of the following outputs will be shown:",
+	"Puzzle pieces: The current selection is correct, but more aspects must be selected.",
+	"Golden star: Research was successful. A Blueprint can be taken.",
+	"Yellow X: One (or more) of the chosen aspects is wrong.",
+	"Red X: This Item cannot be researched.",
+	"Green checkmark: All researches for this Item have been found.",
+	"Yellow question mark: There are more Researches available with this Item, but some game conditions are not yet met. Try again once you have discovered more.",
+	"",
+	"Hint: A Blueprint will be created once this research is completed in the Researcher and only then. But be aware that it is possible for research to not generate a Blueprint, but a concept to further the Tech Tree.",
+	"Hint: To the left of the Blueprint slot is a button to open the Tech Tree."
 ]	
