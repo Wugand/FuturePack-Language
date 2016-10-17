@@ -1,6 +1,6 @@
 [
 	"Ich konnte aus den grundlegenden Erkenntnissen der Chipherstellung eine Maschine entwickeln, die mir optimale Bedingungen zur Herstellung solcher Komponenten bietet.",
-	"Der Grundaufbau besteht aus einem Metallgehäuse, in dem verschiedene Herstellungs- und Testapparaturen untergebracht sind. Zudem ermöglicht es mir die Anlage, die kritischen Herstellungschritte in einem sehr sauberen Umfeld durchzuführen, was sich als entscheidend für das Gelingen der Komponenten erwies.",
+	"Der Grundaufbau besteht aus einem MetallgehÃ¤use, in dem verschiedene Herstellungs- und Testapparaturen untergebracht sind. Zudem ermÃ¶glicht es mir die Anlage, die kritischen Herstellungschritte in einem sehr sauberen Umfeld durchzufÃ¼hren, was sich als entscheidend fÃ¼r das Gelingen der Komponenten erwies.",
 		"Crafting:",
 	{
 		"type": "crafting",
@@ -19,10 +19,10 @@
 	},
 	
 	"Benutzung:",
-	"Ein hier hergestelltes Objekt besteht immer aus 3 Komponenten, welche in die zentralen 3 Slots gelegt werden. Die Reihenfolge ist dabei wichtig! Im großen Slot darunter kann dann das Produkt entnommen werden.",
+	"Ein hier hergestelltes Objekt besteht immer aus 3 Komponenten, welche in die zentralen 3 Slots gelegt werden. Die Reihenfolge ist dabei wichtig! Im groÃŸen Slot darunter kann dann das Produkt entnommen werden.",
 	
 	"Zufall:",
-	"Trotz optimaler Umgebung ist die Qualität der fertigen Komponente nicht vollständig vorhersehbar. So ergibt sich beim Herausnehmen(Herstellen) ein zufälliger Wert für Core/Ram/Chippower. Ein Minimalwert wird dabei vom entsprechenden Rezept festgelegt.",
-	"Der Maximalwert liegt im Normalfall nur wenig über dem Minimalwert, kann jedoch durch Zufuhr von Energie und/oder Support (erst im späteren Forschungsverlauf verfügbar) deutlich angehoben werden.",
-	"Notiz: Es gibt Situationen und Rezepte, bei den die Bereitstellung von Energie/Support Verschwendung oder unerwünscht ist."	
+	"Trotz optimaler Umgebung ist die QualitÃ¤t der fertigen Komponente nicht vollstÃ¤ndig vorhersehbar. So ergibt sich beim Herausnehmen(Herstellen) ein zufÃ¤lliger Wert fÃ¼r Core/Ram/Chippower. Ein Minimalwert wird dabei vom entsprechenden Rezept festgelegt.",
+	"Der Maximalwert liegt im Normalfall nur wenig Ã¼ber dem Minimalwert, kann jedoch durch Zufuhr von Energie und/oder Support (erst im spÃ¤teren Forschungsverlauf verfÃ¼gbar) deutlich angehoben werden.",
+	"Notiz: Es gibt Situationen und Rezepte, bei den die Bereitstellung von Energie/Support Verschwendung oder unerwÃ¼nscht ist."	
 ]

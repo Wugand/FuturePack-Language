@@ -1,6 +1,6 @@
 [
-	"Ich habe ein Werkzeug erfunden, das es mir erlaubt, meine Verbundmetall-Baumaterialen einzufärben.",
-	"Es ist eine Sprühpistole, die das im Tank befindliche Material mittels Luftdruck beschleunigt und gleichmäßig ausstößt. Das Gerät ist sowohl zum Färben als auch zum Sandstrahlen geeignet. Für zweiteres kann ich jede Form von Sand oder Kies verwenden.",
+	"Ich habe ein Werkzeug erfunden, das es mir erlaubt, meine Verbundmetall-Baumaterialen einzufÃ¤rben.",
+	"Es ist eine SprÃ¼hpistole, die das im Tank befindliche Material mittels Luftdruck beschleunigt und gleichmÃ¤ÃŸig ausstÃ¶ÃŸt. Das GerÃ¤t ist sowohl zum FÃ¤rben als auch zum Sandstrahlen geeignet. FÃ¼r zweiteres kann ich jede Form von Sand oder Kies verwenden.",
 	"Crafting:",
 	{
 		"type": "crafting",
@@ -34,8 +34,8 @@
 		}
 	},
 	"Benutzung:",
-	"§lShift + Rechtsklick§r öffnet das Inventar der Farbpistole, in den Slot kann dann ein Farbtank oder Sand/Kies eingelegt werden.",
-	"§lRechtsklick§r auf einen Metall/Gitter - Block zum sprühen. Beim Sandstrahlen wird dabei der Block in seine unlackierte Form zurückverwandelt. Bei der Verwendung eines Farbtanks in entsprechender Farbe gefärbt.",
-	"Ob ein Block färbbar ist erfährt man, in der zugehörigen Forschung. (oder durch probieren)",
+	"Â§lShift + RechtsklickÂ§r Ã¶ffnet das Inventar der Farbpistole, in den Slot kann dann ein Farbtank oder Sand/Kies eingelegt werden.",
+	"Â§lRechtsklickÂ§r auf einen Metall/Gitter - Block zum sprÃ¼hen. Beim Sandstrahlen wird dabei der Block in seine unlackierte Form zurÃ¼ckverwandelt. Bei der Verwendung eines Farbtanks in entsprechender Farbe gefÃ¤rbt.",
+	"Ob ein Block fÃ¤rbbar ist erfÃ¤hrt man, in der zugehÃ¶rigen Forschung. (oder durch probieren)",
 	"Wichtig: Ein bereits lackierter Block, kann NICHT sofort in einer anderen Farbe lackiert werden. Die alte Farbe muss erst via Sandstrahlen entfernt werden."
 ]

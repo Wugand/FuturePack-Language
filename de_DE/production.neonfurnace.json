@@ -1,5 +1,5 @@
 [
-	"Eine Drahtspule durch die man große Mengen Energie leitet wird sich erhitzen. Aus diesem Prinzip konnte ich einen energiebetriebenen Ofen entwickeln, das Computersystem ist dabei für die Temperaturregelung notwendig um die maximale Hitze zu erzeugen, ohne die Spulen zu zerstören. Durch entsprechendes Tuning des Computersystems kann dieser Ofen sehr effektiv werden.",
+	"Eine Drahtspule durch die man groÃŸe Mengen Energie leitet wird sich erhitzen. Aus diesem Prinzip konnte ich einen energiebetriebenen Ofen entwickeln, das Computersystem ist dabei fÃ¼r die Temperaturregelung notwendig um die maximale Hitze zu erzeugen, ohne die Spulen zu zerstÃ¶ren. Durch entsprechendes Tuning des Computersystems kann dieser Ofen sehr effektiv werden.",
 	
 	"Crafting:",
 	{
@@ -18,7 +18,7 @@
 		}
 	},
 	
-	"Unterstützte Chipsätze:",
-	"Logikchipsatz\nTransportchipsatz\nRedstonesteuerungschipsatz\nUnterstützungschipsatz\nUltimativer Chipsatz\nSchadenskontrollchipsatz"
+	"UnterstÃ¼tzte ChipsÃ¤tze:",
+	"Logikchipsatz\nTransportchipsatz\nRedstonesteuerungschipsatz\nUnterstÃ¼tzungschipsatz\nUltimativer Chipsatz\nSchadenskontrollchipsatz"
 	
 ]

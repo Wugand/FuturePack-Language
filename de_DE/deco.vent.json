@@ -1,5 +1,5 @@
 [
-	"Ich habe eine komplexe Struktur aus Verbundmetall und Eisengittern geschaffen, einen Lüftungsblock.",
+	"Ich habe eine komplexe Struktur aus Verbundmetall und Eisengittern geschaffen, einen LÃ¼ftungsblock.",
 	"Crafting:",
 	{
 		"type": "crafting",
@@ -16,5 +16,5 @@
 			"out": {"name":"fp:erz_blocke", "meta":9, "size":6}
 		}
 	},	
-	"Information: Der Block ist mit der Farbpistole färbbar/ sandstrahlbar."
+	"Information: Der Block ist mit der Farbpistole fÃ¤rbbar/ sandstrahlbar."
 ]

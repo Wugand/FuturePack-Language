@@ -1,6 +1,6 @@
 [
-	"Wenn man in weitläufigen Höhlen oder Schluchten unterwegs ist, fällt es immer schwer sich fortzubewegen. Also wollte ich eigentlich einen Kletterhacken erfinden, jedoch ist mir ein Problem aufgefallen:",
-	"Ein Kletterhacken braucht eine Kante damit er fest genug sitzt um mich hoch zu ziehen. Also habe ich einen Kletterschleim erfunden. Anstatt einen Hacken zu werfen, ist das Seil an einem stabilen und klebrigen Schleimklumpen befestigt. Ein Neonimpuls, der über das Seil geleitet wird, kann kurzzeitig die Klebeeigenschaft des Schleims unterdrücken um ihn so wieder von einer Felswand zu lösen.",
+	"Wenn man in weitlÃ¤ufigen HÃ¶hlen oder Schluchten unterwegs ist, fÃ¤llt es immer schwer sich fortzubewegen. Also wollte ich eigentlich einen Kletterhacken erfinden, jedoch ist mir ein Problem aufgefallen:",
+	"Ein Kletterhacken braucht eine Kante damit er fest genug sitzt um mich hoch zu ziehen. Also habe ich einen Kletterschleim erfunden. Anstatt einen Hacken zu werfen, ist das Seil an einem stabilen und klebrigen Schleimklumpen befestigt. Ein Neonimpuls, der Ã¼ber das Seil geleitet wird, kann kurzzeitig die Klebeeigenschaft des Schleims unterdrÃ¼cken um ihn so wieder von einer Felswand zu lÃ¶sen.",
 	"Crafting:",
 	{
 		"type": "crafting",
@@ -17,5 +17,5 @@
 			"out": {"name":"fp:hook", "meta":250, "size":1}
 		}
 	},	
-	"Mit Rechtsklick wird der Hacken geworfen und wieder eingeholt, wie bei der Angel. Sobald der Schleim einen Block trifft, wird man sofort in diese Richtung gezogen. Außerdem muss der Kletterschleim mit Neonenergie aufgeladen werden."
+	"Mit Rechtsklick wird der Hacken geworfen und wieder eingeholt, wie bei der Angel. Sobald der Schleim einen Block trifft, wird man sofort in diese Richtung gezogen. AuÃŸerdem muss der Kletterschleim mit Neonenergie aufgeladen werden."
 ]

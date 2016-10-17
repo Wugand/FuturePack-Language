@@ -1,5 +1,5 @@
 [
-	"Diamanten sind das bisher härteste Material das ich kenne, ich kann mit einem entsprechenden Konstrukt aus diesem Material sämtliche mir bekannten Barren, Erze und Kristalle zu feinem Staub mahlen. Aus diesem Prinzip konnte ich eine Maschine entwickeln, welche diese Aufgabe automatisiert ausführt.",
+	"Diamanten sind das bisher hÃ¤rteste Material das ich kenne, ich kann mit einem entsprechenden Konstrukt aus diesem Material sÃ¤mtliche mir bekannten Barren, Erze und Kristalle zu feinem Staub mahlen. Aus diesem Prinzip konnte ich eine Maschine entwickeln, welche diese Aufgabe automatisiert ausfÃ¼hrt.",
 	
 	"Crafting:",
 	{
@@ -18,10 +18,10 @@
 		}
 	},
 		
-	"Dazu setzte ich ein diamantenbesetztes Mahlwerk ein, welches durch ein Computersystem gesteuert wird und so die genannten Materialien mahlen kann ohne sich erwähnenswert abzunutzen.",
-	"Zudem habe ich erkannt das ich durch dieses Verfahren die Ausbeute aus Roherzen verdoppeln kann und auch Kristalle kann ich mahlen um sie ohne Kohleaufwand zu verarbeiten, natürlich muss ich den erzeugten Staub danach noch zu Barren einschmelzen.",
+	"Dazu setzte ich ein diamantenbesetztes Mahlwerk ein, welches durch ein Computersystem gesteuert wird und so die genannten Materialien mahlen kann ohne sich erwÃ¤hnenswert abzunutzen.",
+	"Zudem habe ich erkannt das ich durch dieses Verfahren die Ausbeute aus Roherzen verdoppeln kann und auch Kristalle kann ich mahlen um sie ohne Kohleaufwand zu verarbeiten, natÃ¼rlich muss ich den erzeugten Staub danach noch zu Barren einschmelzen.",
 		
-	"Unterstützte Chipsätze:",
+	"UnterstÃ¼tzte ChipsÃ¤tze:",
 	"Logikchipsatz\nTransportchipsatz\nRedstonesteuerungschipsatz\nUltimativer Chipsatz\nSchadenskontrollchipsatz"
 	
 ]

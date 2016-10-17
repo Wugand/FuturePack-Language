@@ -1,6 +1,6 @@
 [
-	"Die Funktionsweise des E-Scanners, den ich in einer der Strukturen der Ungreifbaren gefunden habe, ist mir immer noch ein Rätsel. Allerdings ist es mir Gelungen dieses Gerät du modifizieren, dabei habe ich scheinbar auch Funktionen entdeckt die mir vorher verborgen waren.",
-	"Mein Konstrukt nenne ich Scanner, da ich damit meine bisherige Technik analysieren und verbessern kann. Zur Benutzung benötige ich nur ein erforschtes Item und etwas Geduld. Die Technologie der Ungreifbaren unterstütz mich bei dem Erkennen der Möglichkeiten, ich muss allerding noch die Grundaspekte wählen mit den ich arbeiten möchte.",
+	"Die Funktionsweise des E-Scanners, den ich in einer der Strukturen der Ungreifbaren gefunden habe, ist mir immer noch ein RÃ¤tsel. Allerdings ist es mir Gelungen dieses GerÃ¤t du modifizieren, dabei habe ich scheinbar auch Funktionen entdeckt die mir vorher verborgen waren.",
+	"Mein Konstrukt nenne ich Scanner, da ich damit meine bisherige Technik analysieren und verbessern kann. Zur Benutzung benÃ¶tige ich nur ein erforschtes Item und etwas Geduld. Die Technologie der Ungreifbaren unterstÃ¼tz mich bei dem Erkennen der MÃ¶glichkeiten, ich muss allerding noch die Grundaspekte wÃ¤hlen mit den ich arbeiten mÃ¶chte.",
 	"Wenn ich so eine umsetzbare Idee entwickelt habe, kann ich mir die Ergebnisse als Blaupause drucken um sie weiter auszuarbeiten.",
 	"Crafting:",
 	{
@@ -20,15 +20,15 @@
 	},
 	"Tipp: Lies vorher die Informationen zu \"Das Forschungssytem\"!",
 	"Benutzung im Detail:",
-	"Nachdem das zu untersuchende Item in den Slot oben links gelegt wurde, zeigt der gelbe Balken an wie viele Forschungen mit diesem Item noch durchführbar sind (vom Gesamtwert)",
-	"Im rechten Teil sind die 12 Aspekte, diese müssen entsprechend ausgewählt werden. Dabei sind mindestens 1 und maximal circa 6 notwendig.",
-	"Im mittleren Teil befindet sich (inzwischen) ein \"Scannen\"-Button, mit dem die aktuell eingestellte Kombination getestet werden kann. Nach einer Animation können folgende ausgaben erscheinen:",
+	"Nachdem das zu untersuchende Item in den Slot oben links gelegt wurde, zeigt der gelbe Balken an wie viele Forschungen mit diesem Item noch durchfÃ¼hrbar sind (vom Gesamtwert)",
+	"Im rechten Teil sind die 12 Aspekte, diese mÃ¼ssen entsprechend ausgewÃ¤hlt werden. Dabei sind mindestens 1 und maximal circa 6 notwendig.",
+	"Im mittleren Teil befindet sich (inzwischen) ein \"Scannen\"-Button, mit dem die aktuell eingestellte Kombination getestet werden kann. Nach einer Animation kÃ¶nnen folgende ausgaben erscheinen:",
 	"Puzzleteile: Die aktuelle Auswahl ist korrekt, allerdings sind weitere Aspekte notwendig.",
 	"Goldener Stern: Forschung erfolgreich. Blaupause kann entnommen werden.",
-	"Gelbes X: Mindestens einer der gewählten Aspekte ist falsch.",
-	"Rotes X: Für dieses Item gibt es keine Forschungen.",
-	"Grüner Haken: Alle Forschungen mit diesem Item sind abgeschlossen.",
-	"Gelbes Fragezeichen: Es gibt noch weitere Forschungen mit diesem Item, allerdings fehlen Vorbedingungen für diese.",
-	"Hinweis: Die Blaupause kann so lange erzeugt werden bis die zugehörige Forschung im Forscher abgeschlossen wurde, es können währenddessen mit anderen Aspekten allerdings noch andere Forschungen als Blaupause aus diesem 'Item erzeugt werden(falls vorhanden).",
-	"Tipp: Links neben dem Blaupausen-Slot befindet sich ein Button zum öffen des Forschungsbaums."
+	"Gelbes X: Mindestens einer der gewÃ¤hlten Aspekte ist falsch.",
+	"Rotes X: FÃ¼r dieses Item gibt es keine Forschungen.",
+	"GrÃ¼ner Haken: Alle Forschungen mit diesem Item sind abgeschlossen.",
+	"Gelbes Fragezeichen: Es gibt noch weitere Forschungen mit diesem Item, allerdings fehlen Vorbedingungen fÃ¼r diese.",
+	"Hinweis: Die Blaupause kann so lange erzeugt werden bis die zugehÃ¶rige Forschung im Forscher abgeschlossen wurde, es kÃ¶nnen wÃ¤hrenddessen mit anderen Aspekten allerdings noch andere Forschungen als Blaupause aus diesem 'Item erzeugt werden(falls vorhanden).",
+	"Tipp: Links neben dem Blaupausen-Slot befindet sich ein Button zum Ã¶ffen des Forschungsbaums."
 ]	

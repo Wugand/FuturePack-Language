@@ -1,5 +1,5 @@
 [
-	"Ich habe eine sehr helle Lichtquelle entwickeln können, sie besteht aus einem Panzerglasgehäuse, aus dem ich die Luft abgesaugt habe. Im Inneren wird Neonenergie durch eine geeignete Spule geleitet, dadurch wird extrem fein gemahlener Neonstaub angeregt. In Verbindung mit aktivem Redstone-Staub löst dies eine interessante Reaktion aus, welche sehr viel Licht abgibt.",
+	"Ich habe eine sehr helle Lichtquelle entwickeln kÃ¶nnen, sie besteht aus einem PanzerglasgehÃ¤use, aus dem ich die Luft abgesaugt habe. Im Inneren wird Neonenergie durch eine geeignete Spule geleitet, dadurch wird extrem fein gemahlener Neonstaub angeregt. In Verbindung mit aktivem Redstone-Staub lÃ¶st dies eine interessante Reaktion aus, welche sehr viel Licht abgibt.",
 	"Aufgrund des Aufbaus muss die Lampe sowohl mit Neonenergie als auch einem Redstone-Signal versorgt werden, um zu leuchten.",
 	"Crafting:",
 	{
@@ -17,5 +17,5 @@
 			"out": [{"name":"fp:color_neon_on", "meta":0, "size":4},{"name":"fp:color_neon_on", "meta":1, "size":4},{"name":"fp:color_neon_on", "meta":2, "size":4},{"name":"fp:color_neon_on", "meta":3, "size":4},{"name":"fp:color_neon_on", "meta":4, "size":4},{"name":"fp:color_neon_on", "meta":5, "size":4},{"name":"fp:color_neon_on", "meta":6, "size":4},{"name":"fp:color_neon_on", "meta":7, "size":4},{"name":"fp:color_neon_on", "meta":8, "size":4},{"name":"fp:color_neon_on", "meta":9, "size":4},{"name":"fp:color_neon_on", "meta":10, "size":4},{"name":"fp:color_neon_on", "meta":11, "size":4},{"name":"fp:color_neon_on", "meta":12, "size":4},{"name":"fp:color_neon_on", "meta":13, "size":4},{"name":"fp:color_neon_on", "meta":14, "size":4},{"name":"fp:color_neon_on", "meta":15, "size":4}]
 		}
 	},
-	"Für die Versorgung sollte sich ein Redstone-beschichtetes Neonkabel besonders gut eignen."
+	"FÃ¼r die Versorgung sollte sich ein Redstone-beschichtetes Neonkabel besonders gut eignen."
 ]

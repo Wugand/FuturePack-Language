@@ -1,5 +1,5 @@
 [
-	"Ich habe eine weitere einfache Struktur aus Verbundmetall geschaffen, einen treppenförmigen und soliden Block.",
+	"Ich habe eine weitere einfache Struktur aus Verbundmetall geschaffen, einen treppenfÃ¶rmigen und soliden Block.",
 	"Crafting:",
 	{
 		"type": "crafting",
@@ -32,5 +32,5 @@
 			"out": [{"name":"fp:metal_treppe", "meta":0, "size":4},{"name":"fp:color_iron_stair0", "size":4},{"name":"fp:color_iron_stair1", "size":4},{"name":"fp:color_iron_stair2", "size":4},{"name":"fp:color_iron_stair3", "size":4},{"name":"fp:color_iron_stair4", "size":4},{"name":"fp:color_iron_stair5", "size":4},{"name":"fp:color_iron_stair6", "size":4},{"name":"fp:color_iron_stair7", "size":4},{"name":"fp:color_iron_stair8", "size":4},{"name":"fp:color_iron_stair9", "size":4},{"name":"fp:color_iron_stair10", "size":4},{"name":"fp:color_iron_stair11", "size":4},{"name":"fp:color_iron_stair12", "size":4},{"name":"fp:color_iron_stair13", "size":4},{"name":"fp:color_iron_stair14", "size":4},{"name":"fp:color_iron_stair15", "size":4}]
 		}
 	},
-	"Information: Der Block ist mit der Farbpistole färbbar/ sandstrahlbar."
+	"Information: Der Block ist mit der Farbpistole fÃ¤rbbar/ sandstrahlbar."
 ]

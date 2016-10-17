@@ -1,6 +1,6 @@
 [
-    "Als ich ein wenig mit Magneten und Kristallen herum probiert habe, ist mir etwas Interessantes aufgefallen. Ich weiß nicht genau wie, aber ich kann eine Art Gravitationswelle erzeugen die alles in einem bestimmten Bereich in eine Richtung stößt.",
-    "Der Puls wird über ein Redstonesignal aktiviert, was vermutlich durch das Retium kommt.",
+    "Als ich ein wenig mit Magneten und Kristallen herum probiert habe, ist mir etwas Interessantes aufgefallen. Ich weiÃŸ nicht genau wie, aber ich kann eine Art Gravitationswelle erzeugen die alles in einem bestimmten Bereich in eine Richtung stÃ¶ÃŸt.",
+    "Der Puls wird Ã¼ber ein Redstonesignal aktiviert, was vermutlich durch das Retium kommt.",
 	"Crafting:",
 	{
 		"type": "crafting",
@@ -17,5 +17,5 @@
 			"out": {"name":"fp:pulsit","meta":0}
 		}
 	},
-	"Vielleicht liege ich auch völlig falsch und es ist etwas ganz anderes als Gravitation."
+	"Vielleicht liege ich auch vÃ¶llig falsch und es ist etwas ganz anderes als Gravitation."
 ]

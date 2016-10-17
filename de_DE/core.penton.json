@@ -1,6 +1,6 @@
 [
-	"Mit dieser Prozessorserie habe ich meine momentanen Möglichkeiten ausgereizt mehr Recheneinheiten auf den Prozessor zu bringen, dabei brachte vor allem die Benutzung von Goldleitungen und Kontakten eine reduzierte Wärmeerzeugung.",
-	"Ein weitere Versuch der Verbesserung war das Einbauen einer fest verdrahteten Einheit für das Verarbeiten und Ausgeben von Supportdaten, was den unspezifischen Teil des Prozessors stark entlastet.",
+	"Mit dieser Prozessorserie habe ich meine momentanen MÃ¶glichkeiten ausgereizt mehr Recheneinheiten auf den Prozessor zu bringen, dabei brachte vor allem die Benutzung von Goldleitungen und Kontakten eine reduzierte WÃ¤rmeerzeugung.",
+	"Ein weitere Versuch der Verbesserung war das Einbauen einer fest verdrahteten Einheit fÃ¼r das Verarbeiten und Ausgeben von Supportdaten, was den unspezifischen Teil des Prozessors stark entlastet.",
 
 	"Assembly:",
 	{
@@ -13,5 +13,5 @@
 		}
 	},
 	
-	"Info: Für allgemeine Informationen siehe Standartprozessor."
+	"Info: FÃ¼r allgemeine Informationen siehe Standartprozessor."
 ]

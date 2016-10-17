@@ -1,7 +1,7 @@
 [
-	"Ich habe eine spezialisierte Drohne entwickelt, die zum Abbau von Blöcken dient. Sie schneidet mit Hilfe von Lasern Blöcke aus dem Landschaft und liefert sie in der Drohnenstation ab.",
-	"Die Bergbaudrohne kann mit §lShift + Rechtsklick§r an eine Drohnenstation platziert werden. Danach kann die Drohne mit §lRechtsklick§r eingestellt werden. Um die Drone wieder zu demonktieren kann ein Schraubendrehschlüssel und §lShift + Rechtsklick§r genutzt werden.",
-	"In der GUI werden alle verfügbaren Claime-Überträger links aufgelistet. Diese können ausgewählt und mit Hilfe der Pfeile auf die rechte Seite geschoben werden. Alle rechts eingeordneten Gebiete werden von diesem bearbeitet. Mit aktiver \"Repeat\" Auswahl (true) werden die Gebiete nach einmaliger Beendigung kontinuierlich erneut überprüft und beratbeiten. Fertig eingestellt, kann die Bergbaudrohne mit der Option \"Working\" gestartet werden.",
+	"Ich habe eine spezialisierte Drohne entwickelt, die zum Abbau von BlÃ¶cken dient. Sie schneidet mit Hilfe von Lasern BlÃ¶cke aus dem Landschaft und liefert sie in der Drohnenstation ab.",
+	"Die Bergbaudrohne kann mit Â§lShift + RechtsklickÂ§r an eine Drohnenstation platziert werden. Danach kann die Drohne mit Â§lRechtsklickÂ§r eingestellt werden. Um die Drone wieder zu demonktieren kann ein SchraubendrehschlÃ¼ssel und Â§lShift + RechtsklickÂ§r genutzt werden.",
+	"In der GUI werden alle verfÃ¼gbaren Claime-ÃœbertrÃ¤ger links aufgelistet. Diese kÃ¶nnen ausgewÃ¤hlt und mit Hilfe der Pfeile auf die rechte Seite geschoben werden. Alle rechts eingeordneten Gebiete werden von diesem bearbeitet. Mit aktiver \"Repeat\" Auswahl (true) werden die Gebiete nach einmaliger Beendigung kontinuierlich erneut Ã¼berprÃ¼ft und beratbeiten. Fertig eingestellt, kann die Bergbaudrohne mit der Option \"Working\" gestartet werden.",
 	"Crafting:",
 	{
 		"type": "crafting",

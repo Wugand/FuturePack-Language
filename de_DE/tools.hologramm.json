@@ -1,6 +1,6 @@
 [
-	"Ich habe ein Gerät entwickelt was es mir möglichmacht, das aussehen von Blöcken zu ändern.",
-	"Ich kann einen belibigen Block scannen und dabei wird seine Visuellestruktur in dem gerät gespeichert. Und kann dan auf einen anderen Block der das unterstüzt übertragen werden.",
+	"Ich habe ein GerÃ¤t entwickelt was es mir mÃ¶glichmacht, das aussehen von BlÃ¶cken zu Ã¤ndern.",
+	"Ich kann einen belibigen Block scannen und dabei wird seine Visuellestruktur in dem gerÃ¤t gespeichert. Und kann dan auf einen anderen Block der das unterstÃ¼zt Ã¼bertragen werden.",
 	
 	{
 		"type": "crafting",
@@ -20,5 +20,5 @@
 	"shift-klick um struktur zu speichern",
 	"normaler klick auf einen BLock um das aussehen zu wechseln",
 	"Note: manche Strukturen sind zu komplex um sie zu speichern.",
-	"Unterstüzte Blöcke:\nAlle Rohre\nAlle Kabel\n"
+	"UnterstÃ¼zte BlÃ¶cke:\nAlle Rohre\nAlle Kabel\n"
 ]

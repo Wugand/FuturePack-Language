@@ -1,5 +1,5 @@
 [
-	"Bei Experimenten zur Verbesserung des einfachen Redstone-Speichers viel mir ein besonderes Material auf: Obsidian. Es ist nicht nur sehr robust, sondern auch ein hervorragender Isolator, wodurch ich die Speicherzellen in kleineren Abst‰nden verbauen kann, wenn ich diese durch eine Obsidianschicht trenne. Damit kann ich nun einen Speicher mit deutlich hˆherer Kapazit‰t konstruieren.",
+	"Bei Experimenten zur Verbesserung des einfachen Redstone-Speichers viel mir ein besonderes Material auf: Obsidian. Es ist nicht nur sehr robust, sondern auch ein hervorragender Isolator, wodurch ich die Speicherzellen in kleineren Abst√§nden verbauen kann, wenn ich diese durch eine Obsidianschicht trenne. Damit kann ich nun einen Speicher mit deutlich h√∂herer Kapazit√§t konstruieren.",
 	"Assembly:",
 	{
 		"type": "assembly",
@@ -10,5 +10,5 @@
 			"out": {"name":"fp:spaceship", "meta":"<spaceship.SupportSpeicher1>", "size":1}
 		}
 	},
-	"Kapazit‰t: 256 SP"
+	"Kapazit√§t: 256 SP"
 ]

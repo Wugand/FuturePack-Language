@@ -1,6 +1,6 @@
 [
 	"Ich habe einen spezielle Werkbank entwickelt, mit der ich Dank eingebautem Lager effizienter arbeiten kann.",
-	"Zudem brauche ich diese für alle weiteren Crafting-Rezepte die ich entdecken werde.",
+	"Zudem brauche ich diese fÃ¼r alle weiteren Crafting-Rezepte die ich entdecken werde.",
 		
 	"Crafting:",
 	{
@@ -18,5 +18,5 @@
 			"out": {"name":"fp:techtable","meta":0}
 		}
 	},
-	"WICHTIG: Alle durch in diesem Mod freischaltbaren Crafting-Rezepte sind NUR in dieser Werkbank ausführbar!"
+	"WICHTIG: Alle durch in diesem Mod freischaltbaren Crafting-Rezepte sind NUR in dieser Werkbank ausfÃ¼hrbar!"
 ]

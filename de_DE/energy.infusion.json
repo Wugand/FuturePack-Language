@@ -1,6 +1,6 @@
 [
-	"Die hier vorkommenden Kristalle können Lebewesen beträchtlichen Schaden zufügen. Durch genauere Analyse habe ich herausgefunden, dass die Kristalle eine Wechselwirkung mit organischer Substanz eingehen, dabei wird das organische Material aufgelöst und ebenso die Kristallstruktur aufgebrochen. Dabei wird die Energie des organischen Materials als Wärme freigesetzt.",
-	"Mit diesem Prinzip habe ich einen Generator entwickelt, der Kristallfragmente in Lebensmittel oder Brennmaterial (außer Lava, Kohle) injiziert und die freigesetzte Wärme in Neonenergie umgewandelt. Als Abfallprodukt entsteht dabei Kristallstaub.",
+	"Die hier vorkommenden Kristalle kÃ¶nnen Lebewesen betrÃ¤chtlichen Schaden zufÃ¼gen. Durch genauere Analyse habe ich herausgefunden, dass die Kristalle eine Wechselwirkung mit organischer Substanz eingehen, dabei wird das organische Material aufgelÃ¶st und ebenso die Kristallstruktur aufgebrochen. Dabei wird die Energie des organischen Materials als WÃ¤rme freigesetzt.",
+	"Mit diesem Prinzip habe ich einen Generator entwickelt, der Kristallfragmente in Lebensmittel oder Brennmaterial (auÃŸer Lava, Kohle) injiziert und die freigesetzte WÃ¤rme in Neonenergie umgewandelt. Als Abfallprodukt entsteht dabei Kristallstaub.",
 	
 	"Crafting:",
 	{
@@ -19,9 +19,9 @@
 		}
 	},
 	
-	"Die Menge an Energie, die aus einer Kombination erzeugt wird ist Abhängigkeit von: Dem Wert der Industirechipsätze, der Art des Kristalls und dem Nährwert/Brennwert des organischen Materials.",
-	"Durch die Erhöhung des \"Ram\"-Wertes wird diese Energie entsprechend schneller erzeugt und abgegeben.",
+	"Die Menge an Energie, die aus einer Kombination erzeugt wird ist AbhÃ¤ngigkeit von: Dem Wert der IndustirechipsÃ¤tze, der Art des Kristalls und dem NÃ¤hrwert/Brennwert des organischen Materials.",
+	"Durch die ErhÃ¶hung des \"Ram\"-Wertes wird diese Energie entsprechend schneller erzeugt und abgegeben.",
 	
-	"Unterstützte Chipsätze:",
+	"UnterstÃ¼tzte ChipsÃ¤tze:",
 	"Logikchipsatz\nIndustriechipsatz (Energieausbeute)\nTransportchipsatz\nRedstonesteuerungschipsatz\nSchadenskontrollchipsatz"	
 ]

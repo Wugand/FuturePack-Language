@@ -1,6 +1,6 @@
 [
-	"Um längere Zeit unter Wasser arbeiten zu können, muss ich Sauerstoff mitführen. Die einfachen Tanks haben sich dabei als praktisch erwiesen, in Kombination mit einer leichten Aluminiumhalterung kann ich mir die Tanks auf den Rücken schnallen.",
-	"Mit einem Steuergerät sowie einem einfachen Kompressor habe ich das Gerät so ergänzt, dass sich die Tanks an Land automatisch wieder auffüllen.",
+	"Um lÃ¤ngere Zeit unter Wasser arbeiten zu kÃ¶nnen, muss ich Sauerstoff mitfÃ¼hren. Die einfachen Tanks haben sich dabei als praktisch erwiesen, in Kombination mit einer leichten Aluminiumhalterung kann ich mir die Tanks auf den RÃ¼cken schnallen.",
+	"Mit einem SteuergerÃ¤t sowie einem einfachen Kompressor habe ich das GerÃ¤t so ergÃ¤nzt, dass sich die Tanks an Land automatisch wieder auffÃ¼llen.",
 
 	"Crafting:",
 	{
@@ -18,9 +18,9 @@
 			"out": {"name":"fp:sauerstofftank"}
 		}
 	},
-	"Kapazität: 2 min",
-	"Auffüllen: 2 min",
+	"KapazitÃ¤t: 2 min",
+	"AuffÃ¼llen: 2 min",
 		
-	"Anzeige: Der Füllstand der Tanks wird mit der normalen Luftanzeige angezeigt. Wenn diese (nach 2 min) leer ist, heißt das, der Sauerstofftank ist leer. Die Luftanzeige wird dann noch einmal komplett gefüllt und leert sich mit normaler Geschwindigkeit.",
-	"Außerhalb des Wassers lädt sich der Tank, solange ausgerüstet, kontinuierlich wieder auf."
+	"Anzeige: Der FÃ¼llstand der Tanks wird mit der normalen Luftanzeige angezeigt. Wenn diese (nach 2 min) leer ist, heiÃŸt das, der Sauerstofftank ist leer. Die Luftanzeige wird dann noch einmal komplett gefÃ¼llt und leert sich mit normaler Geschwindigkeit.",
+	"AuÃŸerhalb des Wassers lÃ¤dt sich der Tank, solange ausgerÃ¼stet, kontinuierlich wieder auf."
 ]

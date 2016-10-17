@@ -1,5 +1,5 @@
 [
-    "Ich habe einen Chip entwickelt der die Entscheidungsfähigkeit des Computersystems verbessert.",
+    "Ich habe einen Chip entwickelt der die EntscheidungsfÃ¤higkeit des Computersystems verbessert.",
     "Assembly:",
     {
         "type": "assembly",
@@ -10,5 +10,5 @@
             "out": {"name":"fp:chip", "meta":"<chip.KIChip>", "size":1}
         }
     },
-    "Durch den KI (Künstliche Intelligenz) Chip kann zum Beispiel der Absorptionslaser (Entity Eater) keine Ziele mehr töten, sondern lässt sie nur stark geschwächt zurück."
+    "Durch den KI (KÃ¼nstliche Intelligenz) Chip kann zum Beispiel der Absorptionslaser (Entity Eater) keine Ziele mehr tÃ¶ten, sondern lÃ¤sst sie nur stark geschwÃ¤cht zurÃ¼ck."
 ]

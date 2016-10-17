@@ -1,6 +1,6 @@
 [
-	"Mit dieser Speicherserie habe ich meine momentanen Möglichkeiten ausgereizt mehr Speichereinheiten auf das Speichermodul zu bringen, dabei habe ich besonderen Wert darauf gelegt das die Speichermodule selbst Verwaltungsaufgaben übernehmen um den Prozessor zu entlasten.",
-	"Ein weitere Versuch der Verbesserung war das Einbauen einer fest verdrahteten Einheit für das Zwischenspeichern von Supportdaten.",
+	"Mit dieser Speicherserie habe ich meine momentanen MÃ¶glichkeiten ausgereizt mehr Speichereinheiten auf das Speichermodul zu bringen, dabei habe ich besonderen Wert darauf gelegt das die Speichermodule selbst Verwaltungsaufgaben Ã¼bernehmen um den Prozessor zu entlasten.",
+	"Ein weitere Versuch der Verbesserung war das Einbauen einer fest verdrahteten Einheit fÃ¼r das Zwischenspeichern von Supportdaten.",
 
 	"Assembly:",
 	{
@@ -13,5 +13,5 @@
 		}
 	},
 	
-	"Info: Für allgemeine Informationen siehe Standartspeicher."
+	"Info: FÃ¼r allgemeine Informationen siehe Standartspeicher."
 ]

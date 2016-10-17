@@ -1,5 +1,5 @@
 [
-	"Ich habe eine Art Werkbank entwickelt an der ich Experimente durchführen und meine Ideen ausarbeiten kann, bevor ich die Ergebnisse in meine Datenbank eintrage.",
+	"Ich habe eine Art Werkbank entwickelt an der ich Experimente durchfÃ¼hren und meine Ideen ausarbeiten kann, bevor ich die Ergebnisse in meine Datenbank eintrage.",
 	"Crafting:",
 	{
 		"type": "crafting",
@@ -18,10 +18,10 @@
 	},
 	"Tipp: Lies vorher die Informationen zu \"Das Forschungssytem\"!",
 	"Benutzung im Detail:",
-	"Anmerkung: Im Folgenden werden die Begriffe Energie, Support, Erfahrung und Netzwerk genannt, diese Funktionalitäten werden erst im späteren Spielverlauf verfügbar.",
-	"Mit dem grünen Pfeil kann eine Blaupause aus dem nächstgelegenen Scanner geholt werden, alternativ  kann diese per Hand in den rechten Slot gelegt werden. Durch Klick auf den \"Forschen\"-Button (unten rechts) wird die Forschung gestartet.",
-	"Daraufhin erscheinen in ein oder mehreren der Slots Hologramme von Items, inklusive einer Anzahl oben links im Slot. Alle Slots müssen mit den entsprechenden Items bestückt werden, dabei zeigt ein roter Rahmen, dass der Itemtyp oder  die Anzahl nicht korrekt sind. Die Items werden mit Abschluss der Forschung verbraucht.",
-	"Die Balken unter den Slots zeigen den Fortschritt des Ressourcenverbrauchs aus dem Forschungsnetzwerk, die Ressourcen sind (links nach rechts): Zeit (immer vorhanden), Energie, Support, Erfahrung. Wird die Umrandung einer der Balken grau, so heißt dies das entsprechende Ressource nicht ausreichend im Netzwerk vorhanden ist.",
-	"Wenn alles breitgestellt wurde beginnen sich die Balken zu füllen, bis die Forschung abgeschlossen ist. Die Anwesenheit des Spielers ist dabei nicht erforderlich.",
+	"Anmerkung: Im Folgenden werden die Begriffe Energie, Support, Erfahrung und Netzwerk genannt, diese FunktionalitÃ¤ten werden erst im spÃ¤teren Spielverlauf verfÃ¼gbar.",
+	"Mit dem grÃ¼nen Pfeil kann eine Blaupause aus dem nÃ¤chstgelegenen Scanner geholt werden, alternativ  kann diese per Hand in den rechten Slot gelegt werden. Durch Klick auf den \"Forschen\"-Button (unten rechts) wird die Forschung gestartet.",
+	"Daraufhin erscheinen in ein oder mehreren der Slots Hologramme von Items, inklusive einer Anzahl oben links im Slot. Alle Slots mÃ¼ssen mit den entsprechenden Items bestÃ¼ckt werden, dabei zeigt ein roter Rahmen, dass der Itemtyp oder  die Anzahl nicht korrekt sind. Die Items werden mit Abschluss der Forschung verbraucht.",
+	"Die Balken unter den Slots zeigen den Fortschritt des Ressourcenverbrauchs aus dem Forschungsnetzwerk, die Ressourcen sind (links nach rechts): Zeit (immer vorhanden), Energie, Support, Erfahrung. Wird die Umrandung einer der Balken grau, so heiÃŸt dies das entsprechende Ressource nicht ausreichend im Netzwerk vorhanden ist.",
+	"Wenn alles breitgestellt wurde beginnen sich die Balken zu fÃ¼llen, bis die Forschung abgeschlossen ist. Die Anwesenheit des Spielers ist dabei nicht erforderlich.",
 	"Es kann sinnvoll sein mehrere Forscher zu betreiben, da manche Forschungen viel Zeit in Anspruch nehmen."
 ]

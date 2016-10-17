@@ -1,7 +1,7 @@
 [
 	"Die von meinen Maschinen produzierten Supportpunkte kann ich nicht einfach Transportieren, da es eigentlich nur Daten sind. Deshalb habe ich eine Art Flash-Speicher entwickelt, in denen ich eine gewisse Menge der Supportpunkte aufbewahren und transportieren kann.",
-	"Dieser sehr einfache Redstone-Speicher beruht auf winzigen Redstoneelementen die je 2 Zustände annehmen können, diese Zellen sind jedoch sehr anfällig gegen physische und elektrische Einflüsse. Deshalb habe ich die Speicheranordnung in ein Goldgehäuse eingebettet, dieses ist korrosionsresistent und durch seine Leitfähigkeit auch ein guter Schutz gegen elektrische Felder.",
-	"Zur Organisation und zum Zugriff auf den Speicher genügt ein einfacher Logikchipsatz mit entsprechendem Programm.",
+	"Dieser sehr einfache Redstone-Speicher beruht auf winzigen Redstoneelementen die je 2 ZustÃ¤nde annehmen kÃ¶nnen, diese Zellen sind jedoch sehr anfÃ¤llig gegen physische und elektrische EinflÃ¼sse. Deshalb habe ich die Speicheranordnung in ein GoldgehÃ¤use eingebettet, dieses ist korrosionsresistent und durch seine LeitfÃ¤higkeit auch ein guter Schutz gegen elektrische Felder.",
+	"Zur Organisation und zum Zugriff auf den Speicher genÃ¼gt ein einfacher Logikchipsatz mit entsprechendem Programm.",
 	
 	"Assembly:",
 	{
@@ -13,7 +13,7 @@
 			"out": {"name":"fp:spaceship", "meta":"<spaceship.SupportSpeicher0>", "size":1}
 		}
 	},
-	"Kapazität: 128 SP",
+	"KapazitÃ¤t: 128 SP",
 	
 	"Information: Folgender Slot ist, falls in einer Maschine vorhanden zum Laden/Entladen von Flashspeichern.",
 	{

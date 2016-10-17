@@ -1,6 +1,6 @@
 [
-	"Ich habe mir ein nützliches Multifunktionswerkzeug gebaut.",
-	"Es ermöglicht mir, Dinge zu drehen, außerdem kann ich damit eventuell auch Maschinen umbauen.",
+	"Ich habe mir ein nÃ¼tzliches Multifunktionswerkzeug gebaut.",
+	"Es ermÃ¶glicht mir, Dinge zu drehen, auÃŸerdem kann ich damit eventuell auch Maschinen umbauen.",
 	
 	{
 		"type": "crafting",
@@ -17,7 +17,7 @@
 			"out": {"name":"fp:scrench"}
 		}
 	},
-	"Moduswechsel: §lRechtsklick \"in die Luft\"§r",
+	"Moduswechsel: Â§lRechtsklick \"in die Luft\"Â§r",
 	
 	"Rotation-Mode:",
 	{
@@ -26,7 +26,7 @@
 		"height":32,
 		"resource":"fp:textures/items/tool_sub.png"
 	},
-	"§lRechtsklick§r auf einen Block, um diesen zu drehen.",
+	"Â§lRechtsklickÂ§r auf einen Block, um diesen zu drehen.",
 	
 	"Modification-Mode:",
 	{
@@ -35,6 +35,6 @@
 		"height":32,
 		"resource":"fp:textures/items/tool.png"
 	},
-	"§lShift + Rechtsklick§r auf eine Maschiene, um diese zu modifizieren.",
-	"Notiz: Die erste modifizierbare Maschine wird erst später freigeschaltet!"
+	"Â§lShift + RechtsklickÂ§r auf eine Maschiene, um diese zu modifizieren.",
+	"Notiz: Die erste modifizierbare Maschine wird erst spÃ¤ter freigeschaltet!"
 ]

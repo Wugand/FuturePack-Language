@@ -1,5 +1,5 @@
 [
-	"Ich habe eine einfache Struktur aus Gitterblöcken geschaffen, einen halben Gitterblock.",
+	"Ich habe eine einfache Struktur aus GitterblÃ¶cken geschaffen, einen halben Gitterblock.",
 	"Crafting:",
 	{
 		"type": "crafting",
@@ -16,6 +16,6 @@
 			"out": [{"name":"fp:metal_slap0", "meta":1, "size":6},{"name":"fp:color_gitter_step_half_0", "meta":0, "size":6},{"name":"fp:color_gitter_step_half_0", "meta":1, "size":6},{"name":"fp:color_gitter_step_half_0", "meta":2, "size":6},{"name":"fp:color_gitter_step_half_0", "meta":3, "size":6},{"name":"fp:color_gitter_step_half_0", "meta":4, "size":6},{"name":"fp:color_gitter_step_half_0", "meta":5, "size":6},{"name":"fp:color_gitter_step_half_0", "meta":6, "size":6},{"name":"fp:color_gitter_step_half_0", "meta":7, "size":6},{"name":"fp:color_gitter_step_half_0", "meta":8, "size":6},{"name":"fp:color_gitter_step_half_0", "meta":9, "size":6},{"name":"fp:color_gitter_step_half_0", "meta":10, "size":6},{"name":"fp:color_gitter_step_half_0", "meta":11, "size":6},{"name":"fp:color_gitter_step_half_0", "meta":12, "size":6},{"name":"fp:color_gitter_step_half_0", "meta":13, "size":6},{"name":"fp:color_gitter_step_half_0", "meta":14, "size":6},{"name":"fp:color_gitter_step_half_0", "meta":15, "size":6}]
 		}
 	},
-	"Information: Der Block ist mit der Farbpistole (ent)färbbar.",
-	"Information: Zwei übereinander platzierte Stufen ergeben beim Abreißen wieder einen Vollblock."
+	"Information: Der Block ist mit der Farbpistole (ent)fÃ¤rbbar.",
+	"Information: Zwei Ã¼bereinander platzierte Stufen ergeben beim AbreiÃŸen wieder einen Vollblock."
 ]

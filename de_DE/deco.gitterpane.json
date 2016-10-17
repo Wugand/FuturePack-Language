@@ -1,5 +1,5 @@
 [
-	"Ich habe eine Struktur aus Gitterblöcken geschaffen, ein dünnes Gitter.",
+	"Ich habe eine Struktur aus GitterblÃ¶cken geschaffen, ein dÃ¼nnes Gitter.",
 	"Crafting:",
 	{
 		"type": "crafting",
@@ -16,5 +16,5 @@
 			"out": [{"name":"fp:metal_gitter_pane", "meta":0, "size":6},{"name":"fp:color_gitter_pane", "meta":0, "size":6},{"name":"fp:color_gitter_pane", "meta":1, "size":6},{"name":"fp:color_gitter_pane", "meta":2, "size":6},{"name":"fp:color_gitter_pane", "meta":3, "size":6},{"name":"fp:color_gitter_pane", "meta":4, "size":6},{"name":"fp:color_gitter_pane", "meta":5, "size":6},{"name":"fp:color_gitter_pane", "meta":6, "size":6},{"name":"fp:color_gitter_pane", "meta":7, "size":6},{"name":"fp:color_gitter_pane", "meta":8, "size":6},{"name":"fp:color_gitter_pane", "meta":9, "size":6},{"name":"fp:color_gitter_pane", "meta":10, "size":6},{"name":"fp:color_gitter_pane", "meta":11, "size":6},{"name":"fp:color_gitter_pane", "meta":12, "size":6},{"name":"fp:color_gitter_pane", "meta":13, "size":6},{"name":"fp:color_gitter_pane", "meta":14, "size":6},{"name":"fp:color_gitter_pane", "meta":15, "size":6}]
 		}
 	},
-	"Information: Der Block ist mit der Farbpistole (ent)färbbar."
+	"Information: Der Block ist mit der Farbpistole (ent)fÃ¤rbbar."
 ]

@@ -1,6 +1,6 @@
 [
 	"Mit den Flshspeichern kann ich Supportpunkte von Hand transportieren und dauerhaft aufbewahren, allerdings sind diese kaum als automatisierte Speicher geeignet. Deshalb habe ich mehrere Flashspeicher und ein Verwaltungssystem zu einem Flashserver verbunden.",
-	"Diese Speichereinheit kann ich je nach Einstellung als Sammler, Quelle oder Puffer benutzen. Zudem habe ich im inneren Anschlüsse zum Laden/Entladen von Hand und zur dauerhaften vergrößerung der Kapazität (4 Slots) vorgesehen.",
+	"Diese Speichereinheit kann ich je nach Einstellung als Sammler, Quelle oder Puffer benutzen. Zudem habe ich im inneren AnschlÃ¼sse zum Laden/Entladen von Hand und zur dauerhaften vergrÃ¶ÃŸerung der KapazitÃ¤t (4 Slots) vorgesehen.",
 	"Der Flashserver wird vor allem in meinen modernen Systemen wichtig sein, da ich nicht alle Maschinen mit einer Einheit zum Lesen von Flashspeichern versehen kann.",
 	"Crafting:",
 	{
@@ -18,6 +18,6 @@
 			"out": [{"name":"fp:flash_server", "meta":2, "size":1},{"name":"fp:flash_server", "meta":6, "size":1},{"name":"fp:flash_server", "meta":10, "size":1}]
 		}
 	},
-	"Eigenkapazität: 2048 SP",
-	"Einstellungen: Mit dem \"Logistikeditor\" können die Seiten des Blocks als Supportausgang oder Supporteingang eingestellt werden."
+	"EigenkapazitÃ¤t: 2048 SP",
+	"Einstellungen: Mit dem \"Logistikeditor\" kÃ¶nnen die Seiten des Blocks als Supportausgang oder Supporteingang eingestellt werden."
 ]

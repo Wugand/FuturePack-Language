@@ -1,5 +1,5 @@
 [
-	"Ich habe Triebwerke entwickelt, bei denen ich Funktionalität und Design so gut es möglich war verbunden habe. Sie enthalten hitzebeständige Keramik und Verbundmetall um die wirkenden Kräfte an das Raumschiff weiterleiten zu können",
+	"Ich habe Triebwerke entwickelt, bei denen ich FunktionalitÃ¤t und Design so gut es mÃ¶glich war verbunden habe. Sie enthalten hitzebestÃ¤ndige Keramik und Verbundmetall um die wirkenden KrÃ¤fte an das Raumschiff weiterleiten zu kÃ¶nnen",
     "Crafting:",
     {
         "type": "crafting",
@@ -54,5 +54,5 @@
                    ]              
         }
     },
-    "Außerdem kann man sie mit Redstone ein und ausschalten, das wirkt sich jedoch nicht auf den Flug aus."
+    "AuÃŸerdem kann man sie mit Redstone ein und ausschalten, das wirkt sich jedoch nicht auf den Flug aus."
 ]

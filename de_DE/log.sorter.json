@@ -1,7 +1,7 @@
 [
-	"Ich hab den einfachen Weitertransport des Itemschiebers erweitert, um Items gezielt umleiten zu können. Ein Computersystem analysiert dabei ein hineingefülltes Item und entscheidet dann zu welcher Seite es das Item weiterleitet wird.",
-	"Die Seite mit den grünen Pfeilen ist dabei der Itemeingang und die mit den roten Pfeilen der Ausgang für Blocke, die zu keiner Kategorie zugeordnet werden konnten. In der GUI der Maschine ist dabei links ein Itempuffer und rechts 4 unterschiedlich gefärbte Filter-Kategorien. Dieselben Farbmarkierungen sind auch an der Außenseite zu finden. Wenn also ein Item zu einer der Filter-Kategorien passt wird es zu dieser Seite geleitet.",
-	"Für diese Arbeit braucht die Maschine Neonenergie, wobei sich hierfür besonders die Neonrohre empfehlen.",
+	"Ich hab den einfachen Weitertransport des Itemschiebers erweitert, um Items gezielt umleiten zu kÃ¶nnen. Ein Computersystem analysiert dabei ein hineingefÃ¼lltes Item und entscheidet dann zu welcher Seite es das Item weiterleitet wird.",
+	"Die Seite mit den grÃ¼nen Pfeilen ist dabei der Itemeingang und die mit den roten Pfeilen der Ausgang fÃ¼r Blocke, die zu keiner Kategorie zugeordnet werden konnten. In der GUI der Maschine ist dabei links ein Itempuffer und rechts 4 unterschiedlich gefÃ¤rbte Filter-Kategorien. Dieselben Farbmarkierungen sind auch an der AuÃŸenseite zu finden. Wenn also ein Item zu einer der Filter-Kategorien passt wird es zu dieser Seite geleitet.",
+	"FÃ¼r diese Arbeit braucht die Maschine Neonenergie, wobei sich hierfÃ¼r besonders die Neonrohre empfehlen.",
 
 	"Crafting:",
 	{
@@ -21,8 +21,8 @@
 	},
 	
 	"Modifikation:",
-	"Durch die Erhöhung des \"Ram\"-Wertes, kann der Itemdurchsatz erhöht werden.",
+	"Durch die ErhÃ¶hung des \"Ram\"-Wertes, kann der Itemdurchsatz erhÃ¶ht werden.",
 	
-	"Unterstützte Chipsätze:",
-	"Logikchipsatz\nIndustriechipsatz (Stapelgröße)\nSchadenskontrollchipsatz"
+	"UnterstÃ¼tzte ChipsÃ¤tze:",
+	"Logikchipsatz\nIndustriechipsatz (StapelgrÃ¶ÃŸe)\nSchadenskontrollchipsatz"
 ]

@@ -1,5 +1,5 @@
 [
-	"Ich habe eine einfache Struktur aus Gitterblöcken geschaffen, einen treppenförmigen Gitterblock.",
+	"Ich habe eine einfache Struktur aus GitterblÃ¶cken geschaffen, einen treppenfÃ¶rmigen Gitterblock.",
 	"Crafting:",
 	{
 		"type": "crafting",
@@ -16,5 +16,5 @@
 			"out": [{"name":"fp:metal_gitter_treppe", "meta":0, "size":4},{"name":"fp:color_gitter_stair0", "size":4},{"name":"fp:color_gitter_stair1", "size":4},{"name":"fp:color_gitter_stair2", "size":4},{"name":"fp:color_gitter_stair3", "size":4},{"name":"fp:color_gitter_stair4", "size":4},{"name":"fp:color_gitter_stair5", "size":4},{"name":"fp:color_gitter_stair6", "size":4},{"name":"fp:color_gitter_stair7", "size":4},{"name":"fp:color_gitter_stair8", "size":4},{"name":"fp:color_gitter_stair9", "size":4},{"name":"fp:color_gitter_stair10", "size":4},{"name":"fp:color_gitter_stair11", "size":4},{"name":"fp:color_gitter_stair12", "size":4},{"name":"fp:color_gitter_stair13", "size":4},{"name":"fp:color_gitter_stair14", "size":4},{"name":"fp:color_gitter_stair15", "size":4}]
 		}
 	},
-	"Information: Der Block ist mit der Farbpistole (ent)färbbar."
+	"Information: Der Block ist mit der Farbpistole (ent)fÃ¤rbbar."
 ]

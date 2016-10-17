@@ -1,5 +1,5 @@
 [
-	"Trotz meiner Forschungen konnte ich keinen noch besseren Speicher entwickeln, welcher auf Redstonezellen basiert. Allerdings habe ich einen neuen Ansatz entdeckt, er besteht darin das sich die elektrischen Eigenschaften von Glowstone ändern, wann ich diesem einen starken Impuls Neonenergie zuführe. Diese Speicherzellen sind durch die neue Bauweise viel kleiner als die Redstonespeicher, was mir eine deutliche Erhöhung der Kapazität ermöglicht hat.",
+	"Trotz meiner Forschungen konnte ich keinen noch besseren Speicher entwickeln, welcher auf Redstonezellen basiert. Allerdings habe ich einen neuen Ansatz entdeckt, er besteht darin das sich die elektrischen Eigenschaften von Glowstone Ã¤ndern, wann ich diesem einen starken Impuls Neonenergie zufÃ¼hre. Diese Speicherzellen sind durch die neue Bauweise viel kleiner als die Redstonespeicher, was mir eine deutliche ErhÃ¶hung der KapazitÃ¤t ermÃ¶glicht hat.",
 	"Assembly:",
 	{
 		"type": "assembly",
@@ -10,5 +10,5 @@
 			"out": {"name":"fp:spaceship", "meta":"<spaceship.SupportSpeicher2>", "size":1}
 		}
 	},
-	"Kapazität: 512 SP"
+	"KapazitÃ¤t: 512 SP"
 ]

@@ -1,5 +1,5 @@
 [
-	"Ein einfacher Stabmagnet ist zwar gut, ist aber relativ schwach. Deshalb habe ich viele Stabmagnete zu einem großen Magnetblock verbunden.",
+	"Ein einfacher Stabmagnet ist zwar gut, ist aber relativ schwach. Deshalb habe ich viele Stabmagnete zu einem groÃŸen Magnetblock verbunden.",
 	"Crafting:",
 	{
 		"type": "crafting",
@@ -16,6 +16,6 @@
 			"out": {"name":"fp:magnet","meta":0}
 		}
 	},
-	"Er kann in einem Radius von 5 Blöcken Items, Minecarts und andere Objekte aus Metall anziehen.",
+	"Er kann in einem Radius von 5 BlÃ¶cken Items, Minecarts und andere Objekte aus Metall anziehen.",
 	"Ich frage mich wie andere Magneten auf diesen Block reagieren."
 ]
