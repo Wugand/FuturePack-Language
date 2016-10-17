@@ -13,8 +13,8 @@
 			"6": "OreDict:ingotAluminum",
 			"7": "OreDict:ingotBioterium",
 			"8": "OreDict:ingotAluminum",
-			"9": {name:"fp:spaceship", meta:<spaceship.IronStick>},
-			"out": {name:"fp:hook", meta:250, size:1}
+			"9": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
+			"out": {"name":"fp:hook", "meta":250, "size":1}
 		}
 	},	
 	"Mit Rechtsklick wird der Hacken geworfen und wieder eingeholt, wie bei der Angel. Sobald der Schleim einen Block trifft, wird man sofort in diese Richtung gezogen. Auﬂerdem muss der Kletterschleim mit Neonenergie aufgeladen werden."

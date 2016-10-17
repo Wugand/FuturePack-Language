@@ -6,15 +6,15 @@
 		"type": "crafting",
 		"slots": {
 			"1": {},
-			"2": {OreDict:"ingotGlowtite"},
+			"2": {"OreDict":"ingotGlowtite"},
 			"3": {},
-			"4": {name:"fp:pipe", meta:0},
-			"5": {name:"fp:pipe", meta:0},
-			"6": {name:"fp:pipe", meta:0},
+			"4": {"name":"fp:pipe", "meta":0},
+			"5": {"name":"fp:pipe", "meta":0},
+			"6": {"name":"fp:pipe", "meta":0},
 			"7": {},
 			"8": {},
 			"9": {},
-			"out": {name:"fp:pipe", meta:3, size:3}
+			"out": {"name":"fp:pipe", "meta":3, "size":3}
 		}
 	},
 	

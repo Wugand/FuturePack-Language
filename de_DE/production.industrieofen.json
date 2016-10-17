@@ -6,7 +6,7 @@
 		"slots": {
 			"1": {"name":"fp:spaceship","meta":"<spaceship.Tank>"},
 			"2": {"OreDict":"ingotIron"},
-			"3": {"name":"fp:spaceship","meta:<spaceship.Tank>"},
+			"3": {"name":"fp:spaceship","meta":"<spaceship.Tank>"},
 			"4": {"name":"minecraft:furnace","meta":0},
 			"5": {"name":"minecraft:furnace","meta":0},
 			"6": {"name":"minecraft:furnace","meta":0},

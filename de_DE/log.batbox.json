@@ -5,16 +5,16 @@
 	{
 		"type": "crafting",
 		"slots": {
-			"1": {name:"fp:spaceship", meta:<spaceship.NormalBaterrie>},
-			"2": {name:"minecraft:chest"},
-			"3": {name:"fp:spaceship", meta:<spaceship.NormalBaterrie>},
-			"4": {name:"fp:spaceship", meta:<spaceship.NormalBaterrie>},
-			"5": [{name:"fp:color_iron", meta:0},{name:"fp:color_iron", meta:8},{name:"fp:color_iron", meta:15}],
-			"6": {name:"fp:spaceship", meta:<spaceship.NormalBaterrie>},
-			"7": {name:"fp:spaceship", meta:<spaceship.NormalBaterrie>},
-			"8": {name:"fp:spaceship", meta:<spaceship.NeonCoil>},
-			"9": {name:"fp:spaceship", meta:<spaceship.NormalBaterrie>},
-			"out": [{name:"fp:baterie_box", meta:0, size:1},{name:"fp:baterie_box", meta:2, size:1},{name:"fp:baterie_box", meta:1, size:1}]
+			"1": {"name":"fp:spaceship", "meta":"<spaceship.NormalBaterrie>"},
+			"2": {"name":"minecraft:chest"},
+			"3": {"name":"fp:spaceship", "meta":"<spaceship.NormalBaterrie>"},
+			"4": {"name":"fp:spaceship", "meta":"<spaceship.NormalBaterrie>"},
+			"5": [{"name":"fp:color_iron", "meta":0},{"name":"fp:color_iron", "meta":8},{"name":"fp:color_iron", "meta":15}],
+			"6": {"name":"fp:spaceship", "meta":"<spaceship.NormalBaterrie>"},
+			"7": {"name":"fp:spaceship", "meta":"<spaceship.NormalBaterrie>"},
+			"8": {"name":"fp:spaceship", "meta":"<spaceship.NeonCoil>"},
+			"9": {"name":"fp:spaceship", "meta":"<spaceship.NormalBaterrie>"},
+			"out": [{"name":"fp:baterie_box", "meta":0, "size":1},{"name":"fp:baterie_box", "meta":2, "size":1},{"name":"fp:baterie_box", "meta":1, "size":1}]
 		}
 	},
 	"Eigenkapazität: 6000 NE",

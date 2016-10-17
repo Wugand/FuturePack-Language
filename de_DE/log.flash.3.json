@@ -5,9 +5,9 @@
 		"type": "assembly",
 		"slots": {
 			"in1": {"name":"fp:chip","meta":0,"size":1},
-			"in2": {OreDict:"ingotNeon",size:1},
-			"in3": {OreDict:"dustGlowstone",size:1},
-			"out": {name:"fp:spaceship", meta:<spaceship.SupportSpeicher2>, size:1}
+			"in2": {"OreDict":"ingotNeon","size":1},
+			"in3": {"OreDict":"dustGlowstone","size":1},
+			"out": {"name":"fp:spaceship", "meta":"<spaceship.SupportSpeicher2>", "size":1}
 		}
 	},
 	"Kapazität: 512 SP"

@@ -10,12 +10,12 @@
 			"2": "OreDict:ingotIron",
 			"3": "OreDict:ingotIron",
 			"4": "OreDict:ingotIron",
-			"5": {name:"minecraft:crafting_table"},
+			"5": {"name":"minecraft:crafting_table"},
 			"6": "OreDict:ingotIron",
 			"7": "OreDict:ingotIron",
-			"8": {name:"minecraft:chest"},
+			"8": {"name":"minecraft:chest"},
 			"9": "OreDict:ingotIron",
-			"out": {name:"fp:techtable",meta:0}
+			"out": {"name":"fp:techtable","meta":0}
 		}
 	},
 	"WICHTIG: Alle durch in diesem Mod freischaltbaren Crafting-Rezepte sind NUR in dieser Werkbank ausführbar!"

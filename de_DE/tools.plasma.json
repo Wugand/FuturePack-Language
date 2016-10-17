@@ -6,15 +6,15 @@
 		"type": "crafting",
 		"slots": {
 			"1": {},
-			"2": {name:"fp:spaceship", meta:"<spaceship.NeonCoil>"},
+			"2": {"name":"fp:spaceship", "meta":"<spaceship.NeonCoil>"},
 			"3": "OreDict:ingotRetium",
 			"4": "OreDict:ingotAluminum",
 			"5": "OreDict:ingotGlowtite",
-			"6": {name:"fp:spaceship", meta:"<spaceship.NeonCoil>"},
+			"6": {"name":"fp:spaceship", "meta":"<spaceship.NeonCoil>"},
 			"7": "OreDict:ingotNeon",
 			"8": "OreDict:ingotAluminum",
-			"9": {name:"fp:spaceship", meta:"<spaceship.IronStick>"},
-			"out": {name:"fp:plasmaschneider", meta:2500, size:1}
+			"9": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
+			"out": {"name":"fp:plasmaschneider", "meta":2500, "size":1}
 		}
 	},	
 	"Es wird Neonenergie für die (wieder-)Aufladung benötigt. Wenn die Ladung komplett aufgebraucht ist wird der Plasmaschneider zerstört."

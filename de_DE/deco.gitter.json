@@ -4,16 +4,16 @@
 	{
 		"type": "crafting",
 		"slots": {
-			"1": {name:"fp:spaceship", meta:<spaceship.IronStick>},
-			"2": {name:"minecraft:iron_bars"},
-			"3": {name:"fp:spaceship", meta:<spaceship.IronStick>},
-			"4": {name:"minecraft:iron_bars"},
-			"5": {name:"fp:spaceship", meta:<spaceship.CompositeMetall>},
-			"6": {name:"minecraft:iron_bars"},
-			"7": {name:"fp:spaceship", meta:<spaceship.IronStick>},
-			"8": {name:"minecraft:iron_bars"},
-			"9": {name:"fp:spaceship", meta:<spaceship.IronStick>},
-			"out": {name:"fp:metal_gitter_block", meta:0, size:6}
+			"1": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
+			"2": {"name":"minecraft:iron_bars"},
+			"3": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
+			"4": {"name":"minecraft:iron_bars"},
+			"5": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"6": {"name":"minecraft:iron_bars"},
+			"7": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
+			"8": {"name":"minecraft:iron_bars"},
+			"9": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
+			"out": {"name":"fp:metal_gitter_block", "meta":0, "size":6}
 		}
 	},	
 	"Information: Der Block ist mit der Farbpistole (ent)färbbar."

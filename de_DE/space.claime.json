@@ -8,15 +8,15 @@
 		"type": "crafting",
 		"slots": {
 			"1": {},
-			"2": {OreDict:"dustRedstone"},
+			"2": {"OreDict":"dustRedstone"},
 			"3": {},
 			"4": {},
-			"5": {name:"fp:chip", meta:<chip.LogicChip>},
+			"5": {"name":"fp:chip", "meta":"<chip.LogicChip>"},
 			"6": {},
 			"7": {},
-			"8": {name:"fp:spaceship", meta:<spaceship.IronStick>},
+			"8": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
 			"9": {},
-			"out": {name:"fp:claime", meta:0, size:1}
+			"out": {"name":"fp:claime", "meta":0, "size":1}
 		}
 	}
 ]

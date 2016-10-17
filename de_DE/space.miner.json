@@ -6,16 +6,16 @@
 	{
 		"type": "crafting",
 		"slots": {
-			"1": {name:"minecraft:fireworks", meta:0},
-			"2": {OreDict:"ingotAluminum"},
-			"3": {name:"fp:spaceship", meta:<spaceship.Laserdiode>},
-			"4": {name:"fp:chip", meta:<chip.KIChip>},
-			"5": {name:"fp:core", meta:1},
-			"6": {name:"minecraft:ender_pearl", meta:0},
-			"7": {name:"minecraft:fireworks", meta:0},
-			"8": {OreDict:"ingotAluminum"},
-			"9": {name:"fp:spaceship", meta:<spaceship.Laserdiode>},
-			"out": {name:"fp:entityEgger", meta:4, size:1}
+			"1": {"name":"minecraft:fireworks", "meta":0},
+			"2": {"OreDict":"ingotAluminum"},
+			"3": {"name":"fp:spaceship", "meta":"<spaceship.Laserdiode>"},
+			"4": {"name":"fp:chip", "meta":"<chip.KIChip>"},
+			"5": {"name":"fp:core", "meta":1},
+			"6": {"name":"minecraft:ender_pearl", "meta":0},
+			"7": {"name":"minecraft:fireworks", "meta":0},
+			"8": {"OreDict":"ingotAluminum"},
+			"9": {"name":"fp:spaceship", "meta":"<spaceship.Laserdiode>"},
+			"out": {"name":"fp:entityEgger", "meta":4, "size":1}
 		}
 	}
 ]

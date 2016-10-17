@@ -5,13 +5,13 @@
 	{
 		"type": "assembly",
 		"slots": {
-			"in1": {name:"fp:spaceship", meta:<spaceship.Silizium>},
-			"in2": {name:"fp:spaceship", meta:<spaceship.NeonParts>},
-			"in3": {OreDict:"ingotIron"},
-			"out": {name:"fp:ram", meta:0, size:1}
+			"in1": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>"},
+			"in2": {"name":"fp:spaceship", "meta":"<spaceship.NeonParts>"},
+			"in3": {"OreDict":"ingotIron"},
+			"out": {"name":"fp:ram", "meta":0, "size":1}
 		}
 	},
 		
 	"Information:",
-	"Diese Arbeitsspeicher haben 2 entscheidende Werte: ihre Geschwindigkeit (§lRam§r), welche die allgemeine Geschwindigkeit des Systems angibt (siehe Mainboard) und ihre Kosten (§lCorepower§r), welche den Leistungsanspruch an den Prozessor angibt.",
+	"Diese Arbeitsspeicher haben 2 entscheidende Werte: ihre Geschwindigkeit (§lRam§r), welche die allgemeine Geschwindigkeit des Systems angibt (siehe Mainboard) und ihre Kosten (§lCorepower§r), welche den Leistungsanspruch an den Prozessor angibt."
 ]

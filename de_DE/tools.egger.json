@@ -4,10 +4,10 @@
 	{
 		"type": "assembly",
 		"slots": {
-			"in1": {name:"minecraft:slime_ball",meta:0,size:1},
-			"in2": {name:"minecraft:egg",meta:0,size:1},
-			"in3": {name:"fp:chip",meta:"<chip.LogicChip>",size:1},
-			"out": {name:"fp:entityEgger", meta:0, size:1}
+			"in1": {"name":"minecraft:slime_ball","meta":0,"size":1},
+			"in2": {"name":"minecraft:egg","meta":0,"size":1},
+			"in3": {"name":"fp:chip","meta":"<chip.LogicChip>","size":1},
+			"out": {"name":"fp:entityEgger", "meta":0, "size":1}
 		}
 	},
 	"Der \"Entity Egger\" kann geworfen werden, trifft er dabei ein Lebewesen wird dieses eingesaugt. Auf gleiche Weise kann das Lebewesen auch wieder platziert werden."
