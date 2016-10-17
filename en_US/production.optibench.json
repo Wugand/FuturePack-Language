@@ -4,16 +4,16 @@
 	{
 		"type": "crafting",
 		"slots": {
-			"1": {name:"minecraft:crafting_table"},
-			"2": {name:"minecraft:piston"},
-			"3": {name:"minecraft:crafting_table"},
-			"4": {OreDict:"ingotNeon"},
-			"5": [{name:"fp:color_iron",meta:0},{name:"fp:color_iron",meta:8},{name:"fp:color_iron",meta:15}],
-			"6": {OreDict:"ingotNeon"},
-			"7": {name:"fp:spaceship", meta:<spaceship.CompositeMetall>},
-			"8": {name:"fp:spaceship", meta:<spaceship.Maschinboard>},
-			"9": {name:"fp:spaceship", meta:<spaceship.CompositeMetall>},
-			"out": [{name:"fp:opti_bench",meta:2},{name:"fp:opti_bench",meta:6},{name:"fp:opti_bench",meta:10}]
+			"1": {"name":"minecraft:crafting_table"},
+			"2": {"name":"minecraft:piston"},
+			"3": {"name":"minecraft:crafting_table"},
+			"4": {"OreDict":"ingotNeon"},
+			"5": [{"name":"fp:color_iron","meta":0},{"name":"fp:color_iron","meta":8},{"name":"fp:color_iron","meta":15}],
+			"6": {"OreDict":"ingotNeon"},
+			"7": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"8": {"name":"fp:spaceship", "meta":"<spaceship.Maschinboard>"},
+			"9": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"out": [{"name":"fp:opti_bench","meta":2},{"name":"fp:opti_bench","meta":6},{"name":"fp:opti_bench","meta":10}]
 		}
 	},
 	"In its simple operation mode the machine crafts every recipe together, which is placed in the 3x3 grid. Under the conditions that the computer system is working and powered with enough neon energy. Because I didn't think this function is perfect, I added a recipe mode.",

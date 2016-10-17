@@ -7,19 +7,19 @@
 		"type": "crafting",
 		"slots": {
 			"1": {},
-			"2": {OreDict:"dustRedstone"},
+			"2": {"OreDict":"dustRedstone"},
 			"3": {},
-			"4": {name:"fp:pipe", meta:0},
-			"5": {name:"fp:pipe", meta:0},
-			"6": {name:"fp:pipe", meta:0},
+			"4": {"name":"fp:pipe", "meta":0},
+			"5": {"name":"fp:pipe", "meta":0},
+			"6": {"name":"fp:pipe", "meta":0},
 			"7": {},
 			"8": {},
 			"9": {},
-			"out": {name:"fp:pipe", meta:1, size:3}
+			"out": {"name":"fp:pipe", "meta":1, "size":3}
 		}
 	},
 	
 	"This pipes are especially handy to provide machines and lights with Redstone signals.",
 	"",
-	"Configuration: Using the Scrench I'm able to configure every side of a pipe segment, so I can prevent them from connecting with this side. (§lright click§r on desired side). Furthermore these pipes have a third state, marked by a red dot on the side. In this state it's only connected for Redstone signals, but not for Items."
+	"Configuration: Using the Scrench I'm able to configure every side of a pipe segment, so I can prevent them from connecting with this side. (Â§lright clickÂ§r on desired side). Furthermore these pipes have a third state, marked by a red dot on the side. In this state it's only connected for Redstone signals, but not for Items."
 ]

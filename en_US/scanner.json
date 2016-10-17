@@ -6,16 +6,16 @@
 	{
 		"type": "crafting",
 		"slots": {
-			"1": {name:"fp:cristall",meta:0},
-			"2": {name:"fp:escenner",meta:0},
-			"3": {name:"fp:cristall",meta:0},
+			"1": {"name":"fp:cristall","meta":0},
+			"2": {"name":"fp:escenner","meta":0},
+			"3": {"name":"fp:cristall","meta":0},
 			"4": "OreDict:ingotIron",
-			"5": [{name:"fp:color_iron",meta:0},{name:"fp:color_iron",meta:8},{name:"fp:color_iron",meta:15}],
+			"5": [{"name":"fp:color_iron","meta":0},{"name":"fp:color_iron","meta":8},{"name":"fp:color_iron","meta":15}],
 			"6": "OreDict:ingotIron",
-			"7": {name:"fp:spaceship",meta:<spaceship.CopperCoil>},
-			"8": {name:"fp:spaceship",meta:<spaceship.IronParts>},
-			"9": {name:"fp:spaceship",meta:<spaceship.CopperCoil>},
-			"out": [{name:"fp:scanner_block",meta:2},{name:"fp:scanner_block",meta:6},{name:"fp:scanner_block",meta:10}]
+			"7": {"name":"fp:spaceship","meta":"<spaceship.CopperCoil>"},
+			"8": {"name":"fp:spaceship","meta":"<spaceship.IronParts>"},
+			"9": {"name":"fp:spaceship","meta":"<spaceship.CopperCoil>"},
+			"out": [{"name":"fp:scanner_block","meta":2},{"name":"fp:scanner_block","meta":6},{"name":"fp:scanner_block","meta":10}]
 		}
 	},
 	"Hint: Read the information at \"The Research System\" first.",
