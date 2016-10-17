@@ -1,11 +1,11 @@
 [
-	"Durch Austausch der reagierenden Materialien habe ich eine Kombination gefunden, die ohne giftige Flüssigkeit auskommt. Diese Bauform ist deshalb extrem kompakt.",
+	"Durch Austausch der reagierenden Materialien habe ich eine Kombination gefunden, die ohne giftige FlÃ¼ssigkeit auskommt. Diese Bauform ist deshalb extrem kompakt.",
 	"Crafting:",
 	{
 		"type": "crafting",
 		"slots": {
 			"1": {},
-			"2": [{name:"fp:spaceship",meta:<spaceship.CopperParts>}],
+			"2": [{"name":"fp:spaceship","meta":"<spaceship.CopperParts>"}],
 			"3": {},
 			"4": "OreDict:ingotNeon",
 			"5": "OreDict:ingotGold",
@@ -13,7 +13,7 @@
 			"7": "OreDict:ingotNeon",
 			"8": "OreDict:ingotGold",
 			"9": "OreDict:ingotNeon",
-			"out": {name:"fp:spaceship",meta:<spaceship.NeonBaterie>}
+			"out": {"name":"fp:spaceship","meta":"<spaceship.NeonBaterie>"}
 		}
 	}
 ]

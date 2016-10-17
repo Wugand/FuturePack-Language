@@ -1,5 +1,5 @@
 [
-    "Im Weltraum darf man nicht die Orientierung verlieren. Deshalbhabe ich einen Computer gebaut der mich sicher durch das Universum führt.",
+    "Im Weltraum darf man nicht die Orientierung verlieren. Deshalbhabe ich einen Computer gebaut der mich sicher durch das Universum fÃ¼hrt.",
     "Crafting:",
     {
         "type": "crafting",
@@ -17,11 +17,11 @@
         }
     },
     "Die GUI hat 3 Tabs:",
-    "Der erste Tab zeigt immer den Minecraft Planeten, heißt ich kann immer nach Hause zurückkehren.",
-    "Der 2. Tab zeigt immer wo ich bin, ich weiß zwar nicht warum ich nicht Wissen sollte wo ich grade bin, aber man weiß nie was man mal alles wissen muss.",
+    "Der erste Tab zeigt immer den Minecraft Planeten, heiÃŸt ich kann immer nach Hause zurÃ¼ckkehren.",
+    "Der 2. Tab zeigt immer wo ich bin, ich weiÃŸ zwar nicht warum ich nicht Wissen sollte wo ich grade bin, aber man weiÃŸ nie was man mal alles wissen muss.",
     "Der 3. Tab zeigt den Ort an, der mit Hilfe von Koordinaten eingelesen wurde (zum einlesen den Slot verwenden).",
     "",
-    "Außerdem werden verschiedene Sicherheitsmeldungen angezeigt:",
+    "AuÃŸerdem werden verschiedene Sicherheitsmeldungen angezeigt:",
     {"type":"translate","text":"\"chat.spaceship.lowEnergie\""},
     "Bedeutet dass der Boardcomputer selbst zu wenig NE hat.",
     {"type":"translate","text":"chat.spaceship.open"},

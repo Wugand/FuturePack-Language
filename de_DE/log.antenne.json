@@ -1,5 +1,5 @@
 [
-	"Diese Antenne ist eine simple und sehr praktische Erweiterung des Netzwerkes. Ich kann kabellos mein Netzwerk selbst in tiefe Höhlen und sogar durch Wände hindurch erweitern.",
+	"Diese Antenne ist eine simple und sehr praktische Erweiterung des Netzwerkes. Ich kann kabellos mein Netzwerk selbst in tiefe HÃ¶hlen und sogar durch WÃ¤nde hindurch erweitern.",
 	"Crafting:",
 	{
 		"type": "crafting",
@@ -16,5 +16,5 @@
 			"out": [{"name":"fp:antenne", "meta":0, "size":1},{"name":"fp:antenne", "meta":1, "size":1},{"name":"fp:antenne", "meta":2, "size":1}]
 		}
 	},
-	"Die Reichweite einer Antenne ergibt sich aus den verbundenen Metall Blöcken zusammen mit den Metall Blöcken der Empfangsantenne."
+	"Die Reichweite einer Antenne ergibt sich aus den verbundenen Metall BlÃ¶cken zusammen mit den Metall BlÃ¶cken der Empfangsantenne."
 ]

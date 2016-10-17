@@ -1,22 +1,22 @@
 [
-	"Um den Drohnen mitzuteilen wo sie arbeiten sollen, habe ich einen Sender entwickelt. Ich kann ihn überall platzieren und dann entsprechend einstellen. (öffnen mit §lRechtsklick§r)",
-	"In der GUI kann links die Größe des Bereiches eingestellt werden. [Wichtig: Änderung um 1 in X oder Z Richtung zählt als 2 Blöcke]. Auf der rechten Seite kann der Bereich verschoben werden.",
-	"Im unteren Teil kann die Anzeige der gelben Box in der Welt abgeschaltet werden (\"Render:false\"). Außerdem kann der Claime beliebig benannt werden.",
+	"Um den Drohnen mitzuteilen wo sie arbeiten sollen, habe ich einen Sender entwickelt. Ich kann ihn Ã¼berall platzieren und dann entsprechend einstellen. (Ã¶ffnen mit Â§lRechtsklickÂ§r)",
+	"In der GUI kann links die GrÃ¶ÃŸe des Bereiches eingestellt werden. [Wichtig: Ã„nderung um 1 in X oder Z Richtung zÃ¤hlt als 2 BlÃ¶cke]. Auf der rechten Seite kann der Bereich verschoben werden.",
+	"Im unteren Teil kann die Anzeige der gelben Box in der Welt abgeschaltet werden (\"Render:false\"). AuÃŸerdem kann der Claime beliebig benannt werden.",
 	"In der Welt wird die Auswahl als gelbe Box angezeigt. Blickende Bereiche sind momentan nicht direkt sichtbar, zum Beispiel weil diese Unterirdisch sind.",
 	"Crafting:",
 	{
 		"type": "crafting",
 		"slots": {
 			"1": {},
-			"2": {OreDict:"dustRedstone"},
+			"2": {"OreDict":"dustRedstone"},
 			"3": {},
 			"4": {},
-			"5": {name:"fp:chip", meta:<chip.LogicChip>},
+			"5": {"name":"fp:chip", "meta":"<chip.LogicChip>"},
 			"6": {},
 			"7": {},
-			"8": {name:"fp:spaceship", meta:<spaceship.IronStick>},
+			"8": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
 			"9": {},
-			"out": {name:"fp:claime", meta:0, size:1}
+			"out": {"name":"fp:claime", "meta":0, "size":1}
 		}
 	}
 ]

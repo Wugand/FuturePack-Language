@@ -1,16 +1,16 @@
 [
-	"Durch Verfeinerung des Herstellungsverfahrens konnte ich die doppelte Menge an Recheneinheiten in dem Prozessor unterbringen. Zudem habe ich durch bessere Materialen den Wärmeabtransport verbessert.",
+	"Durch Verfeinerung des Herstellungsverfahrens konnte ich die doppelte Menge an Recheneinheiten in dem Prozessor unterbringen. Zudem habe ich durch bessere Materialen den WÃ¤rmeabtransport verbessert.",
 	
 	"Assembly:",
 	{
 		"type": "assembly",
 		"slots": {
-			"in1": {name:"fp:spaceship", meta:<spaceship.Silizium>, size:2},
-			"in2": {name:"fp:spaceship", meta:<spaceship.CopperParts>, size:2},
-			"in3": {name:"fp:spaceship", meta:<spaceship.CompositeMetall>},
-			"out": {name:"fp:core", meta:1, size:1}
+			"in1": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>", "size":2},
+			"in2": {"name":"fp:spaceship", "meta":"<spaceship.CopperParts>", "size":2},
+			"in3": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"out": {"name":"fp:core", "meta":1, "size":1}
 		}
 	},
 	
-	"Info: Für allgemeine Informationen siehe Standartprozessor."
+	"Info: FÃ¼r allgemeine Informationen siehe Standartprozessor."
 ]

@@ -1,21 +1,21 @@
 [
-	"Drohnen brauchen eine Basstation an der sie Energie aufnehmen und Items austauschen können. Dazu habe ich die Drohnenstation entwickelt, auf deren Oberseite mehrere Drohnen platziert werden können.",
-	"Die Drohnenstation beinhaltet ein großes Inventar (oben) und einer Batterieleiste (unten). In der Batterieleiste muss mindestens eine Batterie eingelegt werden um Drohnen zu versorgen.",
-	"Die Station kann über Rohre/Trichter geleert und gefüllt werden. Durch anschließen eines Kabels können auch die Batterien automatisch aufgeladen werden.",
+	"Drohnen brauchen eine Basstation an der sie Energie aufnehmen und Items austauschen kÃ¶nnen. Dazu habe ich die Drohnenstation entwickelt, auf deren Oberseite mehrere Drohnen platziert werden kÃ¶nnen.",
+	"Die Drohnenstation beinhaltet ein groÃŸes Inventar (oben) und einer Batterieleiste (unten). In der Batterieleiste muss mindestens eine Batterie eingelegt werden um Drohnen zu versorgen.",
+	"Die Station kann Ã¼ber Rohre/Trichter geleert und gefÃ¼llt werden. Durch anschlieÃŸen eines Kabels kÃ¶nnen auch die Batterien automatisch aufgeladen werden.",
 	"Crafting:",
 	{
 		"type": "crafting",
 		"slots": {
-			"1": {name:"fp:spaceship", meta:<spaceship.NeonCoil>},
-			"2": {name:"fp:wire", meta:0},
-			"3": {name:"fp:spaceship", meta:<spaceship.NeonCoil>},
-			"4": {OreDict:"ingotAluminum"},
-			"5": [{name:"fp:wandrope", meta:0},{name:"fp:wandrope", meta:1},{name:"fp:wandrope", meta:2},{name:"fp:wandrope", meta:3},{name:"fp:wandrope", meta:4},{name:"fp:wandrope", meta:5},{name:"fp:wandrope", meta:6},{name:"fp:wandrope", meta:7},{name:"fp:wandrope", meta:8},{name:"fp:wandrope", meta:9},{name:"fp:wandrope", meta:10},{name:"fp:wandrope", meta:11}],
-			"6": {OreDict:"ingotAluminum"},
-			"7": {OreDict:"ingotAluminum"},
-			"8": [{name:"fp:baterie_box", meta:0},{name:"fp:baterie_box", meta:1},{name:"fp:baterie_box", meta:2}],
-			"9": {OreDict:"ingotAluminum"},
-			"out": {name:"fp:drone_station", meta:0, size:1}
+			"1": {"name":"fp:spaceship", "meta":"<spaceship.NeonCoil>"},
+			"2": {"name":"fp:wire", "meta":0},
+			"3": {"name":"fp:spaceship", "meta":"<spaceship.NeonCoil>"},
+			"4": {"OreDict":"ingotAluminum"},
+			"5": [{"name":"fp:wandrope", "meta":0},{"name":"fp:wandrope", "meta":1},{"name":"fp:wandrope", "meta":2},{"name":"fp:wandrope", "meta":3},{"name":"fp:wandrope", "meta":4},{"name":"fp:wandrope", "meta":5},{"name":"fp:wandrope", "meta":6},{"name":"fp:wandrope", "meta":7},{"name":"fp:wandrope", "meta":8},{"name":"fp:wandrope", "meta":9},{"name":"fp:wandrope", "meta":10},{"name":"fp:wandrope", "meta":11}],
+			"6": {"OreDict":"ingotAluminum"},
+			"7": {"OreDict":"ingotAluminum"},
+			"8": [{"name":"fp:baterie_box", "meta":0},{"name":"fp:baterie_box", "meta":1},{"name":"fp:baterie_box", "meta":2}],
+			"9": {"OreDict":"ingotAluminum"},
+			"out": {"name":"fp:drone_station", "meta":0, "size":1}
 		}
 	}
 ]

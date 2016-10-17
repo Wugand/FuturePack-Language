@@ -1,5 +1,5 @@
 [
-	"Vor kurzen habe ich mir die Frage gestellt wie ich größere horizontale Distanzen zurücklegen kann. Das Ergebnis war ein Teleporter der mich nach oben und unter teleportieren kann.",
+	"Vor kurzen habe ich mir die Frage gestellt wie ich grÃ¶ÃŸere horizontale Distanzen zurÃ¼cklegen kann. Das Ergebnis war ein Teleporter der mich nach oben und unter teleportieren kann.",
     "Crafting:",
     {
         "type": "crafting",
@@ -17,7 +17,7 @@
         }
     },
     "Der gelbe Teleporter ist das Basiselement. Man kann sich zwar zu ihm hin teleportieren, jedoch nicht wieder weg.",
-    "Durch eine Enderperle kann man sich teleportieren. Wenn man sie mit Neonenergie versetzt und das Ziel stabilisiert kann man ihre Fähigkeiten nutzen, ohne dass die Perle dabei zerbricht.",
+    "Durch eine Enderperle kann man sich teleportieren. Wenn man sie mit Neonenergie versetzt und das Ziel stabilisiert kann man ihre FÃ¤higkeiten nutzen, ohne dass die Perle dabei zerbricht.",
     "Crafting:",
     {
         "type": "crafting",
@@ -34,7 +34,7 @@
             "out": {"name":"fp:beam","meta":1}
         }
     },
-    "Der grüne Teleporter kann nur nach oben teleportieren, dabei ist es egal ob über dem Teleporter nur ein normaler Teleporter ist oder ein Hoch- bzw. Runter- Teleporter.",
+    "Der grÃ¼ne Teleporter kann nur nach oben teleportieren, dabei ist es egal ob Ã¼ber dem Teleporter nur ein normaler Teleporter ist oder ein Hoch- bzw. Runter- Teleporter.",
     "Crafting:",
     {
         "type": "crafting",
@@ -52,7 +52,7 @@
         }
     },
     "Der rote Teleporter kann nur nach unter teleportieren. Auch hier ist die Art des Zielteleporters egal.",
-    "Mir ist allerdings auch aufgefallen das mehr stöckige Gebäude sowohl eine Möglichkeit nach oben und nach unter haben.",
+    "Mir ist allerdings auch aufgefallen das mehr stÃ¶ckige GebÃ¤ude sowohl eine MÃ¶glichkeit nach oben und nach unter haben.",
     "Crafting:",
     {
         "type": "crafting",
@@ -69,5 +69,5 @@
             "out": {"name":"fp:beam","meta":0}
         }
     },
-    "Wenn man mit einem Schraubendrehschlüssel Rechtsklick auf einen doppelten Teleporter macht, dann teilt sich dieser und der unter Teil fliegt herunter bis er auf Boden stößt. Genau so kann man auch einfache zwei Teleporter wieder verbinden."
+    "Wenn man mit einem SchraubendrehschlÃ¼ssel Rechtsklick auf einen doppelten Teleporter macht, dann teilt sich dieser und der unter Teil fliegt herunter bis er auf Boden stÃ¶ÃŸt. Genau so kann man auch einfache zwei Teleporter wieder verbinden."
 ]

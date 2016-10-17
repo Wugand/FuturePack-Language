@@ -1,17 +1,17 @@
 [
-	"Mit dieser Speicherserie habe ich meine momentanen Möglichkeiten ausgereizt mehr Speichereinheiten auf das Speichermodul zu bringen, dabei habe ich besonderen Wert darauf gelegt das die Speichermodule selbst Verwaltungsaufgaben übernehmen um den Prozessor zu entlasten.",
-	"Ein weitere Versuch der Verbesserung war das Einbauen einer fest verdrahteten Einheit für das Zwischenspeichern von Supportdaten.",
+	"Mit dieser Speicherserie habe ich meine momentanen MÃ¶glichkeiten ausgereizt mehr Speichereinheiten auf das Speichermodul zu bringen, dabei habe ich besonderen Wert darauf gelegt das die Speichermodule selbst Verwaltungsaufgaben Ã¼bernehmen um den Prozessor zu entlasten.",
+	"Ein weitere Versuch der Verbesserung war das Einbauen einer fest verdrahteten Einheit fÃ¼r das Zwischenspeichern von Supportdaten.",
 
 	"Assembly:",
 	{
 		"type": "assembly",
 		"slots": {
-			"in1": {name:"fp:spaceship", meta:<spaceship.Silizium>, size:3},
-			"in2": {name:"fp:spaceship", meta:<spaceship.NeonParts>, size:3},
-			"in3": {name:"fp:spaceship", meta:<spaceship.SupportSpeicher1>},
-			"out": {name:"fp:ram", meta:2, size:1}
+			"in1": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>", "size":3},
+			"in2": {"name":"fp:spaceship", "meta":"<spaceship.NeonParts>", "size":3},
+			"in3": {"name":"fp:spaceship", "meta":"<spaceship.SupportSpeicher1>"},
+			"out": {"name":"fp:ram", "meta":2, "size":1}
 		}
 	},
 	
-	"Info: Für allgemeine Informationen siehe Standartspeicher."
+	"Info: FÃ¼r allgemeine Informationen siehe Standartspeicher."
 ]

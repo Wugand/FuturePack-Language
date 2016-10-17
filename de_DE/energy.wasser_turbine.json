@@ -1,6 +1,6 @@
 [
-	"Ich habe weiter die erneuerbaren Energien erforscht und die Wasserkraft für mich entdeckt. Sie ist überall verfügbar und man kann sie an einigen Stellen mit geringem aufwand gut nutzen.",
-    "Ich muss nur die Wasserturbine an einen Ort stellen, sodass viel Wasser über ihr ist und unten muss Platz sein damit das Wasser durch die Turbine fließen kann.",
+	"Ich habe weiter die erneuerbaren Energien erforscht und die Wasserkraft fÃ¼r mich entdeckt. Sie ist Ã¼berall verfÃ¼gbar und man kann sie an einigen Stellen mit geringem aufwand gut nutzen.",
+    "Ich muss nur die Wasserturbine an einen Ort stellen, sodass viel Wasser Ã¼ber ihr ist und unten muss Platz sein damit das Wasser durch die Turbine flieÃŸen kann.",
 	"Crafting:",
 	{
 		"type": "crafting",
@@ -17,6 +17,6 @@
 			"out": [{"name":"fp:wasser_turbine","meta":0},{"name":"fp:wasser_turbine","meta":1},{"name":"fp:wasser_turbine","meta":2}]
 		}
 	},
-	"Unterstützte Chipsätze:",
+	"UnterstÃ¼tzte ChipsÃ¤tze:",
 	"Logikchipsatz\nIndustriechipsatz (Energiemenge)\nRedstonesteuerungschipsatz\nSchadenskontrollchipsatz"
 ]

@@ -1,22 +1,22 @@
 [	
-	"Ein gebündelter Lichtstrahl kann eine sehr große Menge Energie transportieren, die sogar ausreicht um Metall zu schmelzen.",
+	"Ein gebÃ¼ndelter Lichtstrahl kann eine sehr groÃŸe Menge Energie transportieren, die sogar ausreicht um Metall zu schmelzen.",
 	"Durch einige meiner neuen Entdeckungen konnte ich dies weiter verbessern, um einen extrem intensiven Lichtstrahl zu erzeugen.",
-	"Dies habe ich durch die Zuführung von Energie in einen Edelstein reicht, der sich zwischen zwei halbtransparenten Spiegel befindet. Dadurch wird der Stein im richtigen Moment zum Abgeben von Licht angeregt, was einen exakt synchronen Lichtstrahl erzeugt.",
+	"Dies habe ich durch die ZufÃ¼hrung von Energie in einen Edelstein reicht, der sich zwischen zwei halbtransparenten Spiegel befindet. Dadurch wird der Stein im richtigen Moment zum Abgeben von Licht angeregt, was einen exakt synchronen Lichtstrahl erzeugt.",
 
 	"Crafting:",
 	{
 		"type": "crafting",
 		"slots": {
-			"1": {OreDict:"ingotAluminum"},
-			"2": {name:"fp:spaceship", meta:<spaceship.NeonCoil>},
+			"1": {"OreDict":"ingotAluminum"},
+			"2": {"name":"fp:spaceship", "meta":"<spaceship.NeonCoil>"},
 			"3": {},
-			"4": {name:"minecraft:glass_pane"},
-			"5": {OreDict:"gemDiamond"},
-			"6": {name:"minecraft:glass_pane"},
-			"7": {OreDict:"ingotAluminum"},
-			"8": {name:"fp:spaceship", meta:<spaceship.NeonCoil>},
+			"4": {"name":"minecraft:glass_pane"},
+			"5": {"OreDict":"gemDiamond"},
+			"6": {"name":"minecraft:glass_pane"},
+			"7": {"OreDict":"ingotAluminum"},
+			"8": {"name":"fp:spaceship", "meta":"<spaceship.NeonCoil>"},
 			"9": {},
-			"out": [{name:"fp:spaceship", meta:<spaceship.Laserdiode>}]
+			"out": [{"name":"fp:spaceship", "meta":"<spaceship.Laserdiode>"}]
 		}
 	}
 ]
