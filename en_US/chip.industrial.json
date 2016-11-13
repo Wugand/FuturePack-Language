@@ -1,6 +1,6 @@
 [
-	"I designed a special chipset, which improves the efficiency of machines.",
-	"This Chipset is most useful in energy generators, where it controls the generation and transformation of energy. This increases the production per tick or the profit from resources.",
+	"I have developed a special chipset which improves the efficiency of machines.",
+	"This chipset is most useful in energy generators, where it controls the generation and transformation of energy. This increases energy production per tick or the profit from resources.",
 
 	"Assembly:",
 	{
@@ -13,7 +13,7 @@
 		}
 	},
 	
-	"A industrial chipset of high quality (high chip power) and the usage of multiple chipsets, increases the effect accordingly.",
-	"Hint: The exact effect is noted by the supported machines.",
+	"A industrial chipset of high quality (high chip power) or the usage of multiple chipsets will increase the effect accordingly.",
+	"Hint: The exact effect is determined by the supporting machine.",
 	"Hint: Refer to \"Logic Chipset\" for general information."
 ]
