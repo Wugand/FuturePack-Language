@@ -1,5 +1,5 @@
 [
-    "I've developed a chip which boosts the ability of decision making in the computer system.",
+    "I've developed a chip which boosts the ability of decision making in a computer system.",
     "Assembly:",
     {
         "type": "assembly",
@@ -10,5 +10,5 @@
             "out": {"name":"fp:chip", "meta":"<chip.KIChip>", "size":1}
         }
     },
-    "Because of the AI (artificial intelligence) chip e.g. the absorption laser (entity eater) cannot kill targets anymore, but instead leaves it highly weakened."
+    "Because of the AI (artificial intelligence) chip, one result is that the absorption laser (entity eater) will not kill targets anymore, but instead leaves them highly weakened."
 ]
