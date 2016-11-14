@@ -1,0 +1,36 @@
+[
+	"No momento, a mecânica do E-Scanner, que eu achei em uma estrutura do Inacessível, é um grande segredo para mim. Mas, ao tentar modificar o instrumento, achei algumas habilidades interessantes, indisponíveis no dispositivo portátil.",
+	"Eu nomeei meu novo aparelho o \"Scanner\". Com ele, eu posso analisar e melhorar minhas tecnologias. Para fazer isso, preciso um item já pesquisado e um pouco de paciência. A tecnologia eu modifiquei do Inacessível me ajuda desenvolver e realizar as possibilidades, mas eu preciso escolher em quais dos aspetos básicos que eu quero basear minha pesquisa.",
+	"Após a criação de uma idéia implementável, o resultado será imprimível como um Desenho Técnico. Isso me habilita melhorar a tecnologia relacionada.",
+	"Criando:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"name":"fp:cristall","meta":0},
+			"2": {"name":"fp:escenner","meta":0},
+			"3": {"name":"fp:cristall","meta":0},
+			"4": "OreDict:ingotIron",
+			"5": [{"name":"fp:color_iron","meta":0},{"name":"fp:color_iron","meta":8},{"name":"fp:color_iron","meta":15}],
+			"6": "OreDict:ingotIron",
+			"7": {"name":"fp:spaceship","meta":"<spaceship.CopperCoil>"},
+			"8": {"name":"fp:spaceship","meta":"<spaceship.IronParts>"},
+			"9": {"name":"fp:spaceship","meta":"<spaceship.CopperCoil>"},
+			"out": [{"name":"fp:scanner_block","meta":2},{"name":"fp:scanner_block","meta":6},{"name":"fp:scanner_block","meta":10}]
+		}
+	},
+	"Dica: Leia a informação sobre \"O Sistema de Pesquisa\" primeiro.",
+	"Uso detalhado:",
+	"Primeiro, eu preciso colocar o Item eu quero examinar no esquerdo quadrado em cima. As barras amarelas abaixo me mostra quantos conceitos estão disponíveis para pesquisar (relativo ao número total).",
+	"Na área direita, os 12 Aspetos são exibidos como botões. Para desenvolver um novo Desenho Técnico, eu preciso selecionar entre 1 e 6 dos Aspetos.",
+	"Depois disso, na tela central, um botão \"Scan\" aperecerá, que posso usar para verificar a combinação escolhida. Depois uma animação, uma das mensagens seguintes será mostrada.",
+  "",
+	"Peças de quebra-cabeça: A seleção atual é correta, mas ainda falta um ou mais aspetos.",
+	"Estrela dourada: Pesquisa realizada com sucesso. O Desenho Técnico pode ser retirado.",
+	"X Amarelo: Um (ou mais) dos apectos escolhidos é incorreto.",
+	"X Vermelho: Não existe nenhuma pesquisa relacionada com este item.",
+	"✓ Verde: Todas as pesquisas relacionadas com este item já foram achadas.",
+	"Ponto de interrogação amarelo: Ainda falta pesquisa(s) relacionada(s) com este item, mas certas condições ainda não são satisfeitas. Tenta novamente depois de pesquisar outras coisas.",
+	"",
+	"Dica: Um Desenho Técnico será criado somente após a conclusão da pesquisa no Pesquisador. Seja sciente que é possível para a conclusão da pesquisa resultar em um novo conceito que promoverá o conhecimento no Árvore de Tecnologia, e não criar um Desenho Técnico.",
+	"Dica: À esquerda do quadro para retirar um Desenho Técnico, há um botão que abre a Árvore de Tecnologia."
+]
