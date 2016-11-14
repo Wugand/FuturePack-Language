@@ -1,6 +1,6 @@
 [
-	"I managed to create a machine with my basic knowledge of chip-crafting, which gives me ideal conditions for assembling these components.",
-	"The main part is made up of a metal frame with various pieces of machinery for assembly and testing. Additionally, the facility makes it possible to perform the crucial steps of assembly in a very clean environment, which has proven to be imperative for the success of the component.",
+	"I have managed to create a simple machine with my basic knowledge of chip-crafting, which gives me ideal conditions for assembling these components.",
+	"The main unit is made up of a metal frame with various pieces of machinery for part assembly and testing. Additionally, the unit makes it possible to perform the crucial assembly steps in a sanitary environment, which has proven to be imperative for the continued functioning of the component.",
 		"Crafting:",
 	{
 		"type": "crafting",
@@ -19,10 +19,10 @@
 	},
 	
 	"Usage:",
-	"An item created here always consists of 3 components, which are placed in the central 3 slots. Their order is of importance! The finished product can be taken from the big slot beneath.",
+	"Any item created here consists of 3 components, which are placed in the central 3 slots. Their order is of importance! The finished product can be taken from the big slot beneath.",
 	
-	"At random:",
-	"Although the surroundings are optimal, the quality of the actual component can't be fully predicted. That being said, upon assembly a random value for core/ram/chippower gets created. A minimum value is set by the recipe used.",
-	"The maximum value usually is only slightly higher than minimum, but can be increased noticeably by supplying energy and/or Support (becomes available with further research).",
-	"Note: There are situations and recipes in which supplied energy/Support gets wasted or isn't wanted."	
+	"Component Quality:",
+	"Although the assembly conditions may be optimal, the quality of an actual component can't be fully predicted. As such, a randomized value for the Core/RAM/Chip power is created upon assembly, based off a minimum value set by the recipe used.",
+	"The maximum value usually is only slightly higher than minimum value, but can be increased noticeably by supplying energy and/or Support. (Support points become available with further research).",
+	"Note: There are some situations and recipes in which supplied energy/Support is wasted or isn't needed."	
 ]
