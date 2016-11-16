@@ -1,0 +1,22 @@
+[
+	"Parece que a energia de néon é a chave a muitas novas tecnologias, então eu criei um módulo para melhorar meu Pesquisador. Ele me habilita fazer mais pesquisa usando este tipo de energia.",
+	"O módulo precisa ser conectado diretamente ao Pesquisador. Como de costume, todo o trabalho é ainda feito no pesquisador.",
+	
+	"Criando:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"name":"fp:spaceship", "meta":"<spaceship.GoldParts>"},
+			"2": {"name":"fp:scrench"},
+			"3": {"name":"fp:spaceship", "meta":"<spaceship.GoldParts>"},
+			"4": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>"},
+			"5": [{"name":"fp:color_iron","meta":0},{"name":"fp:color_iron","meta":8},{"name":"fp:color_iron","meta":15}],
+			"6": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>"},
+			"7": {"name":"fp:wire"},
+			"8": {"name":"fp:spaceship", "meta":"<spaceship.NeonCoil>"},
+			"9": {"name":"fp:wire"},
+			"out": [{"name":"fp:modul_1","meta":2},{"name":"fp:modul_1","meta":6},{"name":"fp:modul_1","meta":10}]
+		}
+	},	
+	"O módulo armazena até 10.000 NE (energia de néon). Se isso não seja suficiente para um projeto de pesquisa, pode usar mais módulos ou simplesmente esperar até que começa de ser abastecido novamente. A energia pode ser fornecida por cabos ou baterias."
+]
