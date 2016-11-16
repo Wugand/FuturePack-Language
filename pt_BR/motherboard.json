@@ -1,0 +1,24 @@
+[
+	"Para conectar núcleos, memoria, e chips, eu criei uma grande placa isolada, feita de quartzo, cheio de pontos para conexões e energia.",
+	"Criando:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"name":"fp:spaceship", "meta":"<spaceship.QuartzParts>"},
+			"2": [{"name":"fp:ram","meta":0}],
+			"3": {"name":"fp:spaceship", "meta":"<spaceship.QuartzParts>"},
+			"4": {"name":"fp:spaceship", "meta":"<spaceship.CopperCoil>"},
+			"5": [{"name":"fp:core","meta":0}],
+			"6": {"name":"fp:spaceship", "meta":"<spaceship.CopperCoil>"},
+			"7": {"name":"fp:spaceship", "meta":"<spaceship.QuartzParts>"},
+			"8": [{"name":"fp:chip","meta":0}],
+			"9": {"name":"fp:spaceship", "meta":"<spaceship.QuartzParts>"},
+			"out": {"name":"fp:spaceship","meta":"<spaceship.Maschinboard>"}
+		}
+	},
+	
+	"Informação:",
+	"Durante o processo de criação, eu posso combinar qualquer combinação de núcleo e memoria. Todos os componentes podem ser trocadas mais tarde (refere a \"Overclocking\").",
+  "Obs: É possível que uma configuração criada (ou trocada) não funcione imediatamente ou possa superaquecer."
+	
+]
