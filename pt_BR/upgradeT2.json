@@ -1,0 +1,22 @@
+[
+	"Para usar os dados de análise (pontos de apoio) das minhas máquinas (opti-bancada, fornalha de néon ...) eu preciso outro módulo de pesquisa.",
+	"O módulo precisa ser conectado diretamente ao pesquisador (ficar ao lado dele) para funcionar, lembrando que o trabalho é ainda feito no pesquisador mesmo.",
+
+	"Criando:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"name":"fp:spaceship", "meta":"<spaceship.GoldParts>"},
+			"2": {"name":"fp:scrench"},
+			"3": {"name":"fp:spaceship", "meta":"<spaceship.GoldParts>"},
+			"4": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>"},
+			"5": [ {"name":"fp:color_iron","meta":0}, {"name":"fp:color_iron","meta":8}, {"name":"fp:color_iron","meta":15} ],
+			"6": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>"},
+			"7": {"name":"fp:spaceship", "meta":"<spaceship.SupportSpeicher0>"},
+			"8": {"name":"fp:spaceship", "meta":"<spaceship.GoldCoil>"},
+			"9": {"name":"fp:spaceship", "meta":"<spaceship.SupportSpeicher0>"},
+			"out": [{"name":"fp:modul_2","meta":2},{"name":"fp:modul_2","meta":6},{"name":"fp:modul_2","meta":10}]
+		}
+	},	
+	"O módulo pode armazenar até 512 SP (pontos de apoio). Se isso não basta (verifica com o desenho técnico), eu preciso conectar múltiplos módulos do mesmo tipo com o pesquisador. Os pontos de apoio podem ser transportados por baterias no módulo."
+]
