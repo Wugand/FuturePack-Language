@@ -1,0 +1,31 @@
+[
+	"Eu posso modificar todos meus sistemas a qualquer momento. Isso pode ser feito clicando §lshift + botão direito§r com um Scrench§r (Modo de Modificação) na máquina de interesse.",
+	
+	"GUI de Afinação:",
+	{
+		"type":"image",
+		"width":246,
+		"height":68,
+		"resource":"fp:textures/show_gui_tuning.png"
+	},
+	"Informação: Você deve ler \"Núcleo Padrão\", \"Memória Padrão\" e \"Chipset Lógica\" primeira!",
+	
+	"Componentes:",
+	"Núcleo: lugar central\nMemoria: 3 lugares ao direito\nChipset: 9 lugares à esquerda",
+	"",
+	"Memoria / Velocidade:",
+	"Eu posso inserir até 3 módulos de memoria, mas precisa ao menos um. Usando múltiplos módulos de memoria, os valores serão sumados.",
+	"A soma dos valores de \"Ram\" afeta diretamente a velocidade da máquina em cada forma (\"Cíclos de Trabalho\" por segundo). O valor total aparece no canto inferior esquerdo. (1 RAM = %5; 100% é o tick normal de Minecraft.)",
+	"",
+	"Chipset / Efeitos:",
+	"Eu posso inserir até 9 Chipsets, mas ao menos um Chipset de Lógica ou um Chipset *Nível 2* (\"Poder\" = 2) é necessário. Qualquer outro chipset adicionaria efeitos especiais à máquina.",
+	"Estes efeitos podem ser lidos na própria página de pesquisa do chipset. É importante saber que um chipset não sempre tem o mesmo efeito em diferentes máquinas. Assim, alguns chipsets podem inúteis em uma máquina especifica. Não esquece que mais informação dos efeitos pode ser lida na Árvore de Tecnologia.",
+	"",
+	"Poder de Núcleo / Sobrecarregar:",
+	"O núcleo é a coração de cada sistema; a capacidade dele é exposta com a barra em cima. A seta vermelha marca a capacidade máxima do núcleo. Se o limite for excedido, o sistema começará aquecer. (Isso pode ser abrandado com aparelhos externais.) A temperatura é exposto no lado esquerdo.",
+	"Se o sistema chegar a mais de 1000 °C, o núcleo se demolirá e o sistema não funcionará mais até que o núcleo seja trocado.",
+	"",
+	"Consumo / Operabilidade:",
+	"Se um vermelho símbolo de aviso seja no canto superior esquerdo, o sistema não está fucionando. Isso é por uma falta de componentes especiais.",
+	"O display meio esquerdo (ícone de relâmpago) mostra o consumo de energia (somente nos aparelhos que consomem) por cíclo de trabalho. Este valor depende dos componentes escolhidos. Para geradores de energia, o display mostra produção por cíclo ou item."
+]
