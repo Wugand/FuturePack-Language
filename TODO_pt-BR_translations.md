@@ -13,10 +13,10 @@ chip.transport.json |
 chip.ultimate.json |
 chips.cooler.json |
 chips.watercooler.json |
-core.alon.json |
-core.penton.json |
-core.standart.json |
-deco.eisenleiter.json |
+core.alon.json | a22brad22
+core.penton.json | a22brad22
+core.standart.json | a22brad22
+deco.eisenleiter.json | a22brad22
 deco.gitter.json |
 deco.gitterpane.json |
 deco.gitterslab.json |
@@ -39,7 +39,7 @@ energy.ionen.json |
 energy.neonmotor.json |
 energy.solar.json |
 energy.wasser_turbine.json |
-erneuerbare.json |
+erneuerbare.json | a22brad22
 forscher.json |
 forschung.json |
 hologrammtechnik.json |
@@ -68,10 +68,10 @@ log.redstonepipe.json |
 log.sorter.json |
 log.supportcable.json |
 log.supportpipe.json |
-magnetismus.json |
-motherboard.json |
-netzwerke.json |
-optik.json |
+magnetismus.json | a22brad22
+motherboard.json | a22brad22
+netzwerke.json | a22brad22
+optik.json | a22brad22
 production.blockbreaker.json |
 production.blockplacer.json |
 production.decoration.json |
@@ -122,6 +122,6 @@ tools.logistik_editor.json |
 tools.plasma.json |
 tools.sauerstofftank.json |
 tools.spawnerchest.json |
-tuning.json |
-upgradeT1.json |
-upgradeT2.json |
+tuning.json | a22brad22
+upgradeT1.json | a22brad22
+upgradeT2.json | a22brad22
