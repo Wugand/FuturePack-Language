@@ -1,0 +1,39 @@
+[
+	"Eu desenvolvei uma multi-ferramentas útil. Ela me habilita girar blocos e será útil para modificar máquinas.",
+	
+	{
+		"type": "crafting",
+		"slots": {
+			"1": "OreDict:ingotIron",
+			"2": {},
+			"3": "OreDict:ingotIron",
+			"4": {},
+			"5": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"6": {},
+			"7": {},
+			"8": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
+			"9": {},
+			"out": {"name":"fp:scrench"}
+		}
+	},
+	"Mudar o modo: §lbotão direito \"no ar\"§r",
+	
+	"Modo de Giração:",
+	{
+		"type":"image",
+		"width":32,
+		"height":32,
+		"resource":"fp:textures/items/tool_sub.png"
+	},
+	"§lbotão direito§r em um bloco para girá-lo.",
+	
+	"Modo de Modificações:",
+	{
+		"type":"image",
+		"width":32,
+		"height":32,
+		"resource":"fp:textures/items/tool.png"
+	},
+	"§lShift + botão direito§r em uma máquina para modificá-la.",
+	"Obs: A primeira máquina que você pode modificar será desbloqueada mais tarde!"
+]
