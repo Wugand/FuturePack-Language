@@ -1,0 +1,26 @@
+[
+	"Eu fiz um motor Stirling simples e achei um jeito para transformar a rotação em energia de néon. O motor trabalha com dois cilindros; um está arrefecido e o outro está esquentado por fogo. Juntos, eles criam um sistema fechado que arrefece e esquenta o ar dentro, empurrando ele ao outro cilindro. Pela expansão e contratação de ar, o sistema gera energia.",
+	"O calor pode ser criado por qualquer tipo de material queimável. O gerador não é muito eficaz, mas é suficiente para meus usos.",
+	"Criando:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"OreDict":"ingotIron"},
+			"2": {"OreDict":"ingotIron"},
+			"3": {"OreDict":"ingotIron"},
+			"4": {"name":"fp:spaceship", "meta":"<spaceship.CopperCoil>"},
+			"5": {"name":"minecraft:piston"},
+			"6": {"OreDict":"ingotNeon"},
+			"7": {"OreDict":"ingotIron"},
+			"8": {"name":"minecraft:furnace"},
+			"9": {"OreDict":"ingotIron"},
+			"out": {"name":"fp:brennstoff_generator","meta":0}
+		}
+	},
+	
+	"Dados Técnicos:",
+	"Energia por Tick: 0.5 NE",
+	"Energia por Tempo de Queima: 0.5 NE",
+	"",
+	"Informação: O lugar inferior é para combustível e o lugar superior é para baterias. A barra na esquerda mostra o nível de energia armazenada na máquina."
+]
