@@ -1,0 +1,20 @@
+[
+	"Eu desenvolvei uma estrutura complexa feita de metal composto e paus de ferro: um bloco de ventilação.",
+	"Criando:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"2": {"name":"minecraft:iron_bars"},
+			"3": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"4": {"name":"minecraft:iron_bars"},
+			"5": {},
+			"6": {"name":"minecraft:iron_bars"},
+			"7": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"8": {"name":"minecraft:iron_bars"},
+			"9": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"out": {"name":"fp:erz_blocke", "meta":9, "size":4}
+		}
+	},	
+	"Informação: Este bloco pode ser colorido (ou a cor pode ser tirada) usando o aerógrafo."
+]
