@@ -1,0 +1,20 @@
+[
+	"Eu desenvolvei uma estrutura complexa feita de metal composto e paus de ferro: um normal bloco grade.",
+	"Criando:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
+			"2": {"name":"minecraft:iron_bars"},
+			"3": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
+			"4": {"name":"minecraft:iron_bars"},
+			"5": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"6": {"name":"minecraft:iron_bars"},
+			"7": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
+			"8": {"name":"minecraft:iron_bars"},
+			"9": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
+			"out": {"name":"fp:metal_gitter_block", "meta":0, "size":2}
+		}
+	},	
+	"Informação: Este bloco pode ser colorido (ou a cor pode ser tirada) usando o aerógrafo."
+]
