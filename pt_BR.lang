@@ -1,0 +1,872 @@
+tile.colorIron_white.name=Metal Colorido Branco
+tile.colorIron_orange.name=Metal Colorido Laranja
+tile.colorIron_magenta.name=Metal Colorido Magenta
+tile.colorIron_lightBlue.name=Metal Colorido Azul Claro
+tile.colorIron_yellow.name=Metal Colorido Amarelo
+tile.colorIron_lime.name=Metal Colorido Verde Claro
+tile.colorIron_pink.name=Metal Colorido Cor-de-Rosa
+tile.colorIron_gray.name=Metal Colorido Cinza
+tile.colorIron_silver.name=Metal Colorido Cinza Claro
+tile.colorIron_cyan.name=Metal Colorido Ciano
+tile.colorIron_purple.name=Metal Colorido Roxo
+tile.colorIron_blue.name=Metal Colorido Azul
+tile.colorIron_brown.name=Metal Colorido Marrom
+tile.colorIron_green.name=Metal Colorido Verde
+tile.colorIron_red.name=Metal Colorido Vermelho
+tile.colorIron_black.name=Metal Colorido Preto
+
+tile.colorLuftung_white.name=Ventilação Colorida Branca
+tile.colorLuftung_orange.name=Ventilação Colorida Laranja
+tile.colorLuftung_magenta.name=Ventilação Colorida Magenta
+tile.colorLuftung_lightBlue.name=Ventilação Colorida Azul Claro
+tile.colorLuftung_yellow.name=Ventilação Colorida Amarela
+tile.colorLuftung_lime.name=Ventilação Colorida Verde Claro
+tile.colorLuftung_pink.name=Ventilação Colorida Cor-de-Rosa
+tile.colorLuftung_gray.name=Ventilação Colorida Cinza
+tile.colorLuftung_silver.name=Ventilação Colorida Cinza Clara
+tile.colorLuftung_cyan.name=Ventilação Colorida Ciana
+tile.colorLuftung_purple.name=Ventilação Colorida Roxa
+tile.colorLuftung_blue.name=Ventilação Colorida Azul
+tile.colorLuftung_brown.name=Ventilação Colorida Marrom
+tile.colorLuftung_green.name=Ventilação Colorida Verde
+tile.colorLuftung_red.name=Ventilação Colorida Vermelha
+tile.colorLuftung_black.name=Ventilação Colorida Preta
+
+tile.colorGitter_white.name=Bloco de Grade Colorido Branco
+tile.colorGitter_orange.name=Bloco de Grade Colorido Laranja
+tile.colorGitter_magenta.name=Bloco de Grade Colorido Magenta
+tile.colorGitter_lightBlue.name=Bloco de Grade Colorido Azul Claro
+tile.colorGitter_yellow.name=Bloco de Grade Colorido Amarelo
+tile.colorGitter_lime.name=Bloco de Grade Colorido Verde Claro
+tile.colorGitter_pink.name=Bloco de Grade Colorido Cor-de-Rosa
+tile.colorGitter_gray.name=Bloco de Grade Colorido Cinza
+tile.colorGitter_silver.name=Bloco de Grade Colorido Cinza Claro
+tile.colorGitter_cyan.name=Bloco de Grade Colorido Ciano
+tile.colorGitter_purple.name=Bloco de Grade Colorido Roxo
+tile.colorGitter_blue.name=Bloco de Grade Colorido Azul
+tile.colorGitter_brown.name=Bloco de Grade Colorido Marrom
+tile.colorGitter_green.name=Bloco de Grade Colorido Verde
+tile.colorGitter_red.name=Bloco de Grade Colorido Vermelho
+tile.colorGitter_black.name=Bloco de Grade Colorido Preto
+
+tile.colorGlas_white.name=Vidro Temperado Colorido Branco
+tile.colorGlas_orange.name=Vidro Temperado Colorido Laranja
+tile.colorGlas_magenta.name=Vidro Temperado Colorido Magenta
+tile.colorGlas_lightBlue.name=Vidro Temperado Colorido Azul Claro
+tile.colorGlas_yellow.name=Vidro Temperado Colorido Amarelo
+tile.colorGlas_lime.name=Vidro Temperado Colorido Verde Claro
+tile.colorGlas_pink.name=Vidro Temperado Colorido Cor-de-Rosa
+tile.colorGlas_gray.name=Vidro Temperado Colorido Cinza
+tile.colorGlas_silver.name=Vidro Temperado Colorido Cinza Claro
+tile.colorGlas_cyan.name=Vidro Temperado Colorido Ciano
+tile.colorGlas_purple.name=Vidro Temperado Colorido Roxo
+tile.colorGlas_blue.name=Vidro Temperado Colorido Azul
+tile.colorGlas_brown.name=Vidro Temperado Colorido Marrom
+tile.colorGlas_green.name=Vidro Temperado Colorido Verde
+tile.colorGlas_red.name=Vidro Temperado Colorido Vermelho
+tile.colorGlas_black.name=Vidro Temperado Colorido Preto
+
+tile.colorIronTreppe_white.name=Escada Metal Colorida Branca
+tile.colorIronTreppe_orange.name=Escada Metal Colorida Laranja
+tile.colorIronTreppe_magenta.name=Escada Metal Colorida Magenta
+tile.colorIronTreppe_lightBlue.name=Escada Metal Colorida Azul Claro
+tile.colorIronTreppe_yellow.name=Escada Metal Colorida Amerela
+tile.colorIronTreppe_lime.name=Escada Metal Colorida Verde Claro
+tile.colorIronTreppe_pink.name=Escada Metal Colorida Cor-de-Rosa
+tile.colorIronTreppe_gray.name=Escada Metal Colorida Cinza
+tile.colorIronTreppe_silver.name=Escada Metal Colorida Cinza Claro
+tile.colorIronTreppe_cyan.name=Escada Metal Colorida Ciana
+tile.colorIronTreppe_purple.name=Escada Metal Colorida Roxa
+tile.colorIronTreppe_blue.name=Escada Metal Colorida Azul
+tile.colorIronTreppe_brown.name=Escada Metal Colorida Marrom
+tile.colorIronTreppe_green.name=Escada Metal Colorida Verde
+tile.colorIronTreppe_red.name=Escada Metal Colorida Vermelha
+tile.colorIronTreppe_black.name=Escada Metal Colorida Preta
+
+tile.colorGitterTreppe_white.name=Escada de Grade Colorida Branca
+tile.colorGitterTreppe_orange.name=Escada de Grade Colorida Laranja
+tile.colorGitterTreppe_magenta.name=Escada de Grade Colorida Magenta
+tile.colorGitterTreppe_lightBlue.name=Escada de Grade Colorida Azul Claro
+tile.colorGitterTreppe_yellow.name=Escada de Grade Colorida Amarela
+tile.colorGitterTreppe_lime.name=Escada de Grade Colorida Verde Claro
+tile.colorGitterTreppe_pink.name=Escada de Grade Colorida Cor-de-Rosa
+tile.colorGitterTreppe_gray.name=Escada de Grade Colorida Cinza
+tile.colorGitterTreppe_silver.name=Escada de Grade Colorida Cinza Claro
+tile.colorGitterTreppe_cyan.name=Escada de Grade Colorida Ciana
+tile.colorGitterTreppe_purple.name=Escada de Grade Colorida Roxa
+tile.colorGitterTreppe_blue.name=Escada de Grade Colorida Azul
+tile.colorGitterTreppe_brown.name=Escada de Grade Colorida Marrom
+tile.colorGitterTreppe_green.name=Escada de Grade Colorida Verde
+tile.colorGitterTreppe_red.name=Escada de Grade Colorida Vermelha
+tile.colorGitterTreppe_black.name=Escada de Grade Colorida Preta
+
+tile.colorIronStep_white.name=Degrau Metal Colorido Branco
+tile.colorIronStep_orange.name=Degrau Metal Colorido Laranja
+tile.colorIronStep_magenta.name=Degrau Metal Colorido Magenta
+tile.colorIronStep_lightBlue.name=Degrau Metal Colorido Azul Claro
+tile.colorIronStep_yellow.name=Degrau Metal Colorido Amarelo
+tile.colorIronStep_lime.name=Degrau Metal Colorido Verde Claro
+tile.colorIronStep_pink.name=Degrau Metal Colorido Cor-de-Rosa
+tile.colorIronStep_gray.name=Degrau Metal Colorido Cinza
+tile.colorIronStep_silver.name=Degrau Metal Colorido Cinza Claro
+tile.colorIronStep_cyan.name=Degrau Metal Colorido Ciano
+tile.colorIronStep_purple.name=Degrau Metal Colorido Roxo
+tile.colorIronStep_blue.name=Degrau Metal Colorido Azul
+tile.colorIronStep_brown.name=Degrau Metal Colorido Marrom
+tile.colorIronStep_green.name=Degrau Metal Colorido Verde
+tile.colorIronStep_red.name=Degrau Metal Colorido Vermelho
+tile.colorIronStep_black.name=Degrau Metal Colorido Preto
+
+tile.colorGitterStep_white.name=Degrau Grade Colorido Branco
+tile.colorGitterStep_orange.name=Degrau Metal Colorido Laranja
+tile.colorGitterStep_magenta.name=Degrau Metal Colorido Magenta
+tile.colorGitterStep_lightBlue.name=Degrau Metal Colorido Azul Claro
+tile.colorGitterStep_yellow.name=Degrau Metal Colorido Amarelo
+tile.colorGitterStep_lime.name=Degrau Metal Colorido Verde Claro
+tile.colorGitterStep_pink.name=Degrau Metal Colorido Cor-de-Rosa
+tile.colorGitterStep_gray.name=Degrau Metal Colorido Cinza
+tile.colorGitterStep_silver.name=Degrau Metal Colorido Cinza Claro
+tile.colorGitterStep_cyan.name=Degrau Grade Colorido Ciano
+tile.colorGitterStep_purple.name=Degrau Grade Colorido Roxo
+tile.colorGitterStep_blue.name=Degrau Grade Colorido Azul
+tile.colorGitterStep_brown.name=Degrau Grade Colorido Marrom
+tile.colorGitterStep_green.name=Degrau Grade Colorido Verde
+tile.colorGitterStep_red.name=Degrau Grade Colorido Vermelho
+tile.colorGitterStep_black.name=Degrau Grade Colorido Preto
+
+tile.colorLuftungStep_white.name=Degrau de Ventilação Colorido Branco
+tile.colorLuftungStep_orange.name=Degrau de Ventilação Colorido Laranja
+tile.colorLuftungStep_magenta.name=Degrau de Ventilação Colorido Magenta
+tile.colorLuftungStep_lightBlue.name=Degrau de Ventilação Colorido Azul Claro
+tile.colorLuftungStep_yellow.name=Degrau de Ventilação Colorido Amarelo
+tile.colorLuftungStep_lime.name=Degrau de Ventilação Colorido Verde Claro
+tile.colorLuftungStep_pink.name=Degrau de Ventilação Colorido Cor-de-Rosa
+tile.colorLuftungStep_gray.name=Degrau de Ventilação Colorido Cinza
+tile.colorLuftungStep_silver.name=Degrau de Ventilação Colorido Cinza Claro
+tile.colorLuftungStep_cyan.name=Degrau de Ventilação Colorido Ciano
+tile.colorLuftungStep_purple.name=Degrau de Ventilação Colorido Roxo
+tile.colorLuftungStep_blue.name=Degrau de Ventilação Colorido Azul
+tile.colorLuftungStep_brown.name=Degrau de Ventilação Colorido Marrom
+tile.colorLuftungStep_green.name=Degrau de Ventilação Colorido Verde
+tile.colorLuftungStep_red.name=Degrau de Ventilação Colorido Vermelho
+tile.colorLuftungStep_black.name=Degrau de Ventilação Colorido Preto
+
+tile.eisenleiter.name=Escada de Ferro
+tile.antenne.name=Antena
+
+tile.colorFence_white.name=Cerca Colorida Branca
+tile.colorFence_orange.name=Cerca Colorida Laranja
+tile.colorFence_magenta.name=Cerca Colorida Magenta
+tile.colorFence_lightBlue.name=Cerca Colorida Azul Claro
+tile.colorFence_yellow.name=Cerca Colorida Amarela
+tile.colorFence_lime.name=Cerca Colorida Verde Claro
+tile.colorFence_pink.name=Cerca Colorida Cor-de-Rosa
+tile.colorFence_gray.name=Cerca Colorida Cinza
+tile.colorFence_silver.name=Cerca Colorida Cinza Claro
+tile.colorFence_cyan.name=Cerca Colorida Ciana
+tile.colorFence_purple.name=Cerca Colorida Roxa
+tile.colorFence_blue.name=Cerca Colorida Azul
+tile.colorFence_brown.name=Cerca Colorida Marrom
+tile.colorFence_green.name=Cerca Colorida Verde
+tile.colorFence_red.name=Cerca Colorida Vermelha
+tile.colorFence_black.name=Cerca Colorida Preta
+
+tile.colorPane_white.name=Grade Colorido Branco
+tile.colorPane_orange.name=Grade Colorido Laranja
+tile.colorPane_magenta.name=Grade Colorido Magenta
+tile.colorPane_lightBlue.name=Grade Colorido Azul Claro
+tile.colorPane_yellow.name=Grade Colorido Amarelo
+tile.colorPane_lime.name=Grade Colorido Verde Claro
+tile.colorPane_pink.name=Grade Colorido Cor-de-Rosa
+tile.colorPane_gray.name=Grade Colorido Cinza
+tile.colorPane_silver.name=Grade Colorido Cinza Claro
+tile.colorPane_cyan.name=Grade Colorido Ciano
+tile.colorPane_purple.name=Grade Colorido Roxo
+tile.colorPane_blue.name=Grade Colorido Azul
+tile.colorPane_brown.name=Grade Colorido Marrom
+tile.colorPane_green.name=Grade Colorido Verde
+tile.colorPane_red.name=Grade Colorido Vermelho
+tile.colorPane_black.name=Grade Colorido Preto
+
+tile.funkcomputer.name=Computador Sem Fio
+
+tile.colorNeonLamp_white.name=Lanterna de Néon Branca
+tile.colorNeonLamp_orange.name=Lanterna de Néon Laranja
+tile.colorNeonLamp_magenta.name=Lanterna de Néon Magenta
+tile.colorNeonLamp_lightBlue.name=Lanterna de Néon Azul Claro
+tile.colorNeonLamp_yellow.name=Lanterna de Néon Amarela
+tile.colorNeonLamp_lime.name=Lanterna de Néon Verde Claro
+tile.colorNeonLamp_pink.name=Lanterna de Néon Cor-de-Rosa
+tile.colorNeonLamp_gray.name=Lanterna de Néon Cinza
+tile.colorNeonLamp_silver.name=Lanterna de Néon Cinza Claro
+tile.colorNeonLamp_cyan.name=Lanterna de Néon Ciana
+tile.colorNeonLamp_purple.name=Lanterna de Néon Roxa
+tile.colorNeonLamp_blue.name=Lanterna de Néon Azul
+tile.colorNeonLamp_brown.name=Lanterna de Néon Marrom
+tile.colorNeonLamp_green.name=Lanterna de Néon Verde
+tile.colorNeonLamp_red.name=Lanterna de Néon Vermelha
+tile.colorNeonLamp_black.name=Lanterna de Néon Preta
+
+tile.colorPlasmaLamp_white.name=Lanterna de Plasma Branca
+tile.colorPlasmaLamp_orange.name=Lanterna de Plasma Laranja
+tile.colorPlasmaLamp_magenta.name=Lanterna de Plasma Magenta
+tile.colorPlasmaLamp_lightBlue.name=Lanterna de Plasma Azul Claro
+tile.colorPlasmaLamp_yellow.name=Lanterna de Plasma Amarela
+tile.colorPlasmaLamp_lime.name=Lanterna de Plasma Verde Claro
+tile.colorPlasmaLamp_pink.name=Lanterna de Plasma Cor-de-Rosa
+tile.colorPlasmaLamp_gray.name=Lanterna de Plasma Cinza
+tile.colorPlasmaLamp_silver.name=Lanterna de Plasma Cinza Claro
+tile.colorPlasmaLamp_cyan.name=Lanterna de Plasma Ciana
+tile.colorPlasmaLamp_purple.name=Lanterna de Plasma Roxa
+tile.colorPlasmaLamp_blue.name=Lanterna de Plasma Azul
+tile.colorPlasmaLamp_brown.name=Lanterna de Plasma Marrom
+tile.colorPlasmaLamp_green.name=Lanterna de Plasma Verde
+tile.colorPlasmaLamp_red.name=Lanterna de Plasma Vermelha
+tile.colorPlasmaLamp_black.name=Lanterna de Plasma Preta
+
+tile.microbox.name=Caixa Micro
+tile.ionCollector.name=Coletor de Íons
+tile.wire_0.name=Cabo
+tile.wire_1.name=Cabo de Redstone
+tile.wire_2.name=Cabo Super
+tile.wire_3.name=Cabo de Suporte
+tile.wire_4.name=Cabo de Rede
+tile.spacedoor.name=Fechadura à Pressão
+tile.spaceship.name=Caixa de Holograma
+
+tile.erze_zinn.name=Minério de Estanho
+tile.erze_zink.name=Minério de Zinco
+tile.erze_kupfer.name=Minério de Cobre
+tile.erze_bauxit.name=Bauxita
+tile.erze_magnetit.name=Minério de Magnetita
+
+tile.erzBlocke_zinnBlock.name=Bloco de Estanho
+tile.erzBlocke_zinkBlock.name=Bloco de Zinco
+tile.erzBlocke_kupferBlock.name=Bloco de Cobre
+tile.erzBlocke_kristall_block.name=Bloco de Cristal de Néon
+tile.erzBlocke_metalBlock.name=Bloco de Metal
+tile.Magnet.name=Bloco de Magnetita
+tile.metalTreppe_yellow.name=Escada Metal
+tile.metalSlap_metal.name=Degrau Metal
+tile.metalSlap_gitter.name=Degrau Grade
+tile.metalSlap_luftung.name=Degrau de Ventilação
+tile.metalTreppe_white.name=Escada Metal
+
+tile.wandrobe.name=Armário
+tile.neonsand.name=Areia de Néon
+
+tile.cristall_0.name=Cristal de Néon
+tile.cristall_1.name=Cristal de Rétio
+tile.cristall_2.name=Cristal de Brilhatita
+tile.cristall_3.name=Cristal de Biotério
+tile.cristall_4.name=Cristal de Alutina
+
+tile.optiBench.name=Opti-Bancada
+tile.elektroMagnet.name=Eletroímã
+tile.pulsit.name=Pulsador de Gravidade
+tile.monorail.name=Monotrilho
+tile.pucher.name=Empurrador
+tile.blockFish.name=Bloco de Peixe
+tile.industrieFurnace.name=Fornalha Industrial
+tile.blockBreaker.name=Quebrador de Blocos
+tile.partpress.name=Prensa de Metais
+tile.efurnace.name=Fornalha de Néon
+tile.solarpanel.name=Painel Solar
+tile.assemblytable.name=Bancada de Montagem
+tile.crusher.name=Super-Triturador
+tile.entityeater_eater.name=Laser de Absorção
+tile.entityeater_killer.name=Torreta de Laser
+tile.entityeater_healer.name=Laser para Regeneração
+tile.brennstoff_generator.name=Gerador
+
+tile.bateriebox.name=Caixa de Baterias
+tile.DroneStation.name=Estação de Drones
+tile.externCooler.name=Resfriador External
+tile.pipe_0.name=Tubo Normal
+tile.pipe_1.name=Tubo Redstone
+tile.pipe_2.name=Tubo Néon
+tile.pipe_3.name=Tubo Supporte
+tile.sorter.name=Classificador
+tile.erzBlocke_kristall_block_retium.name=Bloco de Cristal Rétio
+tile.erzBlocke_kristall_block_Glowtit.name=Bloco de Cristal Brilhatita
+tile.erzBlocke_kristall_block_bioterium.name=Bloco de Cristal Biotério
+tile.erzBlocke_kristall_block_alutin.name=Bloco de Cristal Alutina
+tile.erzBlocke_metalBlock_luftschacht.name=Ventilação
+tile.uncolorPane.name=Grade
+tile.uncolorGitter.name=Bloco de Grade
+tile.claime.name=Transmissor de Claim
+tile.neonengine.name=Motor de Néon
+tile.plasmaGenerator.name=Gerador de Infusão
+tile.neonbricks_Neonbrick.name=Tijolo de Néon
+tile.neonbricks_Retiumbrick.name=Tijolo de Rétio
+tile.neonbricks_Glowtitbrick.name=Tijolo de Brilatita
+tile.neonbricks_Bioteriumbrick.name=Tijolo de Biotério
+tile.triebwerk.name=Propulsor
+tile.block_placer.name=Colocador de Blocos
+tile.wasserTurbine.name=Turbina de Água
+tile.waterCooler.name=Resfriador de Água
+tile.externalCore.name=Núcleo Quantum
+tile.techtable.name=Tech-Bancada
+tile.modul.1.name=Módulo de Pesquisa - Energia
+tile.modul.2.name=Módulo de Pesquisa - Supporte
+tile.modul.3.name=Módulo de Pesquisae - Experiência
+tile.scanner.name=Scanner
+tile.forscher.name=Pesquisador
+tile.laser_transmitter.name=Transmissor Laser
+tile.industrial_neon_furnace.name=Fornalha Industrial de Néon
+tile.neonsand_neon.name=Areia de Néon
+tile.neonsand_retium.name=Areia de Rétio
+tile.neonsand_glowtit.name=Areia de Brilhatita
+tile.neonsand_bioterium.name=Areia de Biotério
+tile.neonsand_alutin.name=Areia de Alutina
+tile.metalFence_metal.name=Cerca de Metal
+tile.stone_stoneM.name=Pedra Menelaus
+tile.stone_cobbleM.name=Pedragulho Menelaus
+tile.stone_brickM.name=Tijolos de Pedra Menelaus
+tile.stone_crackedM.name=Tijolos Rachados de Pedra Menelaus
+tile.stone_sandM.name=Arenito Menelaus
+tile.stone_smoothsandM.name=Arenito Menelaus Liso
+tile.stone_chiseledsandM.name=Arenito Menelaus Cinzelado
+tile.sand_M.name=Areia Menelaus
+tile.gravel_M.name=Cascalho Menelaus
+tile.glowmelo.name=Glowmelo
+tile.wood_tyros.name=Madeira Tyros
+tile.wood_menelaus.name=Madeira Menelaus
+tile.boardcomputer.name=Computador de Placa-Mãe
+tile.beam_button.name=Teleportador (Para Cima e Baixo)
+tile.beam_up.name=Teleportador (Para Cima)
+tile.beam_down.name=Teleportador (Para Baixo)
+tile.beam_.name=Bloco de Teleportação
+tile.erse.name=Planta Erse
+tile.sapling_menelaus.name=Rebento Menelaus
+tile.sapling_tyros.name=Rebento Tyros
+tile.flashserver.name=Servidor Flash
+tile.zentrifuge.name=Centrífuga
+tile.fuelcell.name=Tanque de Combustível
+tile.dirt_M.name=Terra Menelaus
+tile.ftl_drive.name=Bloco FTL
+tile.advanced_boardcomputer.name=Computador de Placa-Mãe Avançado
+
+item.scrench.name=Scrench
+item.NeonBattery.name=Bateria de Néon Sem Carga
+item.NeonBattery_full.name=Bateria de Néon
+item.NormalBattery.name=Bateria Sem Carga
+item.Battery_N_full.name=Bateria Normal
+item.LargeBattery.name=Bateria Grande Sem Carga
+item.Battery_L_full.name=Bateria Grande
+
+item.Objektscenner.name=Replicador de Construção
+item.Kristall_Blueprint.name=Desenho Técnico
+item.Kristall_Blueprint_empty.name=Desenho Técnico em Branco
+
+item.escenner.name=E-Scanner
+item.logistic_editor.ENERGIE.name=Editor de Logística (Energia)
+item.logistic_editor.SUPPORT.name=Editor de Logística (Supporte)
+item.logistic_editor.NETWORK.name=Editor de Logística (Rede)
+item.logistic_editor.ITEMS.name=Editor de Logística (Itens)
+item.logistic_editor.FLUIDS.name=Editor de Logística (Líquidos)
+
+
+item.LogicChip.name=Chipset de Lógica
+item.KIChip.name=Chipset de AI
+item.LogistcChip.name=Chipset de Transporte
+item.NavigationChip.name=Chipset de Navigação
+item.NetworkChip.name=Chipset de Rede
+item.ProduktionChip.name=Chipset Industrial
+item.RedstoneChip.name=Chipset para Controle de Redstone
+item.SuportChip.name=Chipset de Supporte
+item.TacticChip.name=Chipset de Controle Tático
+item.UltimateChip.name=Chipset Ultimate
+item.DamageControlChip.name=Chipset para Prevenção de Danos
+
+item.Standart-ram.name=RAM Padrão
+item.A-ram.name=RAM Alon
+item.P-ram.name=RAM Penton
+item.TCT-ram.name=RAM TCT
+item.Master-ram.name=RAM Mestre
+item.Non-ram.name=RAM NoN
+item.Dungon-ram.name=RAM Masmorra
+item.Univ-ram.name=RAM Torus
+
+item.Standart-Core.name=Núcleo Padrão
+item.A1-Core.name=Núcleo Alon I
+item.P2-Core.name=Núcleo Penton II
+item.TCT-Core.name=Núcleo TCT
+item.Master-Core.name=Núcleo Mestre
+item.Non-Core.name=Núcleo NoN
+item.Dungon-Core.name=Núcleo Coração de Masmorra
+item.Univ-Core.name=Núcleo Torus
+
+item.erse.name=Erço
+
+item.CopperCoil.name=Bobina em Cobre
+item.IronCoil.name=Bobina em Ferro
+item.NeonCoil.name=Bobina em Néon
+item.GoldCoil.name=Bobina em Ouro
+
+item.Eisenteile.name=Peças de Ferro
+item.Diamandteile.name=Peças de Diamante
+item.Quarzteile.name=Peças de Quartzo
+item.Neonteile.name=Peças de Néon
+item.Kupferteile.name=Peças de Cobre
+
+item.Iron_Stick.name=Pau de Ferro
+item.Aluminiumplatten.name=Placa em Alumínio
+item.Verbuntmetall.name=Metal Composto
+item.Silizium.name=Wafer de Silício
+item.Tank.name=Tanque
+item.itemErze_zinnbarren.name=Lingote de Estanho
+item.itemErze_zinkbarren.name=Lingote de Zinco
+item.itemErze_kupferbarren.name=Lingote de Cobre
+item.itemErze_magnet.name=Lingote de Ímã
+item.itemErze_neon_ingot.name=Lingote de Néon
+item.itemErze_retium_ingot.name=Lingote de Rétio
+item.itemErze_glowtit_ingot.name=Lingote de Brilhatita
+item.itemErze_bioterium_ingot.name=Lingote de Biotério
+item.itemErze_ingot_wakurum.name=Lingote de Wakúrio
+item.itemErze_ingot_quantanium.name=Lingote de Quántio
+item.itemErze_ingot_seltenerde.name=Terra-rara
+item.itemErze_ingot_gadolinium.name=Lingote de Gadolínio
+item.itemErze_ingot_lanthanum.name=Lingote de Lantânio
+item.itemErze_ingot_neodymium.name=Lingote de Neodímio
+item.recipe.name=Receita
+item.MaschinBord.name=Placa de Máquina
+
+item.LackTank0.name=Tanque Colorido Branco
+item.LackTank1.name=Tanque Colorido Laranja
+item.LackTank2.name=Tanque Colorido Magenta
+item.LackTank3.name=Tanque Colorido Azul Claro
+item.LackTank4.name=Tanque Colorido Amarelo
+item.LackTank5.name=Tanque Colorido Verde Claro
+item.LackTank6.name=Tanque Colorido Cor-de-Rosa
+item.LackTank7.name=Tanque Colorido Cinza
+item.LackTank8.name=Tanque Colorido Cinza Claro
+item.LackTank9.name=Tanque Colorido Ciano
+item.LackTank10.name=Tanque Colorido Roxo
+item.LackTank11.name=Tanque Colorido Azul
+item.LackTank12.name=Tanque Colorido Marrom
+item.LackTank13.name=Tanque Colorido Verde
+item.LackTank14.name=Tanque Colorido Vermelho
+item.LackTank15.name=Tanque Colorido Preto
+
+item.AirBrush.name=Aerógrafo
+item.dust.name=Poeira
+item.aiflash0.name=Pendrive de Redstone Simples
+item.aiflash1.name=Pendrive de Redstone Melhorado
+item.aiflash2.name=Pendrive de Brilhatita
+item.aiflash3.name=Pendrive de Cristal
+item.aiflash4.name=Pendrive de Isótopo
+item.aiflash5.name=Pendrive de Qubit
+item.AI_Flash_Speicher_0.name=Memória Flash Vazia
+item.AI_Flash_Speicher_1.name=Memória Flash Vazia
+item.AI_Flash_Speicher_2.name=Memória Flash Vazia
+item.AI_Flash_Speicher_3.name=Memória Flash Vazia
+item.AI_Flash_Speicher_4.name=Memória Flash Vazia
+item.AI_Flash_Speicher_5.name=Memória Flash Vazia
+
+item.entityegger0.name=Jogador de Ovos para Entidades
+item.entityegger2.name=Cofre de Spawners
+item.entityegger3.name=Cofre de Spawners Cheio
+item.entityegger4.name=Drone de Mineração de Caixa de Construção
+item.creeperWurfel.name=Cubo de Limo
+item.sauerstofftank.name=Tanque de Oxigênio
+item.laserBow.name=Arco de Laser
+
+item.helmetMagnetit.name=Elmo de Magnetita
+item.chestplateMagnetit.name=Peitoral de Magnetita
+item.leggingsMagnetit.name=Perneiras de Magnetita
+item.bootsMagnetit.name=Botas de Magnetita
+
+item.itemMonitor.name=Monitor
+item.grablingHook.name=Limo para Agarramento
+item.plasmaschneider.name=Cortador de Plasma
+item.hologramcontroler.name=Controlador de Holograma
+item.research_blueprint.name=Desenho Técnico para Pesquisa
+
+item.goldteile.name=Peças de Ouro
+item.laserdiode.name=Diodo Laser
+item.linse_l.name=Lente de Focagem Roxa
+item.linse_g.name=Lente de Focagem Verde
+item.linse_r.name=Lente de Focagem Vermelha
+item.linse_w.name=Lente de Focagem Branca
+item.fragment_core.name=Fragmento de Núcleo
+item.fragment_ram.name=Fragmento de RAM
+item.fuel_cell.name=Combustível de Foguete
+item.keramik.name=Placa de Proteção Térmica
+item.itemErze_ingot_bitripentium.name=Lingote de Bitripéntio
+
+item.composite_pickaxe.name=Picareta Composta
+item.composite_axe.name=Machado Composto
+item.composite_hoe.name=Enxada Composta
+item.composite_spade.name=Pá Composta
+item.gleiter.name=Parapente
+item.dust_obsidian.name=Pó de Obsidiana
+
+item.spawnnote.name=Documento Misterioso
+item.coordinats.name=Coordenadas
+item.fasern.name=Fibras
+item.hack_schnitzel.name=Lascas de Madeira
+item.kompost.name=Composto
+item.telescope.name=Telescópio
+item.laser_riffle.name=Rifle de Laser
+item.sword_neon.name=Espada de Néon
+item.sword_retium.name=Espada de Rétio
+item.sword_glowtite.name=Espada de Brilhatita
+item.sword_bioterium.name=Espada de Biotério
+item.grenade_launcher.name=Lançador de Grenada
+item.blazegranate.name=Grenada de Labareda
+item.granate.name=Grenada
+item.plasmagranate.name=Grenada de Plasma
+item.schleimgranate.name=Grenada de Limo
+item.granate_leer.name=Grenada Vazia
+item.kompostgranate.name=Grenada de Composto
+item.futtergranate.name=Grenada de Alimentação
+item.saatgranate.name=Grenada de Sementes
+
+itemGroup.fpTab.deco=Materiais Future Pack
+itemGroup.fpTab.maschiens=Maquinismo Future Pack
+itemGroup.fpTab.items=Itens Future Pack
+
+container.opticrafting=Bancada Opti
+container.collector=Coletor de Íons
+
+gui.fp.wandrope=Armário
+
+aspect.geologie.name=Geologia
+aspect.chemie.name=Química
+aspect.tierhaltung.name=Criação de Gado
+aspect.logistik.name=Logística
+aspect.biologie.name=Biologia
+aspect.morphologie.name=Morfologia
+aspect.metallurgie.name=Metalurgia
+aspect.maschinenbau.name=Engenharia
+aspect.thermodynamik.name=Termodinâmica
+aspect.termodynamic.name=Termodinâmica
+aspect.energieverbindung.name=Conexão de Energia
+aspect.neonenergie.name=Energia de Néon
+aspect.hydraulic.name=Hidráulica
+
+death.attack.neonDamage=%s foi morto por Energia de Néon
+
+
+chat.beam.noBlockAbove=Não existe nenhum teleportador acima deste bloco 
+chat.beam.noBlockBelow=Não existe nenhum teleportador abaixo deste bloco 
+chat.beam.lowEnergie=Energia de Néon Insuficiente
+
+chat.spaceship.open=Sua nave espacial está aberta
+chat.spaceship.missingEngine=Sua nave espacial precisa de algo que produza energia de néon
+chat.spaceship.missingThruster=Sua nave espacial tem %1$s bloco(s) mas somente %2$s propulsor(es); você precisa de %3$s propulsor(es) mais
+chat.spaceship.lowEnergie=Energia de néon insuficiente
+chat.spaceship.missingBeam=Sua nave espacial não tem um teleportador
+chat.spaceship.missingFuel=Os propulsores não têm combustível suficiente. Você ainda tem %s propulsor(es) que precisa(m) ser alimentado(s)
+
+chat.research.add=Sua pesquisa(%s) terminou. 
+research.useblock.missing=Você não sabe como usar este item!
+
+hologram.error.set.notsupported=Você não pode estabelecer uma holograma para este bloco!
+hologram.error.set.notileentity=Você não pode estabelecer uma holograma para este bloco!
+hologram.error.select.tileentity=Você não pode usar este bloco para criam uma holograma!
+
+achievement.installFP=Eu Gosto das Estrelas
+achievement.installFP.desc=Instalar o Futurepack
+achievement.sushi=Eu Gosto de Sushi
+achievement.sushi.desc=Blocos de Peixe?!
+achievement.erse=Erço pro Mundo!
+achievement.erse.desc=Achar um Erço
+achievement.theImpalpable=Technologia do Inacessível
+achievement.theImpalpable.desc=Obter um E-Scanner
+achievement.labor=Laboratório de Pesquisa
+achievement.labor.desc=Construir um Scanner e um Pesquisador
+achievement.mainboard=Meu Primeiro Computador
+achievement.mainboard.desc=Construir uma Placa-Mãe
+achievement.neonEnergie=Eletricidade
+achievement.neonEnergie.desc=Gerar Energia de Néon
+achievement.isntDiamond=Não é Diamante
+achievement.isntDiamond.desc=Minerar Zinco
+achievement.needBukkit=Preciso de mais Baldes
+achievement.needBukkit.desc=Construir uma Fornalha Industrial
+achievement.composite=Metal Composto
+achievement.composite.desc=Só um Pouco de Tudo
+achievement.menelaus=Menelaus
+achievement.menelaus.desc=Viajar para Menelaus
+achievement.metalhaltig=Contém Metais
+achievement.metalhaltig.desc=Obter Cascalho e Terra de Menelaus
+achievement.tyros=Tyros
+achievement.tyros.desc=Viajar para Tyros
+achievement.glowmelo=Glowmelo
+achievement.glowmelo.desc=Colher um Glowmelo
+achievement.crys_neon=Cristal de Néon
+achievement.crys_neon.desc=Achar um Cristal de Néon
+achievement.crys_alutin=Cristal de Alutina
+achievement.crys_alutin.desc=Achar um Cristal de Alutina
+achievement.crys_glowtit=Cristal de Brilhatita
+achievement.crys_glowtit.desc=Achar um Cristal de Brilhatita
+achievement.crys_retium=Cristal de Rétio
+achievement.crys_retium.desc=Achar um Cristal de Rétio
+achievement.crys_bioterium=Cristal de Biotério
+achievement.crys_bioterium.desc=Achar um Cristal de Biotério
+
+command.fp.usage=/fp <pesquisa> ...
+command.fp.research.usage=/fp pesquisa <jogador> <reiniciar:abrir> [...]
+command.fp.research.unlock.usage=/fp pesquisa <jogador> abrir <tudo:basicos:Pesquisa> [caminho:unico]
+command.fp.research.reset.feedback=Suas Pesquisas foram reiniciadas!
+command.fp.research.reset.success=As Pesquisas de %s foram reiniciadas!
+command.fp.research.unlock.success=As Pesquisas [%s] foram abertas para %s!
+
+scanner.button.0.name=Árvore de Tecnologia
+scanner.button.1.name=Resultado do Scan
+scanner.button.2.name=Informação Tecnológica
+scanner.button.3.name=Calculador
+gui.scanner.start.name=Scan
+
+info.note.read=§2Botão direito para visualizar!
+
+key.categories.futurepack=Futurepack
+key.fp.gleiter=Parapente abrir/fechar
+
+research.need.achievement=Precisa de %s
+
+research.page.base.name=Básicos
+research.page.story.name=História
+research.page.chips.name=Circuitos
+research.page.deco.name=Decoração
+research.page.logistic.name=Logística
+research.page.energy.name=Geração de Energia
+research.page.production.name=Produção
+research.page.space.name=Viagens Espaciais
+research.page.tools.name=Ferramentas
+
+research.get_started=The Future Pack - O Pacote Futuro
+research.forschung=O Sistema de Pesquisa
+research.techtabel=Bancada de Tecnologia
+research.util=Diversos
+research.scanner=Scanner
+research.forscher=Pesquisador
+research.production=Produção 1
+research.itemlogistik=Logística de Itens
+research.werkzeug=Ferramentas
+research.decoration=Decoração
+research.energieerzeugung=Geração de Energia 1
+research.energielogistik=Logística de Energia
+
+research.upgradeT1=Módulo de Pesquisa - Energia
+research.assembly=Montagem de Chips
+research.optik=A Óptica
+research.energiespeicher=Armazenagem de Energia
+research.energieerzeugung2=Geração de Energia 2
+research.production2=Produção 2
+research.magnetismus=Magnetismo
+research.thermodynamik=Termodinámica
+research.ai=Inteligência Artificial
+
+research.upgradeT2=Módulo de Pesquisa (AI)
+research.erneuerbare=Energia Renovável
+research.aispeicher=Memória AI Melhorada
+research.energietools=Ferramentas de Energia
+research.lasertechnik=Tecnologia de Lasers 1
+research.bergbau=Mineração
+research.waffentechnik=Armamentos
+research.production3=Produção 3
+research.netzwerke=Redes
+research.hologrammtechnik=Tecnologia de Hologramas
+research.raumfahrt=Viagens Espaciais
+research.menelaus=Menelaus
+research.upgradeT3=Módulo de Pesquisa - Experiência
+
+research.quantentechnik=Tecnologia Quantum
+research.ionentechnik=Tecnologia de Íons
+research.lasertechnik2=Tecnologia de Lasers 2
+research.astronomie1=Astronomia 1
+
+research.drones=Tecnologia de Drones
+
+
+
+research.itempipe=Cano Normal
+
+
+
+research.story.tec_dungeon=Passar para o Desconhecido
+research.hs.geologie=Geologia
+research.hs.chemie=Química
+research.hs.tierhaltung=Criação de Gado
+research.hs.logistik=Logística
+research.hs.biologie=Biologia
+research.hs.morphologie=Morfologia
+research.hs.metallurgie=Metalurgia
+research.hs.maschinenbau=Engenharia
+research.hs.thermodynamik=Termodinámica
+research.hs.energieverbindungen=Conexão de Energia
+research.hs.neonenergie=Energia de Néon
+research.hs.hydraulic=Hidráulica
+research.story.labor=Curosidade Científica
+research.story.labor2=Laboratório
+research.story.erse=Erço
+research.story.neonenergie=Eletricidade
+research.story.mainboard=Meu Primeiro Computador
+research.story.metalhaltig=Contém Metais
+research.story.glowmelo=Glowmelo
+research.story.crystal_n=Cristal de Néon
+research.story.crystal_a=Cristal de Alutina
+research.story.crystal_g=Cristal de Brilhatita
+research.story.crystal_r=Cristal de Rétio
+research.story.crystal_b=Cristal de Biotério
+
+research.production.blockbreaker=Quebrador de Blocos
+research.production.blockplacer=Colocador de Blocos
+research.production.partpress=Prensa de Metais
+research.production.industrieofen=Fornalha Industrial
+research.production.ind.compositemetal=Metal Composto
+research.production.ind.aluminium=Alumínio
+research.production.ind.reduktion=Redução
+research.production.decoration=Decoração
+research.production.optibench=Bancada Opti
+research.production.supercrusher=Super Esmagador
+research.production.neonfurnace=Fornalha de Néon
+research.production.neonind=Fornalha Industrial de Néon
+research.production.zentrifuge=Centrífuga
+research.production.nind.reduktion=Redução Avançada
+research.production.nind.reloaded=Otimização
+research.production.nind.magnet=Ímãs
+research.production.nind.wakurum=Wakúrio
+research.production.nind.quantanium=Quantánio
+research.production.nind.keramik=Placa de Proteção Térmica
+research.production.nind.special=Melhoramento de Materiais
+research.production.nind.linse.r=Lente de Focagem Vermelha
+research.production.nind.linse.l=Lente de Focagem Roxa
+research.production.nind.linse.g=Lente de Focagem Verde
+research.production.zent.extraction1=Extração de Rochas
+research.production.zent.extraction2=Extração de Minérios
+research.production.zent.neon=Processamento de Cristais
+research.production.zent.bio=Extração de Plantas
+research.production.zent.color=Produção de Cores
+
+research.energy.generator=Gerador
+research.energy.neonmotor=Motor de Néon
+research.energy.infusion=Gerador por Infusão
+research.energy.solar=Painel Solar
+research.energy.wasser_turbine=Turbina de Água
+research.energy.ionen=Coletor de Íons
+
+research.log.itempipe=Cano Normal
+research.log.cable=Cabo
+research.log.neonpipe=Cano Néon
+research.log.redstonepipe=Cano Redstone
+research.log.supportpipe=Cano Supporte
+research.log.pusher=Empurrador de Itens
+research.log.sorter=Classificador
+research.log.redstonecable=Cabo Redstone
+research.log.supportcable=Cabo Supporte
+research.log.batbox=Caixa de Baterias
+research.log.networkcable=Cabo Rede
+research.log.network=Redes
+research.log.antenne=Antena
+research.log.laser=Laser Transmissor
+research.log.flashserver=Servidor Flash
+
+research.log.battery.normal=Batteria
+research.log.battery.large=Bateria Grande
+research.log.battery.neon=Bateria Néon
+
+research.log.flash.1=Pendrive de Redstone Simples
+research.log.flash.2=Pendrive de Redstone Melhorado
+research.log.flash.3=Pendrive de Brilhatita
+research.log.flash.4=Pendrive de Cristal
+research.log.flash.5=Pendrive de Isótopos
+research.log.flash.6=Pendrive Qubit
+
+research.assembly_chip=Bancada de Montagem
+research.motherboard=Placa-Mãe
+research.tuning=Overdrive
+
+research.ram.standart=Memória Padrão
+research.ram.alon=Memória Alon
+research.ram.penton=Memória Penton
+research.ram.tct=Memória TCT
+research.ram.mm=Memória Mestre
+research.ram.non=Memória NoN
+research.ram.dungeon=RAM Masmorra
+research.ram.univers=RAM Torus
+
+research.core.standart=Núcleo Padrão
+research.core.alon=Núcleo Alon I
+research.core.penton=Núcleo Penton II
+research.core.tct=Núcleo TCT
+research.core.mm=Núcleo Regente
+research.core.non=Núcleo NoN
+research.core.dungeon=Núcleo Masmorra
+research.core.univers=Núcleo Torus
+
+research.chip.logic=Chipset Lógica
+research.chip.industrial=Chipset Industrial
+research.chip.tactic=Chipset Controle Tático
+research.chip.transport=Chipset Transporte
+research.chip.navigation=Chipset Navigação
+research.chip.damage=Chipset Controle de Dano
+research.chip.ai=Chipset AI
+research.chip.redstone=Chipset Controle de Redstone
+research.chip.network=Chipset Rede
+research.chip.support=Chipset Supporte
+research.chip.ultimate=Chipset Ultimate
+
+research.chips.cooler=Esfriador
+research.chips.watercooler=Esfriador de Água
+
+research.deco.metall=Bloco de Metal
+research.deco.metallslab=Degrau de Metal
+research.deco.metalltreppe=Escada de Metal
+research.deco.metallzaun=Cercada de Metal
+research.deco.gitter=Bloco Grade
+research.deco.gitterslab=Degrau Grade
+research.deco.gittertreppe=Escada Grade
+research.deco.gitterpane=Grade
+research.deco.eisenleiter=Escada de Ferro
+research.deco.vent=Ventilação
+research.deco.ventslab=Degrau de Ventilação
+research.deco.glass=Vidro Lacado
+research.deco.plasmalamp=Lanterna de Plasma
+research.deco.neonlamp=Lanterna de Néon
+research.deco.monitor=Monitor
+research.deco.wardrobe=Armário
+
+research.space.magnetblock=Bloco de Ímã
+research.space.emagnet=Eletroímã
+research.space.gravity=Pulsador de Gravidade
+research.space.airlock=Fechadura à Pressão
+research.space.fuel=Conbustível de Foguete
+research.space.thruster=Propulsor
+research.space.tank=Tanque de Combustível
+research.space.teleport=Teleportador
+research.space.computer=Computador da Nave
+research.space.spaceship=Navigação e Controle
+research.space.navcord.menelaus=Coordenadas Menelaus
+research.space.drive.ftl=Drive FTL
+research.space.navcord.tyros=Coordenados Tyros
+research.space.dronestation=Estação de Drones
+research.space.claime=Transmissor de Claim
+research.space.miner=Drone de Mineração
+
+research.tools.scrench=Scrench
+research.tools.airbrush=Aerógrafo
+research.tools.sauerstofftank=Tanque de Oxigênio
+research.tools.logistik_editor=Editor de Logística
+research.tools.composite_pickaxe=Picareta Composta
+research.tools.composite_axe=Machado Composto
+research.tools.composite_hoe=Enxada Composta
+research.tools.composite_spade=Pá Composta
+research.tools.gleiter=Parapente
+research.tools.egger=Jogador de Ovos para Entidades
+research.tools.spawnerchest=Cofre de Spawner
+research.tools.plasma=Cortador de Plasma
+research.tools.escanner=E-Scanner
+research.tools.laserbow=Arco de Plasma
+research.tools.grabling=Limo de Agarramento
+research.tools.hologramm=Controlador de Hologramas
+
+
+
+
+
+
+
+
