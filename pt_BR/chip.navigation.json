@@ -1,0 +1,19 @@
+[
+	"Eu desenvolvei um novo chipset que habilita as máquinas se localizarem.",
+	"Ao analisar o modo de operação da bússola, eu consegui recriá-la em forma eletrônica.",	
+
+	"Montagem:",
+	{
+		"type": "assembly",
+		"slots": {
+			"in1": {"name":"fp:spaceship","meta":"<spaceship.Silizium>","size":1},
+			"in2": {"name":"fp:spaceship","meta":"<spaceship.QuartzParts>","size":1},
+			"in3": {"name":"compass","meta":0,"size":1},
+			"out": {"name":"fp:chip", "meta":"<chip.NavigationChip>", "size":1}
+		}
+	},	
+	
+	"Um chipset de transporte de alta qualidade (mais poder) não tem nenhum benefício comparando com um chipset normal!",
+	"Dica: O efeito exato é determinado pela máquina suportada.",
+	"Dica: Refere a \"Chipset de Lógica\" para informação geral."
+]
