@@ -1,0 +1,15 @@
+[
+    "Eu desenvolvei um chip que documenta a criação de itens. Assim eu poso otimizar os meus processos eu receber experiência.",
+    "Montagem:",
+    {
+        "type": "assembly",
+        "slots": {
+            "in1": {"name":"fp:spaceship","meta":"<spaceship.Silizium>","size":2},
+            "in2": {"name":"fp:spaceship","meta":"<spaceship.QuartzParts>","size":2},
+            "in3": "OreDict:gemEmerald",
+            "out": {"name":"fp:chip", "meta":"<chip.UltimateChip>", "size":1}
+        }
+    },  
+    "Um chipset de mais qualidade (mais poder) dá mais experiência quando retirando o item.",
+    "Dica: Refere a \"Chipset de Lógica\" para informação geral."
+]
