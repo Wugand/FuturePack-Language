@@ -1,0 +1,26 @@
+[
+	"Ao observar o meio ambiente, eu aprendi que muitos processos naturais recebem energia do sol de uma forma ou outra. Portanto, eu experimentei tentando gerar energia diretamente da luz do sol.",
+	"Eu notei que uma interação entre wafers de silício e a luz do sol causa uma voltagem ser criada na camada de silício. A força dependa do nível da radiação.",
+
+	"Criando:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>"},
+			"2": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>"},
+			"3": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>"},
+			"4": {"OreDict":"ingotNeon"},
+			"5": [{"name":"fp:color_iron","meta":0},{"name":"fp:color_iron","meta":8},{"name":"fp:color_iron","meta":15}],
+			"6": {"OreDict":"ingotNeon"},
+			"7": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"8": {"name":"fp:spaceship", "meta":"<spaceship.Maschinboard>"},
+			"9": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"out": [{"name":"fp:solarpanel","meta":0},{"name":"fp:solarpanel","meta":1},{"name":"fp:solarpanel","meta":2}]
+		}
+	},
+	"Usando o computador, su posso aumentar a produção total por mudar o alinhamento dos módulos, convertindo a energia mais eficientemente.",
+	"Aumentando o valor \"RAM\" aumenta a quantidade de energia produzida.",
+	
+	"Chipsets Compatíveis:",
+	"Chipset de Lógica\nChipset Industrial (quantidade de energia)\nChipset para Controle de Redstone\nChipset para Contorle de Dano"
+]
