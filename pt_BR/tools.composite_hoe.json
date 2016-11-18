@@ -1,0 +1,19 @@
+[
+	"Eu desenvolvei uma enxada de metal composto. Assim é um pouco mais forte e mais durável do que ferramentas normais. A adição de uma parte para tirar raízes também facilita meu trabalho.",		
+	"Criando:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"2": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"3": {},
+			"4": {},
+			"5": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
+			"6": {},
+			"7": {},
+			"8": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
+			"9": {},
+			"out": {"name":"fp:composite_hoe"}
+		}
+	}
+]
