@@ -1,0 +1,21 @@
+[
+    "Às vezes, eu quero usar meus computadores com velocidades muito mais altas do que protendidas. Para remediar isso, eu criei um esfriador ativo de água.",
+    "Eu não quero gastar muita energia, então o sistema vai começar a resfriar somente cerca de 100°C.",
+	"Criando:",
+    {
+        "type": "crafting",
+        "slots": {
+            "1": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+            "2": {"name":"fp:metal_gitter_pane"},
+            "3": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+            "4": {"name":"fp:pipe"},
+            "5": {"name":"fp:spaceship", "meta":"<spaceship.Tank>"},
+            "6": {"name":"fp:pipe"},
+            "7": {"OreDict":"ingotCopper"},
+            "8": {"OreDict":"ingotCopper"},
+            "9": {"OreDict":"ingotCopper"},
+            "out": {"name":"fp:water_cooler", "meta":0}
+        }
+    },
+	"Eu posso colocar água no módulo usando canos de itens; porém vapor vem do topo, então eu posso adicionar itens só pelos lados."
+]
