@@ -1,0 +1,19 @@
+[
+	"Eu desenvolvei uma picareta de metal composto. Assim é um pouco mais forte e mais durável do que ferramentas normais. Notavelmente a alça de metal faz muito mais durável.",
+	"Criando:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"2": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"3": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"4": {},
+			"5": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
+			"6": {},
+			"7": {},
+			"8": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
+			"9": {},
+			"out": {"name":"fp:composite_pickaxe"}
+		}
+	}
+]
