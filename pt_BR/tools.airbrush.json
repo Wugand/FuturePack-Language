@@ -1,0 +1,41 @@
+[
+	"Eu desenvolvei uma ferramenta para colorir meus blocos de metal composto.",
+	"É um aerógrafo, que acelera o material na tanque e o dispersa uniformemente. Esse aparelho pode colorir blocos, mas também pode deslizar com areia para tirar a cor. Cascalho ou areia pode ser usado para fazer isso.",
+	"Criando:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"2": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"3": {"name":"fp:spaceship", "meta":"<spaceship.IronParts>"},
+			"4": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
+			"5": {"name":"minecraft:stone_button", "meta":0},
+			"6": {},
+			"7": {},
+			"8": {},
+			"9": {},
+			"out": {"name":"fp:airBrush"}
+		}
+	},
+	"Tanque de Tinta (Sem Forma):",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"name":"minecraft:water_bucket"},
+			"2": {"name":"fp:spaceship", "meta":"<spaceship.Tank>"},
+			"3": {},
+			"4": [{"name":"minecraft:dye", "meta":15},{"name":"minecraft:dye", "meta":14},{"name":"minecraft:dye", "meta":13},{"name":"minecraft:dye", "meta":12},{"name":"minecraft:dye", "meta":11},{"name":"minecraft:dye", "meta":10},{"name":"minecraft:dye", "meta":9},{"name":"minecraft:dye", "meta":8},{"name":"minecraft:dye", "meta":7},{"name":"minecraft:dye", "meta":6},{"name":"minecraft:dye", "meta":5},{"name":"minecraft:dye", "meta":4},{"name":"minecraft:dye", "meta":3},{"name":"minecraft:dye", "meta":2},{"name":"minecraft:dye", "meta":1},{"name":"minecraft:dye", "meta":0}],
+			"5": [{"name":"minecraft:dye", "meta":15},{"name":"minecraft:dye", "meta":14},{"name":"minecraft:dye", "meta":13},{"name":"minecraft:dye", "meta":12},{"name":"minecraft:dye", "meta":11},{"name":"minecraft:dye", "meta":10},{"name":"minecraft:dye", "meta":9},{"name":"minecraft:dye", "meta":8},{"name":"minecraft:dye", "meta":7},{"name":"minecraft:dye", "meta":6},{"name":"minecraft:dye", "meta":5},{"name":"minecraft:dye", "meta":4},{"name":"minecraft:dye", "meta":3},{"name":"minecraft:dye", "meta":2},{"name":"minecraft:dye", "meta":1},{"name":"minecraft:dye", "meta":0}],
+			"6": [{"name":"minecraft:dye", "meta":15},{"name":"minecraft:dye", "meta":14},{"name":"minecraft:dye", "meta":13},{"name":"minecraft:dye", "meta":12},{"name":"minecraft:dye", "meta":11},{"name":"minecraft:dye", "meta":10},{"name":"minecraft:dye", "meta":9},{"name":"minecraft:dye", "meta":8},{"name":"minecraft:dye", "meta":7},{"name":"minecraft:dye", "meta":6},{"name":"minecraft:dye", "meta":5},{"name":"minecraft:dye", "meta":4},{"name":"minecraft:dye", "meta":3},{"name":"minecraft:dye", "meta":2},{"name":"minecraft:dye", "meta":1},{"name":"minecraft:dye", "meta":0}],
+			"7": {},
+			"8": {},
+			"9": {},
+			"out": [{"name":"fp:lackTank0"},{"name":"fp:lackTank1"},{"name":"fp:lackTank2"},{"name":"fp:lackTank3"},{"name":"fp:lackTank4"},{"name":"fp:lackTank5"},{"name":"fp:lackTank6"},{"name":"fp:lackTank7"},{"name":"fp:lackTank8"},{"name":"fp:lackTank9"},{"name":"fp:lackTank10"},{"name":"fp:lackTank11"},{"name":"fp:lackTank12"},{"name":"fp:lackTank13"},{"name":"fp:lackTank14"},{"name":"fp:lackTank15"}]
+		}
+	},
+	"Uso:",
+	"§lsShift + botão direito§r para abrir o inventário do aerógrafo, onde eu posso inserir um tanque de tinta ou areia/cascalho.",
+	"§lBotão Direito§r em um metal/grade para colorir. O bloco será colorido na cor correspondente à cor no tanque. Usando areia/cascalho, o bloco voltará ao estado sem cor",
+	"Você pode ler a informação do bloco usando para verificar se pode ser colorido ou não. (Ou você pode simplesmente tentar.)",
+	"Obs: Um bloco já colorido não pode ser recolorido diretamente; primeiro você precisa deslizar com areia/cascalho."
+]
