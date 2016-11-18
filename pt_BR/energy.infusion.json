@@ -1,0 +1,27 @@
+[
+	"Os cristias locais causam dano considerável a organismos biológicos. Ao analisar mais, eu percebi que os cristais têm uma interação especial com materiais orgánicos. Neste processo, a estrutura orgánica e a estrutura do cristal degeneram, emitindo energia.",
+	"Usando esta idéia, eu criei um gerador que injeta fragmentos de cristais em comida ou materiais queimáveis (não lava ou carvão). O calor produzido pode ser virado para energia de néon. Um resíduo produzido pela máquina é poeira fina de cristal de néon.",
+	 
+	"Criando:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
+			"2": {"name":"minecraft:furnace"},
+			"3": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
+			"4": {"OreDict":"ingotZinc"},
+			"5": [{"name":"fp:color_iron","meta":0},{"name":"fp:color_iron","meta":8},{"name":"fp:color_iron","meta":15}],
+			"6": {"OreDict":"ingotZinc"},
+			"7": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"8": {"name":"fp:spaceship", "meta":"<spaceship.Maschinboard>"},
+			"9": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"out": [{"name":"fp:plasma_generator_on","meta":2},{"name":"fp:plasma_generator_on","meta":6},{"name":"fp:plasma_generator_on","meta":10}]
+		}
+	},
+	
+	"A quantidade de energia depende de: o valor dos chipsets industriais, o tipo de cristal, e o valor da comida/combustível usado.",
+	"Ao aumentar o valor do \"RAM\", eu posso causar uma geração mais rápida e emitir energia mais rapidamente.",
+	
+	"Chipsets Suportados:",
+	"Chipset de Lógica\nChipset Industrial(Produção de Energia)\nChipset de Transporte\nChipset para Controle de Redstone\nChipset para Controle de Dano"	
+]
