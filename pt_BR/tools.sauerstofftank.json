@@ -1,0 +1,26 @@
+[
+	"Para trabalhar subaquaticamente para períodos mais longos, eu precisaria trazer ar comigo. Os tanques simples eu criei são muito úteis para isso; usando com um invólucro leve de alumínio, eu posso usar os tanques como mochila.",
+	"Eu adicionei também um controlador e compressor para recargar automaticamente os tanques quando acima da água.",
+
+	"Criando:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"OreDict":"ingotAluminum"},
+			"2": {"name":"fp:chip", "meta":0},
+			"3": {"OreDict":"ingotAluminum"},
+			"4": {"name":"fp:spaceship", "meta":"<spaceship.Tank>"},
+			"5": {"OreDict":"ingotMagnetite"},
+			"6": {"name":"fp:spaceship", "meta":"<spaceship.Tank>"},
+			"7": {},
+			"8": {"name":"fp:spaceship", "meta":"<spaceship.CopperCoil>"},
+			"9": {},
+			"out": {"name":"fp:sauerstofftank"}
+		}
+	},
+	"Capacidade: 2 min",
+	"Tempo para Recargar: 2 min",
+		
+	"Interface: O nível de ar nos tanques é mostrado usando a barra normal de ar. Após do ar acabar (depois de dois minutos), os tanques de oxigênio estarão vazios. A barra de ar será reabastecido uma vez, e vai acabar à velocidade normal.",
+	"Acima da água, os tanques vão recargar, mas somente se eles estão equipados."
+]
