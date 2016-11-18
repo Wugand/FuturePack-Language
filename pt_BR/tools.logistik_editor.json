@@ -1,0 +1,27 @@
+[
+	"Eu criei uma multi-ferramenta para ajustar o comportamento de entrada/saída das minhas máquinas.",
+	"Criando:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"name":"minecraft:glass_pane"},
+			"2": {"OreDict":"ingotAluminum"},
+			"3": {"name":"fp:scrench"},
+			"4": {"name":"fp:spaceship", "meta":"<spaceship.NeonCoil>"},
+			"5": {"name":"fp:wire", "meta":0},
+			"6": {"name":"fp:spaceship", "meta":"<spaceship.CopperParts>"},
+			"7": {"name":"fp:chip", "meta":0},
+			"8": {"OreDict":"ingotAluminum"},
+			"9": {"name":"fp:scrench"},
+			"out": {"name":"fp:logisticEditor"}
+		}
+	},
+	
+	"Uso:",
+	"Ao clicar §lbotão direito§r (no ar), o modo pode ser mudado, entre:",
+	"Energia, Apoio, Rede, Itens, Fluidos",
+	"Em cada modo, você verá uma sobreposição (uma borda colorida) na superfície das suas máquinas se eles suportam este modo.",
+	"Ao clicar §lShift + botão direito§r você pode configurar as faces serem:",
+	"Inativo (nenhum símbolo), Entrada (seta verde), Saída (seta vermelha), Entrada+Saída (ambas as setas)",
+	"Você pode selecionar somente os modos e configurações relativos à máquina você está configurando."
+]
