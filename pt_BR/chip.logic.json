@@ -1,0 +1,20 @@
+[
+	"Eu cheguei à conclusão que os pequenos cristais de quartzo podem ser usados como relógio e também armazenamento permanente de informação.",
+	"Em combinação com um pouco de lógica, silício e uns condutores de cobre, eu desenvolvei um chipset universal, que funciona principalmente como ponte entre o processador e o mundo real.",
+	"Além disso, o chipset de lógica contém o código básico para o processador, que habilita o sistema ligar. Então por enquanto, cada sistema vai precisar um desses chipsets.",
+		"Montagem:",
+	{
+		"type": "assembly",
+		"slots": {
+			"in1": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>"},
+			"in2": {"name":"fp:spaceship", "meta":"<spaceship.QuartzParts>"},
+			"in3": {"OreDict":"ingotCopper"},
+			"out": {"name":"fp:chip", "meta":0, "size":1}
+		}
+	},
+	
+	"Up chipset de lógica de alta qualidade (mais poder) não tem nenhum benefício comparando com um chipset normal!",
+		
+	"Informação:",
+	"Os chipsets possuem 2 características principais: o desempenho (§lpoder do chip§r), que indica o poder do efeito deles, e o custo (§lpoder do núcleo§r), que indica o desempenho necessário do processador."
+]
