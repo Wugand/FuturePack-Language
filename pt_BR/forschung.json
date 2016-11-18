@@ -1,0 +1,55 @@
+[
+	"Pesquisa tem 3 passos básicos: conceitualização, pesquisa, implementação.",
+	"Um conceito é criado pelo scanner, e com ele você pode desenvolver (muitas vezes) um item novo (refere à página do scanner). Este item pode variar muito; mas a implementação é sempre habilitada por uma tecnologia que veio antes (na árvore de tecnologia).",
+	"Um caso especial ocorre se a(s) tecnologia(s) precedente(s) eram \"Conhecimento\". Neste caso, você recebe o nome do item que precisa usar na página de informação do Conhecimento (em preto, no fim).",
+	"A pesquisa é realizada no pesquisador, consumindo recursos físicos e tempo para completar o conceito. (Após a conclusão, o ícon na árvore de tecnologia fica ativo.)",
+	"A etapa de implementação é normalmente a produção do item ou bloco que acabou de ser pesquisado. O bloco tem seus próprios usos, mas também pode ser usado para realizar mais pesquisas relacionadas no futuro.",
+	"",
+	"A Árvore de Tecnologia:",
+	"A árvore de tecnologia não é limitada a um página só. Tem várias abas que podem ser clicadas no lado esquerdo da tela. No meio, há ícons de pesquisa, cada de um tipo possível:",
+	"Pesquisa - Pode ser pesquisada, habilita a produção e uso de um item.",
+	{
+		"type":"image",
+		"width":16,
+		"height":16,
+		"resource":"fp:textures/gui/SlotBg.png"
+	},
+	"Conhecimento - Pode ser pesquisado, não habilita um item sozinho mas promove compreensão do mundo.",
+	{
+		"type":"image",
+		"width":16,
+		"height":16,
+		"resource":"fp:textures/gui/SlotErkBg.png"
+	},
+	"Experiência - Não pode ser pesquisada. É ativado por conquistas. Pode habilitar itens.",
+	{
+		"type":"image",
+		"width":16,
+		"height":16,
+		"resource":"fp:textures/gui/SlotSoBg.png"
+	},
+	"Dependendo no progresso de pesquisa, tem novamente 3 possibilidades para os ícons:",
+	"Sólido e colorido: O conceito foi completado e pode ser selecionado para mais informação (abra a página de informação).",
+	"Piscando e colorido: O conceito pode ser pesquisado. (Veja em cima.)",
+	"Preto: Alguma condições para realizar este conceito ainda não são cumpridas. A pesquisa ainda não é disponível.",
+	"(Automático) Algumas condições e conceitos ativados podem ocorrer em múltiplas abas. É sugerido que você olhe periodicamente a outras abas para descobrir novas pesquisas." ,
+	"Cada conceito em uma aba é conectada por uma linha (progresso normalmente da esquerda ao direito). Você precisa completar todos os requisitos para realizar uma nova pesquisa.",
+	"Dica: Às vezes, algumas implementações requerem itens que você ainda não pode produzir. Neste caso, você precisa terminar outras pesquisas antes de votar para essa pesquisa.",
+	"Dica: Ao clicar nos ícons dos itens em uma página de informação, você pode abrir a página de pesquisa para aquele item.",
+	"",
+	"Um exemplo: (spoiler possível)",
+	"Primeiro, crie um scanner e pesquisador na bancada de tecnologia. Você pode achar instruções na árvore de tecnologia. Você vai também precisar uma prensa de metais (achada na aba \"Produção\") para completar esta tarefa.",
+	"Ao início a única pesquisa disponível é \"Produção 1\":",
+	{
+		"type":"image",
+		"width":16,
+		"height":16,
+		"resource":"fp:textures/aspects/production1.png"
+	},
+	"Na árvore de tecnologia, você pode ver que o parente disso é a \"Tech-bancada\" (bancada de tecnologia), que habilita o bloco do mesmo nome. Então precisa pegar uma tech-bancada e colocá-la no scanner. Ao experimentar com os aspetos, você achará os aspetos corretos. (Neste caso é termodinâmica.) Finalmente, clicamos em \"Scan\" novamente. Agora você tem o desenho técnico.",
+	"Para o segundo passo, insera o desenho técnico no pesquisador e clique o botão Research (Pesquisar). A máquina mostra 3 fornalhas no lugar esquerdo não necessárias para completar a pesquisa. Depois de fazer isso, a barra cinza abaixo do lugar começa de encher, indicando progresso está acontecendo. Quando a barra é completamente enchida, você vai ver uma mensagem de chat notificando você que o resultado pode ser visto na árvore de tecnologia (acessível pelo scanner e o e-scanner).",
+	"Neste caso, você recebe o Conhecimento \"Produção 1\". Ao selecionar ele na árvore de tecnologia, a página dele abre e você aprende (com outras coisas) que você precisa desenvolver a fornalha industrial para fazer o próximo projeto de pesquisa. Também, você percebe que novas pesquisas são disponíveis na aba \"Produção\". Logicamente, a fornalha industrial ativada automaticamente é abaixo disso.",
+	"Agora, depois dessas dicas, você pode continuar pesquisando em todas as abas.",
+	"",
+	"Diverta-se expandindo seu conhecimento! :)"
+]
