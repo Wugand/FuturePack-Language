@@ -1,0 +1,29 @@
+[
+	"Eu criei uma bancada especial para realizar experimentos e melhorar minhas idéias. Assim eu posso terminar meus projetos e adicioná-los a meu base de dados.",
+	"Criando:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"name":"fp:cristall","meta":0},
+			"2": {"name":"minecraft:glass_pane","meta":0},
+			"3": {"name":"fp:cristall","meta":0},
+			"4": {"name":"minecraft:paper","meta":0},
+			"5": [{"name":"fp:color_iron","meta":0},{"name":"fp:color_iron","meta":8},{"name":"fp:color_iron","meta":15}],
+			"6": {"name":"minecraft:piston","meta":0},
+			"7": {"OreDict":"ingotZinc"},
+			"8": {"name":"fp:spaceship","meta":"<spaceship.IronParts>"},
+			"9": {"OreDict":"ingotZinc"},
+			"out": [{"name":"fp:forscher","meta":2},{"name":"fp:forscher","meta":6},{"name":"fp:forscher","meta":10}]
+		}
+	},
+	"Dica: Leia a informação em \"O Sistema de Pesquisa\" primeiro.",
+	"Uso detalhado:",
+	"(Neste texto, tem os conceitos Energia, Apoio, Experiência, e Rede; estes conceito serão somente disponíveis mais tarde no jogo.)",
+	"Usando a seta verde, eu posso retirar um desenho técnico do Scanner mais próximo. Alternativamente o desenho técnico pode ser colocado diretamente no lugar inferior. Ao clicar no botão \"Pesquisa\" (direito inferior), a pesquisa será começada.",
+	"Depois disso, hologramas de items (e o número necessário para cada) aparecerão nos lugares à esquerda. Todos os lugares precisam ser preencidos com os itens correpondentes. Uma borda vermelha mostra que o tipo (ou número) do item não é correto.",
+  "Obs: Os itens serão consumidos após a conclusão da pesquisa!",
+	"As barras de progresso abaixo dos itens mostram o progresso de uso de recursos do rede de pesquisa. Os recursos são (da esquerda ao direito): Tempo (sempre disponível), Energia, Apoio e Experiência. Se a borda de uma barra fica cinza, o recurso não está atualmente disponível.",
+	"Quando todos os requisitis estarem cumpridos, as barras começarão encherem-se até que a pesquisa terminar. A presença do jogador não é necessário (mas o chunk na mapa precisa estar carregado).",
+	"É útil ter múltiplos pesquisadores, porque algumas pesquisas (mais tarde) podem demorar muito para terminar.",
+  "Obs: Os recursos necessários são também listados em cada desenho técnico."
+]
