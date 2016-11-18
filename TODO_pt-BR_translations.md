@@ -1,16 +1,16 @@
 Research  | Status
 --------- | ------
-chip.ai.json |
-chip.damage.json |
-chip.industrial.json |
-chip.logic.json |
-chip.navigation.json |
-chip.network.json |
-chip.redstone.json |
-chip.support.json |
-chip.tactic.json |
-chip.transport.json |
-chip.ultimate.json |
+chip.ai.json | a22brad22
+chip.damage.json | a22brad22
+chip.industrial.json | a22brad22
+chip.logic.json | a22brad22
+chip.navigation.json | a22brad22
+chip.network.json | a22brad22
+chip.redstone.json | a22brad22
+chip.support.json | a22brad22
+chip.tactic.json | a22brad22
+chip.transport.json | 
+chip.ultimate.json | a22brad22
 chips.cooler.json |
 chips.watercooler.json |
 core.alon.json | a22brad22
