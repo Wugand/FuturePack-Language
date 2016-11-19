@@ -1,0 +1,14 @@
+[
+	"Eu já desenvolvei o \"Ovo Armadilha\". Porque não usar este princípio com blocos? Eu só vou usar isso para os blocos geradores de monstros. Eu tenho medo usar isso com baús por causa de compressão extrema.",
+	"Montagem:",
+	{
+		"type": "assembly",
+		"slots": {
+			"in1": {"name":"minecraft:slime_ball","meta":0,"size":1},
+			"in2": {"name":"minecraft:chest","meta":0,"size":1},
+			"in3": {"name":"fp:chip","meta":"<chip.LogicChip>","size":1},
+			"out": {"name":"fp:entityEgger", "meta":2, "size":1}
+		}
+	},
+	"É possível clicar em um gerador de monstros (monster spawner) com um \"Cofre de Spawners\" para salvar o item. Depois disso, eu posso colocar o gerador em qualquer lugar."
+]
