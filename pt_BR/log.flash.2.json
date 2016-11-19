@@ -1,0 +1,14 @@
+[
+	"Durante alguns experimentos tentando melhorar meu pendrive, eu notei um material particular: obsidiana. É muito durável e é um bom isolador eléctrico. Ela me habilita instalar células de memória muito mais pertas se coloco uma camada de obsidiana entre elas. Consequentemente eu posso construir uma unidade com uma maior capacidade.",
+	"Montagem:",
+	{
+		"type": "assembly",
+		"slots": {
+			"in1": {"name":"fp:chip","meta":0,"size":1},
+			"in2": {"name":"minecraft:obsidian","meta":0,"size":1},
+			"in3": {"OreDict":"dustRedstone","size":1},
+			"out": {"name":"fp:spaceship", "meta":"<spaceship.SupportSpeicher1>", "size":1}
+		}
+	},
+	"Capacidade: 256 SP (pontos de apoio)"
+]
