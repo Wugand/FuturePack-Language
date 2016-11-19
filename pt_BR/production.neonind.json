@@ -1,0 +1,25 @@
+[
+	"Eu melhorei a fornalha industrial simples com minhas novas tecnologias. Agora ela usa energia de néon e tem um novo computador que pode ser atualizado ainda mais.",
+	"A fornalha industrial de néon exhibe novos sensores e bobinas de aquecemento finamente ajustáveis para controlar perfeitamente o processo de fundição.",
+	"Com essas novas abilidades, eu consegui modificar minhas antigas receitas para fazê-las mais eficientes. (Cada receita é listada na página de pesquisa relacionada.)",
+	"Eu estou certo que tem mais usos para esse fornalha. Eu também incluí um sistema embutido para pontos de apoio que eu posso usar com receitas mais complexas.",
+
+	"Criando:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"name":"fp:spaceship","meta":"<spaceship.IronCoil>"},
+			"2": {"name":"fp:industrie_ofen", "meta":0},
+			"3": {"name":"fp:spaceship","meta":"<spaceship.IronCoil>"},
+			"4": {"name":"fp:chip","meta":"<chip.DamageControlChip>"},
+			"5": [{"name":"fp:color_iron","meta":0},{"name":"fp:color_iron","meta":8},{"name":"fp:color_iron","meta":15}],
+			"6": {"name":"fp:extern_cooler", "meta":0},
+			"7": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"8": {"name":"fp:spaceship", "meta":"<spaceship.Maschinboard>"},
+			"9": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"out": [{"name":"fp:ind_neon_furn","meta":2},{"name":"fp:ind_neon_furn","meta":6},{"name":"fp:ind_neon_furn","meta":10}]
+		}
+	},
+
+	"Importante: A transferência de pontos de apoio (SP) não pode ser feito usando memória flash! A tecnologia será pesquisável mais tarde."
+]
