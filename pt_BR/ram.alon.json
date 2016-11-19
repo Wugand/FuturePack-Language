@@ -1,0 +1,15 @@
+[
+	"Melhorando meus métodos de fabricação, eu consegui dobrar a quantidade de unidades de armazenamento em um módulo de energia. Além disso, eu aumentei o transporte de calor usando materiais melhores.",
+	"Montagem:",
+	{
+		"type": "assembly",
+		"slots": {
+			"in1": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>", "size":2},
+			"in2": {"name":"fp:spaceship", "meta":"<spaceship.NeonParts>", "size":2},
+			"in3": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"out": {"name":"fp:ram", "meta":1, "size":1}
+		}
+	},
+	
+	"Dica: Refere a \"RAM Padrão\" para informação geral."
+]
