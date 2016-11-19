@@ -1,0 +1,27 @@
+[
+	"Eu descobri que carbão pode ser usado durante a fundição para tirar oxigênio e outra poluição dos recursos.",
+	"Um teste com areia fez um material marrom e brilhante. Eu chamo ele silício. Talvez eu posso achar um uso para este material interesante mais tarde...",
+	{
+		"type": "industrialfurnace",
+		"slots": {
+			"in1":  [{"name":"minecraft:coal", "meta":0, "size":1},{"name":"minecraft:coal", "meta":0, "size":1}],
+			"in2":  [{"name":"minecraft:coal", "meta":0, "size":1},{"name":"minecraft:coal", "meta":0, "size":1}],
+			"in3":  {"OreDict":"sand"},
+			"out1": {"name":"fp:spaceship",  "meta":"<spaceship.Silizium>", "size":4},
+			"out2": {},
+			"out3": {}
+		}
+	},
+	"O processo também funciona com os cristais locais também. Eu posso produzir lingotes deles agora.",
+	{
+		"type": "industrialfurnace",
+		"slots": {
+			"in1":  [{"name":"minecraft:coal", "meta":0, "size":1},{"name":"minecraft:coal", "meta":0, "size":1}],
+			"in2":  [{"OreDict":"gemNeon"},{"OreDict":"gemAluminum"},{"OreDict":"gemGlowtite"},{"OreDict":"gemRetium"},{"OreDict":"gemBioterium"}],
+			"in3":  [{"OreDict":"gemNeon"},{"OreDict":"gemAluminum"},{"OreDict":"gemGlowtite"},{"OreDict":"gemRetium"},{"OreDict":"gemBioterium"}],
+			"out1": [{"OreDict":"ingotNeon"},{"OreDict":"ingotAluminum"},{"OreDict":"ingotGlowtite"},{"OreDict":"ingotRetium"},{"OreDict":"ingotBioterium"}],
+			"out2": {},
+			"out3": {}
+		}
+	}		
+]
