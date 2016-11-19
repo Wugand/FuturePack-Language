@@ -1,0 +1,25 @@
+[
+	"O redstone que ocorre naturalmente pode transmitir sinais simples. Integrando pó de redstone no invólucro de alumínio dos canos, eu criei um cano que também transmite sinais de redstone.",
+	"Além disso, os novos canos não tem uma perda de sinal e podem ser conectado ao pó de redstone tradicional.",
+	
+	"Criando:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {},
+			"2": {"OreDict":"dustRedstone"},
+			"3": {},
+			"4": {"name":"fp:pipe", "meta":0},
+			"5": {"name":"fp:pipe", "meta":0},
+			"6": {"name":"fp:pipe", "meta":0},
+			"7": {},
+			"8": {},
+			"9": {},
+			"out": {"name":"fp:pipe", "meta":1, "size":3}
+		}
+	},
+	
+	"Esses canos são especialmente úteis para fornecer máquinas e lanternas com sinais de redstone.",
+	"",
+	"Configuração: Usando o scrench, eu posso configurar cada lado de um segmento do cano. Fazendo isso, eu posso prevenir conexões com o lado selecionado (§lbotão direito§r no lado desejado). Além disso, os canos têm uma opção de ser fechado. Nesta opção, a energia ainda pode fluir, mas não itens e é marcada por um pontinho vermelho."
+]
