@@ -1,0 +1,21 @@
+[
+	"O maior problem com viagens espaciais é o combustível. Primeiro, você precisa balançar o peso do nave e o combustível. Segundo, você precisa armazenar o combustível em um lugar seguro para não ser uma ameaça à segurança.",
+    "Por isso, eu desenvolvei tanques capazes de guardar até 8000mB. Além disso, 21 tipos de combustível podem ser colocados nele.",
+    "Criando:",
+    {
+        "type": "crafting",
+        "slots": {
+            "1": {"name":"fp:spaceship","meta":"<spaceship.Tank>"},
+            "2": {"OreDict":"ingotAluminum"},
+            "3": {"OreDict":"ingotAluminum"},
+            "4": {"name":"fp:spaceship","meta":"<spaceship.Tank>"},
+            "5": {"name":"fp:spaceship","meta":"<spaceship.IronStick>"},
+            "6": "chest",
+            "7": {"name":"fp:spaceship","meta":"<spaceship.Tank>"},
+            "8": {"OreDict":"ingotAluminum"},
+            "9": {"OreDict":"ingotAluminum"},
+            "out": {"name":"fp:fuelcell","meta":0}
+        }
+    },
+    "Os tanques não precisam ser conectados diretamente aos motores. Uma conexão simples ao nave basta para funcionar."
+]
