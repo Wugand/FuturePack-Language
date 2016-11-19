@@ -464,7 +464,7 @@ item.AI_Flash_Speicher_3.name=Memória Flash Vazia
 item.AI_Flash_Speicher_4.name=Memória Flash Vazia
 item.AI_Flash_Speicher_5.name=Memória Flash Vazia
 
-item.entityegger0.name=Jogador de Ovos para Entidades
+item.entityegger0.name=Ovo Armadilha
 item.entityegger2.name=Cofre de Spawners
 item.entityegger3.name=Cofre de Spawners Cheio
 item.entityegger4.name=Drone de Mineração de Caixa de Construção
@@ -855,7 +855,7 @@ research.tools.composite_axe=Machado Composto
 research.tools.composite_hoe=Enxada Composta
 research.tools.composite_spade=Pá Composta
 research.tools.gleiter=Parapente
-research.tools.egger=Jogador de Ovos para Entidades
+research.tools.egger=Ovo Armadilha
 research.tools.spawnerchest=Cofre de Spawner
 research.tools.plasma=Cortador de Plasma
 research.tools.escanner=E-Scanner
