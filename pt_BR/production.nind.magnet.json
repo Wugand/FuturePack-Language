@@ -1,0 +1,16 @@
+[
+	"Há bastante tempo, eu achei um minério que atrai ferro e alguns outros materiais; mas o efeito foi perdido durante o processo de fundição e virou ferro normal.",
+	"Através de um método devagar de resfriamento (depois de derreter na fornalha industrial de néon), eu posso guardar o efeito e até aumentar ele. Eu posso agora fazer varas de magnetita.",
+	{
+		"type": "industrialneonfurnace",
+		"slots": {
+			"in1":  {"OreDict":"dustMagnetite", "size":1},
+			"in2":  {"OreDict":"dustMagnetite", "size":1},
+			"in3":  {"OreDict":"ingotIron", "size":1},
+			"out1": {"OreDict":"ingotMagnetite", "size":1},
+			"out2": {},
+			"out3": {}
+		},
+		"support":0
+	}
+]
