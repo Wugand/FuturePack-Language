@@ -1,0 +1,14 @@
+[
+	"Atualmente o maior problema com meus módulos de memória flash é que cada célula precisa de um sinal para ler e escrever informação. Então eu desenvolvei uma solução: agora eu uso um cristal de brilhatita como unidade de armazenamento. Este cristal muda a estrutura dele quando exposto a energia direcionada, assim mostrando comportamento refrativo. Para ler e escrever informação, eu uso um laser especial; rétio mostrou o espetro melhor para essa aplicação.",	
+	"Montagem:",
+	{
+		"type": "assembly",
+		"slots": {
+			"in1": {"name":"fp:chip","meta":0,"size":1},
+			"in2": {"OreDict":"ingotRetium","size":1},
+			"in3": {"OreDict":"gemGlowtite","size":1},
+			"out": {"name":"fp:spaceship", "meta":"<spaceship.SupportSpeicher3>", "size":1}
+		}
+	},
+	"Capacidade: 1024 SP"
+]
