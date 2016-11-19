@@ -1,0 +1,23 @@
+[
+	"Com memória flash, eu posso transportar pontos de apoio manualmente e permanentemente, mas não são nem um pouco automático. Eu conectei várias unidades de memória flash e um sistema de controle para criar um servidor flash.",
+	"Esta unidade de armazenamento pode ser um destinário, fonte, ou amortecedor, dependendo da configuração. Eu fornecei conexões internais para transferir manualmente se necessário e também 4 lugares para aumentar permanentemente a capacidade.",
+	"O servidor flash será muito útil nos sistemas mais modernos porque eu simplesmente não posso colocar um sistema para ler/escrever memória flash ao lado de cada máquina.",
+	"Criando:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"name":"fp:spaceship", "meta":"<spaceship.SupportSpeicher2>"},
+			"2": {"name":"minecraft:chest"},
+			"3": {"name":"fp:spaceship", "meta":"<spaceship.SupportSpeicher2>"},
+			"4": {"name":"fp:chip", "meta":"<chip.SupportChip>"},
+			"5": [{"name":"fp:color_iron", "meta":0},{"name":"fp:color_iron", "meta":8},{"name":"fp:color_iron", "meta":15}],
+			"6": {"name":"fp:chip", "meta":"<chip.SupportChip>"},
+			"7": {"name":"fp:spaceship", "meta":"<spaceship.SupportSpeicher2>"},
+			"8": {"name":"fp:wire", "meta":3},
+			"9": {"name":"fp:spaceship", "meta":"<spaceship.SupportSpeicher2>"},
+			"out": [{"name":"fp:flash_server", "meta":2, "size":1},{"name":"fp:flash_server", "meta":6, "size":1},{"name":"fp:flash_server", "meta":10, "size":1}]
+		}
+	},
+	"Capacidade: 2048 SP (pontos de apoio)",
+	"Obs: O bloco pode ser configurado como entrada ou saída com o \"Editor de Logística\"."
+]
