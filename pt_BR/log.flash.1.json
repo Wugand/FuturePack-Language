@@ -1,0 +1,26 @@
+[
+	"Os pontos de apoio produzidos pelas minhas máquinas não podem ser transportados por um jeito normal, porque eles são somente virtuais. Para remediar isso, eu desenvolvei Memória Flash, que pode armazenar Apoio indepentemente de uma máquina.",
+	"Este primeiro tipo de memória (de redstone) é baseado em pequenos elementos de redstone que podem ter um de dois estados. Estas células são propensas a influências físicas e eletricais. Por isso eu cobri elas com uma invólucro dourada resistente a corrosão.",
+	"A organização internal é acesso ao módulo de memória é fácil: só precisa de um chipset de lógica.",
+	
+	"Montagem:",
+	{
+		"type": "assembly",
+		"slots": {
+			"in1": {"name":"fp:chip","meta":0,"size":1},
+			"in2": {"OreDict":"ingotGold","size":1},
+			"in3": {"OreDict":"dustRedstone","size":1},
+			"out": {"name":"fp:spaceship", "meta":"<spaceship.SupportSpeicher0>", "size":1}
+		}
+	},
+	"Capacidade: 128 SP (pontos de apoio)",
+	
+	"Informação: O lugar seguinte é para o carregamento e descarregamento de memórias flash (já existente em algumas máquinas).",
+	{
+		"type":"image",
+		"width":32,
+		"height":32,
+		"resource":"fp:textures/research/slot_support.png"
+	}
+	
+]
