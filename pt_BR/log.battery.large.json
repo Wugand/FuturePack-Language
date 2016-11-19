@@ -1,0 +1,19 @@
+[
+	"Usando outros materiais, eu consegui aumentar a capacidade, e também a voltagem. Parece que cada combinação de materiais tem uma voltagem especifica.",
+	"Criando:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {},
+			"2": {"name":"fp:spaceship","meta":"<spaceship.CopperParts>"},
+			"3": {},
+			"4": "OreDict:ingotAluminum",
+			"5": "OreDict:ingotGold",
+			"6": "OreDict:ingotAluminum",
+			"7": "OreDict:ingotAluminum",
+			"8": "OreDict:ingotGold",
+			"9": "OreDict:ingotAluminum",
+			"out": {"name":"fp:spaceship","meta":"<spaceship.LargeBaterie>"}
+		}
+	}
+]
