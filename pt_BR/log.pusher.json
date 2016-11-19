@@ -1,0 +1,21 @@
+[
+	"Eu desenvolvei uma máquina para puxar itens do inventário de outro blocos. É uma combinação de um fúnel e um liberador.",
+	"O empurrador de itens pode ser alinhado em qualquer dos 6 direções. A entrada é marcada com uma seta verde e a saída com um pontinho preto. Se a máquina é disparado com um pulso de redstone, ele transfere uma pilha de itens do bloco em frente do lado de entrada e transfere ela para o lado de saída. (Pode também ser um inventário.)",
+
+	"Criando:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"OreDict":"ingotAluminum"},
+			"2": {"OreDict":"ingotAluminum"},
+			"3": {"OreDict":"ingotAluminum"},
+			"4": {"name":"minecraft:chest", "meta":0},
+			"5": {"OreDict":"dustRedstone"},
+			"6": {"name":"minecraft:bow", "meta":0},
+			"7": {"OreDict":"ingotAluminum"},
+			"8": {"OreDict":"ingotAluminum"},
+			"9": {"OreDict":"ingotAluminum"},
+			"out": {"name":"fp:pucher", "meta":0, "size":1}
+		}
+	}
+]
