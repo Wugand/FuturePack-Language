@@ -1,0 +1,15 @@
+[
+	"Eu descobri uma fusão de metais resistente e leve com os metais na terra. Eu chamo essa fusão Metal Composto.",
+	"Metal composto será muito útil em muitas situações, mas sobre tudo, é ótimo para estruturas.",
+	{
+		"type": "industrialfurnace",
+		"slots": {
+			"in1":  {"OreDict":"ingotIron"},
+			"in2":  {"OreDict":"ingotCopper"},
+			"in3":  [{"OreDict":"ingotTin"}, {"OreDict":"ingotZinc"}],
+			"out1": {"name":"fp:spaceship",  "meta":"<spaceship.CompositeMetall>", "size":6},
+			"out2": {},
+			"out3": {}
+		}
+	}	
+]
