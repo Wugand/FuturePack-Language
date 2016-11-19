@@ -1,0 +1,20 @@
+[
+	"Bitripéntrio contém níveis altos de energia, mas é extremamente difícil dividir o núcleo. Uma explosão simples não é suficiente, mas o processo é bem facilitado com Varas Incandescentes (Blaze Rods).",
+    
+	"Criando:",
+    {
+        "type": "crafting",
+        "slots": {
+            "1": {"OreDict":"gemBitripentium"},
+            "2": {"name":"minecraft:gunpowder","meta":0},
+            "3": {"OreDict":"gemBitripentium"},
+            "4": {"OreDict":"gemBitripentium"},
+            "5": {"name":"minecraft:blaze_rod","meta":0},
+            "6": {"OreDict":"gemBitripentium"},quebrar
+            "7": {"OreDict":"gemBitripentium"},
+            "8": {"name":"minecraft:gunpowder","meta":0},
+            "9": {"OreDict":"gemBitripentium"},
+            "out": {"name":"fp:spaceship","meta":"<spaceship.fuelCell>"}
+        }
+    }
+]
