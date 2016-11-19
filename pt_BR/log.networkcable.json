@@ -1,0 +1,23 @@
+[
+	"Wakúrio tem características interesantes, sem dúvidas. É capaz de transmitir grandes quantidades de dados através de distâncias longas quase sem perda.",
+	"Eu tentei desenvolver um invólucro para meus cabos deste material e ele funcionou perfeitamente. Quando eu conecto um cabo com uma rede, os sinais transmitem com sucesso.",
+	
+	"Criando:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {},
+			"2": "OreDict:ingotWakurum",
+			"3": {},
+			"4": {"name":"fp:wire", "meta":0},
+			"5": {"name":"fp:wire", "meta":0},
+			"6": {"name":"fp:wire", "meta":0},
+			"7": {},
+			"8": {},
+			"9": {},
+			"out": {"name":"fp:wire", "meta":4, "size":3}
+		}
+	},
+	
+	"Para evitar uma falha da rede ou um comutador sobrecarregado, eu incluí um desenho especial: os cabos têm divisores e aplificadores embutidos. Eu posso expandir minha rede sem perda de velocidade."
+]
