@@ -1,0 +1,22 @@
+[	
+	"Um feixe de luz concentrado é capaz de transportar uma grande quantidade de energia, até suficiente para derreter metal.",
+	"Graças a algumas descobertas recentes, eu consegui melhorar ainda mais essa tecnologia para criar um feixe de luz intensíssimo.",
+	"Eu fiz isso usando um cristal entre dois espelhos semitransparentes para focalizar a luz para ela ser perfeitamente sincronizada.",
+
+	"Criando:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"OreDict":"ingotAluminum"},
+			"2": {"name":"fp:spaceship", "meta":"<spaceship.NeonCoil>"},
+			"3": {},
+			"4": {"name":"minecraft:glass_pane"},
+			"5": {"OreDict":"gemDiamond"},
+			"6": {"name":"minecraft:glass_pane"},
+			"7": {"OreDict":"ingotAluminum"},
+			"8": {"name":"fp:spaceship", "meta":"<spaceship.NeonCoil>"},
+			"9": {},
+			"out": [{"name":"fp:spaceship", "meta":"<spaceship.Laserdiode>"}]
+		}
+	}
+]
