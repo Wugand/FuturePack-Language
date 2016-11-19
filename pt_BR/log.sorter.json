@@ -1,0 +1,29 @@
+[
+	"Eu expandi na idéia de redirecionar itens. Um computador analisa um item e decide para qual página o item irá.",
+	"A página com as setas verdes é a entrada de itens, e as setas vermelhas mostra a saída para itens que não batem uma categoria. No GUI da máquina, há um amortecedor na esquerda e 4 categorias com cores diferentes. As cores podem ser vistas fora da máquina também. Quando um item bate com uma categoria, ele vai para esta página.",
+	"Para funcionar, a máquina precisa de energia de néon.",
+  "Dica: Canos de néon funcionam muito bem para isso.",
+
+	"Criando:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"2": {"OreDict":"dyeGreen"},
+			"3": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"4": {"OreDict":"dyeBlue"},
+			"5": {"name":"fp:spaceship", "meta":"<spaceship.Maschinboard>"},
+			"6": {"OreDict":"dyeYellow"},
+			"7": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"8": {"OreDict":"dyeRed"},
+			"9": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"out": {"name":"fp:sorter", "meta":0, "size":1}
+		}
+	},
+	
+	"Modificação:",
+	"Aumentando o valor do \"RAM\" aumenta a rapidez de sortear itens.",
+	
+	"Chipsets Compatíveis:",
+	"Chipset de Lógica\nChipset Industrial (tamanho das pilhas de itens)\nChipset para Controle de Dano"
+]
