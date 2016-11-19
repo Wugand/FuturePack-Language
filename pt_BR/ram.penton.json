@@ -1,0 +1,17 @@
+[
+	"Com esse série de RAM, eu cheguei ao limite das minhas possibilidades atuais sobre quantas unidades eu posso colocar em um módulo só. Então eu tentei construir um melhor controlador da memória, para organizar melhor meus dados e reduzir o uso do processador.",
+	"Eu também adicionei um módulo separado para armazenar pontos de apoio (SP). Isso aliviou gastos do processador em uma parte específica do sistema.",
+
+	"Montagem:",
+	{
+		"type": "assembly",
+		"slots": {
+			"in1": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>", "size":3},
+			"in2": {"name":"fp:spaceship", "meta":"<spaceship.NeonParts>", "size":3},
+			"in3": {"name":"fp:spaceship", "meta":"<spaceship.SupportSpeicher1>"},
+			"out": {"name":"fp:ram", "meta":2, "size":1}
+		}
+	},
+	
+	"Dica: Refere a \"RAM Padrão\" para informação geral."
+]
