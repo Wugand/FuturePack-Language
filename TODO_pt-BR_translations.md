@@ -3,13 +3,6 @@ Research  | Status
 energy.neonmotor.json |
 hologrammtechnik.json |
 lasertechnik.json |
-log.battery.large.json |
-log.battery.neon.json |
-log.battery.normal.json |
-log.cable.json |
-log.flashserver.json |
-log.itempipe.json |
-log.laser.json |
 log.neonpipe.json |
 log.network.json |
 log.networkcable.json |
@@ -49,7 +42,6 @@ space.navcord.menelaus.json |
 space.spaceship.json |
 space.tank.json |
 space.teleport.json |
-space.thruster.json |
 tools.grabling.json |
 tools.hologramm.json |
 tools.plasma.json |
