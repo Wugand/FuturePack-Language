@@ -1,0 +1,30 @@
+[
+	"Eu combinei uma máquina especializado e um aplicativo para o sistema integrado. Este aparelho pode automatizar processos de criação. O sistema pode ser atualizado para aumentar a rapidez e funcionalidade como qualquer outro (refere a \"Overdrive\").",
+	"Criando:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"name":"minecraft:crafting_table"},
+			"2": {"name":"minecraft:piston"},
+			"3": {"name":"minecraft:crafting_table"},
+			"4": {"OreDict":"ingotNeon"},
+			"5": [{"name":"fp:color_iron","meta":0},{"name":"fp:color_iron","meta":8},{"name":"fp:color_iron","meta":15}],
+			"6": {"OreDict":"ingotNeon"},
+			"7": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"8": {"name":"fp:spaceship", "meta":"<spaceship.Maschinboard>"},
+			"9": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"out": [{"name":"fp:opti_bench","meta":2},{"name":"fp:opti_bench","meta":6},{"name":"fp:opti_bench","meta":10}]
+		}
+	},
+	"No modo simples de operação, a máquina cria cada receita junta, colocada na grade 3x3 sob as condições que o sistema está ligado e tem energia de néon. Porque às vezes as receitas são difíceis, eu adicionei um modo de receitas.",
+	
+	"Para fazer isso, você precisa mudar o modo. (Clique o botão acima da barra de progresso.) Aqui você pode escolher qualquer receita de criação na grade 3x3 que será criada mais tarde. No lugar superior você precisa inserir um cristal (qualquer tipo dá certo), que serve como memória da receita. Você verá o resultado da receita. Não retire. Se tudo parece certinho, salve a receita no cristal. Isso é feito só para retirar a folha da receita no lugar inferior. Agora você tem tudo que precisa. Termine a criação ou arrume tudo e volte ao modo simples.",
+	
+	"Voltando ao modo normal do GUI da Opti-Bancada, pode inserir a folha da receita no lugar certo (ao lado do botão). Agora a Opti-Bancada vai: realizar somente esta receita, aceitar somente os itens que batem com a receita, e vai organizar os itens na grade automaticamente.",
+
+	"O produto completo pode ser extraído a mão ou máquina (fúnel, empurrador, etc). O lugar inferior para apoio serve para salvar dados de apoio em memórias flash. A máquina faz a receitas incluindo meta-estados e OreDictionary (dicionário de minérios).",
+	
+	"Chipsets Compatíveis:",
+	"Chipset de Lógica\nChipset de Transporte\nChipset para Controle de Redstone\nChipset de Apoio\nChipset Ultimate\nChipset para Controle de Dano"
+
+]
