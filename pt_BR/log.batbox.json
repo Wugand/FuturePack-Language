@@ -1,0 +1,22 @@
+[
+	"As baterias pequenas funcionam bem para transportar energia manualmente, mas não é automatico ou um bom amortecedor. Para realizar isso, eu conectei algumas baterias a uma caixa para armazenamento.",
+	"Este aparelho pode (dependendo das configurações), funcionar como colector, fonte, ou amortecedor. Além disso, eu adicionei lugares dentro da máquina para carregamento e descarga, bem como uma melhoria da capacidade (12 lugares).",
+	"Criando:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"name":"fp:spaceship", "meta":"<spaceship.NormalBaterrie>"},
+			"2": {"name":"minecraft:chest"},
+			"3": {"name":"fp:spaceship", "meta":"<spaceship.NormalBaterrie>"},
+			"4": {"name":"fp:spaceship", "meta":"<spaceship.NormalBaterrie>"},
+			"5": [{"name":"fp:color_iron", "meta":0},{"name":"fp:color_iron", "meta":8},{"name":"fp:color_iron", "meta":15}],
+			"6": {"name":"fp:spaceship", "meta":"<spaceship.NormalBaterrie>"},
+			"7": {"name":"fp:spaceship", "meta":"<spaceship.NormalBaterrie>"},
+			"8": {"name":"fp:spaceship", "meta":"<spaceship.NeonCoil>"},
+			"9": {"name":"fp:spaceship", "meta":"<spaceship.NormalBaterrie>"},
+			"out": [{"name":"fp:baterie_box", "meta":0, "size":1},{"name":"fp:baterie_box", "meta":2, "size":1},{"name":"fp:baterie_box", "meta":1, "size":1}]
+		}
+	},
+	"Capacidade Internal: 6000 NE",
+	"Configurações: Qualquer lado pode ser nomeado como entrada ou saída de energia usando o \"Editor de Logistica\"."
+]
