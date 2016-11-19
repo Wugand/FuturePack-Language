@@ -1,0 +1,22 @@
+[
+	"Às vezes, eu preciso enviar sinais através de longas distâncias. Usando cabos, eu precisaria muitos recursos.",
+	"Em vez disso, eu desenvolvei um laser capaz de transmitir sinais para 1024 metros. Sendo que comunicação é de dois sentidos, um bloco pode enviar e receber sinais. sozinho",
+	"Originalmente eu queria usar luz ultravioleta para transferir dados, mas o sinal é perdido com distâncias longas por causa de refração ambiental. Então eu vou usar luz infravermelha.",
+	"Criando:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": "OreDict:ingotAluminum",
+			"2": {"name":"fp:spaceship", "meta":"<spaceship.Fasern>"},
+			"3": "",
+			"4": {"name":"fp:chip", "meta":"<chip.NetworkChip>"},
+			"5": {"name":"fp:spaceship", "meta":"<spaceship.Laserdiode>"},
+			"6": {"name":"fp:spaceship", "meta":"<spaceship.LinseR>"},
+			"7": "OreDict:ingotAluminum",
+			"8": {"name":"fp:spaceship", "meta":"<spaceship.Fasern>"},
+			"9": "",
+			"out": {"name":"fp:laser_transmitter", "meta":0, "size":1}
+		}
+	},
+	"Para o laser funcionar bem, a fonte e o destionário devem ser em exatamente uma linha."
+]
