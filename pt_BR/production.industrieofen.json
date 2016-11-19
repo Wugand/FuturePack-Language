@@ -1,0 +1,41 @@
+[
+	"Essa fornalha avançado utiliza lava, inserida por baldes ou canos. Ela usa a energia para fundir itens, eventualmente resfriando a lava até que fica sólida e vira obsidiana. Usando este sistema, eu posso fundir até três itens ao mesmo tempo.",
+	"Criando:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"name":"fp:spaceship","meta":"<spaceship.Tank>"},
+			"2": {"OreDict":"ingotIron"},
+			"3": {"name":"fp:spaceship","meta":"<spaceship.Tank>"},
+			"4": {"name":"minecraft:furnace","meta":0},
+			"5": {"name":"minecraft:furnace","meta":0},
+			"6": {"name":"minecraft:furnace","meta":0},
+			"7": {"OreDict":"ingotIron"},
+			"8": {"name":"fp:spaceship","meta":"<spaceship.Tank>"},
+			"9": {"OreDict":"ingotIron"},
+			"out": {"name":"fp:industrie_ofen","meta":0}
+		}
+	},
+		
+	"Uso (GUI):",
+	{
+		"type": "industrialfurnace",
+		"slots": {
+			"in1": {"name":"minecraft:cobblestone", "size":32},
+			"in2": {"OreDict":"oreCopper"},
+			"in3": {},
+			"out1": {"name":"minecraft:stone", "size":32},
+			"out2": {"name":"fp:ItemErze", "meta":2, "size":1},
+			"out3": {}
+		}
+	},
+		
+		
+	"Dados Técnicos:",
+	"Uso da Lava: 10 mB por item fundido",
+	"Produção de Obsidiana: 1 bloco de obsidiana por 1000mB de lava consumida",
+	"Velocidade: 400 Ticks por Ciclo (20 segundos)",
+	"",
+  "Informação: A unidade de medida mB significa miliBalde. Cada balde de lava fornece 1000 mB.",
+	"Obs: Talvez eu posso combinar vários materiais nos 3 lugares para criar novas fusões ou refinar meus recursos..."
+]
