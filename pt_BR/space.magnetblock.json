@@ -1,0 +1,21 @@
+[
+	"Mesmo que uma simples vara magnética é útil, é bastante fraco. É por isso que eu conectei múltiplas varas para criar um bloco grande magnético.",
+	"Criando:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"name":"fp:ItemErze","meta":4},
+			"2": {"name":"fp:ItemErze","meta":4},
+			"3": {"name":"fp:ItemErze","meta":4},
+			"4": {"name":"fp:ItemErze","meta":4},
+			"5": "OreDict:ingotMagnetite",
+			"6": {"name":"fp:ItemErze","meta":4},
+			"7": {"name":"fp:ItemErze","meta":4},
+			"8": {"name":"fp:ItemErze","meta":4},
+			"9": {"name":"fp:ItemErze","meta":4},
+			"out": {"name":"fp:magnet","meta":0}
+		}
+	},
+	"Ele pode atrair alguns itens, carrinhos, e outros objetos metais em um raio de 5 blocos.",
+	"O que outras ímãs fariam na presença deste bloco...?"
+]
