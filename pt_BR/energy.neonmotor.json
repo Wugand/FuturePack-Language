@@ -1,0 +1,39 @@
+[
+	"Eu descobri uma forma de energia que é fundamentalmente diferente das energias aqui e mesmo do Inacessível. Esta forma desconhecida de energia eu chamo fluxo de redstone e ela usa um estado instável de redstone. Portanto eu tentei criar um conversor de energia.",
+	"É baseado em um tipo de motor que converte energia de néon para um tipo de energia inferior. Na minha opinião, parece imprevisível é talvez até perigoso. Eu não confio muito nesta tecnologia.",
+	"Mas quem sabe, talvez eu vou ser forçado a usar isso.",
+    "Criando:",
+    {
+        "type": "crafting",
+        "slots": {
+            "1": {"name":"fp:spaceship","meta":"<spaceship.CompositeMetall>"},
+            "2": {"name":"fp:spaceship","meta":"<spaceship.IronStick>"},
+            "3": {"name":"fp:spaceship","meta":"<spaceship.CompositeMetall>"},
+            "4": {"name":"fp:spaceship","meta":"<spaceship.CopperCoil>"},
+            "5": "OreDict:ingotMagnetite",
+            "6": {"name":"fp:spaceship","meta":"<spaceship.CopperCoil>"},
+            "7": "OreDict:ingotNeon",
+            "8": [
+                    {"name":"fp:color_luftung_step_half_0","meta":0},
+                    {"name":"fp:color_luftung_step_half_0","meta":1},
+                    {"name":"fp:color_luftung_step_half_0","meta":2},
+                    {"name":"fp:color_luftung_step_half_0","meta":3},
+                    {"name":"fp:color_luftung_step_half_0","meta":4},
+                    {"name":"fp:color_luftung_step_half_0","meta":5},
+                    {"name":"fp:color_luftung_step_half_0","meta":6},
+                    {"name":"fp:color_luftung_step_half_0","meta":7},
+                    {"name":"fp:color_luftung_step_half_0","meta":8},
+                    {"name":"fp:color_luftung_step_half_0","meta":9},
+                    {"name":"fp:color_luftung_step_half_0","meta":10},
+                    {"name":"fp:color_luftung_step_half_0","meta":11},
+                    {"name":"fp:color_luftung_step_half_0","meta":12},
+                    {"name":"fp:color_luftung_step_half_0","meta":13},
+                    {"name":"fp:color_luftung_step_half_0","meta":14},
+                    {"name":"fp:color_luftung_step_half_0","meta":15}
+                 ],
+            "9": "OreDict:ingotNeon",
+            "out": {"name":"fp:neon_engine","meta":0}
+        }
+    },
+    "Para manipulação fácil, eu construí o motor de néon para utilizar redstone. Adicionalmente, precisa de um tempinho para aquecer; a produção de RF (fluxo de redstone) escala proporcionalmente à temperatura."
+]
