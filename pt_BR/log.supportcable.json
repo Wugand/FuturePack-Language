@@ -1,0 +1,23 @@
+[
+	"Está começando ficar um pouco irritante para retirar e inserir memória flash uma e outra vez. Então eu desenvolvei um cabo que pode transmitir sinais de apoio entre máquinas.",
+	"É um cabo normal, complementado com um invólucro de brilhatita que habilita a transmissão de pontos de apoio.",
+	
+	"Criando:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {},
+			"2": {"OreDict":"ingotGlowtite"},
+			"3": {},
+			"4": {"name":"fp:wire", "meta":0},
+			"5": {"name":"fp:wire", "meta":0},
+			"6": {"name":"fp:wire", "meta":0},
+			"7": {},
+			"8": {},
+			"9": {},
+			"out": {"name":"fp:wire", "meta":3, "size":3}
+		}
+	},
+	
+	"O cabo não pode armazenar informação sozinho; precisa de um destionário para evitar perda de dados."
+]
