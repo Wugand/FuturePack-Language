@@ -1,0 +1,23 @@
+[
+	"Está começando ficar um pouco tedioso para trocar a memória flash, então eu desenvolvei um cano que pode transferir os pontos de apoio entre máquinas.",
+	"É um cano normal, complementado com um invólucro de brilhatita que habilita a transmissão de pontos de apoio.",	
+	"Criando:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {},
+			"2": {"OreDict":"ingotGlowtite"},
+			"3": {},
+			"4": {"name":"fp:pipe", "meta":0},
+			"5": {"name":"fp:pipe", "meta":0},
+			"6": {"name":"fp:pipe", "meta":0},
+			"7": {},
+			"8": {},
+			"9": {},
+			"out": {"name":"fp:pipe", "meta":3, "size":3}
+		}
+	},
+	
+	"Estes canos são especialmente úteis para fornecer algumas máquinas com pontos de apoio.",
+	"Configurações: Usando o scrench, eu posso prevenir os lados do cano de conectar com outros canos e máquinas. (Em adição, existe um terceiro modo, controlado por um lugarzinho na página correspondente. Neste modo, somente os pontos de apoio serão transferidos, mas não itens."
+]
