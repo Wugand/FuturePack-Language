@@ -1,0 +1,19 @@
+[
+	"A maioria de metais derretem rapidamente quando expostos a calor. Eu pesquisava para materiais que têm muito mais resistência a calor.",
+	"Argila cozida e obsidiana mostraram as caracteristicas mais interestantes. Depois de tirar as impuridades da argila, eu desenvolvei um tipo de escudo térmico.",
+	"Placas feitas deste tipo de argila podem resistir às temperaturas extremas e desviam o calor.",
+  "Criando:",
+	{
+		"type": "industrialneonfurnace",
+		"slots": {
+			"in1":  {"OreDict":"dustObsidian", "size":1},
+			"in2":  {"name":"minecraft:clay_ball", "meta":0, "size":1},
+			"in3":  {"OreDict":"dustObsidian", "size":1},
+			"out1": {"OreDict":"keramik", "size":2},
+			"out2": {},
+			"out3": {}
+		},
+		"support":0
+	}
+		
+]
