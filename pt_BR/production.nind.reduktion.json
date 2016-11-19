@@ -1,0 +1,30 @@
+[
+	"Eu adicionei um módulo na fornalha industrial de néon que me habilita extrair carbono residual. Agora eu estou quase independente de carvão.",
+  
+	{
+		"type": "industrialneonfurnace",
+		"slots": {
+			"in1":  {"OreDict":"sand"},
+			"in2":  {"OreDict":"sand"},
+			"in3":  {"name":"minecraft:coal", "meta":0, "size":1},
+			"out1": {"name":"fp:spaceship",  "meta":"<spaceship.Silizium>", "size":6},
+			"out2": {},
+			"out3": {}
+		},
+		"support":0
+	},
+	
+	"Este novo processo funciona mesmo com cristais para fazer lingotes.",
+	{
+		"type": "industrialneonfurnace",
+		"slots": {
+			"in1":  [{"OreDict":"gemNeon"},{"OreDict":"gemAluminum"},{"OreDict":"gemGlowtite"},{"OreDict":"gemRetium"},{"OreDict":"gemBioterium"}],
+			"in2":  {},
+			"in3":  {},
+			"out1": [{"OreDict":"ingotNeon"},{"OreDict":"ingotAluminum"},{"OreDict":"ingotGlowtite"},{"OreDict":"ingotRetium"},{"OreDict":"ingotBioterium"}],
+			"out2": {},
+			"out3": {}
+		},
+		"support":0
+	}		
+]
