@@ -1,0 +1,23 @@
+[
+	"Uma bobina com bastante energia fluinde através dela aquece. Eu vou usar esta idéia para criar uma fornalha usando energia de néon, adicionando um sistema de monitoramento que regula o fluxo de energia. Assim, eu posso ter a máxima quantidade de calor sem queimar ou derreter as bobinas. Esta fornalha será muito mais poderosa eu acho...",
+	
+	"Criando:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"name":"fp:spaceship", "meta":"<spaceship.IronCoil>"},
+			"2": {"name":"minecraft:furnace"},
+			"3": {"name":"fp:spaceship", "meta":"<spaceship.GoldCoil>"},
+			"4": {"OreDict":"ingotNeon"},
+			"5": [{"name":"fp:color_iron","meta":0},{"name":"fp:color_iron","meta":8},{"name":"fp:color_iron","meta":15}],
+			"6": {"OreDict":"ingotNeon"},
+			"7": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"8": {"name":"fp:spaceship", "meta":"<spaceship.Maschinboard>"},
+			"9": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"out": [{"name":"fp:e_furnace","meta":2},{"name":"fp:e_furnace","meta":6},{"name":"fp:e_furnace","meta":10}]
+		}
+	},
+	
+	"Chipsets Compatíveis:",
+	"Chipset de Lógica\nChipset de Transporte\nChipset para Controle de Redstone\nChipset de Apoio\nChipset Ultimate\nChipset para Controle de Dano"		
+]
