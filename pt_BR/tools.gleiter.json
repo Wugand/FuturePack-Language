@@ -1,0 +1,24 @@
+[
+	"Eu percebi que objetos leves com muita área de superfície deslizam no ar. Eu melhorei esse conceito para criar um tipo de pára-quedas e eu coloquei ele em uma mochila.",
+	"Quando eu abro meu parapente, ele se desdobra sozinho e me facilita chegar à terra com segurança.",
+
+	"Criando:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"name":"minecraft:carpet", "meta":0},
+			"2": {"name":"minecraft:carpet", "meta":0},
+			"3": {"name":"minecraft:carpet", "meta":0},
+			"4": {"name":"minecraft:string"},
+			"5": {},
+			"6": {"name":"minecraft:string"},
+			"7": {"name":"minecraft:leather"},
+			"8": {"name":"minecraft:leather_chestplate"},
+			"9": {"name":"minecraft:leather"},
+			"out": {"name":"fp:gleiter"}
+		}
+	},
+	
+	"Durante uma queda livre, eu posso estender o parapente apertando a tecla \"F\" (Uma vez! Não segure.) Ao apertar a tecla uma vez mais, o parapente será recolocado na mochila.",
+	"Informação: A tela pode ser mudado no menu de opções."
+]
