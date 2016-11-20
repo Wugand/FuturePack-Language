@@ -1,0 +1,22 @@
+[
+	"Para direcionar meus drones onde trabalhar, eu desenvolvei um transmissor. Eu posso colocar eles em qualquer lugar e configurar eles mais tarde. (Abrir com §lBotão Direito§r)",
+	"No lado esquerdo do GUI, eu posso redimensionar a área. [Importante: Uma mudança de 1 no eixo X ou Z causa uma mudança de dois blocos.]. No lado direito, eu posso deslocar a área.",
+	"Ao fundo, eu posso desativar a exibição do quadrado no mundo (\"Render:false\"). Também eu posso renomear o traçador.",
+	"A área escolhida é mostrado com um quadrado amarelo. Uma borda piscando significa que não é diretamente visível (pode ser causado se a seleção seja subterrânea por exemplo).",
+	"Criando:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {},
+			"2": {"OreDict":"dustRedstone"},
+			"3": {},
+			"4": {},
+			"5": {"name":"fp:chip", "meta":"<chip.LogicChip>"},
+			"6": {},
+			"7": {},
+			"8": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
+			"9": {},
+			"out": {"name":"fp:claime", "meta":0, "size":1}
+		}
+	}
+]
