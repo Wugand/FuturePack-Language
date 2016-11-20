@@ -1,0 +1,21 @@
+[
+	"Eu desenvolvei um drone especializado para minerar blocos. Ele corta o bloco da terra usando lasers. O material é transferido à estação de drones depois.",
+	"A Drone de Mineração pode ser colocada na estação de drones usando §lshift + botão direito§r. Depois disso, a drone pode ser configurada com §lbotão direito§r. Para tirar, use um scrench e §lshift + botão direito§r na drone.",
+	"No GUI todos os traçadores serão listados no lado esquerdo. As áreas movidas ao lado direito serão processadas. Ativando \"Repeat\" (Repetir), as áreas desejadas serão verificadas frequentemente para trabalho novo e caso que tenha, a área será processada de novo. Depois de configurar, pode ligar a drone ao clicar \"Working\" (Trabalhando).",
+	"Criando:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"name":"minecraft:fireworks", "meta":0},
+			"2": {"OreDict":"ingotAluminum"},
+			"3": {"name":"fp:spaceship", "meta":"<spaceship.Laserdiode>"},
+			"4": {"name":"fp:chip", "meta":"<chip.KIChip>"},
+			"5": {"name":"fp:core", "meta":1},
+			"6": {"name":"minecraft:ender_pearl", "meta":0},
+			"7": {"name":"minecraft:fireworks", "meta":0},
+			"8": {"OreDict":"ingotAluminum"},
+			"9": {"name":"fp:spaceship", "meta":"<spaceship.Laserdiode>"},
+			"out": {"name":"fp:entityEgger", "meta":4, "size":1}
+		}
+	}
+]
