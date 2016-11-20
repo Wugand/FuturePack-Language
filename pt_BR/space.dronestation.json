@@ -1,0 +1,21 @@
+[
+	"As drones precisam de uma base para carregar energia e trocar itens. Então eu desenvolvei a estação de drones. Em cima eu posso colocar minhas drones.",
+	"A estação de drones contém um inventário grande (no topo) e uma barra de energia (ao fundo). Eu preciso adicionar ao menos uma bateria para usar uma drone.",
+	"O inventário pode ser enchido e esvaziado usando canos e fúnis. Au conectar um cabo, as baterias podem carregar automaticamente.",
+	"Criando:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"name":"fp:spaceship", "meta":"<spaceship.NeonCoil>"},
+			"2": {"name":"fp:wire", "meta":0},
+			"3": {"name":"fp:spaceship", "meta":"<spaceship.NeonCoil>"},
+			"4": {"OreDict":"ingotAluminum"},
+			"5": [{"name":"fp:wandrope", "meta":0},{"name":"fp:wandrope", "meta":1},{"name":"fp:wandrope", "meta":2},{"name":"fp:wandrope", "meta":3},{"name":"fp:wandrope", "meta":4},{"name":"fp:wandrope", "meta":5},{"name":"fp:wandrope", "meta":6},{"name":"fp:wandrope", "meta":7},{"name":"fp:wandrope", "meta":8},{"name":"fp:wandrope", "meta":9},{"name":"fp:wandrope", "meta":10},{"name":"fp:wandrope", "meta":11}],
+			"6": {"OreDict":"ingotAluminum"},
+			"7": {"OreDict":"ingotAluminum"},
+			"8": [{"name":"fp:baterie_box", "meta":0},{"name":"fp:baterie_box", "meta":1},{"name":"fp:baterie_box", "meta":2}],
+			"9": {"OreDict":"ingotAluminum"},
+			"out": {"name":"fp:drone_station", "meta":0, "size":1}
+		}
+	}
+]
