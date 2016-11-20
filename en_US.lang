@@ -294,7 +294,7 @@ tile.erzBlocke_kristall_block_alutin.name=Alutine Crystal Block
 tile.erzBlocke_metalBlock_luftschacht.name=Ventilation
 tile.uncolorPane.name=Grid
 tile.uncolorGitter.name=Grid Block
-tile.claime.name=Claim Transmitter
+tile.claime.name=Zone Transmitter
 tile.neonengine.name=Neon Engine
 tile.plasmaGenerator.name=Infusion Generator
 tile.neonbricks_Neonbrick.name=Neon Bricks
@@ -843,7 +843,7 @@ research.space.navcord.menelaus=Menelaus Coordinates
 research.space.drive.ftl=FTL-Drive
 research.space.navcord.tyros=Tyros Coordinates
 research.space.dronestation=Drone Station
-research.space.claime=Claim Transmitter
+research.space.claime=Zone Transmitter
 research.space.miner=Mining Drone
 
 research.tools.scrench=Scrench
