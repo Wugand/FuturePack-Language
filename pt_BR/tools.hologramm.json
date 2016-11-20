@@ -1,0 +1,24 @@
+[
+	"Eu desenvolvei uma ferramenta que me habilita mudar a aparência física de blocos.",
+	"Eu posso digitalizar um bloco onde a estrutura visual é salvada e pode ser transferida a qualquer bloco que é compatível.",
+	
+	{
+		"type": "crafting",
+		"slots": {
+			"1": "OreDict:ingotMagnetite",
+			"2": {"name":"fp:spaceship", "meta":"<spaceship.Laserdiode>"},
+			"3": "OreDict:ingotMagnetite",
+			"4": "OreDict:ingotAluminum",
+			"5": {"name":"fp:spaceship", "meta":"<spaceship.Display>"},
+			"6": "OreDict:ingotAluminum",
+			"7": "OreDict:ingotAluminum",
+			"8": {"name":"fp:chip", "meta":"<chip.LogicChip>"},
+			"9": "OreDict:ingotAluminum",
+			"out": {"name":"fp:hologramcontroler"}
+		}
+	},
+	"§lShift + Botão Direito§r para salvar uma estrutura.",
+	"Simples §lBotão Direito§r para mudar a aparência.",
+	"Obs: Algumas estruturas são complexas demais para salvar.",
+	"Blocos compatíveis:\nQualquer Tubo\nQualquer Cabo\n"
+]
