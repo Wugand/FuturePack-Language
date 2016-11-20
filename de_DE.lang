@@ -240,11 +240,11 @@ tile.erze_kupfer.name=Kupfererz
 tile.erze_bauxit.name=Bauxit
 tile.erze_magnetit.name=Magnetiterz
 
-tile.erzBlocke_zinnBlock.name=Zinnblock
-tile.erzBlocke_zinkBlock.name=Zinkblock
-tile.erzBlocke_kupferBlock.name=Kupferblock
+tile.erzBlocke_zinn_block.name=Zinnblock
+tile.erzBlocke_zink_block.name=Zinkblock
+tile.erzBlocke_kupfer_block.name=Kupferblock
 tile.erzBlocke_kristall_block.name=Kristallblock
-tile.erzBlocke_metalBlock.name=Metallblock
+tile.erzBlocke_metal_block.name=Metallblock
 tile.Magnet.name=Magnetitblock
 tile.metalTreppe_yellow.name=Metalltreppe
 tile.metalSlap_metal.name=Metallstufe
@@ -265,6 +265,11 @@ tile.optiBench.name=Optibench
 tile.elektroMagnet.name=Elektromagnet
 tile.pulsit.name=Gravity-Pulser
 tile.monorail.name=Monorail
+tile.monorail_station.name=Monorail Station
+tile.monorail_waypoint.name=Monorail Wegpunkt
+tile.monorail_booster.name=Monorail Booster
+tile.monorail_charger.name=Monorail Lader
+tile.monorail_detector.name=Monorail Detektor
 tile.pucher.name=Itemschieber
 tile.blockFish.name=Fischblock
 tile.industrieFurnace.name=Industrieofen
@@ -288,7 +293,7 @@ tile.pipe_2.name=Neonrohr
 tile.pipe_3.name=Support-Rohr
 tile.sorter.name=Sortierer
 tile.erzBlocke_kristall_block_retium.name=Retiumkristallblock
-tile.erzBlocke_kristall_block_Glowtit.name=Glowtitkristallblock
+tile.erzBlocke_kristall_block_glowtit.name=Glowtitkristallblock
 tile.erzBlocke_kristall_block_bioterium.name=Bioteriumkristallblock
 tile.erzBlocke_kristall_block_alutin.name=Alutinkristallblock
 tile.erzBlocke_metalBlocke_metal_block_luftschacht.name=Lüftung
@@ -349,6 +354,8 @@ tile.advanced_boardcomputer.name=Erweiterter Bordcomputer
 
 tile.modular_door.name=Modulares Tor
 
+tile.mendel_berry.name=Mendelbeerstrauch
+
 fluid.liquid.neon=Neonflüssigkeit
 
 item.scrench.name=Schraubendrehschlüssel
@@ -400,6 +407,10 @@ item.Master-Core.name=Master Mind-Prozessor
 item.Non-Core.name=NoN-Prozessor
 item.Dungon-Core.name=Dungeonherz-Prozessor
 item.Univ-Core.name=Torus-Prozessor
+
+item.toasted_chip.name=Gerösteter Chip
+item.toasted_ram.name=Gerösteter RAM
+item.toasted_core.name=Gerösteter Core
 
 item.erse.name=Erse
 
@@ -527,12 +538,28 @@ item.kompostgranate.name=Kompostgranate
 item.futtergranate.name=Fütterungsgranate
 item.saatgranate.name=Saatgutgranate
 
+item.record_futurepack.name=Schallplatte
+item.record.futurepack.desc=Mantes - Futurepack Soundtrack
+item.record_fp_menelaus.name=Schallplatte
+item.record.fp_menelaus.desc=Mantes - Stimme von Menelaus
+item.record_fp_tyros.name=Schallplatte
+item.record.fp_tyros.desc=Mantes - Stimme von Tyros
+item.record_fp_entros.name=Schallplatte
+item.record.fp_entros.desc=Mantes - Stimme von Entros
+
+item.mendel_berry.name=Mendelbeere
+item.mendel_seed.name=Mendelbeersamen
+item.mendel_flower.name=Mendelbeerblüte
+
 itemGroup.fpTab.deco=Future Pack-Materialien
 itemGroup.fpTab.maschiens=Future Pack-Maschinen
 itemGroup.fpTab.items=Future Pack-Gegenstände
 
 container.opticrafting=Optibench
 container.collector=Ionenkollektor
+
+entity.fp.FP-Gehuf.name=Gehuf
+entity.fp.FP-Crawler.name=Crawler
 
 potion.paralyze=Paralyse
 
@@ -618,6 +645,8 @@ command.fp.research.unlock.usage=/fp research <Spieler> unlock <all:basics:Forsc
 command.fp.research.reset.feedback=Deine Forschungen wurden zurückgesetzt!
 command.fp.research.reset.success=Die Forschungen von %s wurden zurückgesetzt!
 command.fp.research.unlock.success=Die Forschung [%s] wurde für %s freigeschaltet!
+command.fp.research.copy.success=Die Forschungen von %s wurden zu %s kopiert!
+
 
 scanner.button.0.name=Technologiebaum
 scanner.button.1.name=Scan-Ergebnis
@@ -717,6 +746,9 @@ research.story.crystal_a=Alutinkristall
 research.story.crystal_g=Glowtitkristall
 research.story.crystal_r=Retiumkristall
 research.story.crystal_b=Bioteriumkristall
+research.story.crystal_sa=Bitripentium
+research.unreachable_tec=Technik der Ungreifbaren
+research.unreach.laserbow=Laserbogen
 
 research.production.blockbreaker=Blockbrecher
 research.production.blockplacer=Blockplatzierer
