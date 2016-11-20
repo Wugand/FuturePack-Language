@@ -1,0 +1,22 @@
+[
+	"Demora muito para quebrar blocos de metal com uma picareta e é muito ineficiente. É por isso que eu desenvolvei uma ferramenta que, similar com um bico de Bunsen, cria calor suficiente para derreter metais.",
+	"Para aço ou ferro, uma maior quantidade de energia é necessária. É por isso que um raio de plasma será usado. Isso é realizado por ionizando o ar perto e aquecendo ele descarregando toda a energia ao mesmo tempo. Mas precisa de muita energia.",
+	"Para evitar o calor de destruir tudo, um campo magnético é criado. Mas é melhor verificar que tem energia suficiente para criá-lo antes.",
+	"Criando:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {},
+			"2": {"name":"fp:spaceship", "meta":"<spaceship.NeonCoil>"},
+			"3": "OreDict:ingotRetium",
+			"4": "OreDict:ingotAluminum",
+			"5": "OreDict:ingotGlowtite",
+			"6": {"name":"fp:spaceship", "meta":"<spaceship.NeonCoil>"},
+			"7": "OreDict:ingotNeon",
+			"8": "OreDict:ingotAluminum",
+			"9": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
+			"out": {"name":"fp:plasmaschneider", "meta":2500, "size":1}
+		}
+	},	
+	"Energia de néon é necessário para (re)carregar. Se as reservas de energia acabarem, o cortador de plasma será destruído."
+]
