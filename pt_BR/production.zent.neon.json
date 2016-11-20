@@ -1,0 +1,20 @@
+[
+	"A centrifugação parece funcionar com cristais de néon também. Eles consistem de cristal de silício, mas pequenas estruturas luminosas ainda sobram...",
+	"Analisando mais, estas estruturas são ... eu acho ... um tipo de átomo muito volátil e muito raro chamado bitripéntio, neste caso estabilizado por uma casca silicata.",
+	"Eu posso usar isso com qualquer cristal, mas preciso moer eles até um pó.",
+	"Exemplo:",
+    {
+        "type":"zentrifuge",
+        "slots":
+        {
+            "in":{"OreDict":"dustNeon", "size":32},
+            "out1":{"OreDict":"gemQuartz", "size":32},
+            "out2":{"OreDict":"gemBitripentium", "size":1},
+            "out3":{}
+        },
+	    "support":0,
+	    "time":150
+    },
+	
+    "Informação: A centrífuga tem muitas receitas; há mais do que é listado aqui!"
+]
