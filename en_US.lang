@@ -240,11 +240,11 @@ tile.erze_kupfer.name=Copper Ore
 tile.erze_bauxit.name=Bauxite
 tile.erze_magnetit.name=Magnetite Ore
 
-tile.erzBlocke_zinnBlock.name=Tin Block
-tile.erzBlocke_zinkBlock.name=Zinc Block
-tile.erzBlocke_kupferBlock.name=Copper Block
+tile.erzBlocke_zinn_block.name=Tin Block
+tile.erzBlocke_zink_block.name=Zinc Block
+tile.erzBlocke_kupfer_block.name=Copper Block
 tile.erzBlocke_kristall_block.name=Neon Crystal Block
-tile.erzBlocke_metalBlock.name=Metal Block
+tile.erzBlocke_metal_block.name=Metal Block
 tile.Magnet.name=Magnetite Block
 tile.metalTreppe_yellow.name=Metal Stair
 tile.metalSlap_metal.name=Metal slab
@@ -265,6 +265,11 @@ tile.optiBench.name=Opti bench
 tile.elektroMagnet.name=Electro magnet
 tile.pulsit.name=Gravity pulser
 tile.monorail.name=Monorail
+tile.monorail_station.name=Monorail Station
+tile.monorail_waypoint.name=Monorail Waypoint
+tile.monorail_booster.name=Monorail Booster
+tile.monorail_charger.name=Monorail Charger
+tile.monorail_detector.name=Monorail Detector
 tile.pucher.name=Pusher
 tile.blockFish.name=Fish Block
 tile.industrieFurnace.name=Industrial Furnace
@@ -288,10 +293,10 @@ tile.pipe_2.name=Neon Pipe
 tile.pipe_3.name=Support Pipe
 tile.sorter.name=Sorter
 tile.erzBlocke_kristall_block_retium.name=Retium Crystal Block
-tile.erzBlocke_kristall_block_Glowtit.name=Glowtite Crystal Block
+tile.erzBlocke_kristall_block_glowtit.name=Glowtite Crystal Block
 tile.erzBlocke_kristall_block_bioterium.name=Bioterium Crystal Block
 tile.erzBlocke_kristall_block_alutin.name=Alutine Crystal Block
-tile.erzBlocke_metalBlock_luftschacht.name=Ventilation
+tile.erzBlocke_metalBlocke_metal_block_luftschacht.name=Ventilation
 tile.uncolorPane.name=Grid
 tile.uncolorGitter.name=Grid Block
 tile.claime.name=Zone Transmitter
@@ -347,6 +352,12 @@ tile.dirt_M.name=Menelaus Dirt
 tile.ftl_drive.name=FTL Block
 tile.advanced_boardcomputer.name=Advanced Boardcomputer
 
+tile.modular_door.name=Modular Gate
+
+tile.mendel_berry.name=Mendelberry Bush
+
+fluid.liquid.neon=Neon Liquid
+
 item.scrench.name=Scrench
 item.NeonBattery.name=Empty Neon Battery
 item.NeonBattery_full.name=Neon Battery
@@ -396,6 +407,10 @@ item.Master-Core.name=Master Mind Core
 item.Non-Core.name=NoN Core
 item.Dungon-Core.name=Dungeon Heart Core
 item.Univ-Core.name=Torus Core
+
+item.toasted_chip.name=Toasted Chip
+item.toasted_ram.name=Toasted RAM
+item.toasted_core.name=Toasted Core
 
 item.erse.name=Erse
 
@@ -523,12 +538,30 @@ item.kompostgranate.name=Compost Grenade
 item.futtergranate.name=Feeding Grenade
 item.saatgranate.name=Seed Grenade
 
+item.record_futurepack.name=Music Disc
+item.record.futurepack.desc=Mantes - Futurepack Soundtrack
+item.record_fp_menelaus.name=Music Disc
+item.record.fp_menelaus.desc=Mantes - Voice of Menelaus
+item.record_fp_tyros.name=Music Disc
+item.record.fp_tyros.desc=Mantes - Voice of Tyros
+item.record_fp_entros.name=Music Disc
+item.record.fp_entros.desc=Mantes - Voice of Entros
+
+item.mendel_berry.name=Mendelberry
+item.mendel_seed.name=Mendelberry Seed
+item.mendel_flower.name=Mendelberry Flower
+
 itemGroup.fpTab.deco=Future Pack Materials
 itemGroup.fpTab.maschiens=Future Pack Machinery
 itemGroup.fpTab.items=Future Pack Items
 
 container.opticrafting=Opti Bench
 container.collector=Ion Collector
+
+entity.fp.FP-Gehuf.name=Gehuf
+entity.fp.FP-Crawler.name=Crawler
+
+potion.paralyze=Paralyze
 
 gui.fp.wandrope=Wardrobe
 
@@ -590,7 +623,7 @@ achievement.composite.desc=Just a little bit of everything
 achievement.menelaus=Menelaus
 achievement.menelaus.desc=Travel to Menelaus
 achievement.metalhaltig=It contains metals
-achievement.metalhaltig.desc=Get Menelaus Gravel or Dirt
+achievement.metalhaltig.desc=Get Menelaus Gravel od Dirt
 achievement.tyros=Tyros
 achievement.tyros.desc=Travel to Tyros
 achievement.glowmelo=Glowmelo
@@ -711,6 +744,9 @@ research.story.crystal_a=Alutine Crystal
 research.story.crystal_g=Glowtite Crystal
 research.story.crystal_r=Retium Crystal
 research.story.crystal_b=Bioterium Crystal
+research.story.crystal_sa=Bitripentium
+research.unreachable_tec=Technology of the Unreachable
+research.unreach.laserbow=Laserbow
 
 research.production.blockbreaker=Block Breaker
 research.production.blockplacer=Block Placer
@@ -784,7 +820,7 @@ research.ram.alon=Alon Memory
 research.ram.penton=Penton Memory
 research.ram.tct=TCT Memory
 research.ram.mm=Master Memory
-research.ram.non=NoN Memory
+research.ram.non=Non Memory
 research.ram.dungeon=Dungeon RAM
 research.ram.univers=Torus RAM
 
@@ -863,6 +899,13 @@ research.tools.laserbow=Laser Bow
 research.tools.grabling=Grappling Slime
 research.tools.hologramm=Hologram Controller
 
+futurepack.zentrifuge.name=Centrifuge Recipes
+futurepack.jei.neededsupport= %s SP
+futurepack.crafting.name=Research Crafting
+futurepack.jei.notresearched=You have not researched this yet!
+futurepack.assembly.name=Assembly Recipes
+futurepack.furnace.industrial.name=Industrial Furnace Recipes
+futurepack.furnace.industrial.neon.name=Industrial Neon Recipes
 
 
 
