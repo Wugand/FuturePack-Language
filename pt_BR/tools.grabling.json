@@ -1,0 +1,21 @@
+[
+	"É difícil manobrar em cavernas e desfiladeiros. Por isso eu queria desenvolver um esracador (uma ferramenta para alpinistas afixada em uma parede de uma caverna para ir lateralmente). Mas notei um problema:",
+	"Para usar esracadores, a parede deve ser plana para seguramente me suportar. Como solução, eu desenvolvei limo para alpinismo. Em vez de colocar um esracador, eu jogo uma bola de limo com uma corda conectada. Enviando um pulso de néon libera a bola, suprimindo a viscosidade por um tempinho.",
+	"Criando:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {},
+			"2": "OreDict:ingotAluminum",
+			"3": "slime_ball",
+			"4": "OreDict:ingotAluminum",
+			"5": "fishing_rod",
+			"6": "OreDict:ingotAluminum",
+			"7": "OreDict:ingotBioterium",
+			"8": "OreDict:ingotAluminum",
+			"9": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
+			"out": {"name":"fp:hook", "meta":250, "size":1}
+		}
+	},	
+	"Pode jogar a bola usando o botão direito. Ao bater um bloco, você será puxado naquela direção imediatamente. Obs: o limo precisa de estar carregado com energia de néon para funcionar."
+]
