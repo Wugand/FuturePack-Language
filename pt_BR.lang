@@ -478,7 +478,7 @@ item.leggingsMagnetit.name=Perneiras de Magnetita
 item.bootsMagnetit.name=Botas de Magnetita
 
 item.itemMonitor.name=Monitor
-item.grablingHook.name=Limo para Agarramento
+item.grablingHook.name=Limo para Alpinismo
 item.plasmaschneider.name=Cortador de Plasma
 item.hologramcontroler.name=Controlador de Holograma
 item.research_blueprint.name=Desenho Técnico para Pesquisa
@@ -860,7 +860,7 @@ research.tools.spawnerchest=Cofre de Spawner
 research.tools.plasma=Cortador de Plasma
 research.tools.escanner=E-Scanner
 research.tools.laserbow=Arco de Plasma
-research.tools.grabling=Limo de Agarramento
+research.tools.grabling=Limo para Alpinismo
 research.tools.hologramm=Controlador de Hologramas
 
 
