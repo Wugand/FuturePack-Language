@@ -527,7 +527,7 @@ itemGroup.fpTab.deco=Materiais Future Pack
 itemGroup.fpTab.maschiens=Maquinismo Future Pack
 itemGroup.fpTab.items=Itens Future Pack
 
-container.opticrafting=Bancada Opti
+container.opticrafting=Opti-Bancada
 container.collector=Coletor de Íons
 
 gui.fp.wandrope=Armário
@@ -720,7 +720,7 @@ research.production.ind.compositemetal=Metal Composto
 research.production.ind.aluminium=Alumínio
 research.production.ind.reduktion=Redução
 research.production.decoration=Decoração
-research.production.optibench=Bancada Opti
+research.production.optibench=Opti-Bancada
 research.production.supercrusher=Super Esmagador
 research.production.neonfurnace=Fornalha de Néon
 research.production.neonind=Fornalha Industrial de Néon
