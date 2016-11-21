@@ -152,7 +152,7 @@ tile.colorLuftungStep_red.name=Red Colored Ventilation Slab
 tile.colorLuftungStep_black.name=Black Colored Ventilation Slab
 
 tile.eisenleiter.name=Iron Ladder
-tile.antenne.name=Aerial
+tile.antenne.name=Antenna Base
 
 tile.colorFence_white.name=White Colored Fence
 tile.colorFence_orange.name=Orange Colored Fence
@@ -188,7 +188,7 @@ tile.colorPane_green.name=Green Colored Grid
 tile.colorPane_red.name=Red Colored Grid
 tile.colorPane_black.name=Black Colored Grid
 
-tile.funkcomputer.name=Wirreless Computer
+tile.funkcomputer.name=Wireless Computer
 
 tile.colorNeonLamp_white.name=White Neon Lamp
 tile.colorNeonLamp_orange.name=Orange Neon Lamp
@@ -225,7 +225,7 @@ tile.colorPlasmaLamp_red.name=Red Plasma Lamp
 tile.colorPlasmaLamp_black.name=Black Plasma Lamp
 
 tile.microbox.name=Micro Box
-tile.ionCollector.name=Ionen Collector
+tile.ionCollector.name=Ion Collector
 tile.wire_0.name=Cable
 tile.wire_1.name=Redstone Cable
 tile.wire_2.name=Super Cable
@@ -286,7 +286,7 @@ tile.brennstoff_generator.name=Generator
 
 tile.bateriebox.name=Battery Box
 tile.DroneStation.name=Drone Station
-tile.externCooler.name=Extern Cooler
+tile.externCooler.name=External Cooler
 tile.pipe_0.name=Normal Pipe
 tile.pipe_1.name=Redstone Pipe
 tile.pipe_2.name=Neon Pipe
@@ -440,7 +440,7 @@ item.itemErze_glowtit_ingot.name=Glowtite Ingot
 item.itemErze_bioterium_ingot.name=Bioterium Ingot
 item.itemErze_ingot_wakurum.name=Wakurium Ingot
 item.itemErze_ingot_quantanium.name=Quantium Ingot
-item.itemErze_ingot_seltenerde.name=Rare earth
+item.itemErze_ingot_seltenerde.name=Rare Earth
 item.itemErze_ingot_gadolinium.name=Gadolinium Ingot
 item.itemErze_ingot_lanthanum.name=Lanthanium Ingot
 item.itemErze_ingot_neodymium.name=Neodymium Ingot
