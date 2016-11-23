@@ -18,5 +18,5 @@
 		}
 	},
 	"Own capacity: 6000 NE",
-	"Settings: I can set either side as energy input or energy output by using the \"Logistics Editor\"."
+	"Settings: I can set either side as energy input or energy output by using the \"Logistics Editor\". All sides by default are set as input and must be changed to use this box as an energy output."
 ]
