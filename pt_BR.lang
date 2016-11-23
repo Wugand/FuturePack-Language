@@ -606,9 +606,9 @@ achievement.crys_retium.desc=Achar um Cristal de Rétio
 achievement.crys_bioterium=Cristal de Biotério
 achievement.crys_bioterium.desc=Achar um Cristal de Biotério
 
-command.fp.usage=/fp <pesquisa> ...
-command.fp.research.usage=/fp pesquisa <jogador> <reiniciar:abrir> [...]
-command.fp.research.unlock.usage=/fp pesquisa <jogador> abrir <tudo:basicos:Pesquisa> [caminho:unico]
+command.fp.usage=/fp <research> ...
+command.fp.research.usage=/fp research <jogador> <reset:unlock> [...]
+command.fp.research.unlock.usage=/fp research <jogador> unlock <all:basics:Pesquisa> [path:single]
 command.fp.research.reset.feedback=Suas Pesquisas foram reiniciadas!
 command.fp.research.reset.success=As Pesquisas de %s foram reiniciadas!
 command.fp.research.unlock.success=As Pesquisas [%s] foram abertas para %s!
