@@ -16,8 +16,8 @@
             "out": {"name":"fp:beam","meta":3}
         }
     },
-    "O teleportador amarelo é o elemento básico. Pode chegar a ele, mas não pode sair dele.",
-    "Você pode teleportar já com uma Pérola do End (Ender Pearl). Usando um pouco de energia de néon, o alvo fica estável é a pérola não quebra.",
+    "O teleportador amarelo é o elemento básico. Pode chegar a ele, mas não pode sair dele.",
+    "Você pode teleportar já com uma Pérola do End (Ender Pearl). Usando um pouco de energia de néon, o alvo fica estável é a pérola não quebra.",
     "Criando:",
     {
         "type": "crafting",
@@ -34,7 +34,7 @@
             "out": {"name":"fp:beam","meta":1}
         }
     },
-    "O telepartador verde somente pode teleportar ao topo, independemente se o topo é um teleportador normal, acima, ou abaixo.",
+    "O telepartador verde somente pode teleportar ao topo, independemente se o topo é um teleportador normal, acima, ou abaixo.",
     "Criando:",
     {
         "type": "crafting",
@@ -51,9 +51,9 @@
             "out": {"name":"fp:beam","meta":2}
         }
     },
-    "O teleportador vermelho pode somente teleportar você dele, e não pode receber. O tipo de teleportador recebendo você não importa.",
-    "Contudo, eu também percebi que prédios de múltiplos andares precisam de ter a possibilidade de ir acima e abaixo.",
-    "Criando:",
+	"O teleportador vermelho pode somente teleportar você dele, e não pode receber. O tipo de teleportador recebendo você não importa.",
+	"Contudo, eu também percebi que prédios de múltiplos andares precisam de ter a possibilidade de ir acima e abaixo.",
+	"Criando:",
     {
         "type": "crafting",
         "slots": {
@@ -69,5 +69,5 @@
             "out": {"name":"fp:beam","meta":0}
         }
     },
-    "Usando um scrench (botão direito) em um teleportador ligado, ele divide e a porção inferior vai abaixo até que chega à terra. Assim, pode conectar dois teleportadores novamente."
+"Usando um scrench (botão direito) em um teleportador ligado, ele divide e a porção inferior vai abaixo até que chega à terra. Assim, pode conectar dois teleportadores novamente."
 ]
