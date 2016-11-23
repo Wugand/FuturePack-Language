@@ -9,6 +9,6 @@
             "in3":  {"name":"fp:spaceship", "meta":"<spaceship.SupportSpeicher1>", "size":1},
             "out": {"name":"fp:chip", "meta":"<chip.KIChip>", "size":1}
         }
-    },yield
+    },
     "Por causa do chip de AI, um resultado é que o laser de absorção não mata mais as entidades, mas em vez deixa elas muito fracas."
 ]
