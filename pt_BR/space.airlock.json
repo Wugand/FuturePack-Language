@@ -1,7 +1,7 @@
 [
-    "O espaço é nada mas um vácuo. Para me proteger lá, eu desenvolvei um fechadura à pressão.",
-    "Ele pode ser virado e é retrátil. No estado retratado, é so 1x1x1 blocos. No estado expandido, vira 1x2.5x1 blocos.",
-    "Com a ajuda de redstone, eu posso mudar entre os dois estados. Foi criado em uma forma ideal para duas fechadura serem colocadas com espaço de 3 blocos entre elas. Por causa da característica de rotação, você pode construir horizontalmente e verticalmente.",
+    "O espaço é nada mas um vácuo. Para me proteger lá, eu desenvolvei um fechadura à pressão.",
+    "Ele pode ser virado e é retrátil. No estado retratado, é so 1x1x1 blocos. No estado expandido, vira 1x2.5x1 blocos.",
+    "Com a ajuda de redstone, eu posso mudar entre os dois estados. Foi criado em uma forma ideal para duas fechadura serem colocadas com espaço de 3 blocos entre elas. Por causa da característica de rotação, você pode construir horizontalmente e verticalmente.",
 	"Criando:",
 	{
 		"type": "crafting",
