@@ -332,7 +332,7 @@ tile.gravel_M.name=Cascalho Menelaus
 tile.glowmelo.name=Glowmelo
 tile.wood_tyros.name=Madeira Tyros
 tile.wood_menelaus.name=Madeira Menelaus
-tile.boardcomputer.name=Computador de Placa-Mãe
+tile.boardcomputer.name=Computador Central da Nave
 tile.beam_button.name=Teleportador (Para Cima e Baixo)
 tile.beam_up.name=Teleportador (Para Cima)
 tile.beam_down.name=Teleportador (Para Baixo)
@@ -345,7 +345,7 @@ tile.zentrifuge.name=Centrífuga
 tile.fuelcell.name=Tanque de Combustível
 tile.dirt_M.name=Terra Menelaus
 tile.ftl_drive.name=Bloco FTL
-tile.advanced_boardcomputer.name=Computador de Placa-Mãe Avançado
+tile.advanced_boardcomputer.name=Avançado Computador Central da Nave
 
 item.scrench.name=Scrench
 item.NeonBattery.name=Bateria de Néon Sem Carga
