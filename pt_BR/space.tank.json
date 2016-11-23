@@ -1,6 +1,6 @@
 [
 	"O maior problem com viagens espaciais é o combustível. Primeiro, você precisa balançar o peso do nave e o combustível. Segundo, você precisa armazenar o combustível em um lugar seguro para não ser uma ameaça à segurança.",
-    "Por isso, eu desenvolvei tanques capazes de guardar até 8000mB. Além disso, 21 tipos de combustível podem ser colocados nele.",
+    "Por isso, eu desenvolvei tanques capazes de guardar até 8000mB. Além disso, 21 tipos de combustível podem ser colocados nele.",
     "Criando:",
     {
         "type": "crafting",
@@ -17,5 +17,5 @@
             "out": {"name":"fp:fuelcell","meta":0}
         }
     },
-    "Os tanques não precisam ser conectados diretamente aos motores. Uma conexão simples ao nave basta para funcionar."
+    "Os tanques não precisam ser conectados diretamente aos motores. Uma conexão simples ao nave basta para funcionar."
 ]
