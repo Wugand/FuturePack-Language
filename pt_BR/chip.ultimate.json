@@ -1,5 +1,5 @@
 [
-    "Eu desenvolvei um chip que documenta a criação de itens. Assim eu poso otimizar os meus processos eu receber experiência.",
+    "Eu desenvolvei um chip que documenta a criação de itens. Assim eu poso otimizar os meus processos eu receber experiência.",
     "Montagem:",
     {
         "type": "assembly",
@@ -10,6 +10,6 @@
             "out": {"name":"fp:chip", "meta":"<chip.UltimateChip>", "size":1}
         }
     },  
-    "Um chipset de mais qualidade (mais poder) dá mais experiência quando retirando o item.",
+    "Um chipset de mais qualidade (mais poder) dá mais experiência quando retirando o item.",
     "Dica: Refere a \"Chipset de Lógica\" para informação geral."
 ]
