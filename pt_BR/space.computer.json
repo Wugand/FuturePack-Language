@@ -1,5 +1,5 @@
 [
-    "No vasto espaço vazio, é imperativo não se perder. Eu construí um computador para me guiar pelo vácuo com segurança.",
+    "No vasto espaço vazio, é imperativo não se perder. Eu construí um computador para me guiar pelo vácuo com segurança.",
     "Criando:",
     {
         "type": "crafting",
@@ -18,14 +18,14 @@
     },
     "O GUI tem 3 abas:",
     "Aba 1) Sempre mostra a Planeta Minecraft para sempre ser capaz de voltar.",
-    "Aba 2) Mostra onde eu estou. Eu espero que não precisaria de um computador para me dizer onde estou, mas este tipo de coisa não pode ser previsto.",
-    "Aba 3) Mostra o destino, selecionado usando coordenadas (use os campos para preencher).",
+    "Aba 2) Mostra onde eu estou. Eu espero que não precisaria de um computador para me dizer onde estou, mas este tipo de coisa não pode ser previsto.",
+    "Aba 3) Mostra o destino, selecionado usando coordenadas (use os campos para preencher).",
     "",
-    "Adicionalmente, várias mensagens de segurança podem ser exibidas:",
-    {"type":"translate","text":"\"chat.spaceship.lowEnergie\""},
+    "Adicionalmente, várias mensagens de segurança podem ser exibidas:",
+    {"type":"translate","text":"chat.spaceship.lowEnergie"},
     "Isso significa que a nave tem energia insuficiente.",
     {"type":"translate","text":"chat.spaceship.open"},
-    "Isso significa que a sala de computador da nave não á 100% fechada.",
+    "Isso significa que a sala de computador da nave não á 100% fechada.",
     {"type":"translate","text":"chat.spaceship.missingEngine"},
-    "Isso significa que não tem um gerador de energia de néon dentro da nave."
+    "Isso significa que não tem um gerador de energia de néon dentro da nave."
 ]
