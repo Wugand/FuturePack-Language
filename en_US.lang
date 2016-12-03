@@ -368,7 +368,7 @@ item.Battery_L_full.name=Large Battery
 
 item.Objektscenner.name=Construction Replicator
 item.Kristall_Blueprint.name=Blueprint
-item.Kristall_Blueprint_empty.name=Empty Bluprint
+item.Kristall_Blueprint_empty.name=Empty Blueprint
 
 item.escenner.name=E-Scanner
 item.logistic_editor.ENERGIE.name=Logistics Editor (Energy)
@@ -583,16 +583,16 @@ aspect.hydraulic.name=Hydraulics
 death.attack.neonDamage=%s was killed by Neon Energy
 
 
-chat.beam.noBlockAbove=There is no teleporter above this block 
-chat.beam.noBlockBelow=There is no teleporter below this block 
-chat.beam.lowEnergie=Not enough neon energy
+chat.beam.noBlockAbove=There is no teleporter above this block.
+chat.beam.noBlockBelow=There is no teleporter below this block.
+chat.beam.lowEnergie=Not enough neon energy!
 
-chat.spaceship.open=Your spaceship is open
-chat.spaceship.missingEngine=Your spaceship needs something to produce neon energy
-chat.spaceship.missingThruster=Your spaceship has %1$s block(s) but only %2$s thruster(s); you need %3$s more thruster(s)
-chat.spaceship.lowEnergie=Not enough neon energy
-chat.spaceship.missingBeam=Your spaceship has no teleporter
-chat.spaceship.missingFuel=The thrusters don't have enough fuel. You still have %s thrusters that need to be powered
+chat.spaceship.open=Your spaceship is open.
+chat.spaceship.missingEngine=Your spaceship needs something to produce neon energy.
+chat.spaceship.missingThruster=Your spaceship has %1$s block(s) but only %2$s thruster(s); you need %3$s more thruster(s).
+chat.spaceship.lowEnergie=Not enough neon energy.
+chat.spaceship.missingBeam=Your spaceship has no teleporter.
+chat.spaceship.missingFuel=The thrusters don't have enough fuel. You still have %s thrusters that need to be powered.
 
 chat.research.add=Your research(%s) finished. 
 research.useblock.missing=You don't know how to use this object!
@@ -646,7 +646,7 @@ command.fp.research.unlock.usage=/fp research <player> unlock <all:basics:Resear
 command.fp.research.reset.feedback=Your Researches have been reset!
 command.fp.research.reset.success=The Researches from %s have been reset!
 command.fp.research.unlock.success=The Researches [%s] have been unlocked for %s!
-command.fp.research.copy.success=((TODO)) #Die Forschungen von %s wurden zu %s kopiert!
+command.fp.research.copy.success=%s's research was successfully copied to %s!
 
 
 scanner.button.0.name=Tech Tree
