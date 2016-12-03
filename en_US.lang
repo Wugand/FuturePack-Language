@@ -413,6 +413,7 @@ item.toasted_ram.name=Toasted RAM
 item.toasted_core.name=Toasted Core
 
 item.erse.name=Erse
+item.item_glowmelo.name=Glowmelo
 
 item.CopperCoil.name=Copper Coil
 item.IronCoil.name=Iron Coil
@@ -907,7 +908,7 @@ futurepack.assembly.name=Assembly Recipes
 futurepack.furnace.industrial.name=Industrial Furnace Recipes
 futurepack.furnace.industrial.neon.name=Industrial Neon Recipes
 
-
+tile.blockWithHole.name=Work in progress -- Feature is currently locked!
 
 
 

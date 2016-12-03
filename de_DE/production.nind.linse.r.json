@@ -1,0 +1,18 @@
+[
+	"Indem ich eine Laserdiode zusätzlich mit einer präzise gefertigten Fokuslinse versehe, kann ich den Strahl gezielt manipulieren um bestimmte Effekte und stärkere Wirkungen zu erzielen.",
+	"Die rote Fokuslinse manipuliert dabei den Laser so, das er sehr viel Hitze beim Auftreffen erzeugt. Dadurch ist diese Linse ideal zum Töten und zerschneiden von Objekten  geeignet.",
+	"Die Fokuslinsen benötigen einen sehr präzisen Fertigungsprozess, welchen nur der Neonindustrieofen gewährleisten kann.",
+	{
+		"type": "industrialneonfurnace",
+		"slots": {
+			"in1":  {"OreDict":"ingotAluminum", "size":1},
+			"in2":  {"name":"minecraft:stained_glass_pane", "meta":14, "size":1},
+			"in3":  {"OreDict":"dustRedstone", "size":1},
+			"out1": {"name":"fp:spaceship", "meta":"<spaceship.LinseR>", "size":1},
+			"out2": {},
+			"out3": {}
+		},
+		"support":0
+	}
+		
+]

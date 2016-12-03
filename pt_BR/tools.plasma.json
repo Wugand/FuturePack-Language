@@ -8,15 +8,15 @@
 		"slots": {
 			"1": {},
 			"2": {"name":"fp:spaceship", "meta":"<spaceship.NeonCoil>"},
-			"3": "OreDict:ingotRetium",
+			"3": {"name":"fp:spaceship", "meta":"<spaceship.CopperParts>"},
 			"4": "OreDict:ingotAluminum",
-			"5": "OreDict:ingotGlowtite",
+			"5": "OreDict:dustNeon",
 			"6": {"name":"fp:spaceship", "meta":"<spaceship.NeonCoil>"},
-			"7": "OreDict:ingotNeon",
+			"7": {"name":"fp:spaceship", "meta":"<spaceship.Tank>"},
 			"8": "OreDict:ingotAluminum",
 			"9": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
 			"out": {"name":"fp:plasmaschneider", "meta":2500, "size":1}
 		}
-	},	
+	},		
 	"Energia de néon é necessário para (re)carregar. Se as reservas de energia acabarem, o cortador de plasma será destruído."
 ]

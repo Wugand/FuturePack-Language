@@ -413,6 +413,7 @@ item.toasted_ram.name=Gerösteter RAM
 item.toasted_core.name=Gerösteter Core
 
 item.erse.name=Erse
+item.item_glowmelo.name=Glowmelo
 
 item.CopperCoil.name=Kupferspule
 item.IronCoil.name=Eisenspule
@@ -883,6 +884,9 @@ research.space.navcord.tyros=Koordinatensatz Tyros
 research.space.dronestation=Drohnenstation
 research.space.claime=Claime-Überträger
 research.space.miner=Bergbaudrohne
+research.space.turret.killer=Laserturm
+research.space.turret.heal=Regenerationslaser
+research.space.turret.absorb=Absorbationslaser
 
 research.tools.scrench=Schraubendrehschlüssel
 research.tools.airbrush=Farbpistole
@@ -900,6 +904,22 @@ research.tools.escanner=E-Scanner
 research.tools.laserbow=Laserbogen
 research.tools.grabling=Kletterschleim
 research.tools.hologramm=Hologrammsteuergerät
+research.tools.grenadelauncher=Granatwerfer
+research.tools.grenade.he=Granate
+research.tools.grenade.plasma=Plasmagranate
+research.tools.grenade.slime=Schleimgranate
+research.tools.grenade.blaze=Blazegranate
+research.tools.grenade.saat=Saatgutgranate
+research.tools.grenade.food=Fütterungsgranate
+research.tools.grenade.compost=Kompostgranate
+research.tools.sword.neon=Neonschwert
+research.tools.sword.retium=Retiumschwert
+research.tools.sword.glowtite=Glowtitschwert
+research.tools.sword.bioterium=Bioteriumschwert
+research.tools.laserrifle=Lasergewehr
+
+tile.blockWithHole.name=Work in progress -- Feature is currently locked!
+
 
 
 

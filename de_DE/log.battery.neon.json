@@ -11,7 +11,7 @@
 			"5": "OreDict:ingotGold",
 			"6": "OreDict:ingotNeon",
 			"7": "OreDict:ingotNeon",
-			"8": "OreDict:ingotGold",
+			"8": {"name":"fp:spaceship","meta":"<spaceship.GoldCoil>"},
 			"9": "OreDict:ingotNeon",
 			"out": {"name":"fp:spaceship","meta":"<spaceship.NeonBaterie>"}
 		}

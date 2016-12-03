@@ -398,6 +398,7 @@ item.Dungon-Core.name=Núcleo Coração de Masmorra
 item.Univ-Core.name=Núcleo Torus
 
 item.erse.name=Erço
+item.item_glowmelo.name=Glowmelo
 
 item.CopperCoil.name=Bobina em Cobre
 item.IronCoil.name=Bobina em Ferro
@@ -864,7 +865,7 @@ research.tools.grabling=Limo para Alpinismo
 research.tools.hologramm=Controlador de Hologramas
 
 
-
+tile.blockWithHole.name=Work in progress -- Feature is currently locked!
 
 
 
