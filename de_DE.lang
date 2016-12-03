@@ -918,6 +918,14 @@ research.tools.sword.glowtite=Glowtitschwert
 research.tools.sword.bioterium=Bioteriumschwert
 research.tools.laserrifle=Lasergewehr
 
+futurepack.zentrifuge.name=Zentrifugen Rezepte
+futurepack.jei.neededsupport= %s SP
+futurepack.crafting.name=Crafting mit Forschung
+futurepack.jei.notresearched=Dir fehlt dafür eine Forschung!
+futurepack.assembly.name=Montagetisch Rezepte
+futurepack.furnace.industrial.name=Industrieofen Rezepte
+futurepack.furnace.industrial.neon.name=Neonindustrieofen Rezepte
+
 tile.blockWithHole.name=Work in progress -- Feature is currently locked!
 
 
