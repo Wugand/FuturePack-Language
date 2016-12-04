@@ -240,11 +240,11 @@ tile.erze_kupfer.name=Minério de Cobre
 tile.erze_bauxit.name=Bauxita
 tile.erze_magnetit.name=Minério de Magnetita
 
-tile.erzBlocke_zinn_block.name=((TODO)) #Tin Block
-tile.erzBlocke_zink_block.name=((TODO)) #Zinc Block
-tile.erzBlocke_kupfer_block.name=((TODO)) #Copper Block
+tile.erzBlocke_zinn_block.name=Bloco de Estanho
+tile.erzBlocke_zink_block.name=Bloco de Zinco
+tile.erzBlocke_kupfer_block.name=Bloco de Cobre
 tile.erzBlocke_kristall_block.name=Bloco de Cristal de Néon
-tile.erzBlocke_metal_block.name=((TODO)) #Metal Block
+tile.erzBlocke_metal_block.name=Bloco de Metal
 tile.Magnet.name=Bloco de Magnetita
 tile.metalTreppe_yellow.name=Escada Metal
 tile.metalSlap_metal.name=Degrau Metal
@@ -265,11 +265,11 @@ tile.optiBench.name=Opti-Bancada
 tile.elektroMagnet.name=Eletroímã
 tile.pulsit.name=Pulsador de Gravidade
 tile.monorail.name=Monotrilho
-tile.monorail_station.name=((TODO)) #Monorail Station
-tile.monorail_waypoint.name=((TODO)) #Monorail Waypoint
-tile.monorail_booster.name=((TODO)) #Monorail Booster
-tile.monorail_charger.name=((TODO)) #Monorail Charger
-tile.monorail_detector.name=((TODO)) #Monorail Detector
+tile.monorail_station.name=Estação de Monotrilho
+tile.monorail_waypoint.name=Ponto de Monotrilho
+tile.monorail_booster.name=Impulsionador de Monotrilho
+tile.monorail_charger.name=Carregador de Monotrilho
+tile.monorail_detector.name=Detector de Monotrilho
 tile.pucher.name=Empurrador
 tile.blockFish.name=Bloco de Peixe
 tile.industrieFurnace.name=Fornalha Industrial
@@ -293,10 +293,10 @@ tile.pipe_2.name=Tubo de Néon
 tile.pipe_3.name=Tubo de Apoio
 tile.sorter.name=Classificador
 tile.erzBlocke_kristall_block_retium.name=Bloco de Cristal Rétio
-tile.erzBlocke_kristall_block_glowtit.name=((TODO)) #Glowtite Crystal Block
+tile.erzBlocke_kristall_block_glowtit.name=Bloco de Cristal Brilhatita
 tile.erzBlocke_kristall_block_bioterium.name=Bloco de Cristal Biotério
 tile.erzBlocke_kristall_block_alutin.name=Bloco de Cristal Alutina
-tile.erzBlocke_metalBlocke_metal_block_luftschacht.name=((TODO)) #Ventilation
+tile.erzBlocke_metalBlocke_metal_block_luftschacht.name=Ventilação
 tile.uncolorPane.name=Grade
 tile.uncolorGitter.name=Bloco de Grade
 tile.claime.name=Traçador Sem Fio
@@ -352,11 +352,11 @@ tile.dirt_M.name=Terra Menelaus
 tile.ftl_drive.name=Bloco FTL
 tile.advanced_boardcomputer.name=Avançado Computador Central da Nave
 
-tile.modular_door.name=((TODO)) #Modular Gate
+tile.modular_door.name=Portão Modular
 
-tile.mendel_berry.name=((TODO)) #Mendelberry Bush
+tile.mendel_berry.name=Arbusto Mendelberry
 
-fluid.liquid.neon=((TODO)) #Neon Liquid
+fluid.liquid.neon=Líquido de Néon 
 
 item.scrench.name=Scrench
 item.NeonBattery.name=Bateria de Néon Sem Carga
@@ -408,9 +408,9 @@ item.Non-Core.name=Núcleo NoN
 item.Dungon-Core.name=Núcleo Coração de Masmorra
 item.Univ-Core.name=Núcleo Torus
 
-item.toasted_chip.name=((TODO)) #Toasted Chip
-item.toasted_ram.name=((TODO)) #Toasted RAM
-item.toasted_core.name=((TODO)) #Toasted Core
+item.toasted_chip.name=Chip Queimado
+item.toasted_ram.name=Memória Queimada
+item.toasted_core.name=Núcleo Queimado 
 
 item.erse.name=Erço
 item.item_glowmelo.name=Glowmelo
@@ -524,7 +524,7 @@ item.fasern.name=Fibras
 item.hack_schnitzel.name=Lascas de Madeira
 item.kompost.name=Composto
 item.telescope.name=Telescópio
-item.laser_riffle.name=Rifle de Laser
+item.laser_riffle.name=Rifle de Plasma
 item.sword_neon.name=Espada de Néon
 item.sword_retium.name=Espada de Rétio
 item.sword_glowtite.name=Espada de Brilhatita
@@ -539,18 +539,18 @@ item.kompostgranate.name=Grenada de Composto
 item.futtergranate.name=Grenada de Alimentação
 item.saatgranate.name=Grenada de Sementes
 
-item.record_futurepack.name=((TODO)) #Music Disc
-item.record.futurepack.desc=((TODO)) #Mantes - Futurepack Soundtrack
-item.record_fp_menelaus.name=((TODO)) #Music Disc
-item.record.fp_menelaus.desc=((TODO)) #Mantes - Voice of Menelaus
-item.record_fp_tyros.name=((TODO)) #Music Disc
-item.record.fp_tyros.desc=((TODO)) #Mantes - Voice of Tyros
-item.record_fp_entros.name=((TODO)) #Music Disc
-item.record.fp_entros.desc=((TODO)) #Mantes - Voice of Entros
+item.record_futurepack.name=Disco de Música
+item.record.futurepack.desc=Mantes - Trilha Sonora Futurepack
+item.record_fp_menelaus.name=Disco de Música
+item.record.fp_menelaus.desc=Mantes - Voz de Menelaus
+item.record_fp_tyros.name=Disco de Música
+item.record.fp_tyros.desc=Mantes - Voz de Tyros
+item.record_fp_entros.name=Disco de Música
+item.record.fp_entros.desc=Mantes - Voz de Entros
 
-item.mendel_berry.name=((TODO)) #Mendelberry
-item.mendel_seed.name=((TODO)) #Mendelberry Seed
-item.mendel_flower.name=((TODO)) #Mendelberry Flower
+item.mendel_berry.name=Mendelberry
+item.mendel_seed.name=Semente de Mendelberry
+item.mendel_flower.name=Flor de Mendelberry
 
 itemGroup.fpTab.deco=Materiais Future Pack
 itemGroup.fpTab.maschiens=Maquinismo Future Pack
@@ -559,10 +559,10 @@ itemGroup.fpTab.items=Itens Future Pack
 container.opticrafting=Opti-Bancada
 container.collector=Coletor de Íons
 
-entity.fp.FP-Gehuf.name=((TODO)) #Gehuf
-entity.fp.FP-Crawler.name=((TODO)) #Crawler
+entity.fp.FP-Gehuf.name=Guerrufe
+entity.fp.FP-Crawler.name=Crawler
 
-potion.paralyze=((TODO)) #Paralyze
+potion.paralyze=Paralisar
 
 gui.fp.wandrope=Armário
 
@@ -583,16 +583,16 @@ aspect.hydraulic.name=Hidráulica
 death.attack.neonDamage=%s foi morto por Energia de Néon
 
 
-chat.beam.noBlockAbove=Não existe nenhum teleportador acima deste bloco 
-chat.beam.noBlockBelow=Não existe nenhum teleportador abaixo deste bloco 
-chat.beam.lowEnergie=Energia de Néon Insuficiente
+chat.beam.noBlockAbove=Não existe nenhum teleportador acima deste bloco. 
+chat.beam.noBlockBelow=Não existe nenhum teleportador abaixo deste bloco. 
+chat.beam.lowEnergie=Energia de Néon Insuficiente!
 
-chat.spaceship.open=Sua nave espacial está aberta
-chat.spaceship.missingEngine=Sua nave espacial precisa de algo que produza energia de néon
-chat.spaceship.missingThruster=Sua nave espacial tem %1$s bloco(s) mas somente %2$s propulsor(es); você precisa de %3$s propulsor(es) mais
-chat.spaceship.lowEnergie=Energia de néon insuficiente
-chat.spaceship.missingBeam=Sua nave espacial não tem um teleportador
-chat.spaceship.missingFuel=Os propulsores não têm combustível suficiente. Você ainda tem %s propulsor(es) que precisa(m) ser alimentado(s)
+chat.spaceship.open=Sua nave espacial está aberta.
+chat.spaceship.missingEngine=Sua nave espacial precisa de algo que produza energia de néon.
+chat.spaceship.missingThruster=Sua nave espacial tem %1$s bloco(s) mas somente %2$s propulsor(es); você precisa de %3$s propulsor(es) mais.
+chat.spaceship.lowEnergie=Energia de néon insuficiente.
+chat.spaceship.missingBeam=Sua nave espacial não tem um teleportador.
+chat.spaceship.missingFuel=Os propulsores não têm combustível suficiente. Você ainda tem %s propulsor(es) que precisa(m) ser alimentado(s).
 
 chat.research.add=Sua pesquisa(%s) terminou. 
 research.useblock.missing=Você não sabe como usar este item!
@@ -646,7 +646,7 @@ command.fp.research.unlock.usage=/fp research <jogador> unlock <all:basics:Pesqu
 command.fp.research.reset.feedback=Suas Pesquisas foram reiniciadas!
 command.fp.research.reset.success=As Pesquisas de %s foram reiniciadas!
 command.fp.research.unlock.success=As Pesquisas [%s] foram abertas para %s!
-command.fp.research.copy.success=((TODO)) #((TODO)) #Die Forschungen von %s wurden zu %s kopiert!
+command.fp.research.copy.success=A pesquisa de %s foi copiada para %s com sucesso!
 
 
 scanner.button.0.name=Írvore de Tecnologia
@@ -747,9 +747,9 @@ research.story.crystal_a=Cristal de Alutina
 research.story.crystal_g=Cristal de Brilhatita
 research.story.crystal_r=Cristal de Rétio
 research.story.crystal_b=Cristal de Biotério
-research.story.crystal_sa=((TODO)) #Bitripentium
-research.unreachable_tec=((TODO)) #Technology of the Unreachable
-research.unreach.laserbow=((TODO)) #Laserbow
+research.story.crystal_sa=Bitripéntio
+research.unreachable_tec=Tecnologia do Inacessível
+research.unreach.laserbow=Arco de Plasma
 
 research.production.blockbreaker=Quebrador de Blocos
 research.production.blockplacer=Colocador de Blocos
@@ -884,9 +884,9 @@ research.space.navcord.tyros=Coordenados Tyros
 research.space.dronestation=Estação de Drones
 research.space.claime=Traçador Sem Fio
 research.space.miner=Drone de Mineração
-research.space.turret.killer=((TODO)) #Laser Turret
-research.space.turret.heal=((TODO)) #Regeneration Laser
-research.space.turret.absorb=((TODO)) #Absorption Laser
+research.space.turret.killer=Torreta de Laser
+research.space.turret.heal=Laser de Regeneração
+research.space.turret.absorb=Laser de Absorção
 
 research.tools.scrench=Scrench
 research.tools.airbrush=Aerógrafo
@@ -904,29 +904,29 @@ research.tools.escanner=E-Scanner
 research.tools.laserbow=Arco de Plasma
 research.tools.grabling=Limo para Alpinismo
 research.tools.hologramm=Controlador de Hologramas
-research.tools.grenadelauncher=((TODO)) #Grenade Launcher
-research.tools.grenade.he=((TODO)) #Grenade
-research.tools.grenade.plasma=((TODO)) #Plasma Grenade
-research.tools.grenade.slime=((TODO)) #Slime Grenade
-research.tools.grenade.blaze=((TODO)) #Blaze Grenade
-research.tools.grenade.saat=((TODO)) #Seed Grenade
-research.tools.grenade.food=((TODO)) #Feeding Grenade
-research.tools.grenade.compost=((TODO)) #Compost Grenade
-research.tools.sword.neon=((TODO)) #Neon Sword
-research.tools.sword.retium=((TODO)) #Retium Sword
-research.tools.sword.glowtite=((TODO)) #Glowtite Sword
-research.tools.sword.bioterium=((TODO)) #Bioterium Sword
-research.tools.laserrifle=((TODO)) #Laser Rifle
+research.tools.grenadelauncher=Lançador de Grenadas
+research.tools.grenade.he=Grenada
+research.tools.grenade.plasma=Grenada de Plasma
+research.tools.grenade.slime=Grenada de Limo
+research.tools.grenade.blaze=Grenada de Blaze
+research.tools.grenade.saat=Grenada de Sementes
+research.tools.grenade.food=Grenada de Alimentação
+research.tools.grenade.compost=Grenada de Adubo
+research.tools.sword.neon=Espada de Néon
+research.tools.sword.retium=Espada de Rétio
+research.tools.sword.glowtite=Espada de Brilhatita
+research.tools.sword.bioterium=Espada de Biotério
+research.tools.laserrifle=Rifle de Plasma
 
-futurepack.zentrifuge.name=((TODO)) #Centrifuge Recipes
-futurepack.jei.neededsupport=((TODO)) # %s SP
-futurepack.crafting.name=((TODO)) #Research Crafting
-futurepack.jei.notresearched=((TODO)) #You have not researched this yet!
-futurepack.assembly.name=((TODO)) #Assembly Recipes
-futurepack.furnace.industrial.name=((TODO)) #Industrial Furnace Recipes
-futurepack.furnace.industrial.neon.name=((TODO)) #Industrial Neon Recipes
+futurepack.zentrifuge.name=Receitas de Centrífuga
+futurepack.jei.neededsupport=%s SP
+futurepack.crafting.name=Criação de Pesquisa
+futurepack.jei.notresearched=Você ainda não pesquisou isso!
+futurepack.assembly.name=Receitas de Montagem
+futurepack.furnace.industrial.name=Receitas de Fornalha Industrial
+futurepack.furnace.industrial.neon.name=Receitas de Fornalha de Néon Industrial
 
-tile.blockWithHole.name=Work in progress -- Feature is currently locked!
+tile.blockWithHole.name=Em breve -- Obra atualmente indisponível!
 
 
 
