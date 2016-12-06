@@ -1,0 +1,18 @@
+[
+	"Ao modificar um diodo de laser com uma lente de focagem, eu posso manipular a feixe para atingir efeitos mais específicos e possivelmente mais poderosos.",
+	"A lente de focagem vermelha modifica o laser para que ele gera muito calor após o impacto. Esta lente é ideal para cortar objetos e matar entidades.",
+	"Lentes de focagem requem um processo de montagem muito preciso que pode ser garantido somente pela fornalha industrial de néon.",
+	{
+		"type": "industrialneonfurnace",
+		"slots": {
+			"in1":  {"OreDict":"ingotAluminum", "size":1},
+			"in2":  {"name":"minecraft:stained_glass_pane", "meta":14, "size":1},
+			"in3":  {"OreDict":"dustRedstone", "size":1},
+			"out1": {"name":"fp:spaceship", "meta":"<spaceship.LinseR>", "size":1},
+			"out2": {},
+			"out3": {}
+		},
+		"support":0
+	}
+		
+]
