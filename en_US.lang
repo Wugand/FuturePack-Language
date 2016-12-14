@@ -655,7 +655,7 @@ scanner.button.2.name=Tech Info
 scanner.button.3.name=Calculator
 gui.scanner.start.name=Scan
 
-info.note.read=ยง2Right click to view!
+info.note.read=Right click to view!
 
 key.categories.futurepack=Futurepack
 key.fp.gleiter=Paraglider open/close
