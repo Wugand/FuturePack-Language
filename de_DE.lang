@@ -239,6 +239,9 @@ tile.erze_zink.name=Zinkerz
 tile.erze_kupfer.name=Kupfererz
 tile.erze_bauxit.name=Bauxit
 tile.erze_magnetit.name=Magnetiterz
+tile.erze_kupfer_m.name=Menelaus Kupfererz
+tile.erze_quartz_m.name=Menelaus Quartzerz
+tile.erze_coal_m.name=Menelaus Kohlererz
 
 tile.erzBlocke_zinn_block.name=Zinnblock
 tile.erzBlocke_zink_block.name=Zinkblock
@@ -355,6 +358,8 @@ tile.advanced_boardcomputer.name=Erweiterter Bordcomputer
 tile.modular_door.name=Modulares Tor
 
 tile.mendel_berry.name=Mendelbeerstrauch
+tile.planks_menelaus_mushroom.name=Menelausholzbretter
+tile.planks_tyros.name=Tyrosholzbretter
 
 fluid.liquid.neon=Neonflüssigkeit
 
@@ -547,10 +552,14 @@ item.record_fp_tyros.name=Schallplatte
 item.record.fp_tyros.desc=Mantes - Stimme von Tyros
 item.record_fp_entros.name=Schallplatte
 item.record.fp_entros.desc=Mantes - Stimme von Entros
+item.record_fp_unknown.name=Unbekannte Schallplatte
+item.record.fp_unknown.desc=Martin 1
 
 item.mendel_berry.name=Mendelbeere
 item.mendel_seed.name=Mendelbeersamen
 item.mendel_flower.name=Mendelbeerblüte
+
+item.sword_handle.name=Schwertgriff
 
 itemGroup.fpTab.deco=Future Pack-Materialien
 itemGroup.fpTab.maschiens=Future Pack-Maschinen
@@ -925,6 +934,7 @@ futurepack.jei.notresearched=Dir fehlt dafür eine Forschung!
 futurepack.assembly.name=Montagetisch Rezepte
 futurepack.furnace.industrial.name=Industrieofen Rezepte
 futurepack.furnace.industrial.neon.name=Neonindustrieofen Rezepte
+futurepack.crusher.name=Superbrecher Rezepte
 
 tile.blockWithHole.name=Work in progress -- Feature is currently locked!
 
