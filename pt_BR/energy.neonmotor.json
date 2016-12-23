@@ -35,5 +35,5 @@
             "out": {"name":"fp:neon_engine","meta":0}
         }
     },
-    "Para manipulação fácil, eu construí o motor de néon para utilizar redstone. Adicionalmente, precisa de um tempinho para aquecer; a produção de RF (fluxo de redstone) escala proporcionalmente à temperatura."
+	"Para manipulação fácil, eu construí o motor de néon para utilizar redstone. Adicionalmente, precisa de um tempinho para aquecer; a produção de RF (fluxo de redstone) escala proporcionalmente à temperatura."
 ]
