@@ -1,0 +1,19 @@
+[
+	"En utilisant d'autres réactions en métal, je suis capable d'augmenter la capacité, ainsi que la tension des batteries. J'ai l'impression que chaque combinaison de matériaux à une tension de sortie spécifique.",
+	"Craft :",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {},
+			"2": {"name":"fp:spaceship","meta":"<spaceship.CopperParts>"},
+			"3": {},
+			"4": "OreDict:ingotAluminum",
+			"5": "OreDict:ingotGold",
+			"6": "OreDict:ingotAluminum",
+			"7": "OreDict:ingotAluminum",
+			"8": "OreDict:ingotGold",
+			"9": "OreDict:ingotAluminum",
+			"out": {"name":"fp:spaceship","meta":"<spaceship.LargeBaterie>"}
+		}
+	}
+]

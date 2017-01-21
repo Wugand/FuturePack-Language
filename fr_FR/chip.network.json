@@ -1,0 +1,14 @@
+[
+    "J'ai développé une puce qui permet aux machines de communiquer entre-elle via un réseau.",
+    "Assemblage:",
+    {
+        "type": "assembly",
+        "slots": {
+            "in1": {"name":"fp:spaceship","meta":"<spaceship.Silizium>","size":2},
+            "in2": {"name":"fp:spaceship","meta":"<spaceship.QuartzParts>","size":2},
+            "in3": {"name":"fp:spaceship","meta":"<spaceship.NeonCoil>","size":1},
+            "out": {"name":"fp:chip", "meta":"<chip.NetworkChip>", "size":1}
+        }
+    },
+    "Je n'ai pas d'utilisation concrète de cette puce pour le moment, mais peut-être que je serai capable de l'utiliser un jour."
+]

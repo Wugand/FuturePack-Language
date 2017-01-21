@@ -1,0 +1,21 @@
+[
+	"Avec la Glowtite trouvée sur Menelaus, j'ai pu faire évoluer la lampe au Néon. L'énergie interne a été remplacée par un nouveau mélange. J'utilise la Glowtite comme source d'énergie, qui, en combinaison avec la Glowstone (et une seule source d'énergie) crée un plasma que je dissimule à l'intérieur de la lampe à l'aide d'un champ magnétique, où il émet de la lumière en permanence.",
+	"Cette réaction, bien que pas très puissante, est suffisante pour une source de lumière. De plus, cette lampe n'a besoin ni d'énergie Néon, ni de signal de Redstone pour fonctionner.",
+	"Craft :",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": [{"name":"fp:color_glas", "meta":0},{"name":"fp:color_glas", "meta":1},{"name":"fp:color_glas", "meta":2},{"name":"fp:color_glas", "meta":3},{"name":"fp:color_glas", "meta":4},{"name":"fp:color_glas", "meta":5},{"name":"fp:color_glas", "meta":6},{"name":"fp:color_glas", "meta":7},{"name":"fp:color_glas", "meta":8},{"name":"fp:color_glas", "meta":9},{"name":"fp:color_glas", "meta":10},{"name":"fp:color_glas", "meta":11},{"name":"fp:color_glas", "meta":12},{"name":"fp:color_glas", "meta":13},{"name":"fp:color_glas", "meta":14},{"name":"fp:color_glas", "meta":15}],
+			"2": {"OreDict":"ingotMagnetite"},
+			"3": [{"name":"fp:color_glas", "meta":0},{"name":"fp:color_glas", "meta":1},{"name":"fp:color_glas", "meta":2},{"name":"fp:color_glas", "meta":3},{"name":"fp:color_glas", "meta":4},{"name":"fp:color_glas", "meta":5},{"name":"fp:color_glas", "meta":6},{"name":"fp:color_glas", "meta":7},{"name":"fp:color_glas", "meta":8},{"name":"fp:color_glas", "meta":9},{"name":"fp:color_glas", "meta":10},{"name":"fp:color_glas", "meta":11},{"name":"fp:color_glas", "meta":12},{"name":"fp:color_glas", "meta":13},{"name":"fp:color_glas", "meta":14},{"name":"fp:color_glas", "meta":15}],
+			"4": {"name":"minecraft:glowstone_dust"},
+			"5": {"OreDict":"ingotGlowtite"},
+			"6": {"name":"minecraft:glowstone_dust"},
+			"7": [{"name":"fp:color_glas", "meta":0},{"name":"fp:color_glas", "meta":1},{"name":"fp:color_glas", "meta":2},{"name":"fp:color_glas", "meta":3},{"name":"fp:color_glas", "meta":4},{"name":"fp:color_glas", "meta":5},{"name":"fp:color_glas", "meta":6},{"name":"fp:color_glas", "meta":7},{"name":"fp:color_glas", "meta":8},{"name":"fp:color_glas", "meta":9},{"name":"fp:color_glas", "meta":10},{"name":"fp:color_glas", "meta":11},{"name":"fp:color_glas", "meta":12},{"name":"fp:color_glas", "meta":13},{"name":"fp:color_glas", "meta":14},{"name":"fp:color_glas", "meta":15}],
+			"8": {"OreDict":"ingotMagnetite"},
+			"9": [{"name":"fp:color_glas", "meta":0},{"name":"fp:color_glas", "meta":1},{"name":"fp:color_glas", "meta":2},{"name":"fp:color_glas", "meta":3},{"name":"fp:color_glas", "meta":4},{"name":"fp:color_glas", "meta":5},{"name":"fp:color_glas", "meta":6},{"name":"fp:color_glas", "meta":7},{"name":"fp:color_glas", "meta":8},{"name":"fp:color_glas", "meta":9},{"name":"fp:color_glas", "meta":10},{"name":"fp:color_glas", "meta":11},{"name":"fp:color_glas", "meta":12},{"name":"fp:color_glas", "meta":13},{"name":"fp:color_glas", "meta":14},{"name":"fp:color_glas", "meta":15}],
+			"out": [{"name":"fp:color_plasma_on", "meta":0, "size":4},{"name":"fp:color_plasma_on", "meta":1, "size":4},{"name":"fp:color_plasma_on", "meta":2, "size":4},{"name":"fp:color_plasma_on", "meta":3, "size":4},{"name":"fp:color_plasma_on", "meta":4, "size":4},{"name":"fp:color_plasma_on", "meta":5, "size":4},{"name":"fp:color_plasma_on", "meta":6, "size":4},{"name":"fp:color_plasma_on", "meta":7, "size":4},{"name":"fp:color_plasma_on", "meta":8, "size":4},{"name":"fp:color_plasma_on", "meta":9, "size":4},{"name":"fp:color_plasma_on", "meta":10, "size":4},{"name":"fp:color_plasma_on", "meta":11, "size":4},{"name":"fp:color_plasma_on", "meta":12, "size":4},{"name":"fp:color_plasma_on", "meta":13, "size":4},{"name":"fp:color_plasma_on", "meta":14, "size":4},{"name":"fp:color_plasma_on", "meta":15, "size":4}]
+		}
+	},
+	"En utilisant un signal de Redstone, je peux réguler la réaction pour que la lampe n'émette pas trop de lumière."
+]

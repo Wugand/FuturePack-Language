@@ -1,0 +1,20 @@
+[
+	"Je suis capable de créer une combinaison de tube et de câble, grâce à mes recherches poussées sur ces 2 objets. Pour réaliser cela, j'ai ajouté des conducteurs Néons dans le cadre en aluminium des tubes. J'ai donc créé un tube à objets qui peut également transporter de l'énergie Néon.",
+	"Craft:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {},
+			"2": {"OreDict":"ingotNeon"},
+			"3": {},
+			"4": {"name":"fp:pipe", "meta":0},
+			"5": {"name":"fp:pipe", "meta":0},
+			"6": {"name":"fp:pipe", "meta":0},
+			"7": {},
+			"8": {},
+			"9": {},
+			"out": {"name":"fp:pipe", "meta":2, "size":3}
+		}
+	},
+	"Configuration: En utilisant la clé à molette, je suis capable de configurer toute les faces d'un segment de tube, je peux donc les empêcher de ce connecter sur ce côté.(§lClicl droit§r sur le côté souhaité). De plus, ces tubes ont un troisième état, remarquable grâce à un point bleu sur le côté. Dans cet état, seul l'énergie Néon peut sortir par cette face, bloquant les objets."
+]

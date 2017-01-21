@@ -1,0 +1,19 @@
+[
+	"J'ai développé une nouvelle puce, qui permet aux machines de se géo-localiser.",
+	"Après avoir analyser le mode de fonctionnement de la boussole, j'ai réussi à la recréer sous forme électronique.",	
+
+	"Assemblage:",
+	{
+		"type": "assembly",
+		"slots": {
+			"in1": {"name":"fp:spaceship","meta":"<spaceship.Silizium>","size":1},
+			"in2": {"name":"fp:spaceship","meta":"<spaceship.QuartzParts>","size":1},
+			"in3": {"name":"compass","meta":0,"size":1},
+			"out": {"name":"fp:chip", "meta":"<chip.NavigationChip>", "size":1}
+		}
+	},	
+	
+	"Une puce de transport de plus haute qualité (puce haute puissance) n'apporte pas d'avantage pour rapport à une puce normale !",
+	"Information: Il est à noter que l'effet peut être différent en fonction des machines.",
+	"Information: Pour les informations générales, se référer à la puce Logique."
+]

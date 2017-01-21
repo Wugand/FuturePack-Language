@@ -1,0 +1,21 @@
+[
+	"J'ai développé une source lumineuse très brillante. Elle est composé d'un boîtier en vitre pare-balles dans lequel le vide d'air a été fait. A l'intérieur, l'énergie Néon traverse une bobine afin de stimuler de la poussière extrêmement fine de Néon. Combiné à de la poudre de Redstone, une réaction se produit ce qui émet d'importants flux lumineux.",
+	"En raison de sa fabrication, il est nécessaire d'avoir de l'énergie Néon ainsi qu'un signal de Redstone pour l'alimenter.",
+	"Craft :",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": [{"name":"fp:color_glas", "meta":0},{"name":"fp:color_glas", "meta":1},{"name":"fp:color_glas", "meta":2},{"name":"fp:color_glas", "meta":3},{"name":"fp:color_glas", "meta":4},{"name":"fp:color_glas", "meta":5},{"name":"fp:color_glas", "meta":6},{"name":"fp:color_glas", "meta":7},{"name":"fp:color_glas", "meta":8},{"name":"fp:color_glas", "meta":9},{"name":"fp:color_glas", "meta":10},{"name":"fp:color_glas", "meta":11},{"name":"fp:color_glas", "meta":12},{"name":"fp:color_glas", "meta":13},{"name":"fp:color_glas", "meta":14},{"name":"fp:color_glas", "meta":15}],
+			"2": {"OreDict":"dustNeon"},
+			"3": [{"name":"fp:color_glas", "meta":0},{"name":"fp:color_glas", "meta":1},{"name":"fp:color_glas", "meta":2},{"name":"fp:color_glas", "meta":3},{"name":"fp:color_glas", "meta":4},{"name":"fp:color_glas", "meta":5},{"name":"fp:color_glas", "meta":6},{"name":"fp:color_glas", "meta":7},{"name":"fp:color_glas", "meta":8},{"name":"fp:color_glas", "meta":9},{"name":"fp:color_glas", "meta":10},{"name":"fp:color_glas", "meta":11},{"name":"fp:color_glas", "meta":12},{"name":"fp:color_glas", "meta":13},{"name":"fp:color_glas", "meta":14},{"name":"fp:color_glas", "meta":15}],
+			"4": {"name":"minecraft:redstone"},
+			"5": {"name":"fp:spaceship", "meta":"<spaceship.NeonCoil>"},
+			"6": {"name":"minecraft:redstone"},
+			"7": [{"name":"fp:color_glas", "meta":0},{"name":"fp:color_glas", "meta":1},{"name":"fp:color_glas", "meta":2},{"name":"fp:color_glas", "meta":3},{"name":"fp:color_glas", "meta":4},{"name":"fp:color_glas", "meta":5},{"name":"fp:color_glas", "meta":6},{"name":"fp:color_glas", "meta":7},{"name":"fp:color_glas", "meta":8},{"name":"fp:color_glas", "meta":9},{"name":"fp:color_glas", "meta":10},{"name":"fp:color_glas", "meta":11},{"name":"fp:color_glas", "meta":12},{"name":"fp:color_glas", "meta":13},{"name":"fp:color_glas", "meta":14},{"name":"fp:color_glas", "meta":15}],
+			"8": {"OreDict":"dustNeon"},
+			"9": [{"name":"fp:color_glas", "meta":0},{"name":"fp:color_glas", "meta":1},{"name":"fp:color_glas", "meta":2},{"name":"fp:color_glas", "meta":3},{"name":"fp:color_glas", "meta":4},{"name":"fp:color_glas", "meta":5},{"name":"fp:color_glas", "meta":6},{"name":"fp:color_glas", "meta":7},{"name":"fp:color_glas", "meta":8},{"name":"fp:color_glas", "meta":9},{"name":"fp:color_glas", "meta":10},{"name":"fp:color_glas", "meta":11},{"name":"fp:color_glas", "meta":12},{"name":"fp:color_glas", "meta":13},{"name":"fp:color_glas", "meta":14},{"name":"fp:color_glas", "meta":15}],
+			"out": [{"name":"fp:color_neon_on", "meta":0, "size":4},{"name":"fp:color_neon_on", "meta":1, "size":4},{"name":"fp:color_neon_on", "meta":2, "size":4},{"name":"fp:color_neon_on", "meta":3, "size":4},{"name":"fp:color_neon_on", "meta":4, "size":4},{"name":"fp:color_neon_on", "meta":5, "size":4},{"name":"fp:color_neon_on", "meta":6, "size":4},{"name":"fp:color_neon_on", "meta":7, "size":4},{"name":"fp:color_neon_on", "meta":8, "size":4},{"name":"fp:color_neon_on", "meta":9, "size":4},{"name":"fp:color_neon_on", "meta":10, "size":4},{"name":"fp:color_neon_on", "meta":11, "size":4},{"name":"fp:color_neon_on", "meta":12, "size":4},{"name":"fp:color_neon_on", "meta":13, "size":4},{"name":"fp:color_neon_on", "meta":14, "size":4},{"name":"fp:color_neon_on", "meta":15, "size":4}]
+		}
+	},
+	"Un fil de néon enduit de Redstone serait particulièrement adapté pour son approvisionnement en énergie."
+]

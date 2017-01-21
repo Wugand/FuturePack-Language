@@ -1,0 +1,26 @@
+[
+	"Les points Support produit par ma machine ne peuvent pas être transportés de façon classique, parce que ce ne sont que des données virtuelles. Pour résoudre ce problème, j'ai développé une mémoire Flash, qui peut stocker et transporter une certaine quantité de points Support.",
+	"Cette première mémoire Flash toute simple (mémoire Redstone Flash) est basé sur un petit élément de Redstone qui peut prendre 2 états. Comme ces éléments sont très sensibles aux influences physiques et électriques, je les ai placés dans une petite caisse protectrice en or et résistante à la corrosion.",
+	"Une puce logique incluse à la mémoire contient un programme spécifique qui permet de gérer l'organisation interne et d'avoir un accès à la mémoire.",
+	
+	"Assemblage:",
+	{
+		"type": "assembly",
+		"slots": {
+			"in1": {"name":"fp:chip","meta":0,"size":1},
+			"in2": {"OreDict":"ingotGold","size":1},
+			"in3": {"OreDict":"dustRedstone","size":1},
+			"out": {"name":"fp:spaceship", "meta":"<spaceship.SupportSpeicher0>", "size":1}
+		}
+	},
+	"Capacité: 128 SP",
+	
+	"Information: l'emplacement suivant sert au chargement/déchargement des mémoires Flash (présent sur quelques machines).",
+	{
+		"type":"image",
+		"width":32,
+		"height":32,
+		"resource":"fp:textures/research/slot_support.png"
+	}
+	
+]

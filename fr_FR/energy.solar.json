@@ -1,0 +1,26 @@
+[
+	"Grâce à mon observation de l'environnement, j'ai appris que la plupart de mes procédés obtiennent leur énergie plus ou moins directement du soleil. J'ai donc essayé de générer mon énergie directement à partir des radiations du soleil.",
+	"J'ai noté une interaction entre les couches de silicium et le soleil, ce qui crée une différence de tension qui se génère entre les couches de silicium. La puissance du courant dépend de celle des radiations.",
+
+	"Craft :",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>"},
+			"2": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>"},
+			"3": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>"},
+			"4": {"OreDict":"ingotNeon"},
+			"5": [{"name":"fp:color_iron","meta":0},{"name":"fp:color_iron","meta":8},{"name":"fp:color_iron","meta":15}],
+			"6": {"OreDict":"ingotNeon"},
+			"7": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"8": {"name":"fp:spaceship", "meta":"<spaceship.Maschinboard>"},
+			"9": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"out": [{"name":"fp:solarpanel","meta":0},{"name":"fp:solarpanel","meta":1},{"name":"fp:solarpanel","meta":2}]
+		}
+	},
+	"Comme ce module utilise un système informatique, je peux augmenter de façon notable la production en mettant plusieurs modules solaires et rendre la conversion plus performante.",
+	"En augmentant la valeur de la \"RAM\" cette énergie sera produite et émise plus rapidement.",
+	
+	"Puces compatibles:",
+	"Puce logique\nPuce Industrielle (quantité d'énergie)\nPuce de contrôle Redstone\nPuce de contrôle des Dommages"
+]

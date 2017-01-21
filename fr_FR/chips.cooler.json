@@ -1,0 +1,22 @@
+[
+	"En utilisant mes études de thermodynamique, j'ai développé une amélioration pour mes systèmes assistés par ordinateur.",
+	"Je peux coller ce module à chacune des faces de la machine, pour disperser la chaleur vers l'extérieur. En fonction de la chaleur environnementale (chaleur du biome), jusqu'à 3 points de chaleur additionnels peuvent être évacués en permanence.",
+	"La puissance de refroidissement est signifiée par une lumière bleue (3), verte (2) or rouge (1) sur le dissipateur.",
+
+	"Craft :",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"name":"fp:spaceship", "meta":"<spaceship.CopperCoil>"},
+			"2": {"OreDict":"ingotCopper"},
+			"3": {"name":"fp:spaceship", "meta":"<spaceship.CopperCoil>"},
+			"4": {"name":"fp:spaceship", "meta":"<spaceship.CopperCoil>"},
+			"5": {"OreDict":"ingotCopper"},
+			"6": {"name":"fp:spaceship", "meta":"<spaceship.CopperCoil>"},
+			"7": {"OreDict":"ingotIron"},
+			"8": {"OreDict":"ingotCopper"},
+			"9": {"OreDict":"ingotIron"},
+			"out": {"name":"fp:extern_cooler", "meta":0}
+		}
+	}
+]
