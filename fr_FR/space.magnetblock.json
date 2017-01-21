@@ -1,0 +1,21 @@
+[
+	"Bien qu'une simple barre d'aimant soit utile, elle est relativement faible. C'est pourquoi, j'en ai connecté plusieurs pour créer un grand bloc magnétique.",
+	"Craft :",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"name":"fp:ItemErze","meta":4},
+			"2": {"name":"fp:ItemErze","meta":4},
+			"3": {"name":"fp:ItemErze","meta":4},
+			"4": {"name":"fp:ItemErze","meta":4},
+			"5": "OreDict:ingotMagnetite",
+			"6": {"name":"fp:ItemErze","meta":4},
+			"7": {"name":"fp:ItemErze","meta":4},
+			"8": {"name":"fp:ItemErze","meta":4},
+			"9": {"name":"fp:ItemErze","meta":4},
+			"out": {"name":"fp:magnet","meta":0}
+		}
+	},
+	"Il peut attirer des objets, wagonnets ou autres objets en métal s'ils sont positionnés dans un rayon de 5 blocs.",
+	"Ça me fait demander ce qu'il se passerait si d'autres aimants étaient en présence de ce blocs."
+]

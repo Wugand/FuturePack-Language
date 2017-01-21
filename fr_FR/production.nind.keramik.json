@@ -1,0 +1,19 @@
+[
+	"La plupart des métaux normaux fondent rapidement quand ils sont exposés à de fortes températures. J'ai recherché les matériaux qui ont la plus grande résistance à la chaleur.",
+	"L'argile cuite et l'obsidienne montrent d'intéressantes propriétés. Après avoir retirer les impuretés de l'argile, je peux créer une sorte de bouclier thermique.",
+	"Les plaques fabriquées avec cette argile ne résistent pas seulement à de fortes températures mais reflète aussi la chaleur.",
+
+	{
+		"type": "industrialneonfurnace",
+		"slots": {
+			"in1":  {"OreDict":"dustObsidian", "size":1},
+			"in2":  {"name":"minecraft:clay_ball", "meta":0, "size":1},
+			"in3":  {"OreDict":"dustObsidian", "size":1},
+			"out1": {"OreDict":"keramik", "size":2},
+			"out2": {},
+			"out3": {}
+		},
+		"support":0
+	}
+		
+]

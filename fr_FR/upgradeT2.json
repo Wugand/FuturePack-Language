@@ -1,0 +1,22 @@
+[
+	"Pour utiliser les données d'analyses (Support) de mes machines (Banc Optique, Four au Néon,...), j'ai besoin d'un autre module de recherche adapté.",
+	"Ce module doit être directement connecté au module de Recherche (positionné juste à côté de lui) pour être capable de fonctionner, bien que le travail doit être fait dans le Module de Recherches lui même.",
+
+	"Craft :",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"name":"fp:spaceship", "meta":"<spaceship.GoldParts>"},
+			"2": {"name":"fp:scrench"},
+			"3": {"name":"fp:spaceship", "meta":"<spaceship.GoldParts>"},
+			"4": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>"},
+			"5": [ {"name":"fp:color_iron","meta":0}, {"name":"fp:color_iron","meta":8}, {"name":"fp:color_iron","meta":15} ],
+			"6": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>"},
+			"7": {"name":"fp:spaceship", "meta":"<spaceship.SupportSpeicher0>"},
+			"8": {"name":"fp:spaceship", "meta":"<spaceship.GoldCoil>"},
+			"9": {"name":"fp:spaceship", "meta":"<spaceship.SupportSpeicher0>"},
+			"out": [{"name":"fp:modul_2","meta":2},{"name":"fp:modul_2","meta":6},{"name":"fp:modul_2","meta":10}]
+		}
+	},	
+	"Le module peut stocker jusqu'à 512 SP. Si ce n'est pas assez (voir les spécifications dans le Blueprint), je peux en connecter plusieurs avec le module de Recherches. Les points Supports sont transférable par mémoires Flash dans ce module."
+]

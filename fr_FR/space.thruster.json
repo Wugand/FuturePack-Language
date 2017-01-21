@@ -1,0 +1,58 @@
+[
+	"J'ai développé des moteurs pour lesquels j'ai atteint le meilleur en termes de fonctionnalités et de design. Ils contiennent des céramiques et des métaux résistants aux hautes températures pour pouvoir transmettre le maximum de forces au vaisseau spatial.",
+    "Craft :",
+    {
+        "type": "crafting",
+        "slots": {
+            "1": {"name":"fp:spaceship","meta":"<spaceship.keramik>"},
+            "2": {"name":"fp:spaceship","meta":"<spaceship.keramik>"},
+            "3": {"name":"fp:spaceship","meta":"<spaceship.CompositeMetall>"},
+            "4": {"name":"fp:spaceship","meta":"<spaceship.QuartzParts>"},
+            "5": [
+                    {"name":"fp:lackTank3"},
+                    {"name":"fp:lackTank4"},
+                    {"name":"fp:lackTank5"},
+                    {"name":"fp:lackTank1"},
+                    {"name":"fp:lackTank10"}
+                 ],
+            "6": [
+                    {"name":"fp:color_iron","meta":0},
+                    {"name":"fp:color_iron","meta":0},
+                    {"name":"fp:color_iron","meta":0},
+                    {"name":"fp:color_iron","meta":0},
+                    {"name":"fp:color_iron","meta":0},
+                    {"name":"fp:color_iron","meta":8},
+                    {"name":"fp:color_iron","meta":8},
+                    {"name":"fp:color_iron","meta":8},
+                    {"name":"fp:color_iron","meta":8},
+                    {"name":"fp:color_iron","meta":8},
+                    {"name":"fp:color_iron","meta":15},
+                    {"name":"fp:color_iron","meta":15},
+                    {"name":"fp:color_iron","meta":15},
+                    {"name":"fp:color_iron","meta":15},
+                    {"name":"fp:color_iron","meta":15}
+                 ],
+            "7": {"name":"fp:spaceship","meta":"<spaceship.keramik>"},
+            "8": {"name":"fp:spaceship","meta":"<spaceship.keramik>"},
+            "9": {"name":"fp:spaceship","meta":"<spaceship.CompositeMetall>"},
+            "out": [
+                    {"name":"fp:triebwerk","meta":0},
+                    {"name":"fp:triebwerk","meta":1},
+                    {"name":"fp:triebwerk","meta":2},
+                    {"name":"fp:triebwerk","meta":3},
+                    {"name":"fp:triebwerk","meta":4},
+                    {"name":"fp:triebwerk","meta":5}, 
+                    {"name":"fp:triebwerk","meta":6}, 
+                    {"name":"fp:triebwerk","meta":7}, 
+                    {"name":"fp:triebwerk","meta":8}, 
+                    {"name":"fp:triebwerk","meta":9}, 
+                    {"name":"fp:triebwerk","meta":10}, 
+                    {"name":"fp:triebwerk","meta":11}, 
+                    {"name":"fp:triebwerk","meta":12}, 
+                    {"name":"fp:triebwerk","meta":13}, 
+                    {"name":"fp:triebwerk","meta":14}
+                   ]              
+        }
+    },
+    "Note : vous pouvez les mettre en route ou les arrêter avec de la Redstone, mais cela n'a aucun effet sur le vol."
+]

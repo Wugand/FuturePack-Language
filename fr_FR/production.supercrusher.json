@@ -1,0 +1,27 @@
+[
+	"Les diamants sont les matériaux les plus durs que je connaisse. Grâce à eux, je vais pouvoir pulvériser tous les types de lingots, de minerais et de cristaux. Pour cela, j'ai créé un moulin automatisé.",
+	
+	"Craft :",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"OreDict":"gemDiamond"},
+			"2": {"name":"fp:spaceship", "meta":"<spaceship.DiaParts>"},
+			"3": {"OreDict":"gemDiamond"},
+			"4": {"OreDict":"ingotNeon"},
+			"5": [{"name":"fp:color_iron","meta":0},{"name":"fp:color_iron","meta":8},{"name":"fp:color_iron","meta":15}],
+			"6": {"OreDict":"ingotNeon"},
+			"7": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"8": {"name":"fp:spaceship", "meta":"<spaceship.Maschinboard>"},
+			"9": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"out": [{"name":"fp:crusher","meta":2},{"name":"fp:crusher","meta":6},{"name":"fp:crusher","meta":10}]
+		}
+	},
+		
+	"J'ai construit un moulin à diamants et je l'ai combiné à un système informatique pour l'accélérer et empêcher une usure coûteuse.",
+	"De plus, je peux dupliquer le rendement des minerais en les pulvérisant. Cela peut aussi servir à raffiner du cristal sans charbon. Normalement, les poussières seront ensuite fondues en lingot dans un second temps.",
+		
+	"Puces supportées :",
+	"Puce Logique\nPuce de Transport\nPuce de contrôle Redstone\nPuce Ultime\nPuce de contrôle des Dommages"	
+	
+]
