@@ -1,0 +1,21 @@
+[
+    "Quand je jouais autour des aimants et des cristaux, j'ai remarqué quelques choses d'intéressant : je ne sais pas exactement comment, mais je peux créer une sorte d'onde de force qui pousse tous les objets dans une direction précise, comme la gravité.",
+    "La pulsation, qui est probablement due au Retium, est activée par un signal de Redstone.",
+	"Craft :",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": "OreDict:ingotRetium",
+			"2": {"name":"fp:magnet","meta":0},
+			"3": "OreDict:ingotRetium",
+			"4": "OreDict:ingotRetium",
+			"5": {"name":"fp:erz_blocke","meta":3},
+			"6": "OreDict:ingotRetium",
+			"7": "OreDict:ingotRetium",
+			"8": {"name":"fp:magnet","meta":0},
+			"9": "OreDict:ingotRetium",
+			"out": {"name":"fp:pulsit","meta":0}
+		}
+	},
+	"Je me suis peut-être complètement trompé et j'ai peut-être découvert quelques choses de totalement différent de la gravité."
+]

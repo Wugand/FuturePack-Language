@@ -1,0 +1,30 @@
+[
+	"J'ai combiné une machine spéciale avec un système informatique spécifique pour créer un outil qui automatise le processus de craft automatique. Le système informatique interne peut être amélioré en terme de fonctionnalité ou de vitesse, comme mes prototypes (se référer à \"Overdrive\")",
+	"Craft :",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"name":"minecraft:crafting_table"},
+			"2": {"name":"minecraft:piston"},
+			"3": {"name":"minecraft:crafting_table"},
+			"4": {"OreDict":"ingotNeon"},
+			"5": [{"name":"fp:color_iron","meta":0},{"name":"fp:color_iron","meta":8},{"name":"fp:color_iron","meta":15}],
+			"6": {"OreDict":"ingotNeon"},
+			"7": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"8": {"name":"fp:spaceship", "meta":"<spaceship.Maschinboard>"},
+			"9": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"out": [{"name":"fp:opti_bench","meta":2},{"name":"fp:opti_bench","meta":6},{"name":"fp:opti_bench","meta":10}]
+		}
+	},
+	"Dans son fonctionnement normal, la machine craft la recette avec les éléments qui se trouvent dans la grille 3x3. Il faut néanmoins que le système informatique fonctionne et qu'il soit alimenté en énergie Néon. Cependant, comme je pense que cette fonction n'est pas parfaite, j'ai ajouté un mode Recette.",
+	
+	"Pour l'utiliser, il faut tout d'abord passer en mode Création de Recette (en cliquant sur le bouton au dessus de la barre de progression). Là, je peux placer n'importe quelles ressources nécessaires à la recette dans la grille 3x3. Dans l'emplacement en haut, je dois insérer un cristal (quelque soit le type) qui permettra d'enregistrer la recette. L'objet Crafté apparaît alors dans l'emplacement de sortie de la grille de Craft. Si tout semble OK, je peux sauvegarder la recette dans le cristal en prenant la fiche de recette dans l'emplacement du bas. Maintenant que j'ai ce dont j'ai besoin, je peux retirer tous les objets de la grille de Craft ou simplement réaliser le Craft.",
+	
+	"En revenant dans l'interface normale du banc optique, je peux insérer la fiche de recette dans l'emplacement prévu (à côté du bouton). Maintenant le banc Optique peut seulement réaliser cette recette et organise automatiquement les objets dans la grille de Craft.",
+
+	"Le produit fini peut être extrait manuellement ou automatiquement (entonnoir, Pousseur, ...). L'emplacement le plus bas sert à remplir des mémoires Flash avec des points Support. La machine ne prends que les objets nécessaires à la recette.",
+	
+	"Puces supportées:",
+	"Puce Logique\nPuce de Transport\nPuce de Contrôle Redstone\nPuce Support\nPuce Ultime\nPuce de Contrôle de Dommage"
+
+]

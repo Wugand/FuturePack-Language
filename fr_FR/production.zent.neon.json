@@ -1,0 +1,20 @@
+[
+	"La force centrifuge semble aussi fonctionner sur les cristaux de Néon. Cela donne en grande partie des cristaux de silicium simples, mais également de petites structures lumineuses...",
+	"Après des analyses plus poussées, j'ai découvert que ce sont des atomes extrêmement rares et volatiles appelés Bitripentium qui sont stabilisés dans une petite coquille de silicium.",
+	"Je peux appliquer cette méthode à tous les cristaux, mais je dois d'abord les réduire en poussière.",
+	"Exemple :",
+    {
+        "type":"zentrifuge",
+        "slots":
+        {
+            "in":{"OreDict":"dustNeon", "size":32},
+            "out1":{"OreDict":"gemQuartz", "size":32},
+            "out2":{"OreDict":"gemBitripentium", "size":1},
+            "out3":{}
+        },
+	    "support":0,
+	    "time":150
+    },
+	
+    "Information : La centrifugeuse a un nombre important de recettes, qui ne sont pas toutes listées ici !"
+]

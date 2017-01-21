@@ -1,0 +1,31 @@
+[
+	"Je peux modifier à tous moments tous mes systèmes informatiques. Cela peut être réalisé en faisant §lShift + Clic Droit§r avec une $lClé à Molette§r (Mode Modification) sur la machine.",
+	
+	"Interface de Tuning :",
+	{
+		"type":"image",
+		"width":246,
+		"height":68,
+		"resource":"fp:textures/show_gui_tuning.png"
+	},
+	"Info : Vous devriez d'abord lire \"Processeur Standard\", \"Mémoire Standard\" et \"Puce Logique\" !",
+	
+	"Composants:",
+	"Processeur: emplacement central\nMémoire: 3 emplacements à droite\nPuce: 9 emplacement à gauche",
+	"",
+	"Mémoire / Vitesse :",
+	"Je peux mettre 3 modules mémoires, mais au moins une est nécessaire. En utilisant plusieurs modules de mémoire, je peux additionner les valeurs ensemble.",
+	"La somme de ces valeurs de \"RAM\", affecte directement la vitesse de la machine dans toutes ces fonctions (\"cycles de travail\" par seconde). Le total est donné dans le coin en bas à gauche (1 RAM = 5%; 100% est le tick normal de Minecraft).",
+	"",
+	"Puce / Effets:",
+	"Je peux insérer jusqu'à 9 Puces, mais au moins une Puce Logique ou une puce *Tier 2* (\"Puissance Processeur\" = 2) est nécessaire. Toutes les autres puces ajoutent des effets spécifiques à la machine.",
+	"Ces effets peuvent être trouvés dans la zone de Recherche pour la Puce. Il est à noter qu'une puce n'aura pas le même effet en fonction de la machine. De plus, certaines puces seront sans utilité pour une machine spécifique. Ces effets peuvent également être bloqués dans l'arbre des Technologies.",
+	"",
+	"Puissance de Processeur / Surcharge :",
+	"Le processeur est le cœur de tous les systèmes ; ces capacités actuelles sont données par la barre du haut. La flèche rouge marque la capacité maximale du Processeur. Si la limite est dépassée, le système commence à chauffer. Cela peut être diminuer par des éléments externes. La température est données à gauche de l'interface.",
+	"Si le système dépasse les 1000°C, le processeur devient alors hors service. Le système n'est plus opérationnel tant que le processeur n'est pas remplacé.",
+	"",
+	"Consommation / Opérabilité :",
+	"Si un symbole Attention rouge apparaît en haut à gauche, la machine est inopérante. Cela est dû à un problème sur un composant.",
+	"L'affichage au milieu à gauche (icône de foudre) montre la consommation d'énergie (seulement pour des appareils en consommant)par cycle de travail ; cette valeur dépend des composants utilisés. Pour les générateurs d'énergie, elle montre la production par cycle ou par objet."
+]

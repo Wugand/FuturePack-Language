@@ -1,0 +1,20 @@
+[
+	"Le Bitripentium peut contenir énormément d'énergie, mais il est très compliqué de diviser le noyau. Une simple explosion n'est pas suffisante, mais le processus peut être réalisé avec des bâtons de Blaze.",
+    
+	"Craft :",
+    {
+        "type": "crafting",
+        "slots": {
+            "1": {"OreDict":"gemBitripentium"},
+            "2": {"name":"minecraft:gunpowder","meta":0},
+            "3": {"OreDict":"gemBitripentium"},
+            "4": {"OreDict":"gemBitripentium"},
+            "5": {"name":"minecraft:blaze_rod","meta":0},
+            "6": {"OreDict":"gemBitripentium"},
+            "7": {"OreDict":"gemBitripentium"},
+            "8": {"name":"minecraft:gunpowder","meta":0},
+            "9": {"OreDict":"gemBitripentium"},
+            "out": {"name":"fp:spaceship","meta":"<spaceship.fuelCell>"}
+        }
+    }
+]

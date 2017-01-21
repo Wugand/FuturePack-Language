@@ -1,0 +1,55 @@
+[
+	"Parfois, tout ce que vous voulez faire c'est un grand feu !",
+	"Quand je remplis une grande avec de la poudre de Blaze, elle s'étale et s'enflamme à l'impact, éclairant la zone où se trouve le feu.",
+	"Dans la grenade, je peux mettre jusqu'à 3 poudres de blaze, pour augmenter la zone d'impact.",
+	
+	"Craft :",
+	"Force 1:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"name":"fp:grenade", "meta":0},
+			"2": {"name":"minecraft:blaze_powder"},
+			"3": {},
+			"4": {},
+			"5": {},
+			"6": {},
+			"7": {},
+			"8": {},
+			"9": {},
+			"out": {"name":"fp:grenade", "meta":1, "size":1}
+		}
+	},
+	"Force 2:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"name":"fp:grenade", "meta":0},
+			"2": {"name":"minecraft:blaze_powder"},
+			"3": {},
+			"4": {"name":"minecraft:blaze_powder"},
+			"5": {},
+			"6": {},
+			"7": {},
+			"8": {},
+			"9": {},
+			"out": {"name":"fp:grenade", "meta":1, "size":1}
+		}
+	},
+	"Force 3:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"name":"fp:grenade", "meta":0},
+			"2": {"name":"minecraft:blaze_powder"},
+			"3": {"name":"minecraft:blaze_powder"},
+			"4": {"name":"minecraft:blaze_powder"},
+			"5": {},
+			"6": {},
+			"7": {},
+			"8": {},
+			"9": {},
+			"out": {"name":"fp:grenade", "meta":1, "size":1}
+		}
+	}
+]

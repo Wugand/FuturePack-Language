@@ -1,0 +1,19 @@
+[
+	"J'ai crée une pioche faite avec du métal composite, la rendant plus efficace et durable par rapport aux outils traditionnels. Le manche en fer est notablement plus résistant.",
+	"Craft :",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"2": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"3": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"4": {},
+			"5": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
+			"6": {},
+			"7": {},
+			"8": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
+			"9": {},
+			"out": {"name":"fp:composite_pickaxe"}
+		}
+	}
+]
