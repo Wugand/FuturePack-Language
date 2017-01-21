@@ -1,0 +1,23 @@
+[
+	"Avec mes mémoires Flash, je peux transporter des points Support manuellement, mais il est impossible d'automatiser ce stockage. J'ai connecté plusieurs unités de mémoires Flash avec un système de gestion pour faire un serveur Flash.",
+	"Cette unité de stockage peut être utilisée comme destination, source ou buffer, en fonction du paramétrage. J'ai mis en place des emplacements internes pour charger/décharger manuellement des points Support ou pour augmenter la capacité de stockages (4 emplacements).",
+	"Le serveur Flash sera important pour les systèmes modernes parce que je ne pourrais simplement plus construire mes machines avec un emplacement pour lire les mémoires Flash.",
+	"Craft:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"name":"fp:spaceship", "meta":"<spaceship.SupportSpeicher2>"},
+			"2": {"name":"minecraft:chest"},
+			"3": {"name":"fp:spaceship", "meta":"<spaceship.SupportSpeicher2>"},
+			"4": {"name":"fp:chip", "meta":"<chip.SupportChip>"},
+			"5": [{"name":"fp:color_iron", "meta":0},{"name":"fp:color_iron", "meta":8},{"name":"fp:color_iron", "meta":15}],
+			"6": {"name":"fp:chip", "meta":"<chip.SupportChip>"},
+			"7": {"name":"fp:spaceship", "meta":"<spaceship.SupportSpeicher2>"},
+			"8": {"name":"fp:wire", "meta":3},
+			"9": {"name":"fp:spaceship", "meta":"<spaceship.SupportSpeicher2>"},
+			"out": [{"name":"fp:flash_server", "meta":2, "size":1},{"name":"fp:flash_server", "meta":6, "size":1},{"name":"fp:flash_server", "meta":10, "size":1}]
+		}
+	},
+	"Capacité: 2048 SP",
+	"Note: Ce bloc peut être configurer en sortie ou en entrée pour les points Support grâce à l'\"Éditeur de Logistiques\"."
+]

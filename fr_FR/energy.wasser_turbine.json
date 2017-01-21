@@ -1,0 +1,22 @@
+[
+	"J'ai poussé mes recherches concernant les énergies renouvelables et découvert que la puissance de l'eau pourrait m'être utile. Cela est vrai partout et peut être utilisé simplement et n'importe où.",
+    "Il faut que je place la turbine à eau sous une grande quantité d'eau et qu'il y ait en dessous une place pour que l'eau s'écoule à travers de la turbine.",
+	"Craft :",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"2": {"name":"minecraft:iron_bars", "meta":0},
+			"3": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"4": {"name":"fp:spaceship", "meta":"<spaceship.NeonCoil>"},
+			"5": [{"name":"fp:color_iron","meta":0},{"name":"fp:color_iron","meta":8},{"name":"fp:color_iron","meta":15}],
+			"6": {"name":"fp:spaceship", "meta":"<spaceship.NeonCoil>"},
+			"7": {"OreDict":"ingotZinc"},
+			"8": {"name":"fp:spaceship", "meta":"<spaceship.Maschinboard>"},
+			"9": {"OreDict":"ingotZinc"},
+			"out": [{"name":"fp:wasser_turbine","meta":0},{"name":"fp:wasser_turbine","meta":1},{"name":"fp:wasser_turbine","meta":2}]
+		}
+	},
+	"Puces compatibles:",
+	"Puce logique\nPuce Industrielle (quantité d'énergie)\nPuce de contrôle Redstone\nPuce de contrôle des Dommages"
+]

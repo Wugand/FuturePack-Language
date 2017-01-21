@@ -1,0 +1,8 @@
+[
+	"Alors que je faisais des expériences avec les courants de Néon, en les arrêtant ou les recoupant, j'ai trouvé que je pouvais construire plus de systèmes de contrôles complexes.",
+	"Pour le moment, les plaques de silicones semblent être le matériel de base idéal. A partir d'elles, je peux développer un composant de base universel pour les calculs, que j'appelle transistor.",
+	"Ils s'utilisent assez facilement : ils ont des entrées et sorties principales distinctes pour l'énergie. Si j'alimente une entrée secondaire de contrôle avec un courant électrique, les propriétés changent, laissant passer l'énergie Néon entre l'entrée et la sortie principales.",
+	"Avec ce genre de transistors, je peux très certainement créer toutes les sortes de portes logiques et tous les contrôles de base. Mais avant tout, je dois créer une station de travail adaptée...",
+	"Note: Nouvelles recherches disponibles dans \"Circuits\"!",
+	"§0Objet de recherche: table d'assemblage§r"
+]

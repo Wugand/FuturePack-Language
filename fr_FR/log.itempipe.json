@@ -1,0 +1,24 @@
+[
+	"J'ai implémenté mon idée de système de Transport d'Objets. Pour cela, j'ai créé un simple tube, composé d'un cadre d'aluminium et de panneau en verre.",
+	"Le tube peut être placé dans un endroit libre et peut être rempli par des entonnoirs ou tout autre objet fonctionnant sur le même principe. Un objet mis à l'intérieur attendra dans ce tube qu'une sortie possible soit trouvée. Il ira de préférence dans l'objet le plus proche ayant un inventaire.",
+	"Si un objet ne peut pas être extrait, ce bloquera toute nouvelle insertion.",
+
+	"Craft:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"OreDict":"ingotAluminum"},
+			"2": {"OreDict":"ingotAluminum"},
+			"3": {"OreDict":"ingotAluminum"},
+			"4": {"OreDict":"blockGlassColorless"},
+			"5": {"OreDict":"blockGlassColorless"},
+			"6": {"OreDict":"blockGlassColorless"},
+			"7": {"OreDict":"ingotAluminum"},
+			"8": {"OreDict":"ingotAluminum"},
+			"9": {"OreDict":"ingotAluminum"},
+			"out": {"name":"fp:pipe", "meta":0, "size":16}
+		}
+	},
+	
+	"Configuration: En utilisant la clé à molette, je suis capable de configurer les côtés d'un segment de tube, ce qui me permet de l'empêcher de se connecter avec ce côté. (§lClic droit§r sur le côte souhaité)"
+]

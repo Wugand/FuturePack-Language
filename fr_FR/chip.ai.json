@@ -1,0 +1,14 @@
+[
+    "J'ai développée une puce qui booste la capacité de prise de décision dans un système informatique.",
+    "Assemblage:",
+    {
+        "type": "assembly",
+        "slots": {
+            "in1": {"name":"fp:spaceship","meta":"<spaceship.Silizium>","size":2},
+            "in2": {"name":"fp:spaceship","meta":"<spaceship.QuartzParts>","size":2},
+            "in3":  {"name":"fp:spaceship", "meta":"<spaceship.SupportSpeicher1>", "size":1},
+            "out": {"name":"fp:chip", "meta":"<chip.KIChip>", "size":1}
+        }
+    },
+    "Grâce à la puce IA (Intelligence Artificielle), une des conséquence est que le laser d'absorption (entity eater) ne tuera plus les cibles, mais, à la place, les laissera à un niveau de vie très faible."
+]

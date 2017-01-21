@@ -1,0 +1,21 @@
+[
+    "Parce que je souhaite overclocker mes machines pour atteindre leur vitesse maximale, j'ai du inventer un watercooling actif.",
+    "Comme je ne veux pas gaspiller d'énergie, le refroidissement et la création de vapeur commence vraiment à environ 100°C.",
+	"Craft :",
+    {
+        "type": "crafting",
+        "slots": {
+            "1": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+            "2": {"name":"fp:metal_gitter_pane"},
+            "3": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+            "4": {"name":"fp:pipe"},
+            "5": {"name":"fp:spaceship", "meta":"<spaceship.Tank>"},
+            "6": {"name":"fp:pipe"},
+            "7": {"OreDict":"ingotCopper"},
+            "8": {"OreDict":"ingotCopper"},
+            "9": {"OreDict":"ingotCopper"},
+            "out": {"name":"fp:water_cooler", "meta":0}
+        }
+    },
+	"Je peux mettre des sceaux d'eau dans le dissipateur en utilisant des Tubes à Objets ; Cependant, la vapeur est émise par le haut, donc je ne peux mettre des tubes que sur les côtés."
+]

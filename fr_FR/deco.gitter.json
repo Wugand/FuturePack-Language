@@ -1,0 +1,20 @@
+[
+	"J'ai travaillé sur une structure complexe, composée de métal composite et de barres de fer : un bloc grillagé.",
+	"Craft :",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
+			"2": {"name":"minecraft:iron_bars"},
+			"3": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
+			"4": {"name":"minecraft:iron_bars"},
+			"5": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"6": {"name":"minecraft:iron_bars"},
+			"7": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
+			"8": {"name":"minecraft:iron_bars"},
+			"9": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
+			"out": {"name":"fp:metal_gitter_block", "meta":0, "size":2}
+		}
+	},	
+	"Information: Ce bloc peut être (dé)coloré avec le pistolet à peinture."
+]

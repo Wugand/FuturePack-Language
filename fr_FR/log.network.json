@@ -1,0 +1,5 @@
+[
+	"Je me suis aperçu pendant mes recherches qu'il était très difficile de connecter tous les modules avec le module de Recherches.",
+	"C'est pourquoi j'ai implémenté un idée simple de réseau. Les machines sont connectées entre elles et peuvent communiquer.",
+	"Le Module de Recherches, le Scanner, et les autres modules peuvent être tous connectés via le réseau et n'ont plus l'obligation d'être proche. Cela me permet de construire d'importantes pièces de stockage tout en étant capable de les connecter au module de recherches."
+]

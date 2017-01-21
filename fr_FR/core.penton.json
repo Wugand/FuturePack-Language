@@ -1,0 +1,17 @@
+[
+	"Avec cette série de processeur, j'ai atteins la limite de mes possibilités actuelles. Je ne suis plus capable de d'ajouter plus d'unité de calculs dans un processeur. Dans cette série, j'ai remplacé les connecteurs internes par des connecteurs en or, car l'or a une meilleure conductivité.",
+	"J'ai développé une fonctionnalité supplémentaire en ajoutant une unité interne pour gérer les données Support et leur sortie. Cela a considérablement soulagé la charge de travail sur la partie non spécifiée du processeur.",
+
+	"Assemblage:",
+	{
+		"type": "assembly",
+		"slots": {
+			"in1": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>", "size":3},
+			"in2": {"name":"fp:spaceship", "meta":"<spaceship.GoldParts>", "size":3},
+			"in3": {"name":"fp:spaceship", "meta":"<spaceship.SupportSpeicher1>"},
+			"out": {"name":"fp:core", "meta":2, "size":1}
+		}
+	},
+	
+	"Astuce : Se référer au \"Processuer Standard\" pour des informations générales."
+]
