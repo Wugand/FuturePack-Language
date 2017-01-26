@@ -22,7 +22,7 @@
     "Le troisième montre la destination sélectionnée par les coordonnées (insérées dans le champ prévu à cet effet).",
     "",
     "De plus, des messages de sécurité peuvent s'afficher :",
-    {"type":"translate","text":"\"chat.spaceship.lowEnergie\""},
+    {"type":"translate","text":"chat.spaceship.lowEnergie"},
     "Cela veut dire que l'ordinateur n'a pas assez d'énergie.",
     {"type":"translate","text":"chat.spaceship.open"},
     "Cela veut dire que la pièce du vaisseau où est installé l'ordinateur n'est pas 100% hermétique.",

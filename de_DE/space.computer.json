@@ -22,7 +22,7 @@
     "Der 3. Tab zeigt den Ort an, der mit Hilfe von Koordinaten eingelesen wurde (zum einlesen den Slot verwenden).",
     "",
     "Außerdem werden verschiedene Sicherheitsmeldungen angezeigt:",
-    {"type":"translate","text":"\"chat.spaceship.lowEnergie\""},
+    {"type":"translate","text":"chat.spaceship.lowEnergie"},
     "Bedeutet dass der Boardcomputer selbst zu wenig NE hat.",
     {"type":"translate","text":"chat.spaceship.open"},
     "Bedeutet dass der Boardcomputer nicht in einem 100%ig dichten Raum ist.",
