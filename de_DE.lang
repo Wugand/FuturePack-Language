@@ -171,6 +171,24 @@ tile.colorFence_green.name=Grün lackierter Zaun
 tile.colorFence_red.name=Rot lackierter Zaun
 tile.colorFence_black.name=Schwarz lackierter Zaun
 
+tile.color_gate_0.name=Weiß lackiertes Zauntor
+tile.color_gate_1.name=Orange lackiertes Zauntor
+tile.color_gate_2.name=Magenta lackiertes Zauntor
+tile.color_gate_3.name=Hellblau lackiertes Zauntor
+tile.color_gate_4.name=Gelb lackiertes Zauntor
+tile.color_gate_5.name=Hellgrün lackiertes Zauntor
+tile.color_gate_6.name=Pink lackiertes Zauntor
+tile.color_gate_7.name=Grau lackiertes Zauntor
+tile.color_gate_8.name=Hellgrau lackiertes Zauntor
+tile.color_gate_9.name=Türkis lackiertes Zauntor
+tile.color_gate_10.name=Violett lackiertes Zauntor
+tile.color_gate_11.name=Blau lackiertes Zauntor
+tile.color_gate_12.name=Braun lackiertes Zauntor
+tile.color_gate_13.name=Grün lackiertes Zauntor
+tile.color_gate_14.name=Rot lackiertes Zauntor
+tile.color_gate_15.name=Schwarz lackiertes Zauntor
+tile.metalFenceGate.name=Metallzauntor
+
 tile.colorPane_white.name=Weiß lackiertes Gitter
 tile.colorPane_orange.name=Orange lackiertes Gitter
 tile.colorPane_magenta.name=Magenta lackiertes Gitter
@@ -299,7 +317,7 @@ tile.erzBlocke_kristall_block_retium.name=Retiumkristallblock
 tile.erzBlocke_kristall_block_glowtit.name=Glowtitkristallblock
 tile.erzBlocke_kristall_block_bioterium.name=Bioteriumkristallblock
 tile.erzBlocke_kristall_block_alutin.name=Alutinkristallblock
-tile.erzBlocke_metalBlocke_metal_block_luftschacht.name=Lüftung
+tile.erzBlocke_metal_block_metal_block_luftschacht.name=Lüftung
 tile.uncolorPane.name=Gitter
 tile.uncolorGitter.name=Gitterblock
 tile.claime.name=Claime-Überträger
@@ -357,6 +375,7 @@ tile.advanced_boardcomputer.name=Erweiterter Bordcomputer
 
 tile.modular_door.name=Modulares Tor
 tile.composite_door.name=Verbundmetalltür
+tile.sapling_holder.name=Pflanzmarker
 
 tile.mendel_berry.name=Mendelbeerstrauch
 tile.planks_menelaus_mushroom.name=Menelausholzbretter
@@ -735,6 +754,7 @@ research.hologrammtechnik=Hologrammtechnik
 research.raumfahrt=Raumfahrt
 research.menelaus=Menelaus
 research.upgradeT3=Forschungsmodul - Erfahrung
+research.tyros=Tyros
 
 research.quantentechnik=Quantentechnik
 research.ionentechnik=Ionentechnik
@@ -806,6 +826,9 @@ research.production.zent.extraction2=Erzextraction
 research.production.zent.neon=Kristallverarbeitung
 research.production.zent.bio=Pflanzenextraction
 research.production.zent.color=Farbherstellung
+research.production.nind.polymer=Polymer
+research.production.zent.rare=Seltene Erden
+
 
 research.energy.generator=Generator
 research.energy.neonmotor=Neonmotor
@@ -833,6 +856,9 @@ research.log.flashserver=Flashserver
 research.log.battery.normal=Batterie
 research.log.battery.large=Große Batterie
 research.log.battery.neon=Neonbatterie
+research.log.battery.cell=Energiezelle
+research.log.battery.compact=Kompakte Energiezelle
+research.log.battery.crystal=Kristalline Energiezelle
 
 research.log.flash.1=Einfacher Redstone-Flashspeicher
 research.log.flash.2=Verbesserter Redstone-Flashspeicher
@@ -916,6 +942,7 @@ research.space.miner=Bergbaudrohne
 research.space.turret.killer=Laserturm
 research.space.turret.heal=Regenerationslaser
 research.space.turret.absorb=Absorbationslaser
+research.space.modular_door=Modulares Tor
 
 research.tools.scrench=Schraubendrehschlüssel
 research.tools.airbrush=Farbpistole

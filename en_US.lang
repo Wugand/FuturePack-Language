@@ -171,6 +171,24 @@ tile.colorFence_green.name=Green Colored Fence
 tile.colorFence_red.name=Red Colored Fence
 tile.colorFence_black.name=Black Colored Fence
 
+tile.color_gate_0.name=White Colored Fence Gate
+tile.color_gate_1.name=Orange Colored Fence Gate
+tile.color_gate_2.name=Magenta Colored Fence Gate
+tile.color_gate_3.name=Light Blue Colored Fence Gate
+tile.color_gate_4.name=Yellow Colored Fence Gate
+tile.color_gate_5.name=Lime Colored Fence Gate
+tile.color_gate_6.name=Pink Colored Fence Gate
+tile.color_gate_7.name=Gray Colored Fence Gate
+tile.color_gate_8.name=Light Gray Colored Fence Gate
+tile.color_gate_9.name=Cyan Colored Fence Gate
+tile.color_gate_10.name=Purple Colored Fence Gate
+tile.color_gate_11.name=Blue Colored Fence Gate
+tile.color_gate_12.name=Brown Colored Fence Gate
+tile.color_gate_13.name=Green Colored Fence Gate
+tile.color_gate_14.name=Red Colored Fence Gate
+tile.color_gate_15.name=Black Colored Fence Gate
+tile.metalFenceGate.name=Metal Fence Gate
+
 tile.colorPane_white.name=White Colored Grid
 tile.colorPane_orange.name=Orange Colored Grid
 tile.colorPane_magenta.name=Magenta Colored Grid
@@ -299,7 +317,7 @@ tile.erzBlocke_kristall_block_retium.name=Retium Crystal Block
 tile.erzBlocke_kristall_block_glowtit.name=Glowtite Crystal Block
 tile.erzBlocke_kristall_block_bioterium.name=Bioterium Crystal Block
 tile.erzBlocke_kristall_block_alutin.name=Alutine Crystal Block
-tile.erzBlocke_metalBlocke_metal_block_luftschacht.name=Ventilation
+tile.erzBlocke_metal_block_metal_block_luftschacht.name=Ventilation
 tile.uncolorPane.name=Grid
 tile.uncolorGitter.name=Grid Block
 tile.claime.name=Zone Transmitter
@@ -356,6 +374,8 @@ tile.ftl_drive.name=FTL Block
 tile.advanced_boardcomputer.name=Advanced Boardcomputer
 
 tile.modular_door.name=Modular Gate
+tile.composite_door.name=Composite Door
+tile.sapling_holder.name=Planting Marker
 
 tile.mendel_berry.name=Mendelberry Bush
 tile.planks_menelaus_mushroom.name=Menelaus Planks
@@ -448,7 +468,7 @@ item.itemErze_ingot_wakurum.name=Wakurium Ingot
 item.itemErze_ingot_quantanium.name=Quantium Ingot
 item.itemErze_ingot_seltenerde.name=Rare Earth
 item.itemErze_ingot_gadolinium.name=Gadolinium Ingot
-item.itemErze_ingot_lanthanum.name=Lanthanium Ingot
+item.itemErze_ingot_lithium.name=Lithium Ingot
 item.itemErze_ingot_neodymium.name=Neodymium Ingot
 item.recipe.name=Recipe
 item.MaschinBord.name=Machine Board
@@ -560,6 +580,16 @@ item.mendel_seed.name=Mendelberry Seed
 item.mendel_flower.name=Mendelberry Flower
 
 item.sword_handle.name=Sword Handle
+item.energie_zelle.name=Empty Energy Cell
+item.compact_energie_zelle.name=Empty Compact Energy Cell
+item.kristall_energie_zelle.name=Empty Crystalline Energy Cell
+item.EnergyCell_full.name=Energy Cell
+item.CompactEnergyCell_full.name=Compact Energy Cell
+item.CrystalEnergyCell_full.name=Crystalline Energy Cell
+
+item.fibers.name=Plantfibers
+item.chemicals.name=Chemicals
+item.polymer.name=Biopolymer
 
 itemGroup.fpTab.deco=Future Pack Materials
 itemGroup.fpTab.maschiens=Future Pack Machinery
@@ -657,6 +687,13 @@ command.fp.research.reset.success=The Researches from %s have been reset!
 command.fp.research.unlock.success=The Researches [%s] have been unlocked for %s!
 command.fp.research.copy.success=%s's research was successfully copied to %s!
 
+harvest.tool.shovel.0=Mining: Shovel
+harvest.tool.pickaxe.0=Mining: Pickaxe
+harvest.tool.pickaxe.1=Mining: Stone Pickaxe
+harvest.tool.pickaxe.2=Mining: Iron Pickaxe
+harvest.tool.pickaxe.3=Mining: Diamond Pickaxe
+harvest.tool.axe.0=Mining: Axe
+harvest.tool.scoop.0=Mining: Scoop
 
 scanner.button.0.name=Tech Tree
 scanner.button.1.name=Scan Result
@@ -717,6 +754,7 @@ research.hologrammtechnik=Hologram Tech
 research.raumfahrt=Space Travel
 research.menelaus=Menelaus
 research.upgradeT3=Research Module - Experience
+research.tyros=Tyros
 
 research.quantentechnik=Quantum Tech
 research.ionentechnik=Ion Tech
@@ -788,6 +826,9 @@ research.production.zent.extraction2=Ore Extraction
 research.production.zent.neon=Crystal Processing
 research.production.zent.bio=Plant Extraction
 research.production.zent.color=Color Production
+research.production.nind.polymer=Biopolymer
+research.production.zent.rare=Rare Earth Metal
+
 
 research.energy.generator=Generator
 research.energy.neonmotor=Neon Engine
@@ -815,6 +856,9 @@ research.log.flashserver=Flash Server
 research.log.battery.normal=Battery
 research.log.battery.large=Large Battery
 research.log.battery.neon=Neon Battery
+research.log.battery.cell=Energy Cell
+research.log.battery.compact=Compact Energy Cell
+research.log.battery.crystal=Crystalline Energy Cell
 
 research.log.flash.1=Simple Redstone Flashdrive
 research.log.flash.2=Improved Redstone Flashdrive
@@ -876,6 +920,8 @@ research.deco.plasmalamp=Plasma Lamp
 research.deco.neonlamp=Neon Lamp
 research.deco.monitor=Monitor
 research.deco.wardrobe=Wardrobe
+research.deco.cdoor=Composite Door
+
 
 research.space.magnetblock=Magnet Block
 research.space.emagnet=Electro Magnet
@@ -896,6 +942,7 @@ research.space.miner=Mining Drone
 research.space.turret.killer=Laser Turret
 research.space.turret.heal=Regeneration Laser
 research.space.turret.absorb=Absorption Laser
+research.space.modular_door=Modular Door
 
 research.tools.scrench=Scrench
 research.tools.airbrush=Airbrush
