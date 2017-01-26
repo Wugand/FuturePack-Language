@@ -1,5 +1,7 @@
 List of all finished Researches with missing translations/texts.
+
 Note: "German" will only be created by the mod developer (Wugi, McEnderdragon), and is the template for the other languages.
+
 Please update this, if you add an translation.
 
 Research  | German | English | Portugese | French
