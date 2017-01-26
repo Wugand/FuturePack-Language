@@ -356,6 +356,7 @@ tile.ftl_drive.name=FTL Block
 tile.advanced_boardcomputer.name=Erweiterter Bordcomputer
 
 tile.modular_door.name=Modulares Tor
+tile.composite_door.name=Verbundmetalltür
 
 tile.mendel_berry.name=Mendelbeerstrauch
 tile.planks_menelaus_mushroom.name=Menelausholzbretter
@@ -448,7 +449,7 @@ item.itemErze_ingot_wakurum.name=Wakuriumbarren
 item.itemErze_ingot_quantanium.name=Quantanium
 item.itemErze_ingot_seltenerde.name=Seltene Erden
 item.itemErze_ingot_gadolinium.name=Gadolinium
-item.itemErze_ingot_lanthanum.name=Lanthan
+item.itemErze_ingot_lithium.name=Lithium
 item.itemErze_ingot_neodymium.name=Neodym
 item.recipe.name=Rezept
 item.MaschinBord.name=Mainboard
@@ -560,6 +561,16 @@ item.mendel_seed.name=Mendelbeersamen
 item.mendel_flower.name=Mendelbeerblüte
 
 item.sword_handle.name=Schwertgriff
+item.energie_zelle.name=Leere Energiezelle
+item.compact_energie_zelle.name=Leere Kompakte Energiezelle
+item.kristall_energie_zelle.name=Leere Kristalline Energiezelle
+item.EnergyCell_full.name=Energiezelle
+item.CompactEnergyCell_full.name=Kompakte Energiezelle
+item.CrystalEnergyCell_full.name=Kristalline Energiezelle
+
+item.fibers.name=Pflanzenfasern
+item.chemicals.name=Chemikalien
+item.polymer.name=Biopolymer
 
 itemGroup.fpTab.deco=Future Pack-Materialien
 itemGroup.fpTab.maschiens=Future Pack-Maschinen
@@ -657,6 +668,13 @@ command.fp.research.reset.success=Die Forschungen von %s wurden zurückgesetzt!
 command.fp.research.unlock.success=Die Forschung [%s] wurde für %s freigeschaltet!
 command.fp.research.copy.success=Die Forschungen von %s wurden zu %s kopiert!
 
+harvest.tool.shovel.0=Abbau: Schaufel
+harvest.tool.pickaxe.0=Abbau: Spitzhacke
+harvest.tool.pickaxe.1=Abbau: Steinspitzhacke
+harvest.tool.pickaxe.2=Abbau: Eisenspitzhacke
+harvest.tool.pickaxe.3=Abbau: Diamantspitzhacke
+harvest.tool.axe.0=Abbau: Axt
+harvest.tool.scoop.0=Abbau: Kescher
 
 scanner.button.0.name=Technologiebaum
 scanner.button.1.name=Scan-Ergebnis
@@ -876,6 +894,8 @@ research.deco.plasmalamp=Plasmalampe
 research.deco.neonlamp=Neonlampe
 research.deco.monitor=Monitor
 research.deco.wardrobe=Wandschrank
+research.deco.cdoor=Verbundmetalltür
+
 
 research.space.magnetblock=Magnetblock
 research.space.emagnet=Elektromagnet
