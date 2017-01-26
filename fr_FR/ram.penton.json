@@ -1,0 +1,17 @@
+[
+	"Avec ces séries de RAM, j'ai atteins la maximum de mes capacités actuelles : je ne suis plus capable d'ajouter des unités supplémentaires dans un module de mémoire. Cependant, j'ai essayé de programmer dans le contrôleur une fonction qui organise mieux le module et réduit l'utilisation du processeur.",
+	"J'ai fait une autre amélioration en ajoutant une unité séparée pour le stockage de points Supports. Cela soulage énormément le système informatique.",
+
+	"Assemblage :",
+	{
+		"type": "assembly",
+		"slots": {
+			"in1": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>", "size":3},
+			"in2": {"name":"fp:spaceship", "meta":"<spaceship.NeonParts>", "size":3},
+			"in3": {"name":"fp:spaceship", "meta":"<spaceship.SupportSpeicher1>"},
+			"out": {"name":"fp:ram", "meta":2, "size":1}
+		}
+	},
+	
+	"Astuce : Se référer à \"RAM Standard\" pour des informations générales."
+]

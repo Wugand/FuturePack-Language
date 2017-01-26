@@ -1,0 +1,22 @@
+[
+	"J'ai créé un prototype de conducteur d'Energie. Une combinaison de Néon cristallin et raffiné a produit le conducteur optimal.",
+	"Ce design est vraiment très instable et dangereux pour l'environnement, c'est pourquoi je l'ai mis dans une boite en aluminium.",
+	"Le câble peut être placé dans un espace libre. Je ne me suis pas préoccupé des problème de surcharge ou autres problèmes comme ça, car les conducteurs en Néon peuvent transporter une quantité énorme d'énergie, sans avoir les problèmes traditionnels qui peuvent se produire avec la tension ou le courant.",
+	
+	"Crafting:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"OreDict":"ingotAluminum"},
+			"2": {"OreDict":"ingotAluminum"},
+			"3": {"OreDict":"ingotAluminum"},
+			"4": {"OreDict":"ingotNeon"},
+			"5": {"name":"fp:cristall","meta":0},
+			"6": {"OreDict":"ingotNeon"},
+			"7": {"OreDict":"ingotAluminum"},
+			"8": {"OreDict":"ingotAluminum"},
+			"9": {"OreDict":"ingotAluminum"},
+			"out": {"name":"fp:wire", "meta":0, "size":16}
+		}
+	}
+]

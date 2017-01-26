@@ -1,0 +1,27 @@
+[
+	"J'ai créé un outil multi-usage pour ajuster les entrées/sorties de mes machines.",
+	"Craft :",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"name":"minecraft:glass_pane"},
+			"2": {"OreDict":"ingotAluminum"},
+			"3": {"name":"fp:scrench"},
+			"4": {"name":"fp:spaceship", "meta":"<spaceship.NeonCoil>"},
+			"5": {"name":"fp:wire", "meta":0},
+			"6": {"name":"fp:spaceship", "meta":"<spaceship.CopperParts>"},
+			"7": {"name":"fp:chip", "meta":0},
+			"8": {"OreDict":"ingotAluminum"},
+			"9": {"name":"fp:scrench"},
+			"out": {"name":"fp:logisticEditor"}
+		}
+	},
+	
+	"Utilisation :",
+	"En §lcliquant Droit§r (dans les airs) le mode peut être changé entre :",
+	"Énergie, Support, Réseau, Objets, Fluides",
+	"Dans chaque mode, vous pourrez voir des bordures colorées sur les côtés de vos machines si elle supporte ce mode.",
+	"En faisant §lShift + Clic Droit§r vous pouvez configurer chaque côté pour qu'il soit :",
+	"Inactif (aucun symbole), Entrée (flèche verte), Sortie (flèche rouge), Entrée + Sortie (les deux)",
+	"Vous pouvez uniquement sélectionner des modes et des configurations qui sont possibles pour la machine."
+]

@@ -1,0 +1,21 @@
+[
+    "L'espace n'est rien d'autre que du vide. Pour m'en protéger, j'ai créé un Sas.",
+    "C'est un bloc rotatif et rétractable, qui ne fait que 1 x 1 x 1 bloc quand il est rétracté, et 1 x 2,5 x 1 blocs quand il est étendu.",
+    "Avec l'utilisation de Redstone, je peux changer entre ces deux états. La façon optimale de l'utiliser est de mettre 2 sas à 3 blocs d'écarts l'un de l'autre, et grâce à sa propriété de rotation, vous pouvez le construire verticalement ou horizontalement.",
+	"Craft :",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {},
+			"2": "OreDict:ingotAluminum",
+			"3": {},
+			"4": {"name":"fp:spaceship","meta":"<spaceship.CompositeMetall>"},
+			"5": "OreDict:ingotAluminum",
+			"6": {"name":"fp:spaceship","meta":"<spaceship.CompositeMetall>"},
+			"7": {"name":"fp:spaceship","meta":"<spaceship.NeonCoil>"},
+			"8": {"name":"sticky_piston","meta":0},
+			"9": "OreDict:ingotMagnetite",
+			"out": {"name":"fp:spacedoor","meta":0}
+		}
+	}
+]

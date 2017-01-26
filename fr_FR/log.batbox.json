@@ -1,0 +1,22 @@
+[
+	"Les petites batteries rechargeables sont utiles pour transporter de l'énergie manuellement, mais pas pour faire du stockage automatique ou pour servir de buffer d'énergie. Pour cela, j'ai connecté plusieurs de ces batteries pour faire une boîte à batteries.",
+	"Cette unité de stockage peut, en fonction des paramétrages, être utilisée comme collecteur d'énergie, comme source ou comme buffer d'énergie. De plus, j'ai ajouté des emplacements dans la machine pour pouvoir la charger et décharger manuellement ainsi que pour permettre une évolution de la capacité (12 emplacements).",
+	"Craft :",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"name":"fp:spaceship", "meta":"<spaceship.NormalBaterrie>"},
+			"2": {"name":"minecraft:chest"},
+			"3": {"name":"fp:spaceship", "meta":"<spaceship.NormalBaterrie>"},
+			"4": {"name":"fp:spaceship", "meta":"<spaceship.NormalBaterrie>"},
+			"5": [{"name":"fp:color_iron", "meta":0},{"name":"fp:color_iron", "meta":8},{"name":"fp:color_iron", "meta":15}],
+			"6": {"name":"fp:spaceship", "meta":"<spaceship.NormalBaterrie>"},
+			"7": {"name":"fp:spaceship", "meta":"<spaceship.NormalBaterrie>"},
+			"8": {"name":"fp:spaceship", "meta":"<spaceship.NeonCoil>"},
+			"9": {"name":"fp:spaceship", "meta":"<spaceship.NormalBaterrie>"},
+			"out": [{"name":"fp:baterie_box", "meta":0, "size":1},{"name":"fp:baterie_box", "meta":2, "size":1},{"name":"fp:baterie_box", "meta":1, "size":1}]
+		}
+	},
+	"Capacité propre : 6000 NE",
+	"Réglage : je peux paramétrer chaque côté comme une entrée ou une sortie d'énergie en utilisant l'\"Éditeur de Logistiques\". Par défaut, tous les côtés sont paramétrés en entrée et doivent être changés pour être utilisés en tant que sortie d'énergie."
+]

@@ -1,0 +1,19 @@
+[
+	"J'ai développé une amélioration, qui consiste à retrouver sur mes machines un principe similaire au Pousseur d'objet grâce à une puce spécialisée.",
+	"Ce système s'assure que la machine expulse sa production ou son matériel qui n'est plus nécessaire par un côté défini comme sortie. L'affectation du côté se fait avec l'Editeur de Logistique.",
+
+	"Assemblage :",
+	{
+		"type": "assembly",
+		"slots": {
+			"in1": {"name":"fp:spaceship","meta":"<spaceship.Silizium>","size":1},
+			"in2": {"name":"fp:spaceship","meta":"<spaceship.QuartzParts>","size":1},
+			"in3": {"name":"fp:pucher","meta":0,"size":1},
+			"out": {"name":"fp:chip", "meta":"<chip.LogisticChip>", "size":1}
+		}
+	},	
+	
+	"Une puce de transport de haute qualité (puce de haute puissance) n'a pas d'avantages par rapport à une puce normale!",
+	"Info: S'il y a un effet différent pour une machine, il sera mentionné sur celle-ci.",
+	"Info: pour des informations générales, se référer à la Puce Logique."
+]

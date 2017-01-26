@@ -1,0 +1,40 @@
+[
+	"Ce four avancé est alimenté par de la lave, qui peut être insérée par des seaux ou avec des tubes. Il utilise cette énergie pour faire fondre des objets. Cette lave se refroidit ensuite et solidifie en Obsidienne. Cette puissance permet de faire fondre jusqu'à 3 objets en même temps.",
+	"Craft :",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"name":"fp:spaceship","meta":"<spaceship.Tank>"},
+			"2": {"OreDict":"ingotIron"},
+			"3": {"name":"fp:spaceship","meta":"<spaceship.Tank>"},
+			"4": {"name":"minecraft:furnace","meta":0},
+			"5": {"name":"minecraft:furnace","meta":0},
+			"6": {"name":"minecraft:furnace","meta":0},
+			"7": {"OreDict":"ingotIron"},
+			"8": {"name":"fp:spaceship","meta":"<spaceship.Tank>"},
+			"9": {"OreDict":"ingotIron"},
+			"out": {"name":"fp:industrie_ofen","meta":0}
+		}
+	},
+		
+	"Utilisation (GUI) :",
+	{
+		"type": "industrialfurnace",
+		"slots": {
+			"in1": {"name":"minecraft:cobblestone", "size":32},
+			"in2": {"OreDict":"oreCopper"},
+			"in3": {},
+			"out1": {"name":"minecraft:stone", "size":32},
+			"out2": {"name":"fp:ItemErze", "meta":2, "size":1},
+			"out3": {}
+		}
+	},
+		
+		
+	"Données techniques :",
+	"Utilisation de Lave : 10 mB par objet fondu",
+	"Production d'Obsidienne : 1 Obsidienne par 1000mB de lave consommée",
+	"Vitesse : 400 Ticks par Cycle (20 sec)",
+	"",
+	"Note : peut-être que je peux combiner des matériaux dans les 3 emplacements pour créer des alliages ou pour raffiner mes ressources."
+]

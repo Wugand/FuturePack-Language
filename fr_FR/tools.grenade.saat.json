@@ -1,0 +1,55 @@
+[
+	"Je me demande bien ce qu'il se passerait si je mettais des graines dans une de mes grenades...",
+	"En remplissant la grenade de graines, on peut effectivement ensemencer les champs positionnés dans la zone d'impact.",
+	"Je peux mettre jusqu'à 3 unités de graines, pour augmenter la zone affectée.",
+	
+	"Craft :",
+	"Force 1:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"name":"fp:grenade", "meta":0},
+			"2": {"name":"minecraft:wheat_seeds"},
+			"3": {},
+			"4": {},
+			"5": {},
+			"6": {},
+			"7": {},
+			"8": {},
+			"9": {},
+			"out": {"name":"fp:grenade", "meta":7, "size":1}
+		}
+	},
+	"Force 2:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"name":"fp:grenade", "meta":0},
+			"2": {"name":"minecraft:wheat_seeds"},
+			"3": {},
+			"4": {"name":"minecraft:wheat_seeds"},
+			"5": {},
+			"6": {},
+			"7": {},
+			"8": {},
+			"9": {},
+			"out": {"name":"fp:grenade", "meta":7, "size":1}
+		}
+	},
+	"Force 3:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"name":"fp:grenade", "meta":0},
+			"2": {"name":"minecraft:wheat_seeds"},
+			"3": {"name":"minecraft:wheat_seeds"},
+			"4": {"name":"minecraft:wheat_seeds"},
+			"5": {},
+			"6": {},
+			"7": {},
+			"8": {},
+			"9": {},
+			"out": {"name":"fp:grenade", "meta":7, "size":1}
+		}
+	}
+]

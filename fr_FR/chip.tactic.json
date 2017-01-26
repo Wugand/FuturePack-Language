@@ -1,0 +1,19 @@
+[
+	"J'ai développé une puce spécialisée pour améliorer quelques interactions des machines avec leurs environnements.",
+	"C'est surtout utile pour les machines qui tuent des créatures, pour améliorer leur précision.",
+
+	"Assemblage:",
+	{
+		"type": "assembly",
+		"slots": {
+			"in1": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>"},
+			"in2": {"name":"fp:spaceship", "meta":"<spaceship.QuartzParts>"},
+			"in3": {"name":"golden_sword", "meta":0, "size":1},
+			"out": {"name":"fp:chip", "meta":"<chip.TacticChip>", "size":1}
+		}
+	},
+	
+	"Une puce Tactique de haute qualité (puce de haute puissance), comme le fait de monter plusieurs puces, améliore l'effet en conséquence.",
+	"Info: S'il y a un effet spécifique pour une machine, elle le mentionnera.",
+	"Info: pour les informations générales se référer à la Puce Logique."
+]

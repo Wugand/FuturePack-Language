@@ -1,0 +1,17 @@
+[
+	"Grâce à mes expériences avec les différents matériaux, j'ai trouvé une nouvelle façon de transférer de l'information à travers un composant de Redstone et de Néon.",
+	"Via un procédé spécial de fusion, j'ai créé un matériau hautement conducteur qui transmet les impulsions avec une vitesse extrême sans aucune perte. Je dois regarder les utilisations possibles de cette étrange trouvaille.",
+	
+	{
+		"type": "industrialneonfurnace",
+		"slots": {
+			"in1":  {"OreDict":"ingotNeon", "size":1},
+			"in2":  {"OreDict":"dustRedstone", "size":1},
+			"in3":  {},
+			"out1": {"OreDict":"ingotWakurum", "size":1},
+			"out2": {},
+			"out3": {}
+		},
+		"support":0
+	}
+]

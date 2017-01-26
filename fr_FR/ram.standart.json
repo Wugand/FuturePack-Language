@@ -1,0 +1,18 @@
+[
+	"En combinant des morceaux de Néon qui peuvent stocker des petites quantités d'énergie avec un système de contrôle, j'ai créé un système de stockage de mémoire. Je l'ai construit sur une plaque de Silicium recouverte de fer.",
+	"Ce design de mémoire est très rapide, mais les données doivent être réécrites de temps en temps. Cela est dû à une petite fuite d'énergie.",	
+
+	"Assemblage :",
+	{
+		"type": "assembly",
+		"slots": {
+			"in1": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>"},
+			"in2": {"name":"fp:spaceship", "meta":"<spaceship.NeonParts>"},
+			"in3": {"OreDict":"ingotIron"},
+			"out": {"name":"fp:ram", "meta":0, "size":1}
+		}
+	},
+		
+	"Info :",
+	"Les unités de RAM possèdent 2 propriétés critiques : Leur vitesse (§lRAM§r), qui donne la vitesse générale du système (se référer à \"Carte Mère\"), et leur coût (§lcorepower§r), qui donne la performance nécessaire pour le processeur."	
+]

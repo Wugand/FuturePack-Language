@@ -1,0 +1,23 @@
+[
+	"Une bobine conductrice connectée à une grande quantité d'énergie produit de la chaleur. Je peux utiliser ce principe pour construire un four alimenté en énergie, en y ajoutant un système informatique pour réguler le flux d'énergie. Je peux donc générer une quantité maximum de chaleur sans détruire des bobines chauffantes. Avec des améliorations, ce type de four pourrait être vraiment très puissant !",
+	
+	"Craft :",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"name":"fp:spaceship", "meta":"<spaceship.IronCoil>"},
+			"2": {"name":"minecraft:furnace"},
+			"3": {"name":"fp:spaceship", "meta":"<spaceship.GoldCoil>"},
+			"4": {"OreDict":"ingotNeon"},
+			"5": [{"name":"fp:color_iron","meta":0},{"name":"fp:color_iron","meta":8},{"name":"fp:color_iron","meta":15}],
+			"6": {"OreDict":"ingotNeon"},
+			"7": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"8": {"name":"fp:spaceship", "meta":"<spaceship.Maschinboard>"},
+			"9": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"out": [{"name":"fp:e_furnace","meta":2},{"name":"fp:e_furnace","meta":6},{"name":"fp:e_furnace","meta":10}]
+		}
+	},
+	
+	"Puces supportées :",
+	"Puce logique\nPuce de Transport\nPuce de Contrôle Redstone\nPuce Support\nPuce Ultime\nPuce de Contrôle des Dommage"		
+]

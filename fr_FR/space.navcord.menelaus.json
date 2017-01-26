@@ -1,0 +1,23 @@
+[
+	"Un vaisseau spatial n'est rien sans une destination. Je vais construire un télescope pour scruter le ciel et trouver de nouvelles planètes.",
+	"Lorsque j'aurai trouvé quelques choses, je le noterai sur une carte que je pourrais insérer dans l'ordinateur de bord.",
+    
+	"Craft :",
+    {
+        "type": "crafting",
+        "slots": {
+            "1": {},
+            "2": {},
+            "3": {"name":"minecraft:glass_pane", "meta":0},
+            "4": {},
+            "5": {"OreDict":"ingotAluminum"},
+            "6": {},
+            "7": {"OreDict":"ingotCopper"},
+            "8": {},
+            "9": {},
+            "out": {"name":"fp:telescope", "meta":0}
+        }
+    },
+	
+	"A utiliser par un \"§lClic Droit§r\"."
+]

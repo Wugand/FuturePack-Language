@@ -1,0 +1,16 @@
+[
+    "Il n'est pas pratique d'utiliser des mémoires Flash pour transférer des points de Support entre les machines. C'est pourquoi j'ai développé une puce qui permet à une machine de transférer automatiquement ces points Support à une autre machine proche.",
+    "Assemblage:",
+    {
+        "type": "assembly",
+        "slots": {
+            "in1": {"name":"fp:spaceship","meta":"<spaceship.Silizium>","size":2},
+            "in2": {"name":"fp:spaceship","meta":"<spaceship.QuartzParts>","size":2},
+            "in3": "OreDict:ingotGlowtite",
+            "out": {"name":"fp:chip", "meta":"<chip.SupportChip>", "size":1}
+        }
+    },  
+    "Une puce de haute qualité (puce de haute puissance) n'a pas d'avantage par rapport à une puce normale !",
+    "Info : Tout effet différent sera mentionné dans la description de la machine correspondante.",
+    "Info : pour les informations générales, se référer à la Puce Logique."
+]

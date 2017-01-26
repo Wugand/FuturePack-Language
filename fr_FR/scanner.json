@@ -1,0 +1,35 @@
+[
+	"Pour le moment, les principes de l'E-Scanner que j'ai trouvé dans une structure de l'Inaccessible, sont un grand secret pour moi. Mais en essayant de modifier l'appareil, j'ai trouvé des fonctions intéressantes qui ne sont pas disponibles dans la tablette.",
+	"J'ai nommé cette nouvelle construction le \"Scanner\". Avec cette machine, je peux analyser et améliorer mes technologies. Pour cela, je dois prendre un objet à analyser et un peu de patience. Les catégories de technologies de l'Inacessible que j'ai déjà découvertes vont pouvoir m'aider à accéder à de nouvelles possibilités, mais je vais devoir choisir moi même ces aspects basique de recherches.",
+	"Une fois que j'ai trouvé une idée réalisable, le résultat s'imprime dans un Blueprint. Cela me permettra d'améliorer la technologie correspondante.",
+	"Craft :",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"name":"fp:cristall","meta":0},
+			"2": {"name":"fp:escenner","meta":0},
+			"3": {"name":"fp:cristall","meta":0},
+			"4": "OreDict:ingotIron",
+			"5": [{"name":"fp:color_iron","meta":0},{"name":"fp:color_iron","meta":8},{"name":"fp:color_iron","meta":15}],
+			"6": "OreDict:ingotIron",
+			"7": {"name":"fp:spaceship","meta":"<spaceship.CopperCoil>"},
+			"8": {"name":"fp:spaceship","meta":"<spaceship.IronParts>"},
+			"9": {"name":"fp:spaceship","meta":"<spaceship.CopperCoil>"},
+			"out": [{"name":"fp:scanner_block","meta":2},{"name":"fp:scanner_block","meta":6},{"name":"fp:scanner_block","meta":10}]
+		}
+	},
+	"Conseil : Lire d'abord les informations sur \"Le Système de Recherche\".",
+	"Utilisation dans le détail :",
+	"Je dois d'abord mettre l'objet à analyser dans l'emplacement en haut à gauche. La barre jaune en dessous me montre le nombre de recherches encore possibles avec cet objet (c'est une indication relative par au nombre total de recherches).",
+	"Dans la zone de droite, les 12 Aspects de l'Inaccessible sont disponibles sous forme de boutons. Pour créer un Blueprint, je dois sélectionner entre 1 et 6 de ces Aspects.",
+	"Un bouton \"Scan\" apparaît alors au centre de l'écran, que je dois utiliser pour vérifier la combinaison choisie. Après une animation, un des résultats suivants s'affiche :",
+	"Pièces de Puzzle : La sélection actuelle est correcte, mais il manque des aspects à sélectionner.",
+	"Étoile en Or : La recherche est un succès. Un Blueprint peut être récupéré.",
+	"X Jaune : Un (ou plusieurs) Aspect choisi est faux.",
+	"X Rouge : Cet objet ne peut pas être examiné.",
+	"Coche verte : Toutes les recherches ont été trouvées pour cet objet.",
+	"Point d'interrogation Jaune : Il reste de Recherches à faire avec cet objet, mais plusieurs conditions de jeu ne sont pas encore réunies. Réessayez plus tard.",
+	"",
+	"Conseil : Un Blueprint ne sera créé seulement une fois la recherche terminée. Mais il est possible que certaines recherches ne génèrent pas de Blueprint, mais un nouveau concept dans l'Arbre des Technologies.",
+	"Conseil : A gauche de l'emplacement du Blueprint se trouve un bouton qui permet d'ouvrir l'Arbre des Technologies."
+]	

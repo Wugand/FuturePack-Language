@@ -1,0 +1,16 @@
+[
+	"En améliorant mes méthodes de fabrications, je suis maintenant capable de doubler le nombre d'unité de calculs dans un processeur. De plus, j'ai amélioré le transfert de chaleur en utilisant de meilleurs matériaux.",
+	
+	"Assemblage:",
+	{
+		"type": "assembly",
+		"slots": {
+			"in1": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>", "size":2},
+			"in2": {"name":"fp:spaceship", "meta":"<spaceship.CopperParts>", "size":2},
+			"in3": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"out": {"name":"fp:core", "meta":1, "size":1}
+		}
+	},
+	
+	"Astuce : Se référer à \"Processeur Standard\" pour des informations générales."
+]

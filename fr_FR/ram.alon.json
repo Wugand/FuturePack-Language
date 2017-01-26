@@ -1,0 +1,15 @@
+[
+	"En améliorant ma production, je suis capable de doubler la quantité d'unités de stockage dans un module de mémoire. De plus, j'ai aussi amélioré la dissipation de chaleur en utilisant de meilleurs matériaux.",
+	"Assemblage :",
+	{
+		"type": "assembly",
+		"slots": {
+			"in1": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>", "size":2},
+			"in2": {"name":"fp:spaceship", "meta":"<spaceship.NeonParts>", "size":2},
+			"in3": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"out": {"name":"fp:ram", "meta":1, "size":1}
+		}
+	},
+	
+	"Astuce : Se référer à \"RAM Standard\" pour des informations générales."
+]

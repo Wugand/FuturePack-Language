@@ -1,0 +1,23 @@
+[
+	"Le Wakurium a de très intéressantes propriétés. Il est capable de transférer une quantité importante de données sur de longues distances sans presque aucune perte de données.",
+	"J'ai essayé de développer une gaine isolante à partir de ce matériau, et il fonctionne parfaitement. Quand je connecte ces câbles au réseau, les signaux sont bien transmis.",
+	
+	"Craft:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {},
+			"2": "OreDict:ingotWakurum",
+			"3": {},
+			"4": {"name":"fp:wire", "meta":0},
+			"5": {"name":"fp:wire", "meta":0},
+			"6": {"name":"fp:wire", "meta":0},
+			"7": {},
+			"8": {},
+			"9": {},
+			"out": {"name":"fp:wire", "meta":4, "size":3}
+		}
+	},
+	
+	"Pour éviter d'avoir des problèmes de réseau défaillant ou surchargé, j'ai utilisé un design spécial de câble. Ils ont leurs propres splitter et amplificateurs ce qui me permet d'attendre facilement le réseau sans perte de vitesse."
+]
