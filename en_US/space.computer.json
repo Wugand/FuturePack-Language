@@ -22,7 +22,7 @@
     "The third tab shows the destination, which is selected through coordinates (use the field to input).",
     "",
     "Additionally, various security messages can be displayed:",
-    {"type":"translate","text":"\"chat.spaceship.lowEnergie\""},
+    {"type":"translate","text":"chat.spaceship.lowEnergie"},
     "This means that the computer has too little energy.",
     {"type":"translate","text":"chat.spaceship.open"},
     "This means that the ship's computer room is not 100% sealed.",
