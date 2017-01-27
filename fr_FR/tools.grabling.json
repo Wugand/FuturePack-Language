@@ -11,7 +11,7 @@
 			"4": "OreDict:ingotAluminum",
 			"5": "fishing_rod",
 			"6": "OreDict:ingotAluminum",
-			"7": "OreDict:ingotBioterium",
+			"7": {"name":"fp:spaceship", "meta":"<spaceship.NormalBaterrie>"},
 			"8": "OreDict:ingotAluminum",
 			"9": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
 			"out": {"name":"fp:hook", "meta":250, "size":1}
