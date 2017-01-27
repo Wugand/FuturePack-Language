@@ -1,0 +1,24 @@
+[
+	"Selon des lois de ce monde, grâce à une table magique, je peux utiliser mes connaissances pour enchanter des objets.",
+	"Peut être que je peux utiliser ce principe étrange pour produire des objets magiques. Je pourrais encore améliorer mes différentes technologies.",
+	"Sur la base de la table d'enchantements, j'ai développé un nouveau module de recherche. il peut aspirer mes connaissances sous forme de Points d'Expérience (XP) et de me les réinjecter si nécessaire.",
+	"Ce module doit être connecté directement ou par l'intermédiaire du réseau au Module de Recherches, le travail se faisant toujours via le Module de Recherche de base.",
+
+	"Craft :",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"name":"fp:spaceship", "meta":"<spaceship.GoldParts>"},
+			"2": {"name":"fp:scrench"},
+			"3": {"name":"fp:spaceship", "meta":"<spaceship.GoldParts>"},
+			"4": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>"},
+			"5": [{"name":"fp:color_iron","meta":0},{"name":"fp:color_iron","meta":8},{"name":"fp:color_iron","meta":15}],
+			"6": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>"},
+			"7": {"OreDict":"ingotNeodymium"},
+			"8": {"name":"minecraft:enchanting_table", "meta":0},
+			"9": {"OreDict":"ingotNeodymium"},
+			"out": [{"name":"fp:modul_3","meta":2},{"name":"fp:modul_3","meta":6},{"name":"fp:modul_3","meta":10}]
+		}
+	},	
+	"Ce module peut contenir au maximum 1 500 XP (ce qui correspond environ au niveau 31). Si ce n'est pas suffisant, je peux combiner plusieurs module d'XP."
+]
