@@ -2,6 +2,7 @@
 	"Ça prend beaucoup de temps pour casser un bloc de métal avec une pioche, si bien que ce n'est pas très efficace. C'est pourquoi j'ai développé un outil similaire à un bec Bunsen qui crée suffisamment de chaleur pour faire fondre du métal",
 	"Pour l'acier ou le fer, une grande quantité d'énergie est nécessaire. C'est pourquoi un rayon plasma super-chaud est utilisé. Il est créé par le passage d'une ionisation et d'un réchauffement de l'air environnant à un retour instantané à la normale. Ce procédé nécessite cependant une grande quantité d'énergie",
 	"Pour éviter de tout détruire à cause d'une température extrême, un champ magnétique a été créé. Il serait peut-être utile de vérifier s'il y a assez d'énergie pour maintenir ce champ actif.",
+	"Ainsi, le Cutter à Plasma peut détruire extrêmement rapidement toutes sortes de blocs métalliques * (y compris presque tous les blocs décoratifs et toutes les machines du FuturePack). En revanche, il ne remplace pas un pioche, qui doit être utilisée sur des pierres par exemple.",
 	"Craft :",
 	{
 		"type": "crafting",
@@ -18,5 +19,7 @@
 			"out": {"name":"fp:plasmaschneider", "meta":2500, "size":1}
 		}
 	},
-	"De l'énergie Néon est nécessaire pour le (re)charger. Si la réserve d'énergie est vide, le cutter à Plasma sera détruit."
+	"De l'énergie Néon est nécessaire pour le (re)charger. Si la réserve d'énergie est vide, le cutter à Plasma sera détruit.",
+	"Pour le recharger, je peux, comme pour les piles, le placer dans les emplacements appropriés dans les générateurs d'énergie, dans les boites à batteries ou dans le Module d'Energie.",
+	"Note pour l'\"Initié\" : Tous les blocs de la catégorie \"Material.IRON\"."
 ]
