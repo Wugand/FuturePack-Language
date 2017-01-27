@@ -14,7 +14,7 @@ tools.grenade.saat | Wugi | a22brad22 | ... | NeoFight92
 tools.grenade.slime | Wugi | a22brad22 | ... | NeoFight92
 tools.laserrifle | Wugi | a22brad22 | ... | NeoFight92
 space.turret.killer | Wugi | a22brad22 | ... | NeoFight92
-tools.plasma !Updated! | Wugi | ... | ... | ... 
+tools.plasma !Updated! | Wugi | ... | ... | NeoFight92 
 core.tct | Wugi | ... | ... | NeoFight92 
 menelaus | Wugi | ... | ... | NeoFight92 
 production.nind.special | Wugi | ... | ... | NeoFight92 
