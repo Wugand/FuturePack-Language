@@ -3,7 +3,7 @@
 	"En particulier, après le process, les éléments résiduels suivants sont collectés :",
 	"Copeaux de bois : résidu de bois combustible",
 	"Composte : résidu de plante, utilisé comme fertilisant",
-	"Biopolymère : matière première de haute technologie développée à partir de fibres végétales",
+	"Fibres végétales: matière première pour la préparation de Biopolymère",
 	"Je peux utiliser cette méthode avec de la terre et une grande variété de plantes ; mais pour les plantes contenant des colorants, je dois encore améliorer le process.",
 	"Exemple :",
     {
@@ -34,10 +34,10 @@
         "type":"zentrifuge",
         "slots":
         {
-            "in":{"name":"minecraft:clay_ball", "meta":0, "size":16},
-            "out1":{"name":"minecraft:sand", "size":3, "meta":0},
-            "out2":{"OreDict":"dustIron", "size":1},
-            "out3":{"name":"fp:spaceship", "size":2, "meta":"<spaceship.Kompost>"}
+            "in":{"name":"minecraft:reeds", "meta":0, "size":6},
+            "out1":{"name":"fp:spaceship", "size":6, "meta":"<spaceship.Fibers>"},
+            "out2":{"name":"minecraft:sugar", "meta":0, "size":8},
+            "out3":{}
         },
 	    "support":0,
 	    "time":200
