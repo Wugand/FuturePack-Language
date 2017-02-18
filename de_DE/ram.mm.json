@@ -6,10 +6,10 @@
 	{
 		"type": "assembly",
 		"slots": {
-			"in1": {OreDict:"ingotQuantanium", size:1},
-			"in2": {name:"fp:spaceship", meta:<spaceship.NeonParts>, size:1},
-			"in3": {OreDict:"ingotGlowtite"},
-			"out": {name:"fp:ram", meta:4, size:1}
+			"in1": {"OreDict":"ingotQuantanium", "size":1},
+			"in2": {"name":"fp:spaceship", "meta":"<spaceship.NeonParts>", "size":1},
+			"in3": {"OreDict":"ingotGlowtite"},
+			"out": {"name":"fp:ram", "meta":4, "size":1}
 		}
 	}
 ]
