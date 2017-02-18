@@ -171,6 +171,24 @@ tile.colorFence_green.name=Cerca Colorida Verde
 tile.colorFence_red.name=Cerca Colorida Vermelha
 tile.colorFence_black.name=Cerca Colorida Preta
 
+tile.color_gate_0.name=Portão Colorido Branco
+tile.color_gate_1.name=Portão Colorido Laranja
+tile.color_gate_2.name=Portão Colorido Magenta
+tile.color_gate_3.name=Portão Colorido Azul Claro
+tile.color_gate_4.name=Portão Colorido Amarelo
+tile.color_gate_5.name=Portão Colorido Verde Claro
+tile.color_gate_6.name=Portão Colorido Cor-de-Rosa
+tile.color_gate_7.name=Portão Colorido Cinza
+tile.color_gate_8.name=Portão Colorido Cinza Claro
+tile.color_gate_9.name=Portão Colorido Ciano
+tile.color_gate_10.name=Portão Colorido Roxo
+tile.color_gate_11.name=Portão Colorido Azul
+tile.color_gate_12.name=Portão Colorido Marrom
+tile.color_gate_13.name=Portão Colorido Verde
+tile.color_gate_14.name=Portão Colorido Vermelho
+tile.color_gate_15.name=Portão Colorido Preto
+tile.metalFenceGate.name=Portão de Metal
+
 tile.colorPane_white.name=Grade Colorido Branco
 tile.colorPane_orange.name=Grade Colorido Laranja
 tile.colorPane_magenta.name=Grade Colorido Magenta
@@ -239,6 +257,9 @@ tile.erze_zink.name=Minério de Zinco
 tile.erze_kupfer.name=Minério de Cobre
 tile.erze_bauxit.name=Bauxita
 tile.erze_magnetit.name=Minério de Magnetita
+tile.erze_kupfer_m.name=Minério de Cobre de Menelaus
+tile.erze_quartz_m.name=Minério de Quartzo de Menelaus
+tile.erze_coal_m.name=Minério de Carvão de Menelaus
 
 tile.erzBlocke_zinn_block.name=Bloco de Estanho
 tile.erzBlocke_zink_block.name=Bloco de Zinco
@@ -353,8 +374,12 @@ tile.ftl_drive.name=Bloco FTL
 tile.advanced_boardcomputer.name=Avançado Computador Central da Nave
 
 tile.modular_door.name=Portão Modular
+tile.composite_door.name=Porta Composta
+tile.sapling_holder.name=Marcador de Rebento
 
 tile.mendel_berry.name=Arbusto Mendelberry
+tile.planks_menelaus_mushroom.name=Pranchas de Menelaus
+tile.planks_tyros.name=Pranchas de Tyros
 
 fluid.liquid.neon=Líquido de Néon 
 
@@ -547,10 +572,24 @@ item.record_fp_tyros.name=Disco de Música
 item.record.fp_tyros.desc=Mantes - Voz de Tyros
 item.record_fp_entros.name=Disco de Música
 item.record.fp_entros.desc=Mantes - Voz de Entros
+item.record_fp_unknown.name=Disco Desconhecido
+item.record.fp_unknown.desc=Martin 1
 
 item.mendel_berry.name=Mendelberry
 item.mendel_seed.name=Semente de Mendelberry
 item.mendel_flower.name=Flor de Mendelberry
+
+item.sword_handle.name=Punho de Espada
+item.energie_zelle.name=Célula de Energia Vazia
+item.compact_energie_zelle.name=Célula de Energia Compacta Vazia
+item.kristall_energie_zelle.name=Célula de Energia Cristalina Vazia
+item.EnergyCell_full.name=Célula de Energia
+item.CompactEnergyCell_full.name=Célula de Energia Compacta
+item.CrystalEnergyCell_full.name=Célula de Energia Cristalina
+
+item.fibers.name=Fibras Vegetais
+item.chemicals.name=Químicos
+item.polymer.name=Biopolímero
 
 itemGroup.fpTab.deco=Materiais Future Pack
 itemGroup.fpTab.maschiens=Maquinismo Future Pack
@@ -648,8 +687,15 @@ command.fp.research.reset.success=As Pesquisas de %s foram reiniciadas!
 command.fp.research.unlock.success=As Pesquisas [%s] foram abertas para %s!
 command.fp.research.copy.success=A pesquisa de %s foi copiada para %s com sucesso!
 
+harvest.tool.shovel.0=Mineração: Pá
+harvest.tool.pickaxe.0=Mineração: Picareta
+harvest.tool.pickaxe.1=Mineração: Picareta de Pedra
+harvest.tool.pickaxe.2=Mineração: Picareta de Ferro
+harvest.tool.pickaxe.3=Mineração: Picareta de Diamante
+harvest.tool.axe.0=Mineração: Machada
+harvest.tool.scoop.0=Mineração: Concha
 
-scanner.button.0.name=Írvore de Tecnologia
+scanner.button.0.name=Árvore de Tecnologia
 scanner.button.1.name=Resultado do Scan
 scanner.button.2.name=Informação Tecnológica
 scanner.button.3.name=Calculador
@@ -708,6 +754,7 @@ research.hologrammtechnik=Tecnologia de Hologramas
 research.raumfahrt=Viagens Espaciais
 research.menelaus=Menelaus
 research.upgradeT3=Módulo de Pesquisa - Experiência
+research.tyros=Tyros
 
 research.quantentechnik=Tecnologia Quantum
 research.ionentechnik=Tecnologia de Íons
@@ -779,6 +826,9 @@ research.production.zent.extraction2=Extração de Minérios
 research.production.zent.neon=Processamento de Cristais
 research.production.zent.bio=Extração de Plantas
 research.production.zent.color=Produção de Cores
+research.production.nind.polymer=Biopolímero
+research.production.zent.rare=Terra Rara
+
 
 research.energy.generator=Gerador
 research.energy.neonmotor=Motor de Néon
@@ -806,6 +856,9 @@ research.log.flashserver=Servidor Flash
 research.log.battery.normal=Batteria
 research.log.battery.large=Bateria Grande
 research.log.battery.neon=Bateria Néon
+research.log.battery.cell=Célula de Energia
+research.log.battery.compact=Célula de Energia Compacta
+research.log.battery.crystal=Célula de Energia Cristalino
 
 research.log.flash.1=Pendrive de Redstone Simples
 research.log.flash.2=Pendrive de Redstone Melhorado
@@ -867,6 +920,8 @@ research.deco.plasmalamp=Lanterna de Plasma
 research.deco.neonlamp=Lanterna de Néon
 research.deco.monitor=Monitor
 research.deco.wardrobe=Armário
+research.deco.cdoor=Porta Composta
+
 
 research.space.magnetblock=Bloco de Ímã
 research.space.emagnet=Eletroímã
@@ -887,6 +942,7 @@ research.space.miner=Drone de Mineração
 research.space.turret.killer=Torreta de Laser
 research.space.turret.heal=Laser de Regeneração
 research.space.turret.absorb=Laser de Absorção
+research.space.modular_door=Porta Modular
 
 research.tools.scrench=Scrench
 research.tools.airbrush=Aerógrafo
@@ -925,6 +981,7 @@ futurepack.jei.notresearched=Você ainda não pesquisou isso!
 futurepack.assembly.name=Receitas de Montagem
 futurepack.furnace.industrial.name=Receitas de Fornalha Industrial
 futurepack.furnace.industrial.neon.name=Receitas de Fornalha de Néon Industrial
+futurepack.crusher.name=Receitas do Super Esmagador
 
 tile.blockWithHole.name=Em breve -- Obra atualmente indisponível!
 

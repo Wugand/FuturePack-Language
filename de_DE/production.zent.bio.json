@@ -3,7 +3,7 @@
 	"Insbesondere bleiben dabei als Reste:",
 	"Hackschnitzel: Brennbare Holzreste",
 	"Kompost: Pflanzenreste, benutzbar als Dünger",
-	"Biopolymer: High-Tec, Rohstoff aus Pflanzenfasern",
+	"Pflanzenfasern: Rohstoff für Biopolymer",
 	"Ich kann dieses Verfahren auf Erden und verschiedenste Pflanzen anwenden, für farbstoffhaltige Pflanzen benötige ich allerdings ein besseres Verfahren.",
 	"Beispiele:",
     {
@@ -34,10 +34,10 @@
         "type":"zentrifuge",
         "slots":
         {
-            "in":{"name":"minecraft:clay_ball", "meta":0, "size":16},
-            "out1":{"name":"minecraft:sand", "size":3, "meta":0},
-            "out2":{"OreDict":"dustIron", "size":1},
-            "out3":{"name":"fp:spaceship", "size":2, "meta":"<spaceship.Kompost>"}
+            "in":{"name":"minecraft:reeds", "meta":0, "size":6},
+            "out1":{"name":"fp:spaceship", "size":6, "meta":"<spaceship.Fibers>"},
+            "out2":{"name":"minecraft:sugar", "meta":0, "size":8},
+            "out3":{}
         },
 	    "support":0,
 	    "time":200

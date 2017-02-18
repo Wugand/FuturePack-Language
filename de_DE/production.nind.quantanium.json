@@ -1,0 +1,18 @@
+[
+	"Ich habe ein Material zusammengestellt das sich ähnlich wie die winzigen Quantenobjekte verhält. Es unterliegt permanenter Veränderung, und verändert ebenso ständig seine Eigenschaften.",
+	"Das Material selbst ist dabei eigentlich nur eine Hülle, die Quantenobjekte einschließt und kontrollierbar macht. Es absorbiert schon bei der Herstellung große Mengen Energie und Daten, die scheinbar für das seltsame Verhalten verantwortlich sind.",
+	{
+		"type": "industrialneonfurnace",
+		"slots": {
+			"in1":  {"OreDict":"ingotWakurum", "size":1},
+			"in2":  {"OreDict":"ingotGadolinium", "size":1},
+			"in3":  {"OreDict":"gemLapis", "size":1},
+			"out1": {"OreDict":"ingotQuantanium", "size":1},
+			"out2": {},
+			"out3": {}
+		},
+		"support":0
+	},
+	"Notiz: Neue Forschungen sind bei \"Schaltkereise\" verfügbar!",
+		
+]

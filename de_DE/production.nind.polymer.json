@@ -1,0 +1,32 @@
+[
+	"Plastik ist stabil, vielseitig und vor allem sehr leicht. Es wäre vermutlich möglich dieses aus Kohle oder Öl herzustellen, ich bevorzuge allerdings die Variante aus erneuerbaren Rohstoffen.",
+	"Zellstoffhaltige Pflanzenfasern kann ich mit einem organischen Chemikalienmix zu einem gleichmäßigem Biopolymer verarbeiten. Dieser Prozess ist am besten im Neonindustrieofen möglich, da dieser ideale Bedingungen für jeden Umwandlungsschritt bereitstellen kann.",
+	"Crafting:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {},
+			"2": {"name":"minecraft:nether_wart", "meta":0},
+			"3": {},
+			"4": {"name":"fp:spaceship", "meta":"<spaceship.HackSchnitzel>"},
+			"5": {"name":"minecraft:water_bucket", "meta":0},
+			"6": {"name":"minecraft:gunpowder", "meta":0},
+			"7": {},
+			"8": {"name":"minecraft:fermented_spider_eye", "meta":0},
+			"9": {},
+			"out": {"name":"fp:spaceship", "meta":"<spaceship.Chemicals>", "size":32}
+		}
+	},
+	{
+		"type": "industrialneonfurnace",
+		"slots": {
+			"in1":  {"name":"fp:spaceship", "meta":"<spaceship.Fibers>", "size":1},
+			"in2":  {"name":"fp:spaceship", "meta":"<spaceship.Chemicals>", "size":1},
+			"in3":  {"name":"fp:spaceship", "meta":"<spaceship.Fibers>", "size":1},
+			"out1": {"name":"fp:spaceship",  "meta":"<spaceship.Polymer>", "size":1},
+			"out2": {},
+			"out3": {}
+		},
+		"support":0
+	}	
+]

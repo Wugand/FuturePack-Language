@@ -1,0 +1,42 @@
+[
+	"Auf Menelaus gab es anscheinend früher starke Regenfälle, in den Überresten von Seen habe ich sehr interessante Ablagerungen gefunden.",
+	"Es scheint, dass dieser sehr seltene Materialien in größeren Mengen enthält. Ich sollte sie Abbauen und versuchen diese Materialien zu extrahieren.",
+	"Diese Seltenen Erden kann ich durch aufwendige Verfahren in Lithium, Gadolinium und Neodym trennen. Auch wenn es sicherlich noch weitere Materialien gegeben hätte, haben diese als einzige einen Anteil der die Extraktion sinnvoll macht.",
+	"Zentrifuge:",
+	{
+        "type":"zentrifuge",
+        "slots":
+        {
+            "in":{"name":"fp:dirt", "meta":0, "size":8},
+            "out1":{"name":"minecraft:gravel", "size":4, "meta":0},
+            "out2":{"name":"minecraft:clay_ball", "size":3, "meta":0},
+            "out3":{"OreDict":"ingotRareEarthMetal", "size":4}
+        },
+	    "support":0,
+	    "time":160
+    },
+	{
+        "type":"zentrifuge",
+        "slots":
+        {
+            "in":{"name":"fp:gravel", "meta":0, "size":8},
+            "out1":{"name":"minecraft:gravel", "size":4, "meta":0},
+            "out2":{"name":"minecraft:clay_ball", "size":6, "meta":0},
+            "out3":{"OreDict":"ingotRareEarthMetal", "size":12}
+        },
+	    "support":0,
+	    "time":240
+    },
+	{
+        "type":"zentrifuge",
+        "slots":
+        {
+            "in":{"OreDict":"ingotRareEarthMetal", "size":4},
+            "out1":{"OreDict":"ingotLithium", "size":2},
+            "out2":{"OreDict":"ingotGadolinium", "size":1},
+            "out3":{"OreDict":"ingotNeodymium", "size":1}
+        },
+	    "support":0,
+	    "time":240
+    }
+]

@@ -1,0 +1,15 @@
+[
+	"Es ist mir gelungen das Silizium im Prozessorbau abzulösen. Nach zahlreichen Experimenten konnte ich einen Quanten-Prozessor entwickeln. Er basiert auf Quantaniumelementen die auf beliebige Funktionen konfiguriert werden können.",
+	"Zudem kann man die einzelnen Informationseinheiten so verschränken, das sich ihre Änderungen gegenseitig beeinflussen. Dies ermöglicht dem Prozessor komplexe Operationen auf beliebig große Datenmengen anzuwenden, wobei das Ergebnis immer sofort entnommen werden kann. Die Leistungsgrenzen der Prozessoren entsteht dabei vor allem durch umkonfigurieren der Operation.",
+	"Eingaben und Ausgaben werden durch Licht dem System zugefügt und entnommen, dazu eignet sich besonders Glowtit. Die einzelnen Recheneinheiten werden mit optischen Elementen begrenzt, die ich am besten aus Diamanten herstellen kann.",
+	"Assembly:",
+	{
+		"type": "assembly",
+		"slots": {
+			"in1": {"OreDict":"ingotQuantanium", "size":1},
+			"in2": {"name":"fp:spaceship", "meta":"<spaceship.DiaParts>", "size":1},
+			"in3": {"OreDict":"ingotGlowtite"},
+			"out": {"name":"fp:core", "meta":4, "size":1}
+		}
+	}
+]

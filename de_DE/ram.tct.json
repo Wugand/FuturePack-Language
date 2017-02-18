@@ -4,10 +4,10 @@
 	{
 		"type": "assembly",
 		"slots": {
-			"in1": {name:"fp:spaceship", meta:<spaceship.Silizium>, size:4},
-			"in2": {name:"fp:spaceship", meta:<spaceship.NeonParts>, size:4},
-			"in3": {OreDict:"ingotRetium"},
-			"out": {name:"fp:ram", meta:3, size:1}
+			"in1": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>", "size":4},
+			"in2": {"name":"fp:spaceship", "meta":"<spaceship.NeonParts>", "size":4},
+			"in3": {"OreDict":"ingotRetium"},
+			"out": {"name":"fp:ram", "meta":3, "size":1}
 		}
 	},
 	"Zusammen mit meinen vorherigen Innovationen habe ich zwar eine kleine Verbesserung erzielen können, allerdings glaube ich nicht das Speicher auf Siliziumbasis eine Zukunft haben. Ich muss dringend eine Alternative finden!",
