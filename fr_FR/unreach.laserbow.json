@@ -1,0 +1,22 @@
+[
+	"D'après certaines archives de l'Inaccessible, je pourrais reconstruire une des ces armes, même si je ne comprends pas comment elle fonctionne.",
+	"C'est une sorte d'arc avec des faisceaux laser à la place des flèches. Lorsqu'elles sont assez chargées, elles peuvent même exploser à l'impact.",
+	"Craft :",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {},
+			"2": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
+			"3": {"OreDict":"ingotRetium"},
+			"4": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
+			"5": {"name":"minecraft:bow", "meta":0},
+			"6": {"OreDict":"ingotGlowtite"},
+			"7": {},
+			"8": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
+			"9": {"OreDict":"ingotRetium"},
+			"out": {"name":"fp:laserBow", "meta":0, "size":1}
+		}
+	},
+	"L'arc se (re)charge grâce à de l'Energie Néon.",
+	"Il faut que je regarde également si l'arc Laser peut être enchanté."
+]

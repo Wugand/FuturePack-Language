@@ -1,0 +1,18 @@
+[
+	"J'ai collecté un matériau qui se comporte un peu comme des petits objets quantiques. Il est soumis à des changements constants et ses propriétés sont en constante évolution.",
+	"Le matériau en lui-même n'est qu'une coquille contenant les objets quantiques, ce qui le rend contrôlable. Lors de sa conception, il a dû absorber de grandes quantités d'énergie et de données, qui sont apparemment responsable de son comportement étrange.",
+	{
+		"type": "industrialneonfurnace",
+		"slots": {
+			"in1":  {"OreDict":"ingotWakurum", "size":1},
+			"in2":  {"OreDict":"ingotGadolinium", "size":1},
+			"in3":  {"OreDict":"gemLapis", "size":1},
+			"out1": {"OreDict":"ingotQuantanium", "size":1},
+			"out2": {},
+			"out3": {}
+		},
+		"support":0
+	},
+	"Note : de nouvelles recherches sont disponibles dans l'onglet \"Circuits\" !",
+		
+]
