@@ -1,15 +1,15 @@
 [
-	"Le processeur fait à partir de Silicium m'a été très utile. Mais après de nombreuses expériences, j'ai réussi à développer un processeur quantique. Il est basé sur des éléments de Quantanium, qui peuvent réaliser toutes le fonctions de bases.",
-	"De plus, il est possible d'intervertir des éléments de sorte que leurs influences changent. Cela permet aux processeurs de réaliser des opérations complexes sur de grandes quantités de données, et d'avoir le résultat rapidement. Les limites de performances sont données par la configuration de l'opération.",
-	"Les entrées et les sorties du processeurs sont actionnées par la lumière, qui est réalisé à partir de la Glowtite. Les unités de traitement individuelles sont limitées par des éléments optiques que je peux améliorer avec des diamants.",
-	"Assemblage:",
+	"J'ai réussi à remplacer le silicium dans la construction des processeurs. Après de nombreux tests, je suis maintenant capable de développer un processeur quantique. Il est basé sur des éléments de Quantanium qui peuvent être configurés en une multitude de fonctions.",
+	"Les unités individuelles d'informations peuvent être interconnectés de telle sorte que chacune peut changer l'influence qu'elle a sur les autres. Cela permet au processeur de réaliser des opérations complexes avec un grand nombre de données, et d'avoir un résultat pratiquement instantanément. Les limites de performances des processeurs sont en général données par la reconfiguration des paramètres d'opération.",
+	"Les informations d'entrées et de sorties sont communiquées au système grâce à la lumière, et la Glowtite est particulièrement adpatée à cela. Les unités arithmétiques individuelles sont limitées par les éléments optiques, qui sont réalisés avec du diamant.",
+	"Assemblage :",
 	{
 		"type": "assembly",
 		"slots": {
-			"in1": {OreDict:"ingotQuantanium", size:1},
-			"in2": {name:"fp:spaceship", meta:<spaceship.DiaParts>, size:1},
-			"in3": {OreDict:"ingotGlowtite"},
-			"out": {name:"fp:core", meta:4, size:1}
+			"in1": {"OreDict":"ingotQuantanium", "size":1},
+			"in2": {"name":"fp:spaceship", "meta":"<spaceship.DiaParts>", "size":1},
+			"in3": {"OreDict":"ingotGlowtite"},
+			"out": {"name":"fp:core", "meta":4, "size":1}
 		}
 	}
 ]
