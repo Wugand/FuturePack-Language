@@ -1,6 +1,6 @@
 [
 	"J'ai collecté un matériau qui se comporte un peu comme des petits objets quantiques. Il est soumis à des changements constants et ses propriétés sont en constante évolution.",
-	"Le matériau en lui-même n'est qu'une coquille contenant les objets quantiques, ce qui le rend contrôlable. Lors de sa conception, il a dû absorber de grandes quantités d'énergie et de données, qui sont apparemment responsable de son comportement étrange.",
+	"Le matériau en lui-même n'est qu'une coquille contenant les objets quantiques, ce qui le rend plus contrôlable. Lors de sa conception, il a dû absorber de grandes quantités d'énergie et de données, qui sont apparemment responsable de son comportement étrange.",
 	{
 		"type": "industrialneonfurnace",
 		"slots": {

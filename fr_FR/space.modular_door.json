@@ -1,7 +1,7 @@
 [
 	"J'ai développé une version plus souple du Sas. Il peut prendre la taille, la forme et la direction que nous souhaitons.",
-	"Ce module peut être facilement placé comme un bloc, et peut être tourné (en faisant §lShift + Clic Droit§r pour ne pas l'activer).",
-	"La porte comportera tous les blocs en contact avec elle. La porte peut s'ouvrir et se fermer avec un §lClic Droit§r.",
+	"Ce module peut être facilement placé comme un bloc, et peut être tourné (en faisant §lShift + Clic Droit§r pour ne pas l'activer). Plusieurs orientations peuvent être combinées pour réaliser un portail.",
+	"La porte comportera tous les blocs en contact avec elle. La porte peut s'ouvrir et se fermer avec un §lClic Droit§r sur n'importe quel bloc de la porte.",
 	"Craft :",
 	{
 		"type": "crafting",
