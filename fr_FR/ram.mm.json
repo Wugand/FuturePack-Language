@@ -1,15 +1,15 @@
 [
-	"Je suis parvenu à remplacer le silicium dans mes éléments de stockage. Après de nombreuses recherches, je suis capable de développer une mémoire quantique. Elle se compose d'éléments de Quantanium et d'un processeur dédié.",
-	"Ces unités de stockage peuvent avoir une valeur dynamique et obtenir avec une certaine probabilité un état spécifique.",
-	"Les données peuvent également être accessible de façon conventionnelle, ce qui est dû aux éléments de Glowtite.",
+	"J'ai réussi à remplacer le silicium dans la construction de mes mémoires. Après de nombreux essais, je suis maintenant capable de développer une unité de mémoire quantique à partir d'éléments de Quantinium, directement liés au processeur.",
+	"Les unités individuelles peuvent aussi gérer des valeurs dynamiques, ce qui veut dire qu'elles contiennent des états concrets, chacun d'eux avec une certaine probabilité.",
+	"Il est possible d'accéder aux données de façons conventionnelles, la Glowtite étant parfaite pour cela.",
 	"Assemblage :",
 	{
 		"type": "assembly",
 		"slots": {
-			"in1": {OreDict:"ingotQuantanium", size:1},
-			"in2": {name:"fp:spaceship", meta:<spaceship.NeonParts>, size:1},
-			"in3": {OreDict:"ingotGlowtite"},
-			"out": {name:"fp:ram", meta:4, size:1}
+			"in1": {"OreDict":"ingotQuantanium", "size":1},
+			"in2": {"name":"fp:spaceship", "meta":"<spaceship.NeonParts>", "size":1},
+			"in3": {"OreDict":"ingotGlowtite"},
+			"out": {"name":"fp:ram", "meta":4, "size":1}
 		}
 	}
 ]

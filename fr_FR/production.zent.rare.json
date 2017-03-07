@@ -1,8 +1,8 @@
 [
 	"Il semblerait que Menelaus a subi dans le passé de fortes pluies. J'ai trouvé des dépôts très intéressant dans les vestiges d'anciens lacs.",
 	"Il semble qu'ils contiennent de grandes quantités de matériaux rares. Je devrais essayer de les pulvériser pour extraire ces matériaux.",
-	"Ces terres rares peuvent être extraites grâce à des procédés coûteux en Lithium, Gadolinium et Neodymium. J'aurai aimé avoir plus de matériaux, mais il est normal car il sont qu'une partie de l'extraction.",
-	"Centrifugeuse:",
+	"Ces terres rares peuvent être extraites grâce à des procédés coûteux, mais fournirait du Lithium, Gadolinium et Neodymium. Il serait possible de trouver d'autres matériaux, cependant, ce sont les trois seuls rentables par rapport au coût et au temps d'extraction.",
+	"Centrifugeuse :",
 	{
         "type":"zentrifuge",
         "slots":

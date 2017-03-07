@@ -1,5 +1,5 @@
 [
-	"En utilisant les nouvelles ressources que j'ai trouvées sur Melelaus, je pourrais de nouveau améliorer mes processeurs. Les caractéristiques particulières du Retium sur la transmission de signaux se sont avérées très utiles.",
+	"En utilisant les nouvelles ressources que j'ai trouvées sur Melelaus, j'ai pu de nouveau améliorer mes processeurs, notamment grâce aux caractéristiques particulières du Retium qui permettent la transmission de signaux.",
 	"Assemblage:",
 	{
 		"type": "assembly",
@@ -10,6 +10,6 @@
 			"out": {name:"fp:core", meta:3, size:1}
 		}
 	},
-	"Avec mes dernières innovations, même en les améliorant un peu, je ne pense pas que mes processeurs au Silicium ont un avenir. Je dois trouver une alternative de toute urgence !",
+	"Même en améliorant un peu mes dernières innovations, je ne pense pas que mes processeurs au Silicium ont un avenir. Je dois trouver une alternative de toute urgence !",
 	"Info: Se référer au \"Processeur Standard\" pour des informations générales."
 ]
