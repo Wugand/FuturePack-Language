@@ -1,0 +1,21 @@
+[
+	"Se eu forneço grandes quantidades de energy num período curto a um diodo de laser, um pulso de energia é soltado. Porém, entre duas ativações, um tempo de carregar é requerido.",
+	"Eu consegui integrar o sistema inteiro numa arma portátil. Solta um impulso para frente, que pode causar bastante dano.",
+	"Criando:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"2": {"name":"fp:spaceship", "meta":"<spaceship.Fasern>"},
+			"3": {},
+			"4": {"name":"fp:spaceship", "meta":"<spaceship.LargeBaterie>"},
+			"5": {"name":"fp:spaceship", "meta":"<spaceship.Laserdiode>"},
+			"6": {"name":"fp:spaceship", "meta":"<spaceship.LinseR>"},
+			"7": {"name":"fp:chip", "meta":"<chip.TacticChip>"},
+			"8": {"name":"fp:spaceship", "meta":"<spaceship.Fasern>"},
+			"9": {},
+			"out": {"name":"fp:laser_riffle", "meta":0, "size":1}
+		}
+	},	
+	"Energia de néon é requerida para (re-)carregar a arma. Se a reserva de carga cair embaixo de 18 NE, nenhum impulso mais pode ser preparado."
+]
