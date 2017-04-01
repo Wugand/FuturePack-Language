@@ -1,0 +1,22 @@
+[
+	"Eu consegui reconstruir alguns dos registros de dados dos Inacessíveis e construí uma arma deles, mesmo que não entendo bem nem como nem por quê funciona.",
+	"É um arco que lança o quê parece ser uma faixa sólida de laser ao invés de uma flecha. Pode às vezes conter energia suficiente para até explodir após impacto.",
+	"Criando:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {},
+			"2": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
+			"3": {"OreDict":"ingotRetium"},
+			"4": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
+			"5": {"name":"minecraft:bow", "meta":0},
+			"6": {"OreDict":"ingotGlowtite"},
+			"7": {},
+			"8": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
+			"9": {"OreDict":"ingotRetium"},
+			"out": {"name":"fp:laserBow", "meta":0, "size":1}
+		}
+	},
+	"Energia de néon é requerida para (re-)carregar o arco.",
+	"Eu estou curioso ver se o arco é compatível com encantamentos..."
+]
