@@ -1,0 +1,26 @@
+[
+	"Com a ajuda dos meus laseres fatais, eu desenvolvei um tipo de torre de guarda. Com um computador embutido, ele automaticamente acha alvos no alcance. Com um impulso muito forte de energia, o torre ferirá alvos rapidamente.",
+	"Fazendo isso, o torre consome muita energia. E é por causa disto que é melhor ligá-lo a um fonte permanente de energia. Além do uso contínuo do computador, matar inimigos usa energia adicional (10 NE por ponto de vida).",
+	"Criando:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": "OreDict:ingotAluminum",
+			"2": {"name":"fp:spaceship","meta":"<spaceship.Laserdiode>"},
+			"3": {"name":"fp:spaceship","meta":"<spaceship.LinseR>"},
+			"4": {},
+			"5": {"name":"fp:spaceship","meta":"<spaceship.IronStick>"},
+			"6": {},
+			"7": {"name":"fp:spaceship","meta":"<spaceship.NeonBaterie>"},
+			"8": {"name":"fp:color_iron_step_half_0","meta":0},
+			"9": {"name":"fp:spaceship","meta":"<spaceship.Maschinboard>"},
+			"out": {"name":"fp:entity_eater","meta":1}
+		}
+	},
+	"O torre de tiro é controlado por um sistema que, além de outras coisas, regula a acquisição de alvos e fluxo de energia.",
+	"Chipsets Suportados:",
+	"Chipset Industrial: Reduz a energia requerida para matar criaturas.",
+	"Chipset de Controle Tático: Aumenta o raio de pesquisa.",
+	"Chipset AI: Alvos não são mortos, mas são deixados extremamente fracos (com 1 ponto de vida)."
+	
+]
