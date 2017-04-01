@@ -1,7 +1,7 @@
 [
-	"Demora muito para quebrar blocos de metal com uma picareta e é muito ineficiente. É por isso que eu desenvolvei uma ferramenta que, similar com um bico de Bunsen, cria calor suficiente para derreter metais.",
-	"Para aço ou ferro, uma maior quantidade de energia é necessária. É por isso que um raio de plasma será usado. Isso é realizado por ionizando o ar perto e aquecendo ele descarregando toda a energia ao mesmo tempo. Mas precisa de muita energia.",
-	"Para evitar o calor de destruir tudo, um campo magnético é criado. Mas é melhor verificar que tem energia suficiente para criá-lo antes.",
+	"Eu desenvolvei uma ferramenta que é similar com um bico de Bunsen, que gera quantidades grandes de calor. Com isso, eu posso derreter muitos metais; contudo ferro e aço requerem muita energia mais. Assim sendo, um jato super-quente é usado, gerado por descargando a energia armazenada em ar ionizado num compartamento especial. Este processo usa bastante energia.",
+	"Para garantir que a ferramenta não destrói-se, um campo magnético é gerado dentro. Eu preciso ter muito cuidado sempre ter energia suficiente para gerar o campo.",
+	"Esta nova ferramente me permite derreter muitos tipos de blocos de metal* (incluíndo quase todos os blocos decorativos e máquinas de FuturePack) rapidamente. Embora não substitui ferramentas cortantes ou pontiagudas, então não funciona com pedra por exemplo.",
 	"Criando:",
 	{
 		"type": "crafting",
@@ -17,6 +17,8 @@
 			"9": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
 			"out": {"name":"fp:plasmaschneider", "meta":2500, "size":1}
 		}
-	},		
-	"Energia de néon é necessário para (re)carregar. Se as reservas de energia acabarem, o cortador de plasma será destruído."
+	},
+	"Energia de néon é requerida para (re-)carregar. Se a reserva de energia for esgotada, o cortador se quebrará.",
+	"Para carregar o cortador, eu posso usar aberturas correspondentes de geradores de energia, caixas de baterias, ou de módulos de pesquisa de energia, exatamente como carregando uma bateria.",
+	"*Informação para \"Insider\": Todos os blocos na categoria \"Material.IRON\""
 ]
