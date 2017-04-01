@@ -1,0 +1,15 @@
+[
+	"Usando as matérias primas que achei em Meneláus, eu consegui melhorar minha memória novamente, com rétio e suas características úteis de transporte de sinais.",
+	"Montagem:",
+	{
+		"type": "assembly",
+		"slots": {
+			"in1": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>", "size":4},
+			"in2": {"name":"fp:spaceship", "meta":"<spaceship.NeonParts>", "size":4},
+			"in3": {"OreDict":"ingotRetium"},
+			"out": {"name":"fp:ram", "meta":3, "size":1}
+		}
+	},
+	"Olhando às minhas inovações anteriores, eu percebi que as melhorias estão ficando menores e menores. Parece que processadores de sílico chegaram ao fim das possibildades para melhorá-los. Para fazer alguma melhoria boa, um sucessor precisa ser achado.",
+	"Obs: Para informação geral, veja RAM padrão."
+]
