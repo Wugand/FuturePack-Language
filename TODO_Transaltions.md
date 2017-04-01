@@ -6,20 +6,20 @@ Please update this, if you add an translation.
 
 Research  | German | English | Portugese | French
 --------- | ------ | ------- | --------- | ------
-tools.grenade.blaze | Wugi | a22brad22 | ... | NeoFight92
-tools.grenade.compost | Wugi | a22brad22 | ... | NeoFight92
-tools.grenade.food | Wugi | a22brad22 | ... | NeoFight92
-tools.grenade.plasma | Wugi | a22brad22 | ... | NeoFight92
-tools.grenade.saat | Wugi | a22brad22 | ... | NeoFight92
-tools.grenade.slime | Wugi | a22brad22 | ... | NeoFight92
-tools.laserrifle | Wugi | a22brad22 | ... | NeoFight92
-space.turret.killer | Wugi | a22brad22 | ... | NeoFight92
-tools.plasma !Updated! | Wugi | a22brad22 | ... | NeoFight92 
-core.tct | Wugi | a22brad22 | ... | NeoFight92 
-menelaus | Wugi | a22brad22 | ... | NeoFight92 
-production.nind.special | Wugi | a22brad22 | ... | NeoFight92 
-ram.tct | Wugi | a22brad22 | ... | NeoFight92 
-unrechable_tec | Wugi | a22brad22 | ... | NeoFight92 
+tools.grenade.blaze | Wugi | a22brad22 | a22brad22 | NeoFight92
+tools.grenade.compost | Wugi | a22brad22 | a22brad22 | NeoFight92
+tools.grenade.food | Wugi | a22brad22 | a22brad22 | NeoFight92
+tools.grenade.plasma | Wugi | a22brad22 | a22brad22 | NeoFight92
+tools.grenade.saat | Wugi | a22brad22 | a22brad22 | NeoFight92
+tools.grenade.slime | Wugi | a22brad22 | a22brad22 | NeoFight92
+tools.laserrifle | Wugi | a22brad22 | a22brad22 | NeoFight92
+space.turret.killer | Wugi | a22brad22 | a22brad22 | NeoFight92
+tools.plasma !Updated! | Wugi | a22brad22 | a22brad22 | NeoFight92 
+core.tct | Wugi | a22brad22 | a22brad22 | NeoFight92 
+menelaus | Wugi | a22brad22 | a22brad22 | NeoFight92 
+production.nind.special | Wugi | a22brad22 | a22brad22 | NeoFight92 
+ram.tct | Wugi | a22brad22 | a22brad22 | NeoFight92 
+unrechable_tec | Wugi | a22brad22 | a22brad22 | NeoFight92 
 upgradeT3 | Wugi | a22brad22 | ... | NeoFight92 
 deco.cdoor | Wugi | a22brad22 | ... | NeoFight92 
 space.modular_door | Wugi | a22brad22 | ... | NeoFight92 
@@ -34,6 +34,6 @@ log.battery.compact | ... | ... | ... | ...
 log.battery.crystal | ... | ... | ... | ... 
 log.flash.6 | ... | ... | ... | ... 
 ionentechnik | ... | ... | ... | ... 
-unreach.laserbow | Wugi | a22brad22 | ... | NeoFight92 
+unreach.laserbow | Wugi | a22brad22 | a22brad22 | NeoFight92 
 energy.ionen | ... | ... | ... | ... 
-deco.metallgate | Wugi | Wugi | ... | ...
+deco.metallgate | Wugi | Wugi | a22brad22 | ...
