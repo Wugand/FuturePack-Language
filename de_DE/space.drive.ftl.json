@@ -1,0 +1,24 @@
+[
+	"Meinen Berechnungen zufolge würde ich sehr lange fliegen um einen anderen Planet zu erreichen, da ich scheinbar nicht beliebig schnell fliegen kann. Ich musste also eine andere Möglichkeit zur Fortbewegung finden. In Anlehnung an das Prinzip der Teletortation mit Hilfe von Enderperlen habe ich einen Antrieb entwickelt, welcher den Raum so manipuliert das eine Abkürzung zum Ziel entsteht.",
+	"Dieser Prozess verbraucht sehr viel Energie und ist nur mit einer speziellen Konstruktion möglich die ich FTL-Antrieb nenne. Dieser besteht aus 12 FTL-Blöcken, er hat eine Grundfläche von 3 x 2 und ist 2 Blöcke hoch. Wenn alle 12 Bauteile platziert sind kann ich den FTL - Antrieb montieren (verbindet sich automatisch)",
+	"Ich werde diesen Antrieb zusätzlich in jedes Raumschiff einbauen müssen, mit dem ich weiter als bis nach Menelaus fliegen möchte.",
+	
+	"Crafting:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"name":"fp:spaceship","meta":"<spaceship.QuantaniumCoil>"},
+			"2": {"name":"fp:chip","meta":"<chip.UltimateChip>"},
+			"3": {"name":"fp:spaceship","meta":"<spaceship.QuantaniumCoil>"},
+			"4": {"name":"fp:spaceship","meta":"<spaceship.CompactEnergieZelle>"},
+			"5": {"name":"fp:core","meta":4},
+			"6": {"name":"fp:spaceship","meta":"<spaceship.CompactEnergieZelle>"},
+			"7": {"name":"fp:spaceship","meta":"<spaceship.CompositeMetall>"},
+			"8": {"name":"fp:chip","meta":"<chip.NavigationChip>"},
+			"9": {"name":"fp:spaceship","meta":"<spaceship.CompositeMetall>"},
+			"out": {"name":"fp:ftl_drive","meta":0,"size":1}
+		}
+	},
+	
+	"Warnung: Benutzte den FTL-Block nicht als Dekoration."
+]

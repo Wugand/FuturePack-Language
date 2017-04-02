@@ -381,6 +381,9 @@ tile.mendel_berry.name=Mendelberry Bush
 tile.planks_menelaus_mushroom.name=Menelaus Planks
 tile.planks_tyros.name=Tyros Planks
 
+tile.fluid_tube.name=Fluid Tube
+tile.fluid_pump.name=Pump
+
 fluid.liquid.neon=Neon Liquid
 
 item.scrench.name=Scrench
@@ -444,6 +447,7 @@ item.CopperCoil.name=Copper Coil
 item.IronCoil.name=Iron Coil
 item.NeonCoil.name=Neon Coil
 item.GoldCoil.name=Gold Coil
+item.quantanium_coil.name=Quantanium Coil
 
 item.Eisenteile.name=Ironparts
 item.Diamandteile.name=Diamondparts
@@ -505,10 +509,11 @@ item.AI_Flash_Speicher_3.name=Empty Crystal Flashdrive
 item.AI_Flash_Speicher_4.name=Empty Isotope Flashdrive
 item.AI_Flash_Speicher_5.name=Empty Qubit Flashdrive
 
-item.entityegger0.name=Entity Egger
-item.entityegger2.name=Spawner Chest
-item.entityegger3.name=Filled Spawner Chest
-item.entityegger4.name=Constructionbox Mining-Drone
+item.entityegger.name=Entity Egger
+item.spawnerchest.name=Spawner Chest
+item.spawnerchest_full.name=Filled Spawner Chest
+item.minerbox.name=Constructionbox Mining-Drone
+item.forstmasterbox.name=Constructionbox Forstmaster
 item.creeperWurfel.name=Slime Cube
 item.sauerstofftank.name=Oxygen Tank
 item.laserBow.name=Laser Bow
@@ -620,7 +625,7 @@ aspect.neonenergie.name=Neon Energy
 aspect.hydraulic.name=Hydraulics
 
 death.attack.neonDamage=%s was killed by Neon Energy
-
+material.metall=Metal Block: Suitable for SSpaceships
 
 chat.beam.noBlockAbove=There is no teleporter above this block.
 chat.beam.noBlockBelow=There is no teleporter below this block.
@@ -921,7 +926,7 @@ research.deco.neonlamp=Neon Lamp
 research.deco.monitor=Monitor
 research.deco.wardrobe=Wardrobe
 research.deco.cdoor=Composite Door
-
+research.deco.metallgate=Metall Fence Gate
 
 research.space.magnetblock=Magnet Block
 research.space.emagnet=Electro Magnet
@@ -935,6 +940,7 @@ research.space.computer=Boardcomputer
 research.space.spaceship=Navigation and Control
 research.space.navcord.menelaus=Menelaus Coordinates
 research.space.drive.ftl=FTL-Drive
+research.space.advanced=Advanced Boardcomputer
 research.space.navcord.tyros=Tyros Coordinates
 research.space.dronestation=Drone Station
 research.space.claime=Zone Transmitter

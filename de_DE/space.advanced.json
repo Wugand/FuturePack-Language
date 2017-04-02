@@ -1,0 +1,22 @@
+[
+    "Mein einfacher Bordcomputer ist leider nicht in der Lage die Berechnungen für den FTL-Antrieb auszuführen. Denn trotz der Recheneinheiten im FTL-Antrieb bedarf es noch genauer Steuerung und Kursberechnung, zudem muss ich auch die Effekte der Quantenmechanik kompensieren. Deshalb habe ich ein Upgrade entwickelt und ihn mit einem Leistungsstarken Quantencomputer ausgestattet.",
+    "Crafting:",
+    {
+        "type": "crafting",
+        "slots": {
+            "1": {"name":"fp:spaceship","meta":"<spaceship.IronCoil>"},
+            "2": {"name":"fp:erz_blocke","meta":9},
+            "3": {"name":"fp:spaceship","meta":"<spaceship.IronCoil>"},
+            "4": {"name":"fp:spaceship","meta":"<spaceship.Polymer>"},
+            "5": [{"name":"fp:board_computer","meta":2},{"name":"fp:board_computer","meta":6},{"name":"fp:board_computer","meta":10}],
+            "6": {"name":"fp:spaceship","meta":"<spaceship.Polymer>"},
+            "7": {"name":"fp:ram","meta":4},
+            "8": {"name":"fp:core","meta":4},
+            "9": {"name":"fp:ram","meta":4},
+            "out": [{"name":"fp:advanced_boardcomputer","meta":2},{"name":"fp:advanced_boardcomputer","meta":6},{"name":"fp:advanced_boardcomputer","meta":10}]
+        }
+    },
+    "Weitere Hinweise zur Benutzung sind beim einfachen Bordcomputer zu finden.",
+	"Je nach Farbe des Gehäuses hat der Bordcomputer ein anderes Design der Benutzeroberfläche."
+
+]

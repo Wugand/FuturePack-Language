@@ -381,6 +381,9 @@ tile.mendel_berry.name=Mendelbeerstrauch
 tile.planks_menelaus_mushroom.name=Menelausholzbretter
 tile.planks_tyros.name=Tyrosholzbretter
 
+tile.fluid_tube.name=Rohrleitung
+tile.fluid_pump.name=Pumpe
+
 fluid.liquid.neon=Neonflüssigkeit
 
 item.scrench.name=Schraubendrehschlüssel
@@ -444,6 +447,7 @@ item.CopperCoil.name=Kupferspule
 item.IronCoil.name=Eisenspule
 item.NeonCoil.name=Neonspule
 item.GoldCoil.name=Goldspule
+item.quantanium_coil.name=Quantaniumspule
 
 item.Eisenteile.name=Eisenteile
 item.Diamandteile.name=Diamantenteile
@@ -505,10 +509,11 @@ item.AI_Flash_Speicher_3.name=Leerer Kistall-Flashspeicher
 item.AI_Flash_Speicher_4.name=Leerer Isotop-Flashspeicher
 item.AI_Flash_Speicher_5.name=Leerer Qubit-Flashspeicher
 
-item.entityegger0.name=Entity-Egger
-item.entityegger2.name=Spawnerkiste
-item.entityegger3.name=Gefüllte Spawnerkiste
-item.entityegger4.name=Bausatz Abbaudrone
+item.entityegger.name=Entity-Egger
+item.spawnerchest.name=Spawnerkiste
+item.spawnerchest_full.name=Gefüllte Spawnerkiste
+item.minerbox.name=Bausatz Abbaudrone
+item.forstmasterbox.name=Bausatz Forstmaster
 item.creeperWurfel.name=Schleimwürfel
 item.sauerstofftank.name=Sauerstofftank
 item.laserBow.name=Laserbogen
@@ -620,7 +625,7 @@ aspect.neonenergie.name=Neonenergie
 aspect.hydraulic.name=Hydraulik
 
 death.attack.neonDamage=%s wurde durch Neonenergie getötet.
-
+material.metall=Metallblock: Geeignet für Raumschiffe
 
 chat.beam.noBlockAbove=Über diesem Block befindet sich kein Zielteleporter!
 chat.beam.noBlockBelow=Unter diesem Block befindet sich kein Zielteleporter!
@@ -921,7 +926,7 @@ research.deco.neonlamp=Neonlampe
 research.deco.monitor=Monitor
 research.deco.wardrobe=Wandschrank
 research.deco.cdoor=Verbundmetalltür
-
+research.deco.metallgate=Metallzauntor
 
 research.space.magnetblock=Magnetblock
 research.space.emagnet=Elektromagnet
@@ -935,6 +940,7 @@ research.space.computer=Boardcomputer
 research.space.spaceship=Navigation und Steuerung
 research.space.navcord.menelaus=Koordinatensatz Menelaus
 research.space.drive.ftl=FTL-Antrieb
+research.space.advanced=Erweiterter Bordcomputer
 research.space.navcord.tyros=Koordinatensatz Tyros
 research.space.dronestation=Drohnenstation
 research.space.claime=Claime-Überträger
