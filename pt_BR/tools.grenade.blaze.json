@@ -1,0 +1,55 @@
+[
+	"Às vezes, a única coisa que você quer é um fogo grande.",
+	"Quando eu encho a grenada com pó de blaze, espalha-se e ascende-se após impacto, causando a área ao redor pegar fogo.",
+	"Na grenada, eu posso usar entre 1 e 3 unidades de pó de blaze, correspondendo ao tamanho da área afetada.",
+	
+	"Criando (sem forma):",
+	"Nível 1:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"name":"fp:grenade", "meta":0},
+			"2": {"name":"minecraft:blaze_powder"},
+			"3": {},
+			"4": {},
+			"5": {},
+			"6": {},
+			"7": {},
+			"8": {},
+			"9": {},
+			"out": {"name":"fp:grenade", "meta":1, "size":1}
+		}
+	},
+	"Nível 2:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"name":"fp:grenade", "meta":0},
+			"2": {"name":"minecraft:blaze_powder"},
+			"3": {},
+			"4": {"name":"minecraft:blaze_powder"},
+			"5": {},
+			"6": {},
+			"7": {},
+			"8": {},
+			"9": {},
+			"out": {"name":"fp:grenade", "meta":1, "size":1}
+		}
+	},
+	"Nível 3:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"name":"fp:grenade", "meta":0},
+			"2": {"name":"minecraft:blaze_powder"},
+			"3": {"name":"minecraft:blaze_powder"},
+			"4": {"name":"minecraft:blaze_powder"},
+			"5": {},
+			"6": {},
+			"7": {},
+			"8": {},
+			"9": {},
+			"out": {"name":"fp:grenade", "meta":1, "size":1}
+		}
+	}
+]

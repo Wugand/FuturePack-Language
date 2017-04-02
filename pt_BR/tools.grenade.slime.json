@@ -1,0 +1,55 @@
+[
+	"Eu não preciso sempre matar um alvo. Às vezes, é melhor so imobilizá-lo.",
+	"Enchendo a grenada com limo pegajoso, eu posso criar uma arma para desacelerar um alvo.",
+	"Eu posso usar entre 1 e 3 unidades de limo para escolher o tamanho da área afetada.",
+	
+	"Criando (sem forma):",
+	"Nível 1:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"name":"fp:grenade", "meta":0},
+			"2": {"name":"minecraft:slime_ball"},
+			"3": {},
+			"4": {},
+			"5": {},
+			"6": {},
+			"7": {},
+			"8": {},
+			"9": {},
+			"out": {"name":"fp:grenade", "meta":4, "size":1}
+		}
+	},
+	"Nível 2:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"name":"fp:grenade", "meta":0},
+			"2": {"name":"minecraft:slime_ball"},
+			"3": {},
+			"4": {"name":"minecraft:slime_ball"},
+			"5": {},
+			"6": {},
+			"7": {},
+			"8": {},
+			"9": {},
+			"out": {"name":"fp:grenade", "meta":4, "size":1}
+		}
+	},
+	"Nível 3:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"name":"fp:grenade", "meta":0},
+			"2": {"name":"minecraft:slime_ball"},
+			"3": {"name":"minecraft:slime_ball"},
+			"4": {"name":"minecraft:slime_ball"},
+			"5": {},
+			"6": {},
+			"7": {},
+			"8": {},
+			"9": {},
+			"out": {"name":"fp:grenade", "meta":4, "size":1}
+		}
+	}
+]

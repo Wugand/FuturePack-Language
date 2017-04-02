@@ -1,0 +1,55 @@
+[
+	"A grenada simples de pólvora é muito eficaz para matar criaturas, mas facilmente causa dano à paisagem e prédios.",
+	"Eu posso acender um pouco de pó de néon com pó de blaze, causando uma onda forte de plasma. Contudo, isto somente afeta criaturas! A radiação pode ser absorvida por coisas não-vivas sem efeitos negativos.",
+	"Eu posso usar entre 1 e 3 unidades de pó de néon para escolher a força da grenada.",
+	
+	"Criando (sem forma):",
+	"Nível 1:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"name":"fp:grenade", "meta":0},
+			"2": {"OreDict":"dustNeon"},
+			"3": {},
+			"4": {},
+			"5": {"name":"minecraft:blaze_powder"},
+			"6": {},
+			"7": {},
+			"8": {},
+			"9": {},
+			"out": {"name":"fp:grenade", "meta":3, "size":1}
+		}
+	},
+	"Nível 2:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"name":"fp:grenade", "meta":0},
+			"2": {"OreDict":"dustNeon"},
+			"3": {},
+			"4": {"OreDict":"dustNeon"},
+			"5": {"name":"minecraft:blaze_powder"},
+			"6": {},
+			"7": {},
+			"8": {},
+			"9": {},
+			"out": {"name":"fp:grenade", "meta":3, "size":1}
+		}
+	},
+	"Nível 3:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"name":"fp:grenade", "meta":0},
+			"2": {"OreDict":"dustNeon"},
+			"3": {"OreDict":"dustNeon"},
+			"4": {"OreDict":"dustNeon"},
+			"5": {"name":"minecraft:blaze_powder"},
+			"6": {},
+			"7": {},
+			"8": {},
+			"9": {},
+			"out": {"name":"fp:grenade", "meta":3, "size":1}
+		}
+	}
+]
