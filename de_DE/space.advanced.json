@@ -1,6 +1,6 @@
 [
     "Mein einfacher Bordcomputer ist leider nicht in der Lage die Berechnungen für den FTL-Antrieb auszuführen. Denn trotz der Recheneinheiten im FTL-Antrieb bedarf es noch genauer Steuerung und Kursberechnung, zudem muss ich auch die Effekte der Quantenmechanik kompensieren. Deshalb habe ich ein Upgrade entwickelt und ihn mit einem Leistungsstarken Quantencomputer ausgestattet.",
-    "Außerdem habe ich einige Porbleme behoben die mir nach längerer Benutzung der ersten version aufgefallen sind, z.B. wird jetzt angezeigt wo das Raumschiff offen ist.",
+    "Außerdem habe ich einige Probleme behoben die mir nach längerer Benutzung der ersten Version aufgefallen sind, z.B. wird jetzt angezeigt wo das Raumschiff offen ist.",
     "Crafting:",
     {
         "type": "crafting",
