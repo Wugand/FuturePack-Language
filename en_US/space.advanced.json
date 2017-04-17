@@ -1,6 +1,7 @@
 [
-    "Mein einfacher Bordcomputer ist leider nicht in der Lage die Berechnungen für den FTL-Antrieb auszuführen. Denn trotz der Recheneinheiten im FTL-Antrieb bedarf es noch genauer Steuerung und Kursberechnung, zudem muss ich auch die Effekte der Quantenmechanik kompensieren. Deshalb habe ich ein Upgrade entwickelt und ihn mit einem Leistungsstarken Quantencomputer ausgestattet.",
-    "Außerdem habe ich einige Probleme behoben die mir nach längerer Benutzung der ersten Version aufgefallen sind, z.B. wird jetzt angezeigt wo das Raumschiff offen ist.",
+    "My simple board computer is unfortunately not able to calculate the paths for the FTL-Drive. Because despite the processing unit in the FTL even more accurate data for control and course calculation is needed, and I have to compensate (in)logic and effects of quantum mechanics. That's why I created an upgrade and used a powerfull quantum computer as cpu.",
+    "I also fixed some problems the first version had. For example the message 'Your spaceship is open' also points out were it is open."
+    
     "Crafting:",
     {
         "type": "crafting",
@@ -17,7 +18,6 @@
             "out": [{"name":"fp:advanced_boardcomputer","meta":2},{"name":"fp:advanced_boardcomputer","meta":6},{"name":"fp:advanced_boardcomputer","meta":10}]
         }
     },
-    "Weitere Hinweise zur Benutzung sind beim einfachen Bordcomputer zu finden.",
-	"Je nach Farbe des Gehäuses hat der Bordcomputer ein anderes Design der Benutzeroberfläche."
-
+    "More notes for usage are available at the entry of the board computer.",
+    "Dependent on the color of the housing each board computer as another graphic user interface."
 ]
