@@ -1,5 +1,5 @@
 [
-    "My simple board computer is unfortunately not able to calculate the paths fot the FTL-Drive. Because despite the processing unit in the FTL even more accurate data for control and course calculation is needed, and I have to compensate (in)logic and effects of quantum mechanics. That's why I created and upgrade and used a powerfull quantum computer as cpu.",
+    "My simple board computer is unfortunately not able to calculate the paths for the FTL-Drive. Because despite the processing unit in the FTL even more accurate data for control and course calculation is needed, and I have to compensate (in)logic and effects of quantum mechanics. That's why I created an upgrade and used a powerfull quantum computer as cpu.",
     "I also fixed some problems the first version had. For example the message 'Your spaceship is open' also points out were it is open."
     
     "Crafting:",
@@ -19,5 +19,5 @@
         }
     },
     "More notes for usage are available at the entry of the board computer.",
-    "Dependent on the color of the housing each board computer as another grafic user interface."
+    "Dependent on the color of the housing each board computer as another graphic user interface."
 ]
