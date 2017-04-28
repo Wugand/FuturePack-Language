@@ -1,0 +1,17 @@
+[
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {},
+			"2": [{"name":"fp:spaceship","meta":"<spaceship.CopperParts>"}],
+			"3": {},
+			"4": "OreDict:ingotTin",
+			"5": "OreDict:ingotZinc",
+			"6": "OreDict:ingotTin",
+			"7": "OreDict:ingotTin",
+			"8": "OreDict:ingotZinc",
+			"9": "OreDict:ingotTin",
+			"out": {"name":"fp:normalbattery","meta":0}
+		}
+	}
+]

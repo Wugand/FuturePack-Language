@@ -2,20 +2,6 @@
 	"Por meio de bobinas com um fluxo de energia, eu posso lançar objetos metalicos. Via um cano para apontar e alinhamento fino das bobinas, eu posso lançar projéteis ultrapassando distâncias grandes.",
 	"Experimentando mais, eu desenvolvei uma arma eficaz. Com ela, eu posso fazer ajustes pequenos do tempo e da velocidade para atingir um alvo.",
 	"Criando:",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {"name":"fp:spaceship", "meta":"<spaceship.NormalBaterrie>"},
-			"2": {"OreDict":"ingotAluminum"},
-			"3": {},
-			"4": {"name":"fp:spaceship", "meta":"<spaceship.NeonCoil>"},
-			"5": {"name":"fp:pipe", "meta":2},
-			"6": {"name":"fp:pipe", "meta":2},
-			"7": {"OreDict":"ingotAluminum"},
-			"8": {"name":"minecraft:stone_button"},
-			"9": {},
-			"out": {"name":"fp:grenade_launcher", "meta":0, "size":1}
-		}
-	},	
+	{"link":"fp:lang/part/cr_tools.grenadelauncher.json"},	
 	"Energia de néon é necessário para preparar a arma. Se a carga armazenada acabar e não for reabastecida, a arma não pode impulsionar os projéteis longe dela. Isso pode criar uma situação bem perigosa!"
 ]

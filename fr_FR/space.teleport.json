@@ -1,21 +1,7 @@
 [
 	"Récemment, je me suis demandé comment je pourrais couvrir une grande distance verticalement. La réponse est le téléporteur, qui peut me téléporter en dessus et en dessous.",
     "Craft :",
-    {
-        "type": "crafting",
-        "slots": {
-            "1": "OreDict:ingotAluminum",
-            "2": "OreDict:ingotAluminum",
-            "3": "OreDict:ingotAluminum",
-            "4": "OreDict:ingotNeon",
-            "5": {"name":"fp:chip","meta":"<chip.LogisticChip>"},
-            "6": "OreDict:ingotNeon",
-            "7": "OreDict:ingotAluminum",
-            "8": {"name":"fp:spaceship","meta":"<spaceship.LargeBaterie>"},
-            "9": "OreDict:ingotAluminum",
-            "out": {"name":"fp:beam","meta":3}
-        }
-    },
+    {"link":"fp:lang/part/cr_space.teleport.json"},
     "Le téléporteur jaune est l'élément de base. On peut se téléporter vers lui, mais pas à partir de lui.",
     "Vous pouvez vous y téléporter avec une perle de l'Ender. Quand ils sont alimentés en énergie Néon, et que la cible est stabilisée, vous pouvez utiliser cette compétence sans perdre une perle de l'Ender.",
     "Craft :",

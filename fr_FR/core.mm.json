@@ -3,13 +3,5 @@
 	"Les unités individuelles d'informations peuvent être interconnectés de telle sorte que chacune peut changer l'influence qu'elle a sur les autres. Cela permet au processeur de réaliser des opérations complexes avec un grand nombre de données, et d'avoir un résultat pratiquement instantanément. Les limites de performances des processeurs sont en général données par la reconfiguration des paramètres d'opération.",
 	"Les informations d'entrées et de sorties sont communiquées au système grâce à la lumière, et la Glowtite est particulièrement adpatée à cela. Les unités arithmétiques individuelles sont limitées par les éléments optiques, qui sont réalisés avec du diamant.",
 	"Assemblage :",
-	{
-		"type": "assembly",
-		"slots": {
-			"in1": {"OreDict":"ingotQuantanium", "size":1},
-			"in2": {"name":"fp:spaceship", "meta":"<spaceship.DiaParts>", "size":1},
-			"in3": {"OreDict":"ingotGlowtite"},
-			"out": {"name":"fp:core", "meta":4, "size":1}
-		}
-	}
+	{"link":"fp:lang/part/as_core.mm.json"}
 ]

@@ -4,15 +4,7 @@
 	"Une puce logique incluse à la mémoire contient un programme spécifique qui permet de gérer l'organisation interne et d'avoir un accès à la mémoire.",
 	
 	"Assemblage:",
-	{
-		"type": "assembly",
-		"slots": {
-			"in1": {"name":"fp:chip","meta":0,"size":1},
-			"in2": {"OreDict":"ingotGold","size":1},
-			"in3": {"OreDict":"dustRedstone","size":1},
-			"out": {"name":"fp:spaceship", "meta":"<spaceship.SupportSpeicher0>", "size":1}
-		}
-	},
+	{"link":"fp:lang/part/as_log.flash.1.json"},
 	"Capacité: 128 SP",
 	
 	"Information: l'emplacement suivant sert au chargement/déchargement des mémoires Flash (présent sur quelques machines).",

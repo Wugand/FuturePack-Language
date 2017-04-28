@@ -3,15 +3,7 @@
 	"É particularmente útil quando usando máquinas para matar entidades, porque este chip aumenta o alcance.",
 
 	"Montagem:",
-	{
-		"type": "assembly",
-		"slots": {
-			"in1": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>"},
-			"in2": {"name":"fp:spaceship", "meta":"<spaceship.QuartzParts>"},
-			"in3": {"name":"golden_sword", "meta":0, "size":1},
-			"out": {"name":"fp:chip", "meta":"<chip.TacticChip>", "size":1}
-		}
-	},
+	{"link":"fp:lang/part/as_chip.tactic.json"},
 	
 	"Um chipset de controle tático de alta qualidade (mais poder) aumentaria o efeito. Também usando múltiplos chipsets fazeria o mesmo.",
 	"Dica: O efeito exato é determinado pela máquina suportada.",

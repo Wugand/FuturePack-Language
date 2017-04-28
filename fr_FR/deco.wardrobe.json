@@ -2,67 +2,11 @@
 	"J'ai créé un casier à partir de blocs d'aluminium et de métal. Il a la même capacité qu'un coffre standard, mais il est plus stable et peut être réalisé dans plusieurs formes et coloris.",
 	"L'avantage le plus important est que ce casier peut être déplacé ou cassé sans perdre et déranger son contenu.",
 	"Porte - Claire :",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {"OreDict":"ingotAluminum"},
-			"2": [{"name":"fp:color_iron", "meta":0},{"name":"fp:color_iron", "meta":8},{"name":"fp:color_iron", "meta":15}],
-			"3": {"OreDict":"ingotAluminum"},
-			"4": {"OreDict":"ingotAluminum"},
-			"5": {"name":"minecraft:dye", "meta":7},
-			"6": {"OreDict":"ingotAluminum"},
-			"7": {"OreDict":"ingotAluminum"},
-			"8": {},
-			"9": {"OreDict":"ingotAluminum"},
-			"out": [{"name":"fp:wandrope", "meta":2, "size":1},{"name":"fp:wandrope", "meta":6, "size":1},{"name":"fp:wandrope", "meta":10, "size":1}]
-		}
-	},	
+	{"link":"fp:lang/part/cr_deco.wardrobe1.json"},	
 	"Porte - Foncée :",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {"OreDict":"ingotAluminum"},
-			"2": [{"name":"fp:color_iron", "meta":0},{"name":"fp:color_iron", "meta":8},{"name":"fp:color_iron", "meta":15}],
-			"3": {"OreDict":"ingotAluminum"},
-			"4": {"OreDict":"ingotAluminum"},
-			"5": {"name":"minecraft:dye", "meta":8},
-			"6": {"OreDict":"ingotAluminum"},
-			"7": {"OreDict":"ingotAluminum"},
-			"8": {},
-			"9": {"OreDict":"ingotAluminum"},
-			"out": [{"name":"fp:wandrope", "meta":3, "size":1},{"name":"fp:wandrope", "meta":7, "size":1},{"name":"fp:wandrope", "meta":11, "size":1}]
-		}
-	},
+	{"link":"fp:lang/part/cr_deco.wardrobe2.json"},
 	"Tiroir - Clair :",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {"OreDict":"ingotAluminum"},
-			"2": [{"name":"fp:color_iron", "meta":0},{"name":"fp:color_iron", "meta":8},{"name":"fp:color_iron", "meta":15}],
-			"3": {"OreDict":"ingotAluminum"},
-			"4": {"OreDict":"ingotAluminum"},
-			"5": {"name":"minecraft:dye", "meta":7},
-			"6": {"OreDict":"ingotAluminum"},
-			"7": {"OreDict":"ingotAluminum"},
-			"8": {"name":"minecraft:dye", "meta":7},
-			"9": {"OreDict":"ingotAluminum"},
-			"out": [{"name":"fp:wandrope", "meta":0, "size":1},{"name":"fp:wandrope", "meta":4, "size":1},{"name":"fp:wandrope", "meta":8, "size":1}]
-		}
-	},	
+	{"link":"fp:lang/part/cr_deco.wardrobe3.json"},	
 	"Tiroir - Foncé :",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {"OreDict":"ingotAluminum"},
-			"2": [{"name":"fp:color_iron", "meta":0},{"name":"fp:color_iron", "meta":8},{"name":"fp:color_iron", "meta":15}],
-			"3": {"OreDict":"ingotAluminum"},
-			"4": {"OreDict":"ingotAluminum"},
-			"5": {"name":"minecraft:dye", "meta":8},
-			"6": {"OreDict":"ingotAluminum"},
-			"7": {"OreDict":"ingotAluminum"},
-			"8": {"name":"minecraft:dye", "meta":8},
-			"9": {"OreDict":"ingotAluminum"},
-			"out": [{"name":"fp:wandrope", "meta":1, "size":1},{"name":"fp:wandrope", "meta":5, "size":1},{"name":"fp:wandrope", "meta":9, "size":1}]
-		}
-	}	
+	{"link":"fp:lang/part/cr_deco.wardrobe4.json"}	
 ]

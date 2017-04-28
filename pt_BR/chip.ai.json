@@ -1,14 +1,6 @@
 [
     "Eu desenvolvei um chip que aumenta a abilidade para fazer decisões em um sistema.",
     "Montagem:",
-    {
-        "type": "assembly",
-        "slots": {
-            "in1": {"name":"fp:spaceship","meta":"<spaceship.Silizium>","size":2},
-            "in2": {"name":"fp:spaceship","meta":"<spaceship.QuartzParts>","size":2},
-            "in3":  {"name":"fp:spaceship", "meta":"<spaceship.SupportSpeicher1>", "size":1},
-            "out": {"name":"fp:chip", "meta":"<chip.KIChip>", "size":1}
-        }
-    },
+	{"link":"fp:lang/part/as_chip.ai.json"},
     "Por causa do chip de AI, um resultado é que o laser de absorção não mata mais as entidades, mas em vez deixa elas muito fracas."
 ]

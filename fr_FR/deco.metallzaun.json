@@ -1,20 +1,6 @@
 [
 	"J'ai crée une structure en métal un peu plus complexe : une barrière en métal.",
 	"Craft :",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {},
-			"2": {},
-			"3": {},
-			"4": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"5": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
-			"6": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"7": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"8": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
-			"9": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"out": {"name":"fp:metal_fence", "meta":0, "size":3}
-		}
-	},	
+	{"link":"fp:lang/part/cr_deco.metallzaun.json"},	
 	"Information: Ce bloc peut être (dé)coloré avec le pistolet à peinture."
 ]

@@ -3,21 +3,7 @@
 	"En partant de ce principe, j'ai créé un générateur qui injecte du cristal dans de la nourriture ou dans des matériaux consumables (pas de lave ni de charbon). La chaleur produite est simplement transformé en énergie Néon. Comme déchet, la machine produit une fine poussière de cristal de Néon.",
 	 
 	"Craft :",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
-			"2": {"name":"minecraft:furnace"},
-			"3": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
-			"4": {"OreDict":"ingotZinc"},
-			"5": [{"name":"fp:color_iron","meta":0},{"name":"fp:color_iron","meta":8},{"name":"fp:color_iron","meta":15}],
-			"6": {"OreDict":"ingotZinc"},
-			"7": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"8": {"name":"fp:spaceship", "meta":"<spaceship.Maschinboard>"},
-			"9": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"out": [{"name":"fp:plasma_generator_on","meta":2},{"name":"fp:plasma_generator_on","meta":6},{"name":"fp:plasma_generator_on","meta":10}]
-		}
-	},
+	{"link":"fp:lang/part/cr_energy.infusion.json"},
 	
 	"La quantité d'énergie Néon dépend de : la valeur de la puce Industrielle, du type de cristal et de valeur de la substance organique de la nourriture/du carburant.",
 	"En augmentant la valeur de la \"RAM\", la génération et l'émission de l'énergie se fera plus vite.",

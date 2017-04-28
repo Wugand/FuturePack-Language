@@ -1,0 +1,17 @@
+[
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
+			"2": {"OreDict":"dirt"},
+			"3": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
+			"4": {"OreDict":"dirt"},
+			"5": {"OreDict":"dirt"},
+			"6": {"OreDict":"dirt"},
+			"7": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
+			"8": {"OreDict":"dirt"},
+			"9": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
+			"out": {"name":"fp:sapling_holder", "meta":0, "size":8}
+		}
+	}
+]

@@ -1,14 +1,6 @@
 [
 	"Actuellement, le plus gros problème de mes mémoires Flash GlowStone est que chaque cellule de stockage nécessite un signal de contrôle séparé pour la lecture et l'écriture. Grâce à mes nouveaux développements, je suis capable d'éliminer ce problème. J'utilise maintenant un cristal de Glowtite comme unité de stockage qui change sa structure sous une exposition ciblée et donc son comportement réfractif. Pour la lecture et l'écriture de la mémoire, j'utilise un laser très spécial où le Retium permet d'avoir la meilleure fréquence de spectre possible pour cette application.",	
 	"Assemblage:",
-	{
-		"type": "assembly",
-		"slots": {
-			"in1": {"name":"fp:chip","meta":0,"size":1},
-			"in2": {"OreDict":"ingotRetium","size":1},
-			"in3": {"OreDict":"gemGlowtite","size":1},
-			"out": {"name":"fp:spaceship", "meta":"<spaceship.SupportSpeicher3>", "size":1}
-		}
-	},
+	{"link":"fp:lang/part/as_log.flash.4.json"},
 	"Capacité: 1024 SP"
 ]

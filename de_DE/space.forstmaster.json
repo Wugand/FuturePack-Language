@@ -1,0 +1,7 @@
+[
+	"Ich habe eine spezialisierte Drohne entwickelt, die zum Fällen von Bäumen dient. Sie fällt Bäume und Pilze und liefert Stämme, Setzlinge und Fürchte an die Drohnenstation.",
+	"Der Forstmaster kann mit (§lShift + Rechtsklick§r) an eine Drohnenstation platziert werden. Und bearbeitet dann alle Ziele im Radius von 11 Blöcken. Um die Drohne wieder zu demontieren kann ein Schraubendrehschlüssel und §lShift + Rechtsklick§r genutzt werden.",
+	"Crafting:",
+	{"link":"fp:lang/part/cr_space.forstmaster.json"},
+	"Ich sollte noch versuchen eine Funktion zum Nachpflanzen einzubauen..."
+]

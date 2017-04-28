@@ -1,0 +1,11 @@
+[
+	{
+		"type": "assembly",
+		"slots": {
+			"in1": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>", "size":3},
+			"in2": {"name":"fp:spaceship", "meta":"<spaceship.NeonParts>", "size":3},
+			"in3": {"name":"fp:aiFlash1", "meta":0, "size":1},
+			"out": {"name":"fp:ram", "meta":2, "size":1}
+		}
+	}
+]

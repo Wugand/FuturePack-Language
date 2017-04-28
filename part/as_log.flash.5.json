@@ -1,0 +1,11 @@
+[
+    {
+		"type": "assembly",
+		"slots": {
+			"in1": {"name":"fp:chip","meta":0,"size":1},
+			"in2": {"OreDict":"gemEmerald","size":1},
+			"in3": {"OreDict":"ingotGadolinium","size":1},
+			"out": {"name":"fp:aiFlash4", "meta":0, "size":1}
+		}
+	}
+]

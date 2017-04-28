@@ -1,19 +1,5 @@
 [
 	"Durch Austausch der reagierenden Materialien habe ich eine Kombination gefunden, die ohne giftige Flüssigkeit auskommt. Diese Bauform ist deshalb extrem kompakt.",
 	"Crafting:",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {},
-			"2": [{"name":"fp:spaceship","meta":"<spaceship.CopperParts>"}],
-			"3": {},
-			"4": "OreDict:ingotNeon",
-			"5": "OreDict:ingotGold",
-			"6": "OreDict:ingotNeon",
-			"7": "OreDict:ingotNeon",
-			"8": {"name":"fp:spaceship","meta":"<spaceship.GoldCoil>"},
-			"9": "OreDict:ingotNeon",
-			"out": {"name":"fp:spaceship","meta":"<spaceship.NeonBaterie>"}
-		}
-	}
+	{"link":"fp:lang/part/cr_log.battery.neon.json"}
 ]

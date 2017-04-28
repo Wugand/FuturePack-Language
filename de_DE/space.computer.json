@@ -1,21 +1,7 @@
 [
     "Im Weltraum darf man nicht die Orientierung verlieren. Deshalbhabe ich einen Computer gebaut der mich sicher durch das Universum führt.",
     "Crafting:",
-    {
-        "type": "crafting",
-        "slots": {
-            "1": {"name":"fp:spaceship","meta":"<spaceship.LargeBaterie>"},
-            "2": {"name":"fp:spaceship","meta":"<spaceship.Display>"},
-            "3": {"name":"fp:spaceship","meta":"<spaceship.LargeBaterie>"},
-            "4": {"name":"fp:chip","meta":"<chip.NavigationChip>"},
-            "5": [{"name":"fp:modul_1","meta":2},{"name":"fp:modul_1","meta":6},{"name":"fp:modul_1","meta":10}],
-            "6": {"name":"fp:chip","meta":"<chip.NavigationChip>"},
-            "7": "map",
-            "8": {"name":"fp:core","meta":2},
-            "9": "map",
-            "out": [{"name":"fp:board_computer","meta":2},{"name":"fp:board_computer","meta":6},{"name":"fp:board_computer","meta":10}]
-        }
-    },
+    {"link":"fp:lang/part/cr_space.computer.json"},
     "Die GUI hat 3 Tabs:",
     "Der erste Tab zeigt immer den Minecraft Planeten, heißt ich kann immer nach Hause zurückkehren.",
     "Der 2. Tab zeigt immer wo ich bin, ich weiß zwar nicht warum ich nicht Wissen sollte wo ich grade bin, aber man weiß nie was man mal alles wissen muss.",

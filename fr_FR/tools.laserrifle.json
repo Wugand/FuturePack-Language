@@ -2,20 +2,6 @@
 	"Si j'alimente une diode laser avec une grande quantité d'énergie pendant un temps très court, cela crée une très forte pulsation Laser. Cependant, entre deux activations, il faut un certain temps pour recharger",
 	"Je me suis arrangé pour mettre le système entier dans une arme portable. L'impulsion émise provoque énormément de dommage.",
 	"Craft :",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"2": {"name":"fp:spaceship", "meta":"<spaceship.Fasern>"},
-			"3": {},
-			"4": {"name":"fp:spaceship", "meta":"<spaceship.LargeBaterie>"},
-			"5": {"name":"fp:spaceship", "meta":"<spaceship.Laserdiode>"},
-			"6": {"name":"fp:spaceship", "meta":"<spaceship.LinseR>"},
-			"7": {"name":"fp:chip", "meta":"<chip.TacticChip>"},
-			"8": {"name":"fp:spaceship", "meta":"<spaceship.Fasern>"},
-			"9": {},
-			"out": {"name":"fp:laser_riffle", "meta":0, "size":1}
-		}
-	},	
+	{"link":"fp:lang/part/cr_tools.laserrifle.json"},
 	"De l'énergie Néon est nécessaire pour (re)charger. Si la charge restante est plus petite que 18 NE, plus aucun tir ne pourra être effectué."
 ]

@@ -12,21 +12,21 @@
 		"type":"image",
 		"width":16,
 		"height":16,
-		"resource":"fp:textures/gui/SlotBg.png"
+		"resource":"fp:textures/gui/slot_bg.png"
 	},
 	"Knowledge - Can be researched, doesn't enable an Item itself, but furthers understanding",
 	{
 		"type":"image",
 		"width":16,
 		"height":16,
-		"resource":"fp:textures/gui/SlotErkBg.png"
+		"resource":"fp:textures/gui/slot_erk_bg.png"
 	},
 	"Experience - Can't be researched, but is instead enabled by achievements. Can enable Items",
 	{
 		"type":"image",
 		"width":16,
 		"height":16,
-		"resource":"fp:textures/gui/SlotSoBg.png"
+		"resource":"fp:textures/gui/slot_so_bg.png"
 	},
 	"Dependent on the research progress, once again there are 3 variants:",
 	"Solid and colored: The concept is completed and can be clicked, opening its information page.",

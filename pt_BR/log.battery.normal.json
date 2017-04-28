@@ -3,19 +3,5 @@
 	"Se eu coloco estanho e zinco juntos em um fluído adequado, os materiais liquefazem lentamente e se transferem ao outro lado. Isso causa um fluxo de energia no sentido oposto.",
 	"Ao invés, eu posso adicionar energia ao aparelho e regenerar a estrutura física.",
 	"Criando:",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {},
-			"2": [{"name":"fp:spaceship","meta":"<spaceship.CopperParts>"}],
-			"3": {},
-			"4": "OreDict:ingotTin",
-			"5": "OreDict:ingotZinc",
-			"6": "OreDict:ingotTin",
-			"7": "OreDict:ingotTin",
-			"8": "OreDict:ingotZinc",
-			"9": "OreDict:ingotTin",
-			"out": {"name":"fp:spaceship","meta":"<spaceship.NormalBaterrie>"}
-		}
-	}
+	{"link":"fp:lang/part/cr_log.battery.normal.json"}
 ]

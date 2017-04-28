@@ -1,0 +1,17 @@
+[
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {},
+			"2": {"name":"fp:monorail", "meta":0},
+			"3": {},
+			"4": {"name":"fp:chip", "meta":"<chip.ProduktionChip>"},
+			"5": {"name":"fp:wire", "meta":0},
+			"6": {"OreDict":"dustRedstone"},
+			"7": {},
+			"8": {"name":"fp:monorail", "meta":0},
+			"9": {},
+			"out": {"name":"fp:monorail_detector", "meta":0, "size":1}
+		}
+	}
+]

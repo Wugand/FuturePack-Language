@@ -1,15 +1,7 @@
 [
     "É um pouco irritante trazer pendrives entre máquinas para trocar pontos de apoio. Então eu desenvolvei um chipset que habilita uma máquina transferir sozinha os pontos a outras máquinas prontas para receber pontos.",
     "Montagem:",
-    {
-        "type": "assembly",
-        "slots": {
-            "in1": {"name":"fp:spaceship","meta":"<spaceship.Silizium>","size":2},
-            "in2": {"name":"fp:spaceship","meta":"<spaceship.QuartzParts>","size":2},
-            "in3": "OreDict:ingotGlowtite",
-            "out": {"name":"fp:chip", "meta":"<chip.SupportChip>", "size":1}
-        }
-    },  
+    {"link":"fp:lang/part/as_chip.support.json"},
     "Um chipset de alta qualidade (mais poder) não tem nenhum benefício comparando com um chipset normal!",
     "Dica: O efeito exato é determinado pela máquina suportada.",
     "Dica: Refere a \"Chipset de Lógica\" para informação geral."

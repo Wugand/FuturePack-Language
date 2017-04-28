@@ -3,19 +3,5 @@
 	"Die Bergbaudrohne kann mit §lShift + Rechtsklick§r an eine Drohnenstation platziert werden. Danach kann die Drohne mit §lRechtsklick§r eingestellt werden. Um die Drone wieder zu demonktieren kann ein Schraubendrehschlüssel und §lShift + Rechtsklick§r genutzt werden.",
 	"In der GUI werden alle verfügbaren Claime-Überträger links aufgelistet. Diese können ausgewählt und mit Hilfe der Pfeile auf die rechte Seite geschoben werden. Alle rechts eingeordneten Gebiete werden von diesem bearbeitet. Mit aktiver \"Repeat\" Auswahl (true) werden die Gebiete nach einmaliger Beendigung kontinuierlich erneut überprüft und beratbeiten. Fertig eingestellt, kann die Bergbaudrohne mit der Option \"Working\" gestartet werden.",
 	"Crafting:",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {"name":"minecraft:fireworks", "meta":0},
-			"2": {"OreDict":"ingotAluminum"},
-			"3": {"name":"fp:spaceship", "meta":"<spaceship.Laserdiode>"},
-			"4": {"name":"fp:chip", "meta":"<chip.KIChip>"},
-			"5": {"name":"fp:core", "meta":1},
-			"6": {"name":"minecraft:ender_pearl", "meta":0},
-			"7": {"name":"minecraft:fireworks", "meta":0},
-			"8": {"OreDict":"ingotAluminum"},
-			"9": {"name":"fp:spaceship", "meta":"<spaceship.Laserdiode>"},
-			"out": {"name":"fp:entityEgger", "meta":4, "size":1}
-		}
-	}
+	{"link":"fp:lang/part/cr_space.miner.json"}
 ]

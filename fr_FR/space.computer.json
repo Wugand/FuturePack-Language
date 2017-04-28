@@ -1,21 +1,7 @@
 [
     "Dans l'immensité vide de l'espace, il est impératif de ne pas se perdre. C'est pourquoi, j'ai construit un ordinateur pour me guider à travers le vide.",
     "Craft :",
-    {
-        "type": "crafting",
-        "slots": {
-            "1": {"name":"fp:spaceship","meta":"<spaceship.LargeBaterie>"},
-            "2": {"name":"fp:spaceship","meta":"<spaceship.Display>"},
-            "3": {"name":"fp:spaceship","meta":"<spaceship.LargeBaterie>"},
-            "4": {"name":"fp:chip","meta":"<chip.NavigationChip>"},
-            "5": [{"name":"fp:modul_1","meta":2},{"name":"fp:modul_1","meta":6},{"name":"fp:modul_1","meta":10}],
-            "6": {"name":"fp:chip","meta":"<chip.NavigationChip>"},
-            "7": "map",
-            "8": {"name":"fp:core","meta":2},
-            "9": "map",
-            "out": [{"name":"fp:board_computer","meta":2},{"name":"fp:board_computer","meta":6},{"name":"fp:board_computer","meta":10}]
-        }
-    },
+    {"link":"fp:lang/part/cr_space.computer.json"},
     "L'interface a 3 onglets :",
     "Le premier représente la planète Minecraft, je peux donc toujours retourner chez moi.",
     "Le deuxième montre toujours l'endroit où je me trouve. Je ne suis pas sûr qu'un tel cas, où je ne sais pas où je suis, puisse arriver, mais il vaut mieux le prévoir.",

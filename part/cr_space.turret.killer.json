@@ -1,0 +1,17 @@
+[
+	{
+		"type": "crafting",
+		"slots": {
+			"1": "OreDict:ingotAluminum",
+			"2": {"name":"fp:spaceship","meta":"<spaceship.Laserdiode>"},
+			"3": {"name":"fp:spaceship","meta":"<spaceship.LinseR>"},
+			"4": {},
+			"5": {"name":"fp:spaceship","meta":"<spaceship.IronStick>"},
+			"6": {},
+			"7": {"name":"fp:neonbattery","meta":0},
+			"8": {"name":"fp:color_iron_step_half_0","meta":0},
+			"9": {"name":"fp:spaceship","meta":"<spaceship.Maschinboard>"},
+			"out": {"name":"fp:entity_eater","meta":1}
+		}
+	}
+]

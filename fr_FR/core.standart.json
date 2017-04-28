@@ -1,16 +1,8 @@
 [
 	"Sur la base des éléments en silicium et sur les connecteurs en cuivre, ainsi qu'avec l'utilisation du fer comme impureté dans le silicium, j'ai réussi à créer un processeur universel.",
 	"A partir de commandes précises, mon processeur primitif peut suivre des algorithmes et réaliser beaucoup de calculs différents.",
-		"Assemblage:",
-	{
-		"type": "assembly",
-		"slots": {
-			"in1": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>"},
-			"in2": {"name":"fp:spaceship", "meta":"<spaceship.CopperParts>"},
-			"in3": {"OreDict":"ingotIron"},
-			"out": {"name":"fp:core", "meta":0, "size":1}
-		}
-	},
+	"Assemblage:",
+	{"link":"fp:lang/part/as_core.standart.json"},
 	"Info:",
 	"Les processeurs possèdent 1 propriété critique : Leur capacité (§lcoeur§r), qui indique le maximum de chargements (se référer à Puce/Mémoire) que le processeur peut tenir avant qu'il commence à chauffer. Quand il atteint une température supérieure à 1000C, il devient Hors Service !"
 ]

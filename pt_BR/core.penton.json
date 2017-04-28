@@ -3,15 +3,7 @@
 	"Eu desenvolvei uma adicional melhoria ao adicionar uma unidade embutida para o processamento e saída de dados de Apoio. Isso aliviou extremamente a carga de trabalho do processador.",
 
 	"Montagem:",
-	{
-		"type": "assembly",
-		"slots": {
-			"in1": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>", "size":3},
-			"in2": {"name":"fp:spaceship", "meta":"<spaceship.GoldParts>", "size":3},
-			"in3": {"name":"fp:spaceship", "meta":"<spaceship.SupportSpeicher1>"},
-			"out": {"name":"fp:core", "meta":2, "size":1}
-		}
-	},
+	{"link":"fp:lang/part/as_core.penton.json"},
 	
 	"Dica: Refere a \"Núcleo Pardão\" para informação geral."
 ]

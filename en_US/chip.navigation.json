@@ -3,15 +3,7 @@
 	"After I analyzed the mode of operation of the compass, I managed to recreate it in electronic form.",	
 
 	"Assembly:",
-	{
-		"type": "assembly",
-		"slots": {
-			"in1": {"name":"fp:spaceship","meta":"<spaceship.Silizium>","size":1},
-			"in2": {"name":"fp:spaceship","meta":"<spaceship.QuartzParts>","size":1},
-			"in3": {"name":"compass","meta":0,"size":1},
-			"out": {"name":"fp:chip", "meta":"<chip.NavigationChip>", "size":1}
-		}
-	},	
+	{"link":"fp:lang/part/as_chip.navigation.json"},
 	
 	"A higher quality transportation chipset (high chip power) bears no advantage over a regular one!",
 	"Information: A differentiating effect is noted at the according machine.",

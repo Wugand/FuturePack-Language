@@ -1,21 +1,7 @@
 [
 	"Vor kurzen habe ich mir die Frage gestellt wie ich größere horizontale Distanzen zurücklegen kann. Das Ergebnis war ein Teleporter der mich nach oben und unter teleportieren kann.",
     "Crafting:",
-    {
-        "type": "crafting",
-        "slots": {
-            "1": "OreDict:ingotAluminum",
-            "2": "OreDict:ingotAluminum",
-            "3": "OreDict:ingotAluminum",
-            "4": "OreDict:ingotNeon",
-            "5": {"name":"fp:chip","meta":"<chip.LogisticChip>"},
-            "6": "OreDict:ingotNeon",
-            "7": "OreDict:ingotAluminum",
-            "8": {"name":"fp:spaceship","meta":"<spaceship.LargeBaterie>"},
-            "9": "OreDict:ingotAluminum",
-            "out": {"name":"fp:beam","meta":3}
-        }
-    },
+    {"link":"fp:lang/part/cr_space.teleport.json"},
     "Der gelbe Teleporter ist das Basiselement. Man kann sich zwar zu ihm hin teleportieren, jedoch nicht wieder weg.",
     "Durch eine Enderperle kann man sich teleportieren. Wenn man sie mit Neonenergie versetzt und das Ziel stabilisiert kann man ihre Fähigkeiten nutzen, ohne dass die Perle dabei zerbricht.",
     "Crafting:",

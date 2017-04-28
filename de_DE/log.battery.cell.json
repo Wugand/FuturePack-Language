@@ -1,19 +1,5 @@
 [
-	"Mit dem neuen Materialien, habe ich ein sehr erfolgversprechendes Konzept entwickelt. Diese Energiezelle nutzt Lithium und eine spezielle Chemikalie zur Speicherung. Zudem konnte ich die Zellen durch Biopolymergehäuse verkleinern. Diese Energiezelle speichert nun mehr Energie, als die Batterien.",
+	"Mit dem neuen Materialien, habe ich sehr erfolgversprechendes Konzept entwickelt. Diese Energiezelle nutzt Lithium und eine spezielle Chemikalie zur Speicherung. Zudem konnte ich die Zellen durch Biopolymergehäuse verkleinern. Diese Energiezelle speichert nun mehr Energie, als die Batterien.",
 	"Crafting:",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {},
-			"2": [{"name":"fp:spaceship","meta":"<spaceship.CopperParts>"}],
-			"3": {},
-			"4": {"name":"fp:spaceship","meta":"<spaceship.Polymer>"},
-			"5": {"name":"fp:spaceship","meta":"<spaceship.Chemicals>"},
-			"6": {"name":"fp:spaceship","meta":"<spaceship.Polymer>"},
-			"7": {"OreDict":"ingotLithium"},
-			"8": {"name":"minecraft:coal","meta":0},
-			"9": {"OreDict":"ingotLithium"},
-			"out": {"name":"fp:spaceship","meta":"<spaceship.EnergieZelle>"}
-		}
-	}
+	{"link":"fp:lang/part/cr_log.battery.cell.json"}
 ]

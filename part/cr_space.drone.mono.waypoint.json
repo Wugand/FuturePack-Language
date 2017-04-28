@@ -1,0 +1,17 @@
+[
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {},
+			"2": {"name":"fp:monorail", "meta":0},
+			"3": {},
+			"4": {"name":"minecraft:sign", "meta":0},
+			"5": {"name":"minecraft:redstone_torch", "meta":0},
+			"6": {},
+			"7": {},
+			"8": {"name":"fp:monorail", "meta":0},
+			"9": {},
+			"out": {"name":"fp:monorail_waypoint", "meta":0, "size":1}
+		}
+	}
+]

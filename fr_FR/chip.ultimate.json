@@ -1,15 +1,7 @@
 [
     "J'ai développé une puce qui documente le crafting des objet, je peux donc optimiser le processus et le gain d'expérience.",
     "Assemblage:",
-    {
-        "type": "assembly",
-        "slots": {
-            "in1": {"name":"fp:spaceship","meta":"<spaceship.Silizium>","size":2},
-            "in2": {"name":"fp:spaceship","meta":"<spaceship.QuartzParts>","size":2},
-            "in3": "OreDict:gemEmerald",
-            "out": {"name":"fp:chip", "meta":"<chip.UltimateChip>", "size":1}
-        }
-    },  
+    {"link":"fp:lang/part/as_chip.ultimate.json"}, 
     "Un puce de haute qualité apporte plus d'expérience quand l'objet est extrait.",
     "Info: pour des informations générales, se référer à La Puce Logique."
 ]

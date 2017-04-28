@@ -317,7 +317,7 @@ tile.erzBlocke_kristall_block_retium.name=Retiumkristallblock
 tile.erzBlocke_kristall_block_glowtit.name=Glowtitkristallblock
 tile.erzBlocke_kristall_block_bioterium.name=Bioteriumkristallblock
 tile.erzBlocke_kristall_block_alutin.name=Alutinkristallblock
-tile.erzBlocke_metal_block_metal_block_luftschacht.name=Lüftung
+tile.erzBlocke_metal_block_luftschacht.name=Lüftung
 tile.uncolorPane.name=Gitter
 tile.uncolorGitter.name=Gitterblock
 tile.claime.name=Claime-Überträger
@@ -374,6 +374,7 @@ tile.ftl_drive.name=FTL Block
 tile.advanced_boardcomputer.name=Erweiterter Bordcomputer
 
 tile.modular_door.name=Modulares Tor
+item.composite_door.name=Verbundmetalltür
 tile.composite_door.name=Verbundmetalltür
 tile.sapling_holder.name=Pflanzmarker
 
@@ -384,14 +385,16 @@ tile.planks_tyros.name=Tyrosholzbretter
 tile.fluid_tube.name=Rohrleitung
 tile.fluid_pump.name=Pumpe
 
+tile.wr_receiver.name=Empfänger - Pulverloses Redstone
+tile.wr_transmitter.name=Sender - Pulverloses Redstone
+tile.wr_transmitter_i.name=Invertierter Sender - Pulverloses Redstone
+
 fluid.liquid.neon=Neonflüssigkeit
 
+
 item.scrench.name=Schraubendrehschlüssel
-item.NeonBattery.name=Leere Neonbatterie
 item.NeonBattery_full.name=Neonbatterie
-item.NormalBattery.name=Leere Batterie
 item.Battery_N_full.name=Batterie
-item.LargeBattery.name=Leere große Batterie
 item.Battery_L_full.name=Große Batterie
 
 item.Objektscenner.name=Konstruktionskopierer
@@ -447,7 +450,6 @@ item.CopperCoil.name=Kupferspule
 item.IronCoil.name=Eisenspule
 item.NeonCoil.name=Neonspule
 item.GoldCoil.name=Goldspule
-item.quantanium_coil.name=Quantaniumspule
 
 item.Eisenteile.name=Eisenteile
 item.Diamandteile.name=Diamantenteile
@@ -502,18 +504,14 @@ item.aiflash2.name=Glowstone-Flashspeicher
 item.aiflash3.name=Kistall-Flashspeicher
 item.aiflash4.name=Isotop-Flashspeicher
 item.aiflash5.name=Qubit-Flashspeicher
-item.AI_Flash_Speicher_0.name=Leerer Einfacher Redstone-Flashspeicher
-item.AI_Flash_Speicher_1.name=Leerer Verbesserter Redstone-Flashspeicher
-item.AI_Flash_Speicher_2.name=Leerer Glowstone-Flashspeicher
-item.AI_Flash_Speicher_3.name=Leerer Kistall-Flashspeicher
-item.AI_Flash_Speicher_4.name=Leerer Isotop-Flashspeicher
-item.AI_Flash_Speicher_5.name=Leerer Qubit-Flashspeicher
+item.drone_engine.name=Dronenantrieb
 
 item.entityegger.name=Entity-Egger
 item.spawnerchest.name=Spawnerkiste
 item.spawnerchest_full.name=Gefüllte Spawnerkiste
 item.minerbox.name=Bausatz Abbaudrone
 item.forstmasterbox.name=Bausatz Forstmaster
+item.monocartbox.name=Bausatz Monocart
 item.creeperWurfel.name=Schleimwürfel
 item.sauerstofftank.name=Sauerstofftank
 item.laserBow.name=Laserbogen
@@ -522,6 +520,10 @@ item.helmetMagnetit.name=Magnetithelm
 item.chestplateMagnetit.name=Magnetitbrustplatte
 item.leggingsMagnetit.name=Magnetithose
 item.bootsMagnetit.name=Magnetitschuhe
+item.helmet_composite.name=Leichtbauhelm
+item.chestplate_composite.name=Leichtbaubrustplatte
+item.leggings_composite.name=Leichtbauhose
+item.boots_composite.name=Leichtbauschuhe
 
 item.itemMonitor.name=Monitor
 item.grablingHook.name=Kletterschleim
@@ -585,9 +587,6 @@ item.mendel_seed.name=Mendelbeersamen
 item.mendel_flower.name=Mendelbeerblüte
 
 item.sword_handle.name=Schwertgriff
-item.energie_zelle.name=Leere Energiezelle
-item.compact_energie_zelle.name=Leere Kompakte Energiezelle
-item.kristall_energie_zelle.name=Leere Kristalline Energiezelle
 item.EnergyCell_full.name=Energiezelle
 item.CompactEnergyCell_full.name=Kompakte Energiezelle
 item.CrystalEnergyCell_full.name=Kristalline Energiezelle
@@ -595,6 +594,8 @@ item.CrystalEnergyCell_full.name=Kristalline Energiezelle
 item.fibers.name=Pflanzenfasern
 item.chemicals.name=Chemikalien
 item.polymer.name=Biopolymer
+item.quantanium_coil.name=Quantaniumspule
+item.modul_battery.name=Batteriemodul
 
 itemGroup.fpTab.deco=Future Pack-Materialien
 itemGroup.fpTab.maschiens=Future Pack-Maschinen
@@ -603,8 +604,12 @@ itemGroup.fpTab.items=Future Pack-Gegenstände
 container.opticrafting=Optibench
 container.collector=Ionenkollektor
 
-entity.fp.FP-Gehuf.name=Gehuf
-entity.fp.FP-Crawler.name=Crawler
+entity.FP-Gehuf.name=Gehuf
+entity.FP-Crawler.name=Crawler
+entity.FP-EvilRobot.name=Technokratische Einheit
+entity.FP-Forstmaster.name=Forstmaster
+entity.miner.name=Bergbaudrone
+entity.monocart.name=Monocart
 
 potion.paralyze=Paralyse
 
@@ -940,7 +945,6 @@ research.space.computer=Boardcomputer
 research.space.spaceship=Navigation und Steuerung
 research.space.navcord.menelaus=Koordinatensatz Menelaus
 research.space.drive.ftl=FTL-Antrieb
-research.space.advanced=Erweiterter Bordcomputer
 research.space.navcord.tyros=Koordinatensatz Tyros
 research.space.dronestation=Drohnenstation
 research.space.claime=Claime-Überträger
@@ -949,6 +953,16 @@ research.space.turret.killer=Laserturm
 research.space.turret.heal=Regenerationslaser
 research.space.turret.absorb=Absorbationslaser
 research.space.modular_door=Modulares Tor
+research.space.drone.monocart=Monocart
+research.space.drone.mono.rail=Monorail
+research.space.drone.mono.waypoint=Monorail Wegpunkt
+research.space.drone.mono.station=Monorail Station
+research.space.drone.mono.detector=Monorail Detektor
+research.space.drone.mono.booster=Monorail Booster
+research.space.drone.mono.charger=Monorail Lader
+research.space.forstmaster=Forstmaster
+research.space.plantmarker=Pflanzmarker
+research.space.advanced=Erweiterter Bordcomputer
 
 research.tools.scrench=Schraubendrehschlüssel
 research.tools.airbrush=Farbpistole

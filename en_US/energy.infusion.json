@@ -3,21 +3,7 @@
 	"Using this principle I designed a generator which injects crystal fragments into food or burnable materials (not Lava or Coal). The produced heat can simply be cast into neon energy. As a waste product the machine produces a fine Neon Crystal Dust.",
 	 
 	"Crafting:",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
-			"2": {"name":"minecraft:furnace"},
-			"3": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
-			"4": {"OreDict":"ingotZinc"},
-			"5": [{"name":"fp:color_iron","meta":0},{"name":"fp:color_iron","meta":8},{"name":"fp:color_iron","meta":15}],
-			"6": {"OreDict":"ingotZinc"},
-			"7": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"8": {"name":"fp:spaceship", "meta":"<spaceship.Maschinboard>"},
-			"9": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"out": [{"name":"fp:plasma_generator_on","meta":2},{"name":"fp:plasma_generator_on","meta":6},{"name":"fp:plasma_generator_on","meta":10}]
-		}
-	},
+	{"link":"fp:lang/part/cr_energy.infusion.json"},
 	
 	"The amount of energy depends on: The value of Industrial Chipsets, the type of the crystal and the food/fuel value of the organic substance.",
 	"By increasing the \"ram\"-value I can cause a faster generation and emission of the energy.",

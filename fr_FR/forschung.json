@@ -12,21 +12,21 @@
 		"type":"image",
 		"width":16,
 		"height":16,
-		"resource":"fp:textures/gui/SlotBg.png"
+		"resource":"fp:textures/gui/slot_bg.png"
 	},
 	"Connaissance - Peut être recherché, Pas d'utilisation de l'Objet, mais favorise la compréhension",
 	{
 		"type":"image",
 		"width":16,
 		"height":16,
-		"resource":"fp:textures/gui/SlotErkBg.png"
+		"resource":"fp:textures/gui/slot_erk_bg.png"
 	},
 	"Expérience - Ne peut pas être recherché, mais est autorisé par les accomplissements. Utilisation possible de l'Objet",
 	{
 		"type":"image",
 		"width":16,
 		"height":16,
-		"resource":"fp:textures/gui/SlotSoBg.png"
+		"resource":"fp:textures/gui/slot_so_bg.png"
 	},
 	"En fonction de l'avancée des recherches, il y a là aussi 3 cas possibles :",
 	"Solide et coloré ; le concept est complété et il est possible de cliquer dessus, ce qui ouvre une page d'information.",

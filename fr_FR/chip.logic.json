@@ -2,16 +2,8 @@
 	"J'en arrive à la conclusion que les petits cristaux de quartz peuvent être utilisés comme générateur d'horloge et comme stockage de données.",
 	"En combinant des contrôleurs logiques avec du silicium et des conducteurs d'énergie en cuivre, j'ai développé une puce universelle, qui a pour fonction principale d'être un lien être le processeur et le mode extérieur.",
 	"De plus, cette puce logique contient un code de base, qui permet au processeur de démarrer le système. Pour le moment, tous les systèmes auront donc besoin de ces puces.",
-		"Assemblage:",
-	{
-		"type": "assembly",
-		"slots": {
-			"in1": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>"},
-			"in2": {"name":"fp:spaceship", "meta":"<spaceship.QuartzParts>"},
-			"in3": {"OreDict":"ingotCopper"},
-			"out": {"name":"fp:chip", "meta":0, "size":1}
-		}
-	},
+	"Assemblage:",
+	{"link":"fp:lang/part/as_chip.logic.json"},
 	
 	"Une puce logique de haute qualité (puce haute puissance) n'a pas de bénéfices par rapport à une puce normale !",
 		

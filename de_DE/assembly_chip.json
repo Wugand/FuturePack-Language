@@ -1,22 +1,8 @@
 [
 	"Ich konnte aus den grundlegenden Erkenntnissen der Chipherstellung eine Maschine entwickeln, die mir optimale Bedingungen zur Herstellung solcher Komponenten bietet.",
 	"Der Grundaufbau besteht aus einem Metallgehäuse, in dem verschiedene Herstellungs- und Testapparaturen untergebracht sind. Zudem ermöglicht es mir die Anlage, die kritischen Herstellungschritte in einem sehr sauberen Umfeld durchzuführen, was sich als entscheidend für das Gelingen der Komponenten erwies.",
-		"Crafting:",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {"name":"minecraft:stone_slab"},
-			"2": {"name":"minecraft:crafting_table"},
-			"3": {"name":"minecraft:stone_slab"},
-			"4": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"5": [{"name":"fp:color_iron","meta":0},{"name":"fp:color_iron","meta":8},{"name":"fp:color_iron","meta":15}],
-			"6": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"7": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"8": {"OreDict":"ingotNeon"},
-			"9": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"out": [{"name":"fp:assembly_table","meta":2},{"name":"fp:assembly_table","meta":6},{"name":"fp:assembly_table","meta":10}]
-		}
-	},
+	"Crafting:",
+	{"link":"fp:lang/part/cr_assembly_table.json"},
 	
 	"Benutzung:",
 	"Ein hier hergestelltes Objekt besteht immer aus 3 Komponenten, welche in die zentralen 3 Slots gelegt werden. Die Reihenfolge ist dabei wichtig! Im großen Slot darunter kann dann das Produkt entnommen werden.",

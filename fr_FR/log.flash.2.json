@@ -1,14 +1,6 @@
 [
 	"Pendant mes expérimentations pour améliorer la mémoire Flash Redstone simple, j'ai remarqué un matériau particulier : l'Obsidienne. Ce n'est pas seulement un matériau très solide, mais également un excellent isolateur qui me permet d'installer les cellules de stockage dans de petits intervalles s'ils sont séparés par des couches d'obsidienne. Je peux donc maintenant construire une unité de stockage avec une plus grande capacité.",
 	"Assemblage:",
-	{
-		"type": "assembly",
-		"slots": {
-			"in1": {"name":"fp:chip","meta":0,"size":1},
-			"in2": {"name":"minecraft:obsidian","meta":0,"size":1},
-			"in3": {"OreDict":"dustRedstone","size":1},
-			"out": {"name":"fp:spaceship", "meta":"<spaceship.SupportSpeicher1>", "size":1}
-		}
-	},
+	{"link":"fp:lang/part/as_log.flash.2.json"},
 	"Capacité: 256 SP"
 ]

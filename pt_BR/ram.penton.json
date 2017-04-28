@@ -3,15 +3,7 @@
 	"Eu também adicionei um módulo separado para armazenar pontos de apoio (SP). Isso aliviou gastos do processador em uma parte específica do sistema.",
 
 	"Montagem:",
-	{
-		"type": "assembly",
-		"slots": {
-			"in1": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>", "size":3},
-			"in2": {"name":"fp:spaceship", "meta":"<spaceship.NeonParts>", "size":3},
-			"in3": {"name":"fp:spaceship", "meta":"<spaceship.SupportSpeicher1>"},
-			"out": {"name":"fp:ram", "meta":2, "size":1}
-		}
-	},
+	{"link":"fp:lang/part/as_ram.penton.json"},
 	
 	"Dica: Refere a \"RAM Padrão\" para informação geral."
 ]

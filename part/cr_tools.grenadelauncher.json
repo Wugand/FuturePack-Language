@@ -1,0 +1,17 @@
+[
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"name":"fp:normalbattery","meta":0},
+			"2": {"OreDict":"ingotAluminum"},
+			"3": {},
+			"4": {"name":"fp:spaceship", "meta":"<spaceship.NeonCoil>"},
+			"5": {"name":"fp:pipe", "meta":2},
+			"6": {"name":"fp:pipe", "meta":2},
+			"7": {"OreDict":"ingotAluminum"},
+			"8": {"name":"minecraft:stone_button"},
+			"9": {},
+			"out": {"name":"fp:grenade_launcher", "meta":0, "size":1}
+		}
+	}
+]

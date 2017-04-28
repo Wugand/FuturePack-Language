@@ -2,20 +2,6 @@
 	"Wenn ich große Mengen Energie in kurzer Zeit einer Laserdiode zuführe, erzeugt diese einen extrem starken Laserimpuls. Zwischen zwei Aktivierungen entsteht allerdings eine gewisse Aufladezeit.",
 	"Es ist mir gelungen das System in eine tragbare Waffe zu integrieren. Sie feuert einen gerade fliegenden Impuls ab, der sehr viel Schaden verursachen kann.",
 	"Crafting:",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"2": {"name":"fp:spaceship", "meta":"<spaceship.Fasern>"},
-			"3": {},
-			"4": {"name":"fp:spaceship", "meta":"<spaceship.LargeBaterie>"},
-			"5": {"name":"fp:spaceship", "meta":"<spaceship.Laserdiode>"},
-			"6": {"name":"fp:spaceship", "meta":"<spaceship.LinseR>"},
-			"7": {"name":"fp:chip", "meta":"<chip.TacticChip>"},
-			"8": {"name":"fp:spaceship", "meta":"<spaceship.Fasern>"},
-			"9": {},
-			"out": {"name":"fp:laser_riffle", "meta":0, "size":1}
-		}
-	},	
+	{"link":"fp:lang/part/cr_tools.laserrifle.json"},
 	"Es wird Neonenergie für die (wieder-)Aufladung benötigt. Wenn die Ladung geringer als 18 NE ist, kann kein weiterer Schuss aufgeladen werden."
 ]

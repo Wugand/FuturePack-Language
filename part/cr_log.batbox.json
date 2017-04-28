@@ -1,0 +1,17 @@
+[
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"name":"fp:normalbattery", "meta":0},
+			"2": {"name":"minecraft:chest"},
+			"3": {"name":"fp:normalbattery", "meta":0},
+			"4": {"name":"fp:normalbattery", "meta":0},
+			"5": [{"name":"fp:color_iron", "meta":0},{"name":"fp:color_iron", "meta":8},{"name":"fp:color_iron", "meta":15}],
+			"6": {"name":"fp:normalbattery", "meta":0},
+			"7": {"name":"fp:normalbattery", "meta":0},
+			"8": {"name":"fp:spaceship", "meta":"<spaceship.NeonCoil>"},
+			"9": {"name":"fp:normalbattery", "meta":0},
+			"out": [{"name":"fp:baterie_box", "meta":0, "size":1},{"name":"fp:baterie_box", "meta":2, "size":1},{"name":"fp:baterie_box", "meta":1, "size":1}]
+		}
+	}
+]

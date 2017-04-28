@@ -20,5 +20,21 @@
 		}
 	},
 	
-	"Warning: Dont use the FTL-BLock for decoration!"
+	"Warning: Dont use the FTL-BLock for decoration!",
+	
+	"Building:",
+	{
+	   "type":"building",
+	   "blocks":
+	   [
+	       [  
+                ["fp:ftl_drive","fp:ftl_drive","fp:ftl_drive"], 
+                ["fp:ftl_drive","fp:ftl_drive","fp:ftl_drive"] 
+           ],
+           [
+                ["fp:ftl_drive","fp:ftl_drive","fp:ftl_drive"], 
+                ["fp:ftl_drive","fp:ftl_drive","fp:ftl_drive"]
+           ]
+        ]
+	}
 ]

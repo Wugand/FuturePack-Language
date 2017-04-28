@@ -1,0 +1,7 @@
+[
+	"Diese speziell umgebaute Schiene kann ich als Wegpunkt nutzen, um diesen dann im Monocart einzugeben.",
+	"Nach dem platzieren kann der Wegpunkt geöffnet werden (§lRechtsklick§r), um ihn dann zu beschriften. Dadurch kann er später besser identifiziert werden.",
+	"Crafting:",
+	{"link":"fp:lang/part/cr_space.drone.mono.waypoint.json"},
+	"Ich sollte noch eine verbesserte Variante entwickeln um gleichzeitig auch Waren umladen zu können."
+]

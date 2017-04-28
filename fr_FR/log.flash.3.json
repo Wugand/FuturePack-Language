@@ -1,14 +1,6 @@
 [
 	"Malgré mes recherches, je n'ai pas été en mesure de développer une meilleure unité de stockage basée sur les cellules de Redstone. Mais j'ai découvert une nouvelle approche. Elle est basée sur le fait que les propriétés de la Glowstone changent si elle est exposée à une forte impulsion d'énergie Néon. Grâce à ce nouveau design, ces cellules de stockages sont plus petites que celles en redstone, ce qui me permet d'augmenter leur capacité.",
 	"Assemblage:",
-	{
-		"type": "assembly",
-		"slots": {
-			"in1": {"name":"fp:chip","meta":0,"size":1},
-			"in2": {"OreDict":"ingotNeon","size":1},
-			"in3": {"OreDict":"dustGlowstone","size":1},
-			"out": {"name":"fp:spaceship", "meta":"<spaceship.SupportSpeicher2>", "size":1}
-		}
-	},
+	{"link":"fp:lang/part/as_log.flash.3.json"},
 	"Capacité: 512 SP"
 ]

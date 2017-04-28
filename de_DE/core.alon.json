@@ -2,15 +2,7 @@
 	"Durch Verfeinerung des Herstellungsverfahrens konnte ich die doppelte Menge an Recheneinheiten in dem Prozessor unterbringen. Zudem habe ich durch bessere Materialen den Wärmeabtransport verbessert.",
 	
 	"Assembly:",
-	{
-		"type": "assembly",
-		"slots": {
-			"in1": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>", "size":2},
-			"in2": {"name":"fp:spaceship", "meta":"<spaceship.CopperParts>", "size":2},
-			"in3": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"out": {"name":"fp:core", "meta":1, "size":1}
-		}
-	},
+	{"link":"fp:lang/part/as_core.alon.json"},
 	
 	"Info: Für allgemeine Informationen siehe Standartprozessor."
 ]

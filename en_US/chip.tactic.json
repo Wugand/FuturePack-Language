@@ -3,15 +3,7 @@
 	"It is especially useful in machines that kill creatures, for this chip enhances their reach.",
 
 	"Assembly:",
-	{
-		"type": "assembly",
-		"slots": {
-			"in1": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>"},
-			"in2": {"name":"fp:spaceship", "meta":"<spaceship.QuartzParts>"},
-			"in3": {"name":"golden_sword", "meta":0, "size":1},
-			"out": {"name":"fp:chip", "meta":"<chip.TacticChip>", "size":1}
-		}
-	},
+	{"link":"fp:lang/part/as_chip.tactic.json"},
 	
 	"A high quality tactics chipset (high chip power), as well as mounting multiple chipsets, enhances the effect accordingly.",
 	"Info: The specific effect is mentioned at the corresponding machine.",

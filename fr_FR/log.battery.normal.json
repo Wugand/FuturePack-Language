@@ -2,19 +2,5 @@
 	"Si je met de l'étain et du zinc dans un fluide approprié, ces matériaux vont tout doucement être liquéfie et transféré sur l'autre borne. Ce qui crée un flux d'énergie constant dans le sens opposé.",
 	"A l'inverse, je peux lui fournir de l'énergie pour regnérer la batterie.",
 	"Crafting:",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {},
-			"2": [{"name":"fp:spaceship","meta":"<spaceship.CopperParts>"}],
-			"3": {},
-			"4": "OreDict:ingotTin",
-			"5": "OreDict:ingotZinc",
-			"6": "OreDict:ingotTin",
-			"7": "OreDict:ingotTin",
-			"8": "OreDict:ingotZinc",
-			"9": "OreDict:ingotTin",
-			"out": {"name":"fp:spaceship","meta":"<spaceship.NormalBaterrie>"}
-		}
-	}
+	{"link":"fp:lang/part/cr_log.battery.normal.json"}
 ]

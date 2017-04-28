@@ -12,21 +12,21 @@
 		"type":"image",
 		"width":16,
 		"height":16,
-		"resource":"fp:textures/gui/SlotBg.png"
+		"resource":"fp:textures/gui/slot_bg.png"
 	},
 	"Erkenntnis* - Kann erforscht werden, schaltet (selbst) keine Items frei",
 	{
 		"type":"image",
 		"width":16,
 		"height":16,
-		"resource":"fp:textures/gui/SlotErkBg.png"
+		"resource":"fp:textures/gui/slot_erk_bg.png"
 	},
 	"Erfahrung - Kann nicht erforscht werden, kann Items freischalten, wird durch Achievements freigeschalten",
 	{
 		"type":"image",
 		"width":16,
 		"height":16,
-		"resource":"fp:textures/gui/SlotSoBg.png"
+		"resource":"fp:textures/gui/slot_so_bg.png"
 	},
 	"Je nach Forschungstand treten diese wiederum in 3 Varianten auf:",
 	"Solide und farbig: Ist erforscht und kann durch Anklicken gelesen werden.",

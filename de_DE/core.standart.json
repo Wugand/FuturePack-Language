@@ -1,16 +1,8 @@
 [
 	"Auf Grundlage der Siliziumelemente und Kupferteile als Verbindungen, sowie der Nutzung von Eisen zur Verunreinigung des Siliziumwafers, ist es mir gelungen eine universelle Recheneinheit zu erschaffen.",
 	"Mein primitiver Prozessor kann mit korrekter äußerer Ansteuerung Algorithmen abarbeiten und eine Vielzahl von Berechnungen ausführen.",
-		"Assembly:",
-	{
-		"type": "assembly",
-		"slots": {
-			"in1": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>"},
-			"in2": {"name":"fp:spaceship", "meta":"<spaceship.CopperParts>"},
-			"in3": {"OreDict":"ingotIron"},
-			"out": {"name":"fp:core", "meta":0, "size":1}
-		}
-	},
+	"Assembly:",
+	{"link":"fp:lang/part/as_core.standart.json"},
 	"Information:",
 	"Prozessoren haben 1 entscheidenden Wert: Ihre Kapazität (§lCore§r), welche die maximale Last (siehe Chipsatz/Speicher) angeben die der Prozessor verkraftet bevor er beginnt sich zu erhitzen. Wenn die Temperatur eines Prozessors über 1000C steigt wird dieser zerstört!"
 ]

@@ -1,0 +1,6 @@
+[
+	"Das Monocart benötigt nur eine Metallschiene, die ich aus einer Stützstruktur aus Verbundmetall und einer Eisenschiene konstruiere.",
+	"Crafting:",
+	{"link":"fp:lang/part/cr_space.drone.mono.rail.json"},
+	"Die Schiene kann nur auf solidem Untergrund gebaut werden."
+]

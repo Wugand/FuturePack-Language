@@ -1,20 +1,6 @@
 [
 	"Ich habe eine einfache Struktur aus Verbundmetall geschaffen, einen normalen und soliden Block.",
 	"Crafting:",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"2": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"3": {},
-			"4": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"5": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"6": {},
-			"7": {},
-			"8": {},
-			"9": {},
-			"out": {"name":"fp:erz_blocke", "meta":4, "size":4}
-		}
-	},	
+	{"link":"fp:lang/part/cr_deco.metall.json"},
 	"Information: Der Block ist mit der Farbpistole färbbar/ sandstrahlbar."
 ]

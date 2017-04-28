@@ -15,7 +15,7 @@
 			"7": {"name":"fp:spaceship", "meta":"<spaceship.Tank>"},
 			"8": "OreDict:ingotAluminum",
 			"9": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
-			"out": {"name":"fp:plasmaschneider", "meta":2500, "size":1}
+			"out": {"name":"fp:plasmaschneider", "meta":0, "size":1}
 		}
 	},
 	"Neon energy is needed for (re-)charging. If the energy reserves are exhausted, the plasma cutter will be destroyed.",

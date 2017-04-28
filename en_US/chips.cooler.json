@@ -4,19 +4,5 @@
 	"The cooling efficiency is shown by a blue (3), green (2) or red (1) light at the cooler.",
 
 	"Crafting:",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {"name":"fp:spaceship", "meta":"<spaceship.CopperCoil>"},
-			"2": {"OreDict":"ingotCopper"},
-			"3": {"name":"fp:spaceship", "meta":"<spaceship.CopperCoil>"},
-			"4": {"name":"fp:spaceship", "meta":"<spaceship.CopperCoil>"},
-			"5": {"OreDict":"ingotCopper"},
-			"6": {"name":"fp:spaceship", "meta":"<spaceship.CopperCoil>"},
-			"7": {"OreDict":"ingotIron"},
-			"8": {"OreDict":"ingotCopper"},
-			"9": {"OreDict":"ingotIron"},
-			"out": {"name":"fp:extern_cooler", "meta":0}
-		}
-	}
+	{"link":"fp:lang/part/cr_chips.cooler.json"}
 ]

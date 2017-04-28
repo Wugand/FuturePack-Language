@@ -1,0 +1,11 @@
+[
+	{
+		"type": "assembly",
+		"slots": {
+			"in1": {"name":"fp:chip","meta":0,"size":1},
+			"in2": {"OreDict":"ingotGold","size":1},
+			"in3": {"OreDict":"dustRedstone","size":1},
+			"out": {"name":"fp:aiFlash0", "meta":0, "size":1}
+		}
+	}
+]

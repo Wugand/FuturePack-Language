@@ -1,0 +1,17 @@
+[
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {},
+			"2": {"name":"fp:monorail", "meta":0},
+			"3": {},
+			"4": {"OreDict":"dustRedstone"},
+			"5": {"name":"minecraft:heavy_weighted_pressure_plate", "meta":0},
+			"6": {"OreDict":"dustRedstone"},
+			"7": {},
+			"8": {"name":"fp:monorail", "meta":0},
+			"9": {},
+			"out": {"name":"fp:monorail_detector", "meta":0, "size":1}
+		}
+	}
+]

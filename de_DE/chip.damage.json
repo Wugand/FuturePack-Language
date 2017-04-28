@@ -1,15 +1,7 @@
 [
 	"Ich habe einen spezialisierten Chipsatz entwickelt, der die Maschine ab einer bestimmten Temperatur automatisch abschaltet, dies verhindert das Bauteile durch Überhitzung zerstört werden.",
 	"Assembly:",
-	{
-		"type": "assembly",
-		"slots": {
-			"in1": {"name":"fp:spaceship","meta":"<spaceship.Silizium>","size":1},
-			"in2": {"name":"fp:spaceship","meta":"<spaceship.QuartzParts>","size":1},
-			"in3": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>", "size":1},
-			"out": {"name":"fp:chip", "meta":"<chip.DamageControlChip>", "size":1}
-		}
-	},
+	{"link":"fp:lang/part/as_chip.damage.json"},
 	
 	"Ein qualitativ hochwertiger Schadenskontrollchipsatz (hohe Chippower) sorgt für höhere Abschalttemperaturen.",
 	"Info: Für allgemeine Informationen siehe Logikchipsatz."

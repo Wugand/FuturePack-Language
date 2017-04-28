@@ -1,0 +1,7 @@
+[
+	"Diese speziell umgebaute Schien kann Monocarts beschleunigen.",
+	"Wenn ein Monocart über den Monorail Booster fährt wird dieses auf \"schnell\" umgestellt, wenn ein Redstonesignal anliegt; oder auf \"langsam\" umgestellt, wenn kein Redstonesignal anliegt.",
+	"Crafting:",
+	{"link":"fp:lang/part/cr_space.drone.mono.booster.json"},
+	"In Kombination mit einem Monorail Detektor kann das Beschleunigen/Bremsen sehr einfach automatisiert werden."
+]

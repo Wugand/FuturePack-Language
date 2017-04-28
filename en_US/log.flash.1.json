@@ -4,15 +4,7 @@
 	"For the internal organization and an access to the memory module a simple Logic Chipset including a special program is all that's needed.",
 	
 	"Assembly:",
-	{
-		"type": "assembly",
-		"slots": {
-			"in1": {"name":"fp:chip","meta":0,"size":1},
-			"in2": {"OreDict":"ingotGold","size":1},
-			"in3": {"OreDict":"dustRedstone","size":1},
-			"out": {"name":"fp:spaceship", "meta":"<spaceship.SupportSpeicher0>", "size":1}
-		}
-	},
+	{"link":"fp:lang/part/as_log.flash.1.json"},
 	"Capacity: 128 SP",
 	
 	"Information: The following slot is for load/unload of Flash-Memories (existing in some machines).",

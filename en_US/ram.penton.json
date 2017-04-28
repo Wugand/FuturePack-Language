@@ -3,15 +3,7 @@
 	"I reached another improvement by adding a separate unit for the storage of Support data. This extremely relieved the unspecified part of the system.",
 
 	"Assembly:",
-	{
-		"type": "assembly",
-		"slots": {
-			"in1": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>", "size":3},
-			"in2": {"name":"fp:spaceship", "meta":"<spaceship.NeonParts>", "size":3},
-			"in3": {"name":"fp:spaceship", "meta":"<spaceship.SupportSpeicher1>"},
-			"out": {"name":"fp:ram", "meta":2, "size":1}
-		}
-	},
+	{"link":"fp:lang/part/as_ram.penton.json"},
 	
 	"Hint: Refer to \"Standard Ram\" for general information."
 ]

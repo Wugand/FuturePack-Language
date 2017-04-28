@@ -1,22 +1,8 @@
 [
 	"J'ai réussi à créer une machine simple avec mes nouvelles connaissances sur la création de puce, ce qui m'apporte des conditions idéales pour assembler mes composants.",
 	"L'unité principale est composée d'un cadre métallique avec différentes pièces de machinerie, idéale pour l'assemblage de pièces et leurs tests. De plus, cette unité rend possible les étapes cruciales d'assemblage dans un environnement sain, ce qui s'est révélé nécessaire pour que le composant fonctionne correctement.",
-		"Craft :",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {"name":"minecraft:stone_slab"},
-			"2": {"name":"minecraft:crafting_table"},
-			"3": {"name":"minecraft:stone_slab"},
-			"4": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"5": [{"name":"fp:color_iron","meta":0},{"name":"fp:color_iron","meta":8},{"name":"fp:color_iron","meta":15}],
-			"6": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"7": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"8": {"OreDict":"ingotNeon"},
-			"9": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"out": [{"name":"fp:assembly_table","meta":2},{"name":"fp:assembly_table","meta":6},{"name":"fp:assembly_table","meta":10}]
-		}
-	},
+	"Craft :",
+	{"link":"fp:lang/part/cr_assembly_table.json"},
 	
 	"Utilisation :",
 	"Tous les objets créés dans cette machine sont composés de 3 éléments, placés dans les 3 emplacements centraux. Leurs ordres ont de l'importance ! Le produit fini peut être récupéré dans l'emplacement en dessous.",

@@ -2,21 +2,7 @@
 	"Eu pesquisei mais sobre energia renovável e descobri que energia de água seria muito útil. É em todo lugar é pode ser usado com pouco trabalho em alguns lugares.",
         "Eu preciso colocar a turbina de água em um lugar para que há muita água em cima, e abaixo precisa haver espaço para a água fluir através da turbina.",
 	"Criando:",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"2": {"name":"minecraft:iron_bars", "meta":0},
-			"3": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"4": {"name":"fp:spaceship", "meta":"<spaceship.NeonCoil>"},
-			"5": [{"name":"fp:color_iron","meta":0},{"name":"fp:color_iron","meta":8},{"name":"fp:color_iron","meta":15}],
-			"6": {"name":"fp:spaceship", "meta":"<spaceship.NeonCoil>"},
-			"7": {"OreDict":"ingotZinc"},
-			"8": {"name":"fp:spaceship", "meta":"<spaceship.Maschinboard>"},
-			"9": {"OreDict":"ingotZinc"},
-			"out": [{"name":"fp:wasser_turbine","meta":0},{"name":"fp:wasser_turbine","meta":1},{"name":"fp:wasser_turbine","meta":2}]
-		}
-	},
+	{"link":"fp:lang/part/cr_energy.wasser_turbine.json"},
 	"Chipsets compatíveis",
 	"Chipset de Lógica\nChipset Industrial (quantidade de energia)\nChipset para Controle de Redstone\nChipset para Controle de Dano"
 ]

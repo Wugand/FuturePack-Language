@@ -1,19 +1,5 @@
 [
 	"J'ai construit une échelle en fer, et bien que ce ne soit pas vraiment une amélioration de celle en bois, ça fait plus joli sur les bâtiments en métal",
 	"Craft :",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
-			"2": {},
-			"3": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
-			"4": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
-			"5": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
-			"6": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
-			"7": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
-			"8": {},
-			"9": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
-			"out": {"name":"fp:eisenleiter", "meta":0, "size":3}
-		}
-	}
+	{"link":"fp:lang/part/cr_deco.eisenleiter.json"}
 ]

@@ -1,21 +1,7 @@
 [
     "No vasto espaço vazio, é imperativo não se perder. Eu construí um computador para me guiar pelo vácuo com segurança.",
     "Criando:",
-    {
-        "type": "crafting",
-        "slots": {
-            "1": {"name":"fp:spaceship","meta":"<spaceship.LargeBaterie>"},
-            "2": {"name":"fp:spaceship","meta":"<spaceship.Display>"},
-            "3": {"name":"fp:spaceship","meta":"<spaceship.LargeBaterie>"},
-            "4": {"name":"fp:chip","meta":"<chip.NavigationChip>"},
-            "5": [{"name":"fp:modul_1","meta":2},{"name":"fp:modul_1","meta":6},{"name":"fp:modul_1","meta":10}],
-            "6": {"name":"fp:chip","meta":"<chip.NavigationChip>"},
-            "7": "map",
-            "8": {"name":"fp:core","meta":2},
-            "9": "map",
-            "out": [{"name":"fp:board_computer","meta":2},{"name":"fp:board_computer","meta":6},{"name":"fp:board_computer","meta":10}]
-        }
-    },
+    {"link":"fp:lang/part/cr_space.computer.json"},
     "O GUI tem 3 abas:",
     "Aba 1) Sempre mostra a Planeta Minecraft para sempre ser capaz de voltar.",
     "Aba 2) Mostra onde eu estou. Eu espero que não precisaria de um computador para me dizer onde estou, mas este tipo de coisa não pode ser previsto.",

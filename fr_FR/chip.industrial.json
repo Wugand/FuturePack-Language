@@ -3,15 +3,7 @@
 	"Cette puce est très utile pour les générateurs d'énergie, où elle contrôle la génération et la transformation d'énergie. Elle augmente la production d'énergie par tick ou diminue la quantité de ressources nécessaires.",
 
 	"Assemblage:",
-	{
-		"type": "assembly",
-		"slots": {
-			"in1": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>"},
-			"in2": {"name":"fp:spaceship", "meta":"<spaceship.QuartzParts>"},
-			"in3": {"OreDict":"ingotTin"},
-			"out": {"name":"fp:chip", "meta":"<chip.ProduktionChip>", "size":1}
-		}
-	},
+	{"link":"fp:lang/part/as_chip.industrial.json"},
 	
 	"Un puce industrielle de haute qualité (puce haute puissance) ou l'utilisation de plusieurs puces augmentera les effets en conséquence.",
 	"Conseil : L'effet exact est déterminé par la machine.",

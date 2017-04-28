@@ -1,0 +1,11 @@
+[
+	{
+		"type": "assembly",
+		"slots": {
+			"in1": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>"},
+			"in2": {"name":"fp:spaceship", "meta":"<spaceship.QuartzParts>"},
+			"in3": {"OreDict":"ingotTin"},
+			"out": {"name":"fp:chip", "meta":"<chip.ProduktionChip>", "size":1}
+		}
+	}
+]
