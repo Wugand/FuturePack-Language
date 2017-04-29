@@ -1,0 +1,7 @@
+[
+	"This special redesigned rail can accelerate monocarts.",
+	"If a Monocart passes a booster monorail it will change to \"fast\" if a redstone signal is aktive otherwise it will change to \"slow\".",
+	"Crafting:",
+	{"link":"fp:lang/part/cr_space.drone.mono.booster.json"},
+	"Combined with a detector monorail automating an accelerator or a brake is very  easy."
+]
