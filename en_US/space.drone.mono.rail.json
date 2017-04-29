@@ -1,0 +1,6 @@
+[
+	"The Monocart only needs a metalrail, wich I craft from a support structure made out of composite metal and a iron rail.",
+	"Crafting:",
+	{"link":"fp:lang/part/cr_space.drone.mono.rail.json"},
+	"The rail can only be placed on solid ground."
+]
