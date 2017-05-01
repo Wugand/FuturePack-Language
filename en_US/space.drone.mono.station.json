@@ -5,5 +5,5 @@
 	"While the load up the configured count represents the total amount of items of this type inside the monocart, while unload the count represnts the amount of items taken from the monocart.",
 	"Crafting:",
 	{"link":"fp:lang/part/cr_space.drone.mono.station.json"},
-	"The monorail station has not a inventory, therefore the station directly interacts with the surounding inventorys."
+	"The monorail station has not an inventory, therefore the station directly interacts with the surounding inventorys."
 ]
