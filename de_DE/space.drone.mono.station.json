@@ -1,5 +1,5 @@
 [
-	"Diese speziell umgebaute Schien kann Waren in ein haltendes Monocart einladen, zum dem arbeitet sie gleichzeitig als Wegpunkt.",
+	"Diese speziell umgebaute Schiene kann Waren in ein haltendes Monocart einladen, zum dem arbeitet sie gleichzeitig als Wegpunkt.",
 	"In der Monorail Station kann man mit dem Stiftsymbol oben links den Wegpunkt umbenennen. Für den Ein- und Ausgang kann man jeweils bis zu 5 Filterkriterien einstellen. Dabei steht der der grüne Pfeil für einladen und der rote für ausladen.",
 	"Zusätzlich kann man für jeden Filter-Slot eine Menge einstellen (Linksklick: +1, Rechtsklick: -1, Shift+Linksklick: +10, Shift+Rechtsklick: -10). Ein Wert über 64 steht dabei für unendlich/alles.",
 	"Beim Einladen bedeutet die eingestellte Anzahl das das Monocart bis zu genau dieser Menge aufgefüllt wird, beim Ausladen wird genau diese Menge ausgeladen.",
