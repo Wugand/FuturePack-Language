@@ -1,5 +1,5 @@
 [
-	"This special redsigned rail can I use as waypoint, for the path setup of the monocart."
+	"I can use this special redsigned rail as waypoint, for the path setup of the monocart."
 	"After I placed the waypoint I can open the gui(§lright click§r) to edit the name. This will help me identify them later."
 	"Crafting:",
 	{"link":"fp:lang/part/cr_space.drone.mono.waypoint.json"},
