@@ -1,6 +1,6 @@
 [
 	"With the help of this plant marker I can tell the forstmaster to replant trees.",
-	"This block is working like soil at which the sapling will get planted. I can use a sapling to select the tree type which will grow on the plant marker.
+	"This block is working like soil at which the sapling will get planted. I can use a sapling to select the tree type which will grow on the plant marker.",
 	"The green point indicates if the type is set, and I can place sapling of the same type with my hand after that.",
 	"The Forstmaster will then plant at each plant marker in range the fitting sapling, if the needed sapling is available in the dronestation.",
 	"Crafting:",
