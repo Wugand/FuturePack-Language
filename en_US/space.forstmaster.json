@@ -1,5 +1,5 @@
 [
-	"I have developed a specialized Drone to fell Trees. It fells all known trees but also huge mushrooms and provides the stem, saplings und fruits to the Dronestation.",
+	"I have developed a specialized Drone to fell Trees. It fells all known trees, but also huge mushrooms and provides stem, saplings and fruits to the Dronestation.",
 	"The Forstmaster can be placed (with §lsneak + right click§r) at a Dronestation. It processes all near targets within a 11 block range. To disassemble the drone I need to use a scrench with §lsneak  + right click§r.",
 	"Crafting:",
 	{"link":"fp:lang/part/cr_space.forstmaster.json"},
