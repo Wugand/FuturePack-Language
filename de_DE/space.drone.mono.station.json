@@ -4,6 +4,6 @@
 	"Zusätzlich kann man für jeden Filter-Slot eine Menge einstellen (Linksklick: +1, Rechtsklick: -1, Shift+Linksklick: +10, Shift+Rechtsklick: -10). Ein Wert über 64 steht dabei für unendlich/alles.",
 	"Beim Einladen bedeutet die eingestellte Anzahl das das Monocart bis zu genau dieser Menge aufgefüllt wird, beim Ausladen wird genau diese Menge ausgeladen.",
 	"Crafting:",
-	{"link":"fp:lang/part/cr_space.drone.mono.waypoint.json"},
+	{"link":"fp:lang/part/cr_space.drone.mono.station.json"},
 	"Die Monocart Station hat kein eigenes Inventar, sie interagiert direkt mit allen direkt angrenzenden Inventaren."
 ]
