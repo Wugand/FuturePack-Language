@@ -1,6 +1,6 @@
 [
-	"This special redesigned monorail can recharge the internal energy storage of monocarts automatic.",
-	"If a monocart passed by then it will stop until it is fully charged.",
+	"This special redesigned monorail can recharge the internal energy storage of monocarts automatically.",
+	"If a monocart passed by, it will stop until it is fully charged.",
 	"Crafting:",
 	{"link":"fp:lang/part/cr_space.drone.mono.charger.json"},
 	"This monorail uses neon energy as usual."
