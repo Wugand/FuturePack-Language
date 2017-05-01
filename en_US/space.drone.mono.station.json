@@ -1,0 +1,9 @@
+[
+	"This special redesigned rail can load goods into a waiting monocart and it also works as monorail waypoint.",
+	"In the gui of the monorail station you can use the pencil symbol to rename the waypoint. For the in- and output you can filter up to 5 different items. The green arrow is the input in the monocart and the red arrow is the output.",
+	"Additionaly you can adjust the amount for each Slot (left click: +1, right click: -1, shift+left: +10, shift+right: -10). The amount over 64 represents infinity/everything.",
+	"While the load up the configured count represents the total amount of items of this type inside the monocart, while unload the count represnts the amount of items taken from the monocart.",
+	"Crafting:",
+	{"link":"fp:lang/part/cr_space.drone.mono.station.json"},
+	"The monorail station has not a inventory, therefore the station directly interacts with the surounding inventorys."
+]
