@@ -1,8 +1,0 @@
-[
-	"Pour utiliser les données d'analyses (Support) de mes machines (Banc Optique, Four au Néon,...), j'ai besoin d'un autre module de recherche adapté.",
-	"Ce module doit être directement connecté au module de Recherche (positionné juste à côté de lui) pour être capable de fonctionner, bien que le travail doit être fait dans le Module de Recherches lui même.",
-
-	"Craft :",
-	{"link":"fp:lang/part/cr_upgradet2.json"},	
-	"Le module peut stocker jusqu'à 512 SP. Si ce n'est pas assez (voir les spécifications dans le Blueprint), je peux en connecter plusieurs avec le module de Recherches. Les points Supports sont transférable par mémoires Flash dans ce module."
-]

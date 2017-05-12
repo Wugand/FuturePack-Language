@@ -1,0 +1,6 @@
+[
+    "J'ai développé une puce qui permet aux machines de communiquer entre-elle via un réseau.",
+    "Assemblage:",
+	{"link":"fp:lang/part/as_chip.network.json"},
+    "Je n'ai pas d'utilisation concrète de cette puce pour le moment, mais peut-être que je serai capable de l'utiliser un jour."
+]

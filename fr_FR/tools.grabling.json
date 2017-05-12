@@ -1,7 +1,0 @@
-[
-	"Il est compliqué de se déplacer dans les grottes profondes ou dans des canyons. C'est pourquoi j'ai voulu créer un piton (un outil d'escalade fixé dans un mur pour faire une ascension latérale). Cependant, j'ai remarqué un problème :",
-	"Les pitons ont besoin d'arêtes dans la façade pour être capables de maintenir en sécurité. Comme solution, j'ai développé un grappin à Slime. A lieu d'être reliée à un piton, une corde est attaché à une boule de Slime collante. Une impulsion Néon transférée à travers la corde supprime pendant un court laps de temps le pouvoir collant de la boule de Slime pour le retirer du mur",
-	"Craft :",
-	{"link":"fp:lang/part/cr_tools.grabling.json"},		
-	"En cliquant droit, le grappin est lancé. Lorsque la boule de Slime touche un bloc, vous serez tiré dans cette direction immédiatement. Note : le grappin à Slime doit être chargé avec de l'énergie Néon."
-]

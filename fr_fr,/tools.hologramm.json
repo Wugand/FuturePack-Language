@@ -1,0 +1,24 @@
+[
+	"J'ai développé un outil qui permet de changer l'apparence physique d'un bloc.",
+	"Je peux scanner un bloc et stocker sa structure visuelle dans l'appareil, puis la transférer à un autre bloc qui le support.",
+	
+	{
+		"type": "crafting",
+		"slots": {
+			"1": "OreDict:ingotMagnetite",
+			"2": {"name":"fp:spaceship", "meta":"<spaceship.Laserdiode>"},
+			"3": "OreDict:ingotMagnetite",
+			"4": "OreDict:ingotAluminum",
+			"5": {"name":"fp:spaceship", "meta":"<spaceship.Display>"},
+			"6": "OreDict:ingotAluminum",
+			"7": "OreDict:ingotAluminum",
+			"8": {"name":"fp:chip", "meta":"<chip.LogicChip>"},
+			"9": "OreDict:ingotAluminum",
+			"out": {"name":"fp:hologramcontroler"}
+		}
+	},
+	"§lShift + Clic Droit§r pour sauvegarder une structure",
+	"Simple §lClic Droit§r pour modifier l'apparence",
+	"Note: Plusieurs structures sont trop complexes pour être sauvegardées.",
+	"Blocs Supportés :\nTous les tubes \nTous les câbles\n"
+]
