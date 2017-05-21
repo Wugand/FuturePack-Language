@@ -1,0 +1,916 @@
+tile.colorIron_white.name=Белый цветной металл
+tile.colorIron_orange.name=Оранжевый цветной металл
+tile.colorIron_magenta.name=Пурпурный цветной металл
+tile.colorIron_lightBlue.name=Голубой цветной металл
+tile.colorIron_yellow.name=Желтый цветной металл
+tile.colorIron_lime.name=Лаймовый цветной металл
+tile.colorIron_pink.name=Розовый цветной металл
+tile.colorIron_gray.name=Серый цветной металл
+tile.colorIron_silver.name=Светло-серый цветной металл
+tile.colorIron_cyan.name=Бирюзовый цветной металл
+tile.colorIron_purple.name=Фиолетовый цветной металл
+tile.colorIron_blue.name=Синий цветной металл
+tile.colorIron_brown.name=Коричневый цветной металл
+tile.colorIron_green.name=Зеленый цветной металл
+tile.colorIron_red.name=Красный цветной металл
+tile.colorIron_black.name=Черный цветной металл
+
+tile.colorLuftung_white.name=Белая вентиляция
+tile.colorLuftung_orange.name=Оранжевая вентиляция
+tile.colorLuftung_magenta.name=Пурпурная вентиляция
+tile.colorLuftung_lightBlue.name=Голубая вентиляция
+tile.colorLuftung_yellow.name=Желтая вентиляция
+tile.colorLuftung_lime.name=Лаймовая вентиляция
+tile.colorLuftung_pink.name=Розовая вентиляция
+tile.colorLuftung_gray.name=Серая вентиляция
+tile.colorLuftung_silver.name=Светло-серая вентиляция
+tile.colorLuftung_cyan.name=Бирюзовая вентиляция
+tile.colorLuftung_purple.name=Фиолетовая вентиляция
+tile.colorLuftung_blue.name=Синяя вентиляция
+tile.colorLuftung_brown.name=Коричневая вентиляция
+tile.colorLuftung_green.name=Зеленая вентиляция
+tile.colorLuftung_red.name=Красная вентиляция
+tile.colorLuftung_black.name=Черная вентиляция
+
+tile.colorGitter_white.name=Белый сетчатый блок
+tile.colorGitter_orange.name=Оранжевый сетчатый блок
+tile.colorGitter_magenta.name=Пурпурный сетчатый блок
+tile.colorGitter_lightBlue.name=Голубой сетчатый блок
+tile.colorGitter_yellow.name=Желый сетчатый блок
+tile.colorGitter_lime.name=Лаймовый сетчатый блок
+tile.colorGitter_pink.name=Розовый сетчатый блок
+tile.colorGitter_gray.name=Серый сетчатый блок
+tile.colorGitter_silver.name=Светло-серый сетчатый блок
+tile.colorGitter_cyan.name=Бирюзовый сетчатый блок
+tile.colorGitter_purple.name=Фиолетовый сетчатый блок
+tile.colorGitter_blue.name=Синий сетчатый блок
+tile.colorGitter_brown.name=Коричневый сетчатый блок
+tile.colorGitter_green.name=Зеленый сетчатый блок
+tile.colorGitter_red.name=Красный сетчатый блок
+tile.colorGitter_black.name=Черный сетчатый блок
+
+tile.colorGlas_white.name=Белое пуленепробиваемое стекло
+tile.colorGlas_orange.name=Оранжевое пуленепробиваемое стекло
+tile.colorGlas_magenta.name=Пурпурное пуленепробиваемое стекло
+tile.colorGlas_lightBlue.name=Голубое пуленепробиваемое стекло
+tile.colorGlas_yellow.name=Желтое пуленепробиваемое стекло
+tile.colorGlas_lime.name=Лаймовое пуленепробиваемое стекло
+tile.colorGlas_pink.name=Розовое пуленепробиваемое стекло
+tile.colorGlas_gray.name=Серое пуленепробиваемое стекло
+tile.colorGlas_silver.name=Светло-серое пуленепробиваемое стекло
+tile.colorGlas_cyan.name=Бирюзовое пуленепробиваемое стекло
+tile.colorGlas_purple.name=Пурпурное пуленепробиваемое стекло
+tile.colorGlas_blue.name=Синее пуленепробиваемое стекло
+tile.colorGlas_brown.name=Коричневое пуленепробиваемое стекло
+tile.colorGlas_green.name=Зеленое пуленепробиваемое стекло
+tile.colorGlas_red.name=Красное пуленепробиваемое стекло
+tile.colorGlas_black.name=Черное пуленепробиваемое стекло
+
+tile.colorIronTreppe_white.name=Белый металлические ступеньки
+tile.colorIronTreppe_orange.name=Оранжевые металлические ступеньки
+tile.colorIronTreppe_magenta.name=Пурпурные металлические ступеньки
+tile.colorIronTreppe_lightBlue.name=Голубые металлические ступеньки
+tile.colorIronTreppe_yellow.name=Желтые металлические ступеньки
+tile.colorIronTreppe_lime.name=Лаймовые металлические ступеньки
+tile.colorIronTreppe_pink.name=Розовые металлические ступеньки
+tile.colorIronTreppe_gray.name=Серые металлические ступеньки
+tile.colorIronTreppe_silver.name=Светло-серые металлические ступеньки
+tile.colorIronTreppe_cyan.name=Бирюзовые металлические ступеньки
+tile.colorIronTreppe_purple.name=Фиолетовые металлические ступеньки
+tile.colorIronTreppe_blue.name=Синие металлические ступеньки
+tile.colorIronTreppe_brown.name=Коричневые металлические ступеньки
+tile.colorIronTreppe_green.name=Зеленые металлические ступеньки
+tile.colorIronTreppe_red.name=Красные металлические ступеньки
+tile.colorIronTreppe_black.name=Black Colored Metal Stairs
+
+tile.colorGitterTreppe_white.name=Белые сетчатые ступеньки
+tile.colorGitterTreppe_orange.name=Оранжевые сетчатые ступеньки
+tile.colorGitterTreppe_magenta.name=Пурпурные сетчатые ступеньки
+tile.colorGitterTreppe_lightBlue.name=Голубые сетчатые ступеньки
+tile.colorGitterTreppe_yellow.name=Желтые сетчатые ступеньки
+tile.colorGitterTreppe_lime.name=Лаймовые сетчатые ступеньки
+tile.colorGitterTreppe_pink.name=Розовые сетчатые ступеньки
+tile.colorGitterTreppe_gray.name=Серые сетчатые ступеньки
+tile.colorGitterTreppe_silver.name=Светло-серые сетчатые ступеньки
+tile.colorGitterTreppe_cyan.name=Бирюзовые сетчатые ступеньки
+tile.colorGitterTreppe_purple.name=Фиолетовые сетчатые ступеньки
+tile.colorGitterTreppe_blue.name=Синие сетчатые ступеньки
+tile.colorGitterTreppe_brown.name=Коричневые сетчатые ступеньки
+tile.colorGitterTreppe_green.name=Зеленые сетчатые ступеньки
+tile.colorGitterTreppe_red.name=Красные сетчатые ступеньки
+tile.colorGitterTreppe_black.name=Черные сетчатые ступеньки
+
+tile.colorIronStep_white.name=Белая металлическая плита
+tile.colorIronStep_orange.name=Оранжевая металлическая плита
+tile.colorIronStep_magenta.name=Пурпурная металлическая плита
+tile.colorIronStep_lightBlue.name=Голубая металлическая плита
+tile.colorIronStep_yellow.name=Желтая металлическая плита
+tile.colorIronStep_lime.name=Лаймовая металлическая плита
+tile.colorIronStep_pink.name=Розовая металлическая плита
+tile.colorIronStep_gray.name=Серая металлическая плита
+tile.colorIronStep_silver.name=Светло-серая металлическая плита
+tile.colorIronStep_cyan.name=Бирюзовая металлическая плита
+tile.colorIronStep_purple.name=Фиолетовая металлическая плита
+tile.colorIronStep_blue.name=Синяя металлическая плита
+tile.colorIronStep_brown.name=Коричневая металлическая плита
+tile.colorIronStep_green.name=Зеленая металлическая плита
+tile.colorIronStep_red.name=Красная металлическая плита
+tile.colorIronStep_black.name=Черная металлическая плита
+
+tile.colorGitterStep_white.name=Белая сетчатая плита
+tile.colorGitterStep_orange.name=Оранжевая сетчатая плита
+tile.colorGitterStep_magenta.name=Пурпурная сетчатая плита
+tile.colorGitterStep_lightBlue.name=Голубая сетчатая плита
+tile.colorGitterStep_yellow.name=Желтая сетчатая плита
+tile.colorGitterStep_lime.name=Лаймовая сетчатая плита
+tile.colorGitterStep_pink.name=Розовая сетчатая плита
+tile.colorGitterStep_gray.name=Серая сетчатая плита
+tile.colorGitterStep_silver.name=Светло-серая сетчатая плита
+tile.colorGitterStep_cyan.name=Бирюзовая сетчатая плита
+tile.colorGitterStep_purple.name=Фиолетовая сетчатая плита
+tile.colorGitterStep_blue.name=Синяя сетчатая плита
+tile.colorGitterStep_brown.name=Коричневая сетчатая плита
+tile.colorGitterStep_green.name=Зеленая сетчатая плита
+tile.colorGitterStep_red.name=Красная сетчатая плита
+tile.colorGitterStep_black.name=Черная сетчатая плита
+
+tile.colorLuftungStep_white.name=Белая вентиляционная плита
+tile.colorLuftungStep_orange.name=Оранжевая вентиляционная плита
+tile.colorLuftungStep_magenta.name=Пурпурная вентиляционная плита
+tile.colorLuftungStep_lightBlue.name=Голубая вентиляционная плита
+tile.colorLuftungStep_yellow.name=Желтая вентиляционная плита
+tile.colorLuftungStep_lime.name=Лаймовая вентиляционная плита
+tile.colorLuftungStep_pink.name=Розовая вентиляционная плита
+tile.colorLuftungStep_gray.name=Серая вентиляционная плита
+tile.colorLuftungStep_silver.name=Светло-серая вентиляционная плита
+tile.colorLuftungStep_cyan.name=Бирюзовая вентиляционная плита
+tile.colorLuftungStep_purple.name=Фиолетовая вентиляционная плита
+tile.colorLuftungStep_blue.name=Синяя вентиляционная плита
+tile.colorLuftungStep_brown.name=Коричневая вентиляционная плита
+tile.colorLuftungStep_green.name=Зеленая вентиляционная плита
+tile.colorLuftungStep_red.name=Красная вентиляционная плита
+tile.colorLuftungStep_black.name=Черная вентиляционная плита
+
+tile.eisenleiter.name=Железная лестница
+tile.antenne.name=Основа антенны
+
+tile.colorFence_white.name=Белый цветной забор
+tile.colorFence_orange.name=Оранжевый цветной забор
+tile.colorFence_magenta.name=Пурпурный цветной забор
+tile.colorFence_lightBlue.name=Голубой цветной забор
+tile.colorFence_yellow.name=Желтый цветной забор
+tile.colorFence_lime.name=Лаймовый цветной забор
+tile.colorFence_pink.name=Розовый цветной забор
+tile.colorFence_gray.name=Серый цветной забор
+tile.colorFence_silver.name=Светло-серый цветной забор
+tile.colorFence_cyan.name=Бирюзовый цветной забор
+tile.colorFence_purple.name=Фиолетовый цветной забор
+tile.colorFence_blue.name=Синий цветной забор
+tile.colorFence_brown.name=Коричневый цветной забор
+tile.colorFence_green.name=Зеленый цветной забор
+tile.colorFence_red.name=Красный цветной забор
+tile.colorFence_black.name=Черный цветной забор
+
+tile.colorPane_white.name=Белая сетка
+tile.colorPane_orange.name=Оранжевая сетка
+tile.colorPane_magenta.name=Пурпурная сетка
+tile.colorPane_lightBlue.name=Голубая сетка
+tile.colorPane_yellow.name=Желтая сетка
+tile.colorPane_lime.name=Лаймовая сетка
+tile.colorPane_pink.name=Розовая сетка
+tile.colorPane_gray.name=Серая сетка
+tile.colorPane_silver.name=Светло-серая сетка
+tile.colorPane_cyan.name=Бирюзовая сетка
+tile.colorPane_purple.name=Фиолетовая сетка
+tile.colorPane_blue.name=Синяя сетка
+tile.colorPane_brown.name=Коричневая сетка
+tile.colorPane_green.name=Зеленая сетка
+tile.colorPane_red.name=Красная сетка
+tile.colorPane_black.name=Черная сетка
+
+tile.funkcomputer.name=Безпроводной компьютер
+
+tile.colorNeonLamp_white.name=Белая Неон лампа
+tile.colorNeonLamp_orange.name=Оранжевая Неон лампа
+tile.colorNeonLamp_magenta.name=Пурпурная Неон лампа
+tile.colorNeonLamp_lightBlue.name=Голубая Неон лампа
+tile.colorNeonLamp_yellow.name=Желтая Неон лампа
+tile.colorNeonLamp_lime.name=Лаймовая Неон лампа
+tile.colorNeonLamp_pink.name=Розовая Неон лампа
+tile.colorNeonLamp_gray.name=Серая Неон лампа
+tile.colorNeonLamp_silver.name=Светло-серая Неон лампа
+tile.colorNeonLamp_cyan.name=Бирюзовая Неон лампа
+tile.colorNeonLamp_purple.name=Фиолетовая Неон лампа
+tile.colorNeonLamp_blue.name=Синяя Неон лампа
+tile.colorNeonLamp_brown.name=Коричневая Неон лампа
+tile.colorNeonLamp_green.name=Зеленая Неон лампа
+tile.colorNeonLamp_red.name=Красная Неон лампа
+tile.colorNeonLamp_black.name=Черная Неон лампа
+
+tile.colorPlasmaLamp_white.name=Белая плазменная лампа
+tile.colorPlasmaLamp_orange.name=Оранжевая плазменная лампа
+tile.colorPlasmaLamp_magenta.name=Пурпурная плазменная лампа
+tile.colorPlasmaLamp_lightBlue.name=Голубая плазменная лампа
+tile.colorPlasmaLamp_yellow.name=Желтая плазменная лампа
+tile.colorPlasmaLamp_lime.name=Лаймовая плазменная лампа
+tile.colorPlasmaLamp_pink.name=Розовая плазменная лампа
+tile.colorPlasmaLamp_gray.name=Серая плазменная лампа
+tile.colorPlasmaLamp_silver.name=Светло-серая плазменная лампа
+tile.colorPlasmaLamp_cyan.name=Бирюзовая плазменная лампа
+tile.colorPlasmaLamp_purple.name=Фиолетовая плазменная лампа
+tile.colorPlasmaLamp_blue.name=Синяя плазменная лампа
+tile.colorPlasmaLamp_brown.name=Коричневая плазменная лампа
+tile.colorPlasmaLamp_green.name=Зеленая плазменная лампа
+tile.colorPlasmaLamp_red.name=Красная плазменная лампа
+tile.colorPlasmaLamp_black.name=Черная плазменная лампа
+
+tile.microbox.name=Микрокоробка
+tile.ionCollector.name=Коллектор ионов
+tile.wire_0.name=Кабель
+tile.wire_1.name=Редстоун кабель
+tile.wire_2.name=Супер кабель
+tile.wire_3.name=Саппорт кабель
+tile.wire_4.name=Сетевой кабель
+tile.spacedoor.name=Шлюз
+tile.spaceship.name=Голограммная коробка
+
+tile.erze_zinn.name=Оловянная руда
+tile.erze_zink.name=Цинковая руда
+tile.erze_kupfer.name=Медная руда
+tile.erze_bauxit.name=Боксит
+tile.erze_magnetit.name=Магнетитовая руда
+
+tile.erzBlocke_zinn_block.name=Оловянный блок
+tile.erzBlocke_zink_block.name=Цинковый блок
+tile.erzBlocke_kupfer_block.name=Медный блок
+tile.erzBlocke_kristall_block.name=Блок Неон кристалла
+tile.erzBlocke_metal_block.name=Металлический блок
+tile.Magnet.name=Магнетитовый блок
+tile.metalTreppe_yellow.name=Металлические ступеньки
+tile.metalSlap_metal.name=Металлическая плита
+tile.metalSlap_gitter.name=Сетчатая плита
+tile.metalSlap_luftung.name=Вентиляционная плита
+tile.metalTreppe_white.name=Металлические ступеньки
+
+tile.wandrobe.name=Гардероб
+tile.neonsand.name=Неон песок
+
+tile.cristall_0.name=Неон кристалл
+tile.cristall_1.name=Ретиум кристалл
+tile.cristall_2.name=Глоутит кристалл
+tile.cristall_3.name=Биотериум кристалл
+tile.cristall_4.name=Алютин кристалл
+
+tile.optiBench.name=Опти верстак
+tile.elektroMagnet.name=Электромагнит
+tile.pulsit.name=Гравитационный пульсатор
+tile.monorail.name=Монорельс
+tile.monorail_station.name=Станция монорельса
+tile.monorail_waypoint.name=Остановка монорельса
+tile.monorail_booster.name=Ускоритель монорельса
+tile.monorail_charger.name=Заряжатель монорельса
+tile.monorail_detector.name=Детектор монорельса
+tile.pucher.name=Выталкиватель
+tile.blockFish.name=Рыбный блок
+tile.industrieFurnace.name=Индустриальная печь
+tile.blockBreaker.name=Разрушитель блоков
+tile.partpress.name=Детальный пресс
+tile.efurnace.name=Неон печь
+tile.solarpanel.name=Солнечная панель
+tile.assemblytable.name=Сборочный стол
+tile.crusher.name=Супер измельчитель
+tile.entityeater_eater.name=Поглощающий лазер
+tile.entityeater_killer.name=Лазерная турель
+tile.entityeater_healer.name=Лечащий лазер
+tile.brennstoff_generator.name=Генератор
+
+tile.bateriebox.name=Батарея
+tile.DroneStation.name=Станция дронов
+tile.externCooler.name=Внешний кулер
+tile.pipe_0.name=Стандартная труба
+tile.pipe_1.name=Редстоун труба
+tile.pipe_2.name=Неон труба
+tile.pipe_3.name=Саппорт труба
+tile.sorter.name=Сортировщик
+tile.erzBlocke_kristall_block_retium.name=Блок из Ретиум кристалла
+tile.erzBlocke_kristall_block_glowtit.name=Блок из Глоутит кристалла
+tile.erzBlocke_kristall_block_bioterium.name=Блок из Биотериум кристалла
+tile.erzBlocke_kristall_block_alutin.name=Блок из Алютин кристалла
+tile.erzBlocke_metalBlocke_metal_block_luftschacht.name=Вентиляция
+tile.uncolorPane.name=Сетка
+tile.uncolorGitter.name=Сетчатый блок
+tile.claime.name=Передатчик зоны
+tile.neonengine.name=Неон двигатель
+tile.plasmaGenerator.name=Инфузийный генератор
+tile.neonbricks_Neonbrick.name=Неон кирпичи
+tile.neonbricks_Retiumbrick.name=Ретиум кирпичи
+tile.neonbricks_Glowtitbrick.name=Глоутит кирпичи
+tile.neonbricks_Bioteriumbrick.name=Биотериум кирпичи
+tile.triebwerk.name=Ускоритель
+tile.block_placer.name=Установщик блоков
+tile.wasserTurbine.name=Водяная турбина
+tile.waterCooler.name=Водяной кулер
+tile.externalCore.name=Квантумное ядро
+tile.techtable.name=Техстол
+tile.modul.1.name=Модуль изучений - Энергия
+tile.modul.2.name=Модуль изучений - Саппорт
+tile.modul.3.name=Модуль изучений - Опыт
+tile.scanner.name=Сканер
+tile.forscher.name=Исследовательская машина
+tile.laser_transmitter.name=Лазерный передатчик
+tile.industrial_neon_furnace.name=Индустриальная Неон печь
+tile.neonsand_neon.name=Неон песок
+tile.neonsand_retium.name=Ретиум песок
+tile.neonsand_glowtit.name=Глоутит песок
+tile.neonsand_bioterium.name=Биотериум песок
+tile.neonsand_alutin.name=Алютин песок
+tile.metalFence_metal.name=Металлический забор
+tile.stone_stoneM.name=Камень Менелая
+tile.stone_cobbleM.name=Булыжник Менелая
+tile.stone_brickM.name=.Каменные кирпичи Менелая
+tile.stone_crackedM.name=Потрескавшиеся каменные кирпичи Менелая
+tile.stone_sandM.name=Песчаник Менелая
+tile.stone_smoothsandM.name=Гладкий песчаник Менелая
+tile.stone_chiseledsandM.name=Резной песчаник Менелая
+tile.sand_M.name=Песок Менелая
+tile.gravel_M.name=Гравий Менелая
+tile.glowmelo.name=Глоумело
+tile.wood_tyros.name=Дерево Тайроса
+tile.wood_menelaus.name=Дерево Менелая
+tile.boardcomputer.name=Бортовой компьютер
+tile.beam_button.name=Телепорт (Вверх/Вниз)
+tile.beam_up.name=Телепорт (Вверх)
+tile.beam_down.name=Телепорт (Вниз)
+tile.beam_.name=Корпус телепорта
+tile.erse.name=Ерс
+tile.sapling_menelaus.name=Саженец Менелая
+tile.sapling_tyros.name=Саженец Тайроса
+tile.flashserver.name=Флеш сервер
+tile.zentrifuge.name=Центрифуга
+tile.fuelcell.name=Топливный бак
+tile.dirt_M.name=Земля Менелая
+tile.ftl_drive.name=FTL блок
+tile.advanced_boardcomputer.name=Продвинутый бортовой компьютер
+
+tile.modular_door.name=Модульный подъемщик
+
+tile.mendel_berry.name=Куст мендлберри
+
+fluid.liquid.neon=Неон жидкость
+
+item.scrench.name=Ключвертка
+item.NeonBattery.name=Пустая Неон батарейка
+item.NeonBattery_full.name=Неон батарейка
+item.NormalBattery.name=Пустая батарейка
+item.Battery_N_full.name=Стандартная батарейка
+item.LargeBattery.name=Пустай большая батарейка
+item.Battery_L_full.name=Большая батарейка
+
+item.Objektscenner.name=Construction Replicator
+item.Kristall_Blueprint.name=Чертеж
+item.Kristall_Blueprint_empty.name=Пустой чертеж
+
+item.escenner.name=Е-Сканер
+item.logistic_editor.ENERGIE.name=Логистический редактор (Энергия)
+item.logistic_editor.SUPPORT.name=Логистический редактор (Саппорт)
+item.logistic_editor.NETWORK.name=Логистический редактор (Сеть)
+item.logistic_editor.ITEMS.name=Логистический редактор (Предметы)
+item.logistic_editor.FLUIDS.name=Логистический редактор (Жидкости)
+
+
+item.LogicChip.name=Логический чипсет
+item.KIChip.name=ИИ чипсет
+item.LogistcChip.name=Транспортный чипсет
+item.NavigationChip.name=Навигационный чипсет
+item.NetworkChip.name=Сетевой чипсет
+item.ProduktionChip.name=Индустриальный чипсет
+item.RedstoneChip.name=Чипсет контроля редстоуна
+item.SuportChip.name=Саппорт чипсет
+item.TacticChip.name=Чипсет тактического контроля
+item.UltimateChip.name=Ультимативный чипсет
+item.DamageControlChip.name=Чипсет контроля урона
+
+item.Standart-ram.name=Стандартная ОЗУ
+item.A-ram.name=Алон ОЗУ
+item.P-ram.name=Пентон ОЗУ
+item.TCT-ram.name=TCT ОЗУ
+item.Master-ram.name=Мастер ОЗУ
+item.Non-ram.name=NoN ОЗУ
+item.Dungon-ram.name=Данжн ОЗУ
+item.Univ-ram.name=Торус ОЗУ
+
+item.Standart-Core.name=Стандартное ядро
+item.A1-Core.name=Алон I ядро
+item.P2-Core.name=Пентон II Ядро
+item.TCT-Core.name=TCT ядро
+item.Master-Core.name=Мастер Майнд ядро
+item.Non-Core.name=NoN ядро
+item.Dungon-Core.name=Данжн ядро
+item.Univ-Core.name=Торус ядро
+
+item.toasted_chip.name=Поджаренный чип
+item.toasted_ram.name=Поджаренная ОЗУ
+item.toasted_core.name=Поджаренное ядро
+
+item.erse.name=Ерс
+
+item.CopperCoil.name=Медная катушка
+item.IronCoil.name=Железная катушка
+item.NeonCoil.name=Неон катушка
+item.GoldCoil.name=Золотая катушка
+
+item.Eisenteile.name=Железные детали
+item.Diamandteile.name=Алмазные детали
+item.Quarzteile.name=Кварцевые детали
+item.Neonteile.name=Неон делтали
+item.Kupferteile.name=Медные детали
+
+item.Iron_Stick.name=Железный стержень
+item.Aluminiumplatten.name=Алюминевые пластины
+item.Verbuntmetall.name=Композитный металл
+item.Silizium.name=Кремниевая вафля
+item.Tank.name=Резервуар
+item.itemErze_zinnbarren.name=Оловянный слиток
+item.itemErze_zinkbarren.name=Цинковый слиток
+item.itemErze_kupferbarren.name=Медный слиток
+item.itemErze_magnet.name=Магнетитовый слиток
+item.itemErze_neon_ingot.name=Неон слиток
+item.itemErze_retium_ingot.name=Ретиум слиток
+item.itemErze_glowtit_ingot.name=Глоутит слиток
+item.itemErze_bioterium_ingot.name=Биотериум слиток
+item.itemErze_ingot_wakurum.name=Вакуриевый слиток
+item.itemErze_ingot_quantanium.name=Квантиевый слиток
+item.itemErze_ingot_seltenerde.name=Редкий грунт
+item.itemErze_ingot_gadolinium.name=Кадолиниевый слиток
+item.itemErze_ingot_lanthanum.name=Лансаниумовый слиток
+item.itemErze_ingot_neodymium.name=Неодимиевый слиток
+item.recipe.name=Рецепт
+item.MaschinBord.name=Машинная плата
+
+item.LackTank0.name=Белый резервуар
+item.LackTank1.name=Оранжевый резервуар
+item.LackTank2.name=Пурпурный резервуар
+item.LackTank3.name=Голубой резервуар
+item.LackTank4.name=Желтый резервуар
+item.LackTank5.name=Лаймовый резервуар
+item.LackTank6.name=Розовый резервуар
+item.LackTank7.name=Серый резервуар
+item.LackTank8.name=Светло-серый резервуар
+item.LackTank9.name=Бирюзовый резервуар
+item.LackTank10.name=Фиолетовый резервуар
+item.LackTank11.name=Синий резервуар
+item.LackTank12.name=Коричневый резервуар
+item.LackTank13.name=Зеленый резервуар
+item.LackTank14.name=Красный резервуар
+item.LackTank15.name=Черный резервуар
+
+item.AirBrush.name=Воздушная кисть
+item.dust.name=Пыль
+item.aiflash0.name=Простой редстоуновый флеш-накопитель
+item.aiflash1.name=Улучшенный редстоуновый флеш-накопитель
+item.aiflash2.name=Флеш-накопитель из светящейся пыли
+item.aiflash3.name=Кристальный флеш-накопитель
+item.aiflash4.name=Изотопный флеш-накопитель
+item.aiflash5.name=Кубитный флеш-накопитель
+item.AI_Flash_Speicher_0.name=Пустая флеш-память
+item.AI_Flash_Speicher_1.name=Пустая флеш-память
+item.AI_Flash_Speicher_2.name=Пустая флеш-память
+item.AI_Flash_Speicher_3.name=Пустая флеш-память
+item.AI_Flash_Speicher_4.name=Пустая флеш-память
+item.AI_Flash_Speicher_5.name=Пустая флеш-память
+
+item.entityegger0.name=Вылупливатель существ
+item.entityegger2.name=Спавнер-сундук
+item.entityegger3.name=Заполненный спавнер-сундук
+item.entityegger4.name=Копательный дрон
+item.creeperWurfel.name=Слизневый куб
+item.sauerstofftank.name=Кислородный баллон
+item.laserBow.name=Лазерный лук
+
+item.helmetMagnetit.name=Магнетитовый шлем
+item.chestplateMagnetit.name=Магнетитовый нагрудник
+item.leggingsMagnetit.name=Магнетитовые поножи
+item.bootsMagnetit.name=Магнетитовые ботинки
+
+item.itemMonitor.name=Монитор
+item.grablingHook.name=Слизневый якорь
+item.plasmaschneider.name=Плазменный резак
+item.hologramcontroler.name=Голографический контроллер
+item.research_blueprint.name=Исследовательский чертеж
+
+item.goldteile.name=Золотые детали
+item.laserdiode.name=Лазерный диод
+item.linse_l.name=Фиолетовая фокусировочная линза
+item.linse_g.name=Зеленая фокусировочная линза
+item.linse_r.name=Красная фокусировочная линза
+item.linse_w.name=Белая фокусировочная линза
+item.fragment_core.name=Фрагмент ядра
+item.fragment_ram.name=Фрагмент ОЗУ
+item.fuel_cell.name=Ракетное топливо
+item.keramik.name=Термозащитная пластина
+item.itemErze_ingot_bitripentium.name=Битрипентиумовый слиток
+
+item.composite_pickaxe.name=Композитная кирка
+item.composite_axe.name=Композитный топор
+item.composite_hoe.name=Композитная мотыга
+item.composite_spade.name=Композитная лопата
+item.gleiter.name=Параглайдер
+item.dust_obsidian.name=Обсидиановая пыль
+
+item.spawnnote.name=Мистический документ
+item.coordinats.name=Координаты
+item.fasern.name=Волокно
+item.hack_schnitzel.name=Щепки
+item.kompost.name=Компост
+item.telescope.name=Телескоп
+item.laser_riffle.name=Лазерное ружье
+item.sword_neon.name=Неон меч
+item.sword_retium.name=Ретиум меч
+item.sword_glowtite.name=Глоутит меч
+item.sword_bioterium.name=Биотериум меч
+item.grenade_launcher.name=Гранатомет
+item.blazegranate.name=Полыхающая граната
+item.granate.name=Граната
+item.plasmagranate.name=Плазменная граната
+item.schleimgranate.name=Слизневая граната
+item.granate_leer.name=Пустая граната
+item.kompostgranate.name=Компостная граната
+item.futtergranate.name=Кормящая граната
+item.saatgranate.name=Семечковая граната
+
+item.record_futurepack.name=Пластинка
+item.record.futurepack.desc=Mantes - Futurepack Soundtrack
+item.record_fp_menelaus.name=Пластинка
+item.record.fp_menelaus.desc=Mantes - Voice of Menelaus
+item.record_fp_tyros.name=Пластинка
+item.record.fp_tyros.desc=Mantes - Voice of Tyros
+item.record_fp_entros.name=Пластинка
+item.record.fp_entros.desc=Mantes - Voice of Entros
+
+item.mendel_berry.name=Мендлберри
+item.mendel_seed.name=Семена мендлберри
+item.mendel_flower.name=Цветок мендлберри
+
+itemGroup.fpTab.deco=Материалы Futurepack
+itemGroup.fpTab.maschiens=Машины Futurepack
+itemGroup.fpTab.items=Предметы Futurepack
+
+container.opticrafting=Опти верстак
+container.collector=Коллектор ионов
+
+entity.fp.FP-Gehuf.name=Гехуф
+entity.fp.FP-Crawler.name=Кроулер.
+
+potion.paralyze=Паразич
+
+gui.fp.wandrope=Гардероб
+
+aspect.geologie.name=Геология
+aspect.chemie.name=Химия
+aspect.tierhaltung.name=Скотоводство
+aspect.logistik.name=Логистика
+aspect.biologie.name=Биология
+aspect.morphologie.name=Морфология
+aspect.metallurgie.name=Металлургия
+aspect.maschinenbau.name=Инжиниринг
+aspect.thermodynamik.name=Термодинамика
+aspect.termodynamic.name=Термодинамика
+aspect.energieverbindung.name=Энергитическая связь
+aspect.neonenergie.name=Неон энергия
+aspect.hydraulic.name=Гидраулика
+
+death.attack.neonDamage=%s был убит Неон энергией
+
+
+chat.beam.noBlockAbove=Нет телепорта выше этого блока
+chat.beam.noBlockBelow=Нет телепорта ниже этого блока
+chat.beam.lowEnergie=Недостаточно Неон энергии
+
+chat.spaceship.open=Ваш космический корабль открыт
+chat.spaceship.missingEngine=Вашему кораблю что-то нужно, чтобы производить Неон энергию
+chat.spaceship.missingThruster=Ваш корабль сотоит из %1$s блок(ов),но имеет только %2$s ускоритель(ей); вам нужно еще %3$s ускоритель(ей)
+chat.spaceship.lowEnergie=Недостаточно Неон энергии
+chat.spaceship.missingBeam=Ваш космический корабль не имеет телепорта
+chat.spaceship.missingFuel=Ускорителям недостаточно энергии. Вы все еще имеете %s ускорителей, которых нужно запитать.
+
+chat.research.add=Ваше исследование(%s) закончено. 
+research.useblock.missing=Вы не знаете, как использовать этот объект!
+
+hologram.error.set.notsupported=Вы не можете установить голограмму для этого блока!
+hologram.error.set.notileentity=Вы не можете установить голограмму для этого блока!
+hologram.error.select.tileentity=Вы не можете использовать этот блок как голограмму!
+
+achievement.installFP=Я как звезды
+achievement.installFP.desc=Установить Futurepack
+achievement.sushi=Я люблю суши
+achievement.sushi.desc=Рыбные блоки?!
+achievement.erse=Ерс для мира!
+achievement.erse.desc=Найдите ерс
+achievement.theImpalpable=Технология Недостижимого
+achievement.theImpalpable.desc=Получите Е-Сканер
+achievement.labor=Исследовательская лаборатория
+achievement.labor.desc=Создайте сканер и иследовательскую машину
+achievement.mainboard=Мой первый компьютер
+achievement.mainboard.desc=Создайте материнскую плату
+achievement.neonEnergie=Электричество
+achievement.neonEnergie.desc=Сгенерируйте Неон энергию
+achievement.isntDiamond=Это не алмаз
+achievement.isntDiamond.desc=Добудьте цинк
+achievement.needBukkit=Мне нужно больше ведер
+achievement.needBukkit.desc=Создайте индустриальную печь
+achievement.composite=Композитный металл
+achievement.composite.desc=Просто немного всего
+achievement.menelaus=Менелай
+achievement.menelaus.desc=Путешествуйте на Менелай
+achievement.metalhaltig=Оно содержит металлы
+achievement.metalhaltig.desc=Получите землю или гравий Менелая
+achievement.tyros=Тайрос
+achievement.tyros.desc=Путешествуйте на Тайрос
+achievement.glowmelo=Глоумело
+achievement.glowmelo.desc=Добудьте глоумело
+achievement.crys_neon=Неон кристалл
+achievement.crys_neon.desc=Найдите Неон кристалл
+achievement.crys_alutin=Алютин кристалл
+achievement.crys_alutin.desc=Найдите Алютин кристалл
+achievement.crys_glowtit=Глоутит кристалл
+achievement.crys_glowtit.desc=Найдите Глоутит кристалл
+achievement.crys_retium=Ретиум кристалл
+achievement.crys_retium.desc=Найдите Ретиум кристалл
+achievement.crys_bioterium=Биотериум кристалл
+achievement.crys_bioterium.desc=Найдите Биотериум кристалл
+
+command.fp.usage=/fp <research> ...
+command.fp.research.usage=/fp research <игрок> <reset:unlock> [...]
+command.fp.research.unlock.usage=/fp research <игрок> unlock <all:basics:Research> [path:single]
+command.fp.research.reset.feedback=Ваши исследования были сброшены!
+command.fp.research.reset.success=Исследования %s были сброшены!
+command.fp.research.unlock.success=Исследования [%s] были разблокированы для %s!
+
+scanner.button.0.name=Техдрево
+scanner.button.1.name=Результат сканирования
+scanner.button.2.name=Техинфо
+scanner.button.3.name=Калькулятор
+gui.scanner.start.name=Сканировать
+
+info.note.read=§2Правый клик для просмотра!
+
+key.categories.futurepack=Futurepack
+key.fp.gleiter=Открыть/закрыть параглайдер
+
+research.need.achievement=Нужно %s
+
+research.page.base.name=Основы
+research.page.story.name=История
+research.page.chips.name=Схемы
+research.page.deco.name=Декор
+research.page.logistic.name=Логистика
+research.page.energy.name=Генерация энергии
+research.page.production.name=Производство
+research.page.space.name=Космические путешествия
+research.page.tools.name=Инструменты
+
+research.get_started=Future Pack
+research.forschung=Система исследований
+research.techtabel=Техстол
+research.util=Прочее
+research.scanner=Сканер
+research.forscher=Исследовательская машина
+research.production=Производство 1
+research.itemlogistik=Предметная логистика
+research.werkzeug=Инструменты
+research.decoration=Декор
+research.energieerzeugung=Генерация энергии 1
+research.energielogistik=Энергитическая логистика
+
+research.upgradeT1=Модуль изучений - Энергия
+research.assembly=Сборка чипов
+research.optik=Оптика
+research.energiespeicher=Хранилище энергии
+research.energieerzeugung2=Генерация энергии 2
+research.production2=Производство 2
+research.magnetismus=Магнетизм
+research.thermodynamik=Термодинамика
+research.ai=Искусственный Интеллект
+
+research.upgradeT2=Модуль Изучений (ИИ)
+research.erneuerbare=Возобновляемая энергия
+research.aispeicher=Улучшенная ИИ-Память
+research.energietools=Энергетические инструменты
+research.lasertechnik=Лазерные технологии 1
+research.bergbau=Добыча
+research.waffentechnik=Оружие
+research.production3=Производство 3
+research.netzwerke=Networks
+research.hologrammtechnik=Голографические технологии
+research.raumfahrt=Космические путешествия
+research.menelaus=Менелай
+research.upgradeT3=Модуль изучений - Опыт
+
+research.quantentechnik=Квантумные технологии
+research.ionentechnik=Ионовые технологии
+research.lasertechnik2=Лазерные технологии 2
+research.astronomie1=Астрономия 1
+
+research.drones=Дроны
+
+
+
+research.itempipe=Нормальная труба
+
+
+
+research.story.tec_dungeon=Шаг в неизвестность
+research.hs.geologie=Геология
+research.hs.chemie=Химия
+research.hs.tierhaltung=Животноводство
+research.hs.logistik=Логистика
+research.hs.biologie=Биология
+research.hs.morphologie=Морфология
+research.hs.metallurgie=Металлургия
+research.hs.maschinenbau=Инжиниринг
+research.hs.thermodynamik=Термодинамика
+research.hs.energieverbindungen=Энергетические связи
+research.hs.neonenergie=Неон энергия
+research.hs.hydraulic=Гидраулика
+research.story.labor=Научное любопытство
+research.story.labor2=Лаборатория
+research.story.erse=Ерс
+research.story.neonenergie=Электричество
+research.story.mainboard=Мой первый комптютер
+research.story.metalhaltig=Оно содержит металлы
+research.story.glowmelo=Глоумело
+research.story.crystal_n=Неон кристалл
+research.story.crystal_a=Алютин кристалл
+research.story.crystal_g=Глоутит кристалл
+research.story.crystal_r=Ретиум кристалл
+research.story.crystal_b=Биотериум кристалл
+research.story.crystal_sa=Битрипентиум
+research.unreachable_tec=Технология недостижимого
+research.unreach.laserbow=Лазерный лук
+
+research.production.blockbreaker=Разрушитель блоков
+research.production.blockplacer=Установщик блоков
+research.production.partpress=Детальный пресс
+research.production.industrieofen=Индустриальная печь
+research.production.ind.compositemetal=Композитный металл
+research.production.ind.aluminium=Алюминий
+research.production.ind.reduktion=Снижение
+research.production.decoration=Декор
+research.production.optibench=Опти верстак
+research.production.supercrusher=Супер измельчитель
+research.production.neonfurnace=Неон печь
+research.production.neonind=Индустриальная неон печь
+research.production.zentrifuge=Центрифуга
+research.production.nind.reduktion=Продвинутое снижение
+research.production.nind.reloaded=Оптимизация
+research.production.nind.magnet=Магниты
+research.production.nind.wakurum=Вакурий
+research.production.nind.quantanium=Квантий
+research.production.nind.keramik=Термозащитная пластина
+research.production.nind.special=Улучшение материалов
+research.production.nind.linse.r=Красная фокусировочная линза
+research.production.nind.linse.l=Фиолетовая фокусировочная линза
+research.production.nind.linse.g=Зеленая фокусировочная линза
+research.production.zent.extraction1=Извлечение камня
+research.production.zent.extraction2=Извлечение руд
+research.production.zent.neon=Процессинг кристаллов
+research.production.zent.bio=Извлечение растений
+research.production.zent.color=Производство цвета
+
+research.energy.generator=Генератор
+research.energy.neonmotor=Неон двигатель
+research.energy.infusion=Инфузийный генератор
+research.energy.solar=Солнечная панель
+research.energy.wasser_turbine=Водяная турбина
+research.energy.ionen=Коллектор ионов
+
+research.log.itempipe=Нормальная труба
+research.log.cable=Кабель
+research.log.neonpipe=Неон труба
+research.log.redstonepipe=Редстоун труба
+research.log.supportpipe=Саппорт труба
+research.log.pusher=Выталкиватель предметов
+research.log.sorter=Сортировщик
+research.log.redstonecable=Редстоун кабель
+research.log.supportcable=Саппорт кабель
+research.log.batbox=Батарея
+research.log.networkcable=Сетевой кабель
+research.log.network=Сети
+research.log.antenne=Антенна
+research.log.laser=Лазерный передатчик
+research.log.flashserver=Флеш сервер
+
+research.log.battery.normal=Батарейка
+research.log.battery.large=Большая батарейка
+research.log.battery.neon=Неон батарейка
+
+research.log.flash.1=Простой редстоуновый флеш-накопитель
+research.log.flash.2=Улучшенный редстоуновый флеш-накопитель
+research.log.flash.3=Глоустоуновый флеш-накопитель
+research.log.flash.4=Кристальный флеш-накопитель
+research.log.flash.5=Изотопный флеш-накопитель
+research.log.flash.6=Кубитный флеш-накопитель
+
+research.assembly_chip=Сборочный стол
+research.motherboard=Материнская плата
+research.tuning=Овердрайв
+
+research.ram.standart=Стандартная память
+research.ram.alon=Алон память
+research.ram.penton=Пентон память
+research.ram.tct=TCT память
+research.ram.mm=Мастер память
+research.ram.non=Non память
+research.ram.dungeon=Данжн ОЗУ
+research.ram.univers=Торус ОЗУ
+
+research.core.standart=Стандартное ядро
+research.core.alon=Алон I ядро
+research.core.penton=Пентон II ядро
+research.core.tct=TCT ядро
+research.core.mm=Мастер Майнд ядро
+research.core.non=NoN ядро
+research.core.dungeon=Данжн ядро
+research.core.univers=Торус ядро
+
+research.chip.logic=Логический чипсет
+research.chip.industrial=Индустриальный чипсет
+research.chip.tactic=Чипсет тактического контроля
+research.chip.transport=Транспортный чипсет
+research.chip.navigation=Навигационный чипсет
+research.chip.damage=Чипсет контроля урона
+research.chip.ai=ИИ чипсет
+research.chip.redstone=Чипсет контроля редстоуна
+research.chip.network=Сетевой чипсет
+research.chip.support=Саппорт чипсет
+research.chip.ultimate=Ультимативный чипсет
+
+research.chips.cooler=Кулер
+research.chips.watercooler=Водяной кулер
+
+research.deco.metall=Металлический блок
+research.deco.metallslab=Металлическая плита
+research.deco.metalltreppe=Металлические ступеньки
+research.deco.metallzaun=Металлический забор
+research.deco.gitter=Сетчатый блок
+research.deco.gitterslab=Сетчатая плита
+research.deco.gittertreppe=Сетчатые ступеньки
+research.deco.gitterpane=Сетка
+research.deco.eisenleiter=Железная лестница
+research.deco.vent=Вентиляция
+research.deco.ventslab=Вентиляционная плита
+research.deco.glass=Лакированное стекло
+research.deco.plasmalamp=Плазменная лампа
+research.deco.neonlamp=Неон лампа
+research.deco.monitor=Монитор
+research.deco.wardrobe=Гардероб
+
+research.space.magnetblock=Магнетитовый блок
+research.space.emagnet=Электромагнит
+research.space.gravity=Гравитационный пульсатор
+research.space.airlock=Шлюз
+research.space.fuel=Ракетное топливо
+research.space.thruster=Ускоритель
+research.space.tank=Топливный бак
+research.space.teleport=Телепорт
+research.space.computer=Бортовой компьютер
+research.space.spaceship=Навигация и управление
+research.space.navcord.menelaus=Координаты Менелая
+research.space.drive.ftl=FTL-привод
+research.space.navcord.tyros=Координаты Тайроса
+research.space.dronestation=Станция дронов
+research.space.claime=Передатчик зоны
+research.space.miner=Копательный дрон
+
+research.tools.scrench=Ключвертка
+research.tools.airbrush=Воздушная кисть
+research.tools.sauerstofftank=Кислородный баллон
+research.tools.logistik_editor=Логистический редактор
+research.tools.composite_pickaxe=Композитная кирка
+research.tools.composite_axe=Композитный топор
+research.tools.composite_hoe=Композитная мотыга
+research.tools.composite_spade=Кмпозитная лопата
+research.tools.gleiter=Параглайдер
+research.tools.egger=Вылупливатель существ
+research.tools.spawnerchest=Спавнер-сундук
+research.tools.plasma=Плазменный резак
+research.tools.escanner=Е-Сканер
+research.tools.laserbow=Лазерный лук
+research.tools.grabling=Слизневый якорь
+research.tools.hologramm=Голографический контроллер
+
+futurepack.zentrifuge.name=Рецепты центрифуги
+futurepack.jei.neededsupport= %s SP
+futurepack.crafting.name=Рецепты изучений
+futurepack.jei.notresearched=Вы это не исследовали!
+futurepack.assembly.name=Рецепты сборщика
+futurepack.furnace.industrial.name=Рецепты индустриальной печи
+futurepack.furnace.industrial.neon.name=Рецепты индустриальной Неон печи
+
+
+
+
+
+
+
+
