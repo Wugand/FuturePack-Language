@@ -1,0 +1,42 @@
+[
+	"No Menelaus, parece que tinha tempesdades fortes há muito tempo. Em o quê sobra de antigos lagos, eu achei depósitos interesantes de minerais.",
+	"Parece que estes depósitos contêm materiais raras em áreas concentradas. Seria muito benefício remover os depósitos e extrair os elementos raros.",
+	"Estes elementos raros podem ser separados por métodos complicados de extração, fornecendo lítio, gadolínio e neodímio. Outros materiais podem ser achados às vezes, contudo estes três são os mais úteis, considerando o custo (ambos recursos e tempo) o processo é.",
+	"Centrífuga:",
+	{
+        "type":"zentrifuge",
+        "slots":
+        {
+            "in":{"name":"fp:dirt", "meta":0, "size":8},
+            "out1":{"name":"minecraft:gravel", "size":4, "meta":0},
+            "out2":{"name":"minecraft:clay_ball", "size":3, "meta":0},
+            "out3":{"OreDict":"ingotRareEarthMetal", "size":4}
+        },
+	    "support":0,
+	    "time":160
+    },
+	{
+        "type":"zentrifuge",
+        "slots":
+        {
+            "in":{"name":"fp:gravel", "meta":0, "size":8},
+            "out1":{"name":"minecraft:gravel", "size":4, "meta":0},
+            "out2":{"name":"minecraft:clay_ball", "size":6, "meta":0},
+            "out3":{"OreDict":"ingotRareEarthMetal", "size":12}
+        },
+	    "support":0,
+	    "time":240
+    },
+	{
+        "type":"zentrifuge",
+        "slots":
+        {
+            "in":{"OreDict":"ingotRareEarthMetal", "size":4},
+            "out1":{"OreDict":"ingotLithium", "size":2},
+            "out2":{"OreDict":"ingotGadolinium", "size":1},
+            "out3":{"OreDict":"ingotNeodymium", "size":1}
+        },
+	    "support":0,
+	    "time":240
+    }
+]
