@@ -1,0 +1,18 @@
+[
+	"Eu consegui criar uma matéria que tem efeitos similares aos objetos minísculos quânticos que eu já tinha visto. É sujeito a mudanças permanentes, mas muda constantemente suas propriedades sozinho.",
+	"A matéria em si na realidade é somente uma casca onde os objetos quânticos ficam presos, me deixando controlá-los. Aqueles objetos são capazes de absorver quantidades extremamente grandes de energia, inclusive dados, que parece ser responsável - ao menos em parte - do comportamento deles.",
+	{
+		"type": "industrialneonfurnace",
+		"slots": {
+			"in1":  {"OreDict":"ingotWakurum", "size":1},
+			"in2":  {"OreDict":"ingotGadolinium", "size":1},
+			"in3":  {"OreDict":"gemLapis", "size":1},
+			"out1": {"OreDict":"ingotQuantanium", "size":1},
+			"out2": {},
+			"out3": {}
+		},
+		"support":0
+	},
+	"Obs: Pesquisa nova é disponível em \"Circuitos\"!"
+		
+]
