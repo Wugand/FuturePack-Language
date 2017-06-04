@@ -1001,7 +1001,7 @@ futurepack.jei.notresearched=You have not researched this yet!
 futurepack.assembly.name=Assembly Recipes
 futurepack.furnace.industrial.name=Industrial Furnace Recipes
 futurepack.furnace.industrial.neon.name=Industrial Neon Recipes
-futurepack.crusher.name=Super Crusher Rezepte
+futurepack.crusher.name=Super Crusher Recipes
 
 tile.blockWithHole.name=Work in progress -- Feature is currently locked!
 
