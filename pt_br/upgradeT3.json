@@ -1,0 +1,24 @@
+[
+	"De acordo das leis de física deste mundo, eu posso extrair uma parte do meu conhecimento com a ajuda de - faltando uma expressão melhor - uma varinha mágica. Eu posso então ligar este conhecimento a itens.",
+	"Talvez eu possa usar este processo estranho para criar coisas mais úteis do que ferramentas brilhantes. Minha tecnologia atual tem tanto potencial para ser melhorada com isto.",
+	"Eu desenvolvei um módulo de pesquisa baseado na Mesa de Encantamentos, que me permite extrair meu conhecimento do mundo na forma de pontos de experiência (XP) e, se necessário, injetar de volta.",
+	"O módulo deve ser ligado diretamente ao Pesquisador ou por meio de uma rede para funcionar. O trabalho em si acontece no Pesquisador como normal.",
+
+	"Criando:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"name":"fp:spaceship", "meta":"<spaceship.GoldParts>"},
+			"2": {"name":"fp:scrench"},
+			"3": {"name":"fp:spaceship", "meta":"<spaceship.GoldParts>"},
+			"4": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>"},
+			"5": [{"name":"fp:color_iron","meta":0},{"name":"fp:color_iron","meta":8},{"name":"fp:color_iron","meta":15}],
+			"6": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>"},
+			"7": {"OreDict":"ingotNeodymium"},
+			"8": {"name":"minecraft:enchanting_table", "meta":0},
+			"9": {"OreDict":"ingotNeodymium"},
+			"out": [{"name":"fp:modul_3","meta":2},{"name":"fp:modul_3","meta":6},{"name":"fp:modul_3","meta":10}]
+		}
+	},	
+	"O módulo armazena até 1 500 XP (cerca de 31 níveis). Se isto não for suficiente, eu posso simplesmente conectar vários módulos a um Pesquisador."
+]
