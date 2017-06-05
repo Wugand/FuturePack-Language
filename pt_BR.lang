@@ -374,6 +374,7 @@ tile.ftl_drive.name=Bloco FTL
 tile.advanced_boardcomputer.name=Avançado Computador Central da Nave
 
 tile.modular_door.name=Portão Modular
+item.composite_door.name=Porta Composta
 tile.composite_door.name=Porta Composta
 tile.sapling_holder.name=Marcador de Rebento
 
@@ -381,14 +382,19 @@ tile.mendel_berry.name=Arbusto Mendelberry
 tile.planks_menelaus_mushroom.name=Pranchas de Menelaus
 tile.planks_tyros.name=Pranchas de Tyros
 
+tile.fluid_tube.name=Tubo para Fluidos
+tile.fluid_pump.name=Bomba
+
+tile.wr_receiver.name=Receptor - Redstone Sem Pó
+tile.wr_transmitter.name=Transmissor - Redstone Sem Pó
+tile.wr_transmitter_i.name=Transmissor Invertido - Redstone Sem Pó
+
 fluid.liquid.neon=Líquido de Néon 
 
+
 item.scrench.name=Scrench
-item.NeonBattery.name=Bateria de Néon Sem Carga
 item.NeonBattery_full.name=Bateria de Néon
-item.NormalBattery.name=Bateria Sem Carga
 item.Battery_N_full.name=Bateria Normal
-item.LargeBattery.name=Bateria Grande Sem Carga
 item.Battery_L_full.name=Bateria Grande
 
 item.Objektscenner.name=Replicador de Construção
@@ -498,17 +504,14 @@ item.aiflash2.name=Pendrive de Brilhatita
 item.aiflash3.name=Pendrive de Cristal
 item.aiflash4.name=Pendrive de Isótopo
 item.aiflash5.name=Pendrive de Qubit
-item.AI_Flash_Speicher_0.name=Memória Flash Vazia
-item.AI_Flash_Speicher_1.name=Memória Flash Vazia
-item.AI_Flash_Speicher_2.name=Memória Flash Vazia
-item.AI_Flash_Speicher_3.name=Memória Flash Vazia
-item.AI_Flash_Speicher_4.name=Memória Flash Vazia
-item.AI_Flash_Speicher_5.name=Memória Flash Vazia
+item.drone_engine.name=Motor de Drone
 
 item.entityegger0.name=Ovo Armadilha
 item.entityegger2.name=Cofre de Spawners
 item.entityegger3.name=Cofre de Spawners Cheio
 item.entityegger4.name=Drone de Mineração de Caixa de Construção
+item.forstmasterbox.name=Caixa de Construção - Forestmaster
+item.monocartbox.name=Caixa de Construção - Monocarrinho
 item.creeperWurfel.name=Cubo de Limo
 item.sauerstofftank.name=Tanque de Oxigênio
 item.laserBow.name=Arco de Laser
@@ -517,6 +520,10 @@ item.helmetMagnetit.name=Elmo de Magnetita
 item.chestplateMagnetit.name=Peitoral de Magnetita
 item.leggingsMagnetit.name=Perneiras de Magnetita
 item.bootsMagnetit.name=Botas de Magnetita
+item.helmet_composite.name=Elmo de Metal Composto
+item.chestplate_composite.name=Peitoral de Metal Composto
+item.leggings_composite.name=Perneiras de Metal Composto
+item.boots_composite.name=Botas de Metal Composto
 
 item.itemMonitor.name=Monitor
 item.grablingHook.name=Limo para Alpinismo
@@ -580,9 +587,6 @@ item.mendel_seed.name=Semente de Mendelberry
 item.mendel_flower.name=Flor de Mendelberry
 
 item.sword_handle.name=Punho de Espada
-item.energie_zelle.name=Célula de Energia Vazia
-item.compact_energie_zelle.name=Célula de Energia Compacta Vazia
-item.kristall_energie_zelle.name=Célula de Energia Cristalina Vazia
 item.EnergyCell_full.name=Célula de Energia
 item.CompactEnergyCell_full.name=Célula de Energia Compacta
 item.CrystalEnergyCell_full.name=Célula de Energia Cristalina
@@ -590,6 +594,8 @@ item.CrystalEnergyCell_full.name=Célula de Energia Cristalina
 item.fibers.name=Fibras Vegetais
 item.chemicals.name=Químicos
 item.polymer.name=Biopolímero
+item.quantanium_coil.name=Bobina de Quántio
+item.modul_battery.name=Módulo de Energia
 
 itemGroup.fpTab.deco=Materiais Future Pack
 itemGroup.fpTab.maschiens=Maquinismo Future Pack
@@ -600,6 +606,10 @@ container.collector=Coletor de Íons
 
 entity.fp.FP-Gehuf.name=Guerrufe
 entity.fp.FP-Crawler.name=Crawler
+entity.FP-EvilRobot.name=Unidade Tecnocrática
+entity.FP-Forstmaster.name=Forestmaster
+entity.miner.name=Mineiro
+entity.monocart.name=Monocarrinho
 
 potion.paralyze=Paralisar
 
@@ -620,7 +630,7 @@ aspect.neonenergie.name=Energia de Néon
 aspect.hydraulic.name=Hidráulica
 
 death.attack.neonDamage=%s foi morto por Energia de Néon
-
+material.metall=Metal Block: Adequado para Naves Espaciais
 
 chat.beam.noBlockAbove=Não existe nenhum teleportador acima deste bloco. 
 chat.beam.noBlockBelow=Não existe nenhum teleportador abaixo deste bloco. 
@@ -943,6 +953,16 @@ research.space.turret.killer=Torreta de Laser
 research.space.turret.heal=Laser de Regeneração
 research.space.turret.absorb=Laser de Absorção
 research.space.modular_door=Porta Modular
+research.space.drone.monocart=Monocarrinho
+research.space.drone.mono.rail=Monotrilho
+research.space.drone.mono.waypoint=Ponto de Monotrilho
+research.space.drone.mono.station=Estação de Monotrilho
+research.space.drone.mono.detector=Detector de Monotrilho
+research.space.drone.mono.booster=Intensificador de Monotrilho
+research.space.drone.mono.charger=Carregador de Monotrilho
+research.space.forstmaster=Forestmaster
+research.space.plantmarker=Marcador de Plantas
+research.space.advanced=Computador Avançado da Nave
 
 research.tools.scrench=Scrench
 research.tools.airbrush=Aerógrafo
