@@ -630,7 +630,7 @@ aspect.neonenergie.name=Neon Energy
 aspect.hydraulic.name=Hydraulics
 
 death.attack.neonDamage=%s was killed by Neon Energy
-material.metall=Metal Block: Suitable for SSpaceships
+material.metall=Metal Block: Suitable for Spaceships
 
 chat.beam.noBlockAbove=There is no teleporter above this block.
 chat.beam.noBlockBelow=There is no teleporter below this block.
