@@ -1,0 +1,26 @@
+
+[
+    "Eu preciso achar um alvo novo para minha nave espacial, então eu vou criar um telescópico novo para examinar o céu do Menelaus para planetas novos.",
+    "Se eu achar algo, eu notarei a informação e entrá-lo no computador da nave.",
+    
+    "Crafting:",
+    {
+        "type": "crafting",
+        "slots": {
+            "1": {},
+            "2": {},
+            "3": {"name":"minecraft:glass_pane", "meta":0},
+            "4": {},
+            "5": {"OreDict":"ingotAluminum"},
+            "6": {},
+            "7": {"OreDict":"ingotCopper"},
+            "8": {},
+            "9": {},
+            "out": {"name":"fp:telescope", "meta":0}
+        }
+    },
+    
+    "Usar com \"Botão Direito\".",
+    "(Isto não é final e pode ser mudado no futuro).",
+    "Você precisa usar no Menelaus!"	
+]
