@@ -1,0 +1,40 @@
+[
+  "De acordo com meus cálculos, eu deveria viajar tempo demais para atingir outro planeta, pois minha velocidade é limitada. Então eu pesquisei para outras possibilidades de mover por espaço. Com o poder de teleportação dos Pérolas do End em mente, eu criei um novo aparelho que manipula as próprias dobras do espaço para criar um atalho para um destino.",
+  "Este processo precisa de muita energia e é somente possível com uma máquina especial que eu nomeei o Drive FTL. É construído com 12 Blocos FTL, uma base 2x3 e 2 blocos de altura. Depois de serem colocados, eu monto o sistema final. (Isto se conecta automaticamente.)",
+  "Eu devo instalar este drive em qualquer nave que uso se eu quiser viajar mais longe do que Menelaus.",
+  
+	"Criando:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"name":"fp:spaceship","meta":"<spaceship.QuantaniumCoil>"},
+			"2": {"name":"fp:chip","meta":"<chip.UltimateChip>"},
+			"3": {"name":"fp:spaceship","meta":"<spaceship.QuantaniumCoil>"},
+			"4": {"name":"fp:spaceship","meta":"<spaceship.CompactEnergieZelle>"},
+			"5": {"name":"fp:core","meta":4},
+			"6": {"name":"fp:spaceship","meta":"<spaceship.CompactEnergieZelle>"},
+			"7": {"name":"fp:spaceship","meta":"<spaceship.CompositeMetall>"},
+			"8": {"name":"fp:chip","meta":"<chip.NavigationChip>"},
+			"9": {"name":"fp:spaceship","meta":"<spaceship.CompositeMetall>"},
+			"out": {"name":"fp:ftl_drive","meta":0,"size":1}
+		}
+	},
+	
+	"Atenção: Não use o Bloco FTL para decoração!!",
+	
+	"Construindo:",
+	{
+	   "type":"building",
+	   "blocks":
+	   [
+	       [  
+                ["fp:ftl_drive","fp:ftl_drive","fp:ftl_drive"], 
+                ["fp:ftl_drive","fp:ftl_drive","fp:ftl_drive"] 
+           ],
+           [
+                ["fp:ftl_drive","fp:ftl_drive","fp:ftl_drive"], 
+                ["fp:ftl_drive","fp:ftl_drive","fp:ftl_drive"]
+           ]
+        ]
+	}
+]
