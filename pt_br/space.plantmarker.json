@@ -1,0 +1,8 @@
+[
+	"Com a ajuda deste marcador, eu posso selecionar uma região onde o Forestmaster plantará árvores.",
+	"Este bloco funciona como terra, onde o broto pode ser plantado. Eu posso usar um broto para escolher o tipo de árvore que vai crescer no marcador.",
+	"O ponto verde indica se o tipo foi escolhido, e eu posso pôr um broto do mesmo tipo com a minha mão depois disso.",
+	"O Forestmaster então plantará o broto correto a todo marcador em alcance, se o tipo for presente na estação de drone.",
+	"Criando:",
+	{"link":"fp:lang/part/cr_space.plantmarker.json"}
+]
