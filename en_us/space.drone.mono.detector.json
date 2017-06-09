@@ -1,6 +1,6 @@
 [
 	"This special redesigned monorail can detect monocarts",
-	"If a Monocart passses this rail, it will send a redstone signal."
+	"If a Monocart passses this rail, it will send a redstone signal.",
 	"Crafting:",
 	{"link":"fp:lang/part/cr_space.drone.mono.detector.json"}
 ]

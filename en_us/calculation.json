@@ -1,0 +1,12 @@
+[
+	"The energy-research needs alot of computing power, wich unfortunetly the researcher not have. That's why the researcher are getting very time consuming.",
+	"So I invented a Calculationmodul, wich will help the researcher to calculate large amouns of data.	Because this modul doesn't need alot of different chipsets, I was able to change the system to incluse more ram-slots. And I have also included a second processor to process the data faster by communication with each other. Thus this system can reach more corepower than the normal machines",
+	"The Calculationmodul have to be directly connected to the researcher or connected via the network (has yet to be researched).",
+	"It is possible to connect any number of modules to a researcher, one module with 100% RAM has 4 times the calculation power of a normal researcher. The power of a module depends only on its ram power.",
+	
+	"Crafting:",
+	{"link":"fp:lang/part/cr_calculation.main.json"},
+	{"link":"fp:lang/part/cr_calculation.json"}	
+]
+	
+	

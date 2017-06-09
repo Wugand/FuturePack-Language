@@ -1,0 +1,10 @@
+[
+	"Die Energie-Forschung benötigt sehr viel Rechenleistung, die der Forscher nicht zur Verfügung stellt. Deshalb benötigen meine Forschungen inzwischen sehr viel Zeit.",
+	"Deshalb habe ich ein Berechnungsmodul entwickelt, das nur dazu dient Berechnungen für den Forscher auszuführen. Da das Modul kaum Chipsätze benötigt, konnte ich das System so änderen das es sehr viele Ram-Plätze hat. Zudem habe ich 2 Pozessoren eingebaut die simultan artbeiten und schell Daten untereinander austauschen können. Somit kann dieses System über sehr viel mehr Corepower verfügen als die Maschienen.",
+	"Das Berechnungsmodul muss direkt an den Forscher angrenzen oder über ein Netzwerk (muss noch erforscht werden) mit ihm Verbunden sein.",
+	"Es können belibig viele solcher Module angeschlossen werden, ein Modul mit 100% RAM entspricht dabei jeweils der viefachen Leistung eines Forschers. Die Leistung eines Moduls ist dabei rein von seiner Ram-Power abhängig.",
+	
+	"Crafting:",
+	{"link":"fp:lang/part/cr_calculation.main.json"},
+	{"link":"fp:lang/part/cr_calculation.json"}
+]

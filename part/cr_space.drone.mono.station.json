@@ -3,7 +3,7 @@
 		"type": "crafting",
 		"slots": {
 			"1": {},
-			"2": {"name":"minecraft:comperator", "meta":0},
+			"2": {"name":"minecraft:comparator", "meta":0},
 			"3": {},
 			"4": {"name":"minecraft:hopper", "meta":0},
 			"5": {"name":"fp:monorail_waypoint", "meta":0},

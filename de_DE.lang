@@ -266,6 +266,15 @@ tile.erzBlocke_zink_block.name=Zinkblock
 tile.erzBlocke_kupfer_block.name=Kupferblock
 tile.erzBlocke_kristall_block.name=Kristallblock
 tile.erzBlocke_metal_block.name=Metallblock
+
+tile.erzBlocke_baluminium_block.name=Aluminiumblock
+tile.erzBlocke_bbioterium_block.name=Bioteriumblock
+tile.erzBlocke_bglowtite_block.name=Glowtitblock
+tile.erzBlocke_bneon_block.name=Neonblock
+tile.erzBlocke_bquantanium_block.name=Quantaniumblock
+tile.erzBlocke_bretium_block.name=Retiumblock
+tile.erzBlocke_bwakurum_block.name=Wakuriumblock
+
 tile.Magnet.name=Magnetitblock
 tile.metalTreppe_yellow.name=Metalltreppe
 tile.metalSlap_metal.name=Metallstufe
@@ -282,6 +291,7 @@ tile.cristall_2.name=Glowtitkristall
 tile.cristall_3.name=Bioteriumkristall
 tile.cristall_4.name=Alutinkristall
 
+tile.recycler.name=Recycler
 tile.optiBench.name=Optibench
 tile.elektroMagnet.name=Elektromagnet
 tile.pulsit.name=Gravity-Pulser
@@ -336,6 +346,7 @@ tile.techtable.name=Technikwerkbank
 tile.modul.1.name=Forschungsmodul - Energie
 tile.modul.2.name=Forschungsmodul - Support
 tile.modul.3.name=Forschungsmodul - Erfahrung
+tile.modul1_calc.name=Berechnungssmodul
 tile.scanner.name=Scanner
 tile.forscher.name=Forscher
 tile.laser_transmitter.name=Lasertransmitter
@@ -388,6 +399,8 @@ tile.fluid_pump.name=Pumpe
 tile.wr_receiver.name=Empfänger - Pulverloses Redstone
 tile.wr_transmitter.name=Sender - Pulverloses Redstone
 tile.wr_transmitter_i.name=Invertierter Sender - Pulverloses Redstone
+
+
 
 fluid.liquid.neon=Neonflüssigkeit
 
@@ -478,6 +491,7 @@ item.itemErze_ingot_lithium.name=Lithium
 item.itemErze_ingot_neodymium.name=Neodym
 item.recipe.name=Rezept
 item.MaschinBord.name=Mainboard
+item.souble_maschinbord.name=Dual Mainboard
 
 item.LackTank0.name=Weißer Farbtank
 item.LackTank1.name=Orangener Farbtank
@@ -585,6 +599,12 @@ item.record.fp_unknown.desc=Martin 1
 item.mendel_berry.name=Mendelbeere
 item.mendel_seed.name=Mendelbeersamen
 item.mendel_flower.name=Mendelbeerblüte
+item.astrofood_empty.name=Leere Nahrungstube
+item.astrofood1.name=Nahrungstube - Fleisch mit Soße
+item.astrofood2.name=Nahrungstube - Curry mit Beeren
+item.astrofood3.name=Nahrungstube - Vegetarisches Fruchtgelee
+item.ersemarmelade.name=Ersemarmelade
+item.ersebrot.name=Brot mit Ersemarmelade
 
 item.sword_handle.name=Schwertgriff
 item.EnergyCell_full.name=Energiezelle
@@ -743,6 +763,7 @@ research.energielogistik=Energielogistik
 
 research.upgradeT1=Forschungsmodul - Energie
 research.assembly=Chipherstellung
+research.calculation=Berechnungssmodul
 research.optik=Optik
 research.energiespeicher=Energiespeicher
 research.energieerzeugung2=Energieerzeugung 2
@@ -1002,6 +1023,12 @@ futurepack.assembly.name=Montagetisch Rezepte
 futurepack.furnace.industrial.name=Industrieofen Rezepte
 futurepack.furnace.industrial.neon.name=Neonindustrieofen Rezepte
 futurepack.crusher.name=Superbrecher Rezepte
+
+jei.recycler.analyser.makesupport=Erzeugt SP
+jei.recycler.lasercutter.needpower=4x mehr NE
+jei.recycler.timemanipulator.needsupport=Braucht %s SP
+jei.recycler.repair=Braucht SP
+futurepack.recycler.name=Recycler Rezpete
 
 tile.blockWithHole.name=Work in progress -- Feature is currently locked!
 

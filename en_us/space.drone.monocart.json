@@ -3,10 +3,10 @@
 	"Crafting:",
 	{"link":"fp:lang/part/cr_space.drone.monocart.json"},
 	"The Monocart can be placed with a Contructionbox on top of a monorail, and can be teared off with a scrench.",
-	"With the button at the top right corner I can switch between route and inventory view. Next to the button is a energy bar."
+	"With the button at the top right corner I can switch between route and inventory view. Next to the button is a energy bar.",
 	"Route view:",
-	"In the upper part all available waypoints get displayed and can be added to the current route with the green (+)-Symbol. It is possible to add the same waypoint multiple times."
-	"The current route is displayed ordered at the lower part. With the red (-)-Symbol I can remove waypoints and with the arrows I can set the order."
+	"In the upper part all available waypoints get displayed and can be added to the current route with the green (+)-Symbol. It is possible to add the same waypoint multiple times.",
+	"The current route is displayed ordered at the lower part. With the red (-)-Symbol I can remove waypoints and with the arrows I can set the order.",
 	"If there are more waypoints than can be displayed at one page, then a yellow scrollbar appears at the right.",
 	"Inventory view:",
 	"To increase range and energy storage I added the upper slots for batterys and energy cells, so the monocart get charged if the internal energy amount is to low.",

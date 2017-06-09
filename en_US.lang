@@ -1,3 +1,10 @@
+jei.recycler.analyser.makesupport=Generate SP
+jei.recycler.lasercutter.needpower=4x more NE
+jei.recycler.timemanipulator.needsupport=Need %s SP
+jei.recycler.repair=Use SP
+futurepack.recycler.name=Recycler
+
+
 tile.colorIron_white.name=White Colored Metal
 tile.colorIron_orange.name=Orange Colored Metal
 tile.colorIron_magenta.name=Magenta Colored Metal
@@ -266,6 +273,15 @@ tile.erzBlocke_zink_block.name=Zinc Block
 tile.erzBlocke_kupfer_block.name=Copper Block
 tile.erzBlocke_kristall_block.name=Neon Crystal Block
 tile.erzBlocke_metal_block.name=Metal Block
+
+tile.erzBlocke_baluminium_block.name=Aluminum Block
+tile.erzBlocke_bbioterium_block.name=Bioterium Block
+tile.erzBlocke_bglowtite_block.name=Glowtite Block
+tile.erzBlocke_bneon_block.name=Neon Block
+tile.erzBlocke_bquantanium_block.name=Quantanium Block
+tile.erzBlocke_bretium_block.name=Retium Block
+tile.erzBlocke_bwakurum_block.name=Wakurium Block
+
 tile.Magnet.name=Magnetite Block
 tile.metalTreppe_yellow.name=Metal Stair
 tile.metalSlap_metal.name=Metal slab
@@ -282,6 +298,7 @@ tile.cristall_2.name=Glowtite crystal
 tile.cristall_3.name=Bioterium crystal
 tile.cristall_4.name=Alutine crystal
 
+tile.recycler.name=Recycler
 tile.optiBench.name=Opti bench
 tile.elektroMagnet.name=Electro magnet
 tile.pulsit.name=Gravity pulser
@@ -336,6 +353,7 @@ tile.techtable.name=Techtable
 tile.modul.1.name=Research Module - Energy
 tile.modul.2.name=Research Module - Support
 tile.modul.3.name=Research Module - Experience
+tile.modul1_calc.name=Calculation Module
 tile.scanner.name=Scanner
 tile.forscher.name=Researcher
 tile.laser_transmitter.name=Laser Transmitter
@@ -384,12 +402,27 @@ tile.planks_tyros.name=Tyros Planks
 
 tile.fluid_tube.name=Fluid Tube
 tile.fluid_pump.name=Pump
+tile.fluid_tank.name=Fluid Tank
+tile.fluid.saltwater.name=Salt Water
+tile.fluid.liquid.neon.name=Liquid Neon
+
 
 tile.wr_receiver.name=Receiver - Powderless Redstone
 tile.wr_transmitter.name=Transmitter - Powderless Redstone
 tile.wr_transmitter_i.name=Inverted Transmitter - Powderless Redstone
+tile.dungeon_spawner.name=A.D.S.P.T
+tile.dungeon_spawner.tooltip=Automatic Defense System for Protecting the Technocrats
+tile.quantanium.name=Quantanium
+tile.huge_mycel.name=Huge Mycel
+tile.menelaus_mushroom_hyticus.name=Hyticus
+tile.menelaus_mushroom_blasenpilz.name=Bubbleshroom
+tile.menelaus_mushroom_blauling.name=Blueshroom
+tile.menelaus_mushroom_rotkappe.name=Redheat
+
 
 fluid.liquid.neon=Neon Liquid
+fluid.saltwater=Salt Water
+fluid.liquid.bitripentium=Bitripentium
 
 
 item.scrench.name=Scrench
@@ -478,6 +511,7 @@ item.itemErze_ingot_lithium.name=Lithium Ingot
 item.itemErze_ingot_neodymium.name=Neodymium Ingot
 item.recipe.name=Recipe
 item.MaschinBord.name=Machine Board
+item.double_maschinboard.name=Dual Machine Board
 
 item.LackTank0.name=White Colored Tank
 item.LackTank1.name=Orange Colored Tank
@@ -512,6 +546,8 @@ item.spawnerchest_full.name=Filled Spawner Chest
 item.minerbox.name=Construction Box - Miner
 item.forstmasterbox.name=Construction Box - Forstmaster
 item.monocartbox.name=Construction Box - Monocart
+item.pearlegger.name=Aktivated Pearlegger
+item.pearlegger_empty.name=Empty Pearlegger
 item.creeperWurfel.name=Slime Cube
 item.sauerstofftank.name=Oxygen Tank
 item.laserBow.name=Laser Bow
@@ -585,6 +621,12 @@ item.record.fp_unknown.desc=Martin 1
 item.mendel_berry.name=Mendelberry
 item.mendel_seed.name=Mendelberry Seed
 item.mendel_flower.name=Mendelberry Flower
+item.astrofood_empty.name=Empty Foodtube
+item.astrofood1.name=Foodtube - Meat with sauce
+item.astrofood2.name=Foodtube - Curry with berries
+item.astrofood3.name=Foodtube - Vegetarian fruit jelly
+item.ersemarmelade.name=Erse jam
+item.ersebrot.name=Bread with erse jam
 
 item.sword_handle.name=Sword Handle
 item.EnergyCell_full.name=Energy Cell
@@ -596,6 +638,12 @@ item.chemicals.name=Chemicals
 item.polymer.name=Biopolymer
 item.quantanium_coil.name=Quantanium Coil
 item.modul_battery.name=Energy Module
+item.modul_shield.name=Shield Generator
+
+item.shredder.name=Shredder
+item.lasercutter.name=Lasercutter
+item.analyzer.name=Analyzer
+item.timemanipulator.name=Time Manipulator
 
 itemGroup.fpTab.deco=Future Pack Materials
 itemGroup.fpTab.maschiens=Future Pack Machinery
@@ -743,6 +791,7 @@ research.energielogistik=Energy Logistics
 
 research.upgradeT1=Research Module - Energy
 research.assembly=Chip Assembly
+research.calculation=Calculation Module
 research.optik=Optics
 research.energiespeicher=Energy Storage
 research.energieerzeugung2=Energy Generation 2
