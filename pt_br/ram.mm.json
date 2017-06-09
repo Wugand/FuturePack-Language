@@ -1,0 +1,15 @@
+[
+	"Eu consegui trocar o sílico na construção de memória, e depois de várias tentativas, eu criei uma unidade de memória que consiste de quántio elemental, ligando ela diretamente com o processador.",
+	"As unidades individuais podem também assumir valores dinâmicas, significando que eles têm estados concretos, cada um com uma probabilidade específica.",
+	"Dados podem ser acessados por formas convencionais, a brilhatita especialmente adequada para isto.",
+	"Montagem:",
+	{
+		"type": "assembly",
+		"slots": {
+			"in1": {"OreDict":"ingotQuantanium", "size":1},
+			"in2": {"name":"fp:spaceship", "meta":"<spaceship.NeonParts>", "size":1},
+			"in3": {"OreDict":"ingotGlowtite"},
+			"out": {"name":"fp:ram", "meta":4, "size":1}
+		}
+	}
+]

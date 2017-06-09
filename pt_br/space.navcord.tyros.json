@@ -1,6 +1,7 @@
+
 [
-    "I need a new target for my spaceship, so I will create a new telescope to scan the sky from Menelaus for new planets.",
-    "If I find something, then I will note down the data and put it into the board computer.",
+    "Eu preciso achar um alvo novo para minha nave espacial, então eu vou criar um telescópico novo para examinar o céu do Menelaus para planetas novos.",
+    "Se eu achar algo, eu notarei a informação e entrá-lo no computador da nave.",
     
     "Crafting:",
     {
@@ -19,7 +20,7 @@
         }
     },
     
-    "Use with \"Right Click\".",
-    "(This is not final and may be changed in the future).",
-    "You need to use it on Menelaus!"	
+    "Usar com \"Botão Direito\".",
+    "(Isto não é final e pode ser mudado no futuro).",
+    "Você precisa usar no Menelaus!"	
 ]

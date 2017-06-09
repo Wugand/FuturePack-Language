@@ -1,9 +1,9 @@
 [
-  "According to my calculations, I would need to fly a very long time to reach another planet, because my flight speeds are limited. So I searched for other possibilities to move through space. With the teleportation power of ender pearls in mind, I created a new drive, which manipulates the folds of space itself to create a shortcut to a destination.",
-  "This process needs a lot of power and is only possible with a special machine I named the FTL-Drive. It is built with 12 FTL-Blocks, a 2x3 foundation and 2 blocks tall. After all 12 components are placed, I can assemble the final drive. (This connects automatically.)",
-  "I have to install this drive in any spaceship I use if I wish to ever fly further than Menelaus.",
+  "De acordo com meus cálculos, eu deveria viajar tempo demais para atingir outro planeta, pois minha velocidade é limitada. Então eu pesquisei para outras possibilidades de mover por espaço. Com o poder de teleportação dos Pérolas do End em mente, eu criei um novo aparelho que manipula as próprias dobras do espaço para criar um atalho para um destino.",
+  "Este processo precisa de muita energia e é somente possível com uma máquina especial que eu nomeei o Drive FTL. É construído com 12 Blocos FTL, uma base 2x3 e 2 blocos de altura. Depois de serem colocados, eu monto o sistema final. (Isto se conecta automaticamente.)",
+  "Eu devo instalar este drive em qualquer nave que uso se eu quiser viajar mais longe do que Menelaus.",
   
-	"Crafting:",
+	"Criando:",
 	{
 		"type": "crafting",
 		"slots": {
@@ -20,9 +20,9 @@
 		}
 	},
 	
-	"Warning: Don't use the FTL-BLock for decoration!",
+	"Atenção: Não use o Bloco FTL para decoração!!",
 	
-	"Building:",
+	"Construindo:",
 	{
 	   "type":"building",
 	   "blocks":

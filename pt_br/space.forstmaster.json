@@ -1,0 +1,7 @@
+[
+	"Eu desenvolvei um drone especial para serrar árvores. Ele serra qualquer árvore já conhecido, mas também aqueles cogumelos gigantes, e colhe frutas, o tronco e os brotos, levando tudo à estação do drone.",
+	"O Forestmaster pode ser posto (com §lshift + botão direito§r) a uma estação de drone. Ele processa todo alvo perto com um alcance de 11 blocos. Para desmontar o drone, eu preciso usar o scrench com §lsneak  + botão direito§r.",
+	"Criando:",
+	{"link":"fp:lang/part/cr_space.forstmaster.json"},
+	"Eu devo considerar adicionando uma função de replantação..."	
+]
