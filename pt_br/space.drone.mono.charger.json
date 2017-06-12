@@ -1,0 +1,7 @@
+[
+	"Este especial trilho redesenhado pode recarregar o armazenamento internal de energia de um monocarrinho automaticamente.",
+	"Se um monocarrinho passar, este trilho vai o parar até que fica completamente carregado.",
+	"Craindo:",
+	{"link":"fp:lang/part/cr_space.drone.mono.charger.json"},
+	"Este monotrilho usa energia de néon como normal."
+]
