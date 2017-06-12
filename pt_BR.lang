@@ -1,3 +1,10 @@
+jei.recycler.analyser.makesupport=Gerar SP
+jei.recycler.lasercutter.needpower=4x mais NE
+jei.recycler.timemanipulator.needsupport=Precisa de %s SP
+jei.recycler.repair=Use SP
+futurepack.recycler.name=Reciclador
+
+
 tile.colorIron_white.name=Metal Colorido Branco
 tile.colorIron_orange.name=Metal Colorido Laranja
 tile.colorIron_magenta.name=Metal Colorido Magenta
@@ -266,6 +273,15 @@ tile.erzBlocke_zink_block.name=Bloco de Zinco
 tile.erzBlocke_kupfer_block.name=Bloco de Cobre
 tile.erzBlocke_kristall_block.name=Bloco de Cristal de Néon
 tile.erzBlocke_metal_block.name=Bloco de Metal
+
+tile.erzBlocke_baluminium_block.name=Bloco de Alumínio
+tile.erzBlocke_bbioterium_block.name=Bloco de Biotério
+tile.erzBlocke_bglowtite_block.name=Bloco de Brilhatita
+tile.erzBlocke_bneon_block.name=Bloco de Néon
+tile.erzBlocke_bquantanium_block.name=Bloco de Quántio
+tile.erzBlocke_bretium_block.name=Bloco de Rétio
+tile.erzBlocke_bwakurum_block.name=Bloco de Wakúrio
+
 tile.Magnet.name=Bloco de Magnetita
 tile.metalTreppe_yellow.name=Escada Metal
 tile.metalSlap_metal.name=Degrau Metal
@@ -282,6 +298,7 @@ tile.cristall_2.name=Cristal de Brilhatita
 tile.cristall_3.name=Cristal de Biotério
 tile.cristall_4.name=Cristal de Alutina
 
+tile.recycler.name=Reciclador
 tile.optiBench.name=Opti-Bancada
 tile.elektroMagnet.name=Eletroímã
 tile.pulsit.name=Pulsador de Gravidade
@@ -336,6 +353,7 @@ tile.techtable.name=Tech-Bancada
 tile.modul.1.name=Módulo de Pesquisa - Energia
 tile.modul.2.name=Módulo de Pesquisa - Apoio
 tile.modul.3.name=Módulo de Pesquisae - Experiência
+tile.modul1_calc.name=Módulo de Calculação
 tile.scanner.name=Scanner
 tile.forscher.name=Pesquisador
 tile.laser_transmitter.name=Transmissor Laser
@@ -384,12 +402,27 @@ tile.planks_tyros.name=Pranchas de Tyros
 
 tile.fluid_tube.name=Tubo para Fluidos
 tile.fluid_pump.name=Bomba
+tile.fluid_tank.name=Tanque
+tile.fluid.saltwater.name=Água Salgada
+tile.fluid.liquid.neon.name=Néon Líquido
+
 
 tile.wr_receiver.name=Receptor - Redstone Sem Pó
 tile.wr_transmitter.name=Transmissor - Redstone Sem Pó
 tile.wr_transmitter_i.name=Transmissor Invertido - Redstone Sem Pó
+tile.dungeon_spawner.name=S.A.D.P.T.
+tile.dungeon_spawner.tooltip=Sistema Automático de Defesa para Proteger os Tecnocratas
+tile.quantanium.name=Quántio
+tile.huge_mycel.name=Micélio Gigantesco
+tile.menelaus_mushroom_hyticus.name=Hítico
+tile.menelaus_mushroom_blasenpilz.name=Cogubolha
+tile.menelaus_mushroom_blauling.name=Cogumazul
+tile.menelaus_mushroom_rotkappe.name=Coguquente
+
 
 fluid.liquid.neon=Líquido de Néon 
+fluid.saltwater=Água Salgada
+fluid.liquid.bitripentium=Bitripéntio
 
 
 item.scrench.name=Scrench
@@ -478,6 +511,7 @@ item.itemErze_ingot_lanthanum.name=Lingote de Lantânio
 item.itemErze_ingot_neodymium.name=Lingote de Neodímio
 item.recipe.name=Receita
 item.MaschinBord.name=Placa de Máquina
+item.double_maschinboard.name=Dupla Placa de Máquina
 
 item.LackTank0.name=Tanque de Tinta Branca
 item.LackTank1.name=Tanque de Tinta Laranja
@@ -512,6 +546,8 @@ item.entityegger3.name=Cofre de Spawners Cheio
 item.entityegger4.name=Drone de Mineração de Caixa de Construção
 item.forstmasterbox.name=Caixa de Construção - Forestmaster
 item.monocartbox.name=Caixa de Construção - Monocarrinho
+item.pearlegger.name=Peraperna Ativada
+item.pearlegger_empty.name=Peraperna Vazia
 item.creeperWurfel.name=Cubo de Limo
 item.sauerstofftank.name=Tanque de Oxigênio
 item.laserBow.name=Arco de Laser
@@ -585,6 +621,12 @@ item.record.fp_unknown.desc=Martin 1
 item.mendel_berry.name=Mendelberry
 item.mendel_seed.name=Semente de Mendelberry
 item.mendel_flower.name=Flor de Mendelberry
+item.astrofood_empty.name=Marmita Vazia
+item.astrofood1.name=Marmita - Carne com molho
+item.astrofood2.name=Marmita - Curry e frutas silvestres
+item.astrofood3.name=Marmita - Geléia de frutas vermelhas (vegetariano)
+item.ersemarmelade.name=Geléia de Erço
+item.ersebrot.name=Pão com geléia de erço
 
 item.sword_handle.name=Punho de Espada
 item.EnergyCell_full.name=Célula de Energia
@@ -596,6 +638,12 @@ item.chemicals.name=Químicos
 item.polymer.name=Biopolímero
 item.quantanium_coil.name=Bobina de Quántio
 item.modul_battery.name=Módulo de Energia
+item.modul_shield.name=Gerador de Proteção
+
+item.shredder.name=Triturador
+item.lasercutter.name=Cortador de laser
+item.analyzer.name=Analisador
+item.timemanipulator.name=Manipulador de Tempo
 
 itemGroup.fpTab.deco=Materiais Future Pack
 itemGroup.fpTab.maschiens=Maquinismo Future Pack
@@ -711,7 +759,7 @@ scanner.button.2.name=Informação Tecnológica
 scanner.button.3.name=Calculador
 gui.scanner.start.name=Scan
 
-info.note.read=§2Botão direito para visualizar!
+info.note.read=Botão direito para visualizar!
 
 key.categories.futurepack=Futurepack
 key.fp.gleiter=Parapente abrir/fechar
@@ -744,6 +792,7 @@ research.energielogistik=Logística de Energia
 research.upgradeT1=Módulo de Pesquisa - Energia
 research.assembly=Montagem de Chips
 research.optik=A Óptica
+research.calculation=Módulo de Calculação
 research.energiespeicher=Armazenagem de Energia
 research.energieerzeugung2=Geração de Energia 2
 research.production2=Produção 2
