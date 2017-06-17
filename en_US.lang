@@ -1,10 +1,3 @@
-jei.recycler.analyser.makesupport=Generate SP
-jei.recycler.lasercutter.needpower=4x more NE
-jei.recycler.timemanipulator.needsupport=Need %s SP
-jei.recycler.repair=Use SP
-futurepack.recycler.name=Recycler
-
-
 tile.colorIron_white.name=White Colored Metal
 tile.colorIron_orange.name=Orange Colored Metal
 tile.colorIron_magenta.name=Magenta Colored Metal
@@ -406,7 +399,6 @@ tile.fluid_tank.name=Fluid Tank
 tile.fluid.saltwater.name=Salt Water
 tile.fluid.liquid.neon.name=Liquid Neon
 
-
 tile.wr_receiver.name=Receiver - Powderless Redstone
 tile.wr_transmitter.name=Transmitter - Powderless Redstone
 tile.wr_transmitter_i.name=Inverted Transmitter - Powderless Redstone
@@ -422,8 +414,7 @@ tile.menelaus_mushroom_rotkappe.name=Redheat
 
 fluid.liquid.neon=Neon Liquid
 fluid.saltwater=Salt Water
-fluid.liquid.bitripentium=Bitripentium
-
+fluid.liquid.bitripentium=Bitripentium-Fuel
 
 item.scrench.name=Scrench
 item.NeonBattery_full.name=Neon Battery
@@ -546,8 +537,6 @@ item.spawnerchest_full.name=Filled Spawner Chest
 item.minerbox.name=Construction Box - Miner
 item.forstmasterbox.name=Construction Box - Forestmaster
 item.monocartbox.name=Construction Box - Monocart
-item.pearlegger.name=Aktivated Pearlegger
-item.pearlegger_empty.name=Empty Pearlegger
 item.creeperWurfel.name=Slime Cube
 item.sauerstofftank.name=Oxygen Tank
 item.laserBow.name=Laser Bow
@@ -607,6 +596,14 @@ item.kompostgranate.name=Compost Grenade
 item.futtergranate.name=Feeding Grenade
 item.saatgranate.name=Seed Grenade
 
+item.shredder.name=Shredder
+item.lasercutter.name=Lasercutter
+item.analyzer.name=Analyzer
+item.timemanipulator.name=Time Manipulator
+
+item.pearlegger.name=Aktivated Pearlegger
+item.pearlegger_empty.name=Empty Pearlegger
+
 item.record_futurepack.name=Music Disc
 item.record.futurepack.desc=Mantes - Futurepack Soundtrack
 item.record_fp_menelaus.name=Music Disc
@@ -639,11 +636,6 @@ item.polymer.name=Biopolymer
 item.quantanium_coil.name=Quantanium Coil
 item.modul_battery.name=Energy Module
 item.modul_shield.name=Shield Generator
-
-item.shredder.name=Shredder
-item.lasercutter.name=Lasercutter
-item.analyzer.name=Analyzer
-item.timemanipulator.name=Time Manipulator
 
 itemGroup.fpTab.deco=Future Pack Materials
 itemGroup.fpTab.maschiens=Future Pack Machinery
@@ -799,6 +791,7 @@ research.production2=Production 2
 research.magnetismus=Magnetism
 research.thermodynamik=Thermodynamics
 research.ai=Artificial Intelligence
+research.recycling=Recycling
 
 research.upgradeT2=Research Module (AI)
 research.erneuerbare=Renewable Energy
@@ -887,7 +880,11 @@ research.production.zent.bio=Plant Extraction
 research.production.zent.color=Color Production
 research.production.nind.polymer=Biopolymer
 research.production.zent.rare=Rare Earth Metal
-
+research.production.recycler=Recycler
+research.production.recycler.shredder=Shredder
+research.production.recycler.lasercutter=Lasercutter
+research.production.recycler.analyzer=Analyzer
+research.production.recycler.timemanipulator=Timemanipulator
 
 research.energy.generator=Generator
 research.energy.neonmotor=Neon Engine
@@ -1051,6 +1048,12 @@ futurepack.assembly.name=Assembly Recipes
 futurepack.furnace.industrial.name=Industrial Furnace Recipes
 futurepack.furnace.industrial.neon.name=Industrial Neon Recipes
 futurepack.crusher.name=Super Crusher Recipes
+
+jei.recycler.analyser.makesupport=Generate SP
+jei.recycler.lasercutter.needpower=4x more NE
+jei.recycler.timemanipulator.needsupport=Need %s SP
+jei.recycler.repair=Use SP
+futurepack.recycler.name=Recycler
 
 tile.blockWithHole.name=Work in progress -- Feature is currently locked!
 

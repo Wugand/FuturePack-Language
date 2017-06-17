@@ -395,15 +395,26 @@ tile.planks_tyros.name=Tyrosholzbretter
 
 tile.fluid_tube.name=Rohrleitung
 tile.fluid_pump.name=Pumpe
+tile.fluid_tank.name=Flüssigkeitstank
+tile.fluid.saltwater.name=Salzwasser
+tile.fluid.liquid.neon.name=Flüssiges Neon
 
 tile.wr_receiver.name=Empfänger - Pulverloses Redstone
 tile.wr_transmitter.name=Sender - Pulverloses Redstone
 tile.wr_transmitter_i.name=Invertierter Sender - Pulverloses Redstone
-
+tile.dungeon_spawner.name=A.D.S.P.T
+tile.dungeon_spawner.tooltip=Automatic Defense System for Protecting the Technocrats
+tile.quantanium.name=Quantanium
+tile.huge_mycel.name=Großes Myzel
+tile.menelaus_mushroom_hyticus.name=Hyticus
+tile.menelaus_mushroom_blasenpilz.name=Blasenpilz™
+tile.menelaus_mushroom_blauling.name=Blauling
+tile.menelaus_mushroom_rotkappe.name=Rotkappe
 
 
 fluid.liquid.neon=Neonflüssigkeit
-
+fluid.saltwater=Salzwasser
+fluid.liquid.bitripentium=Bitripentium-Treibstoff
 
 item.scrench.name=Schraubendrehschlüssel
 item.NeonBattery_full.name=Neonbatterie
@@ -491,7 +502,7 @@ item.itemErze_ingot_lithium.name=Lithium
 item.itemErze_ingot_neodymium.name=Neodym
 item.recipe.name=Rezept
 item.MaschinBord.name=Mainboard
-item.souble_maschinbord.name=Dual Mainboard
+item.double_maschinboard.name=Dual Mainboard
 
 item.LackTank0.name=Weißer Farbtank
 item.LackTank1.name=Orangener Farbtank
@@ -585,6 +596,14 @@ item.kompostgranate.name=Kompostgranate
 item.futtergranate.name=Fütterungsgranate
 item.saatgranate.name=Saatgutgranate
 
+item.shredder.name=Zerkleinerer
+item.lasercutter.name=Laserschneider
+item.analyzer.name=Analysator
+item.timemanipulator.name=Zeitmanipulator
+
+item.pearlegger.name=Aktiver Pearlegger
+item.pearlegger_empty.name=Leerer Pearlegger
+
 item.record_futurepack.name=Schallplatte
 item.record.futurepack.desc=Mantes - Futurepack Soundtrack
 item.record_fp_menelaus.name=Schallplatte
@@ -616,6 +635,7 @@ item.chemicals.name=Chemikalien
 item.polymer.name=Biopolymer
 item.quantanium_coil.name=Quantaniumspule
 item.modul_battery.name=Batteriemodul
+item.modul_shield.name=Schildgenerator
 
 itemGroup.fpTab.deco=Future Pack-Materialien
 itemGroup.fpTab.maschiens=Future Pack-Maschinen
@@ -771,6 +791,7 @@ research.production2=Produktion 2
 research.magnetismus=Magnetismus
 research.thermodynamik=Thermodynamik
 research.ai=Künstliche Intelligenz
+research.recycling=Recycling
 
 research.upgradeT2=Forschungsmodul - KI
 research.erneuerbare=Erneuerbare Energien
@@ -859,7 +880,11 @@ research.production.zent.bio=Pflanzenextraction
 research.production.zent.color=Farbherstellung
 research.production.nind.polymer=Polymer
 research.production.zent.rare=Seltene Erden
-
+research.production.recycler=Recycler
+research.production.recycler.shredder=Zerkleinerer
+research.production.recycler.lasercutter=Laserschneider
+research.production.recycler.analyzer=Analysator
+research.production.recycler.timemanipulator=Zeitmanipulator
 
 research.energy.generator=Generator
 research.energy.neonmotor=Neonmotor
