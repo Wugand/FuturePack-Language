@@ -1,0 +1,7 @@
+[
+	"Este especial trilho redesenhado pode acelerar monocarrinhos.",
+	"Se um monocarrinho passar por um monotrilho intensificador com um sinal de redstone ativo, a velocidade aumentará para \"rápido\". Senão, sem sinal, mudará para \"devagar\".",
+	"Criando:",
+	{"link":"fp:lang/part/cr_space.drone.mono.booster.json"},
+	"Combinado com um monotrilho detector, automatizando um sistema de aceleração ou deceleração seria muito fácil."
+]

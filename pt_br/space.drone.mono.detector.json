@@ -1,0 +1,6 @@
+[
+	"Este especial monotrilho redesenhado pode detectar monocarrinhos.",
+	"Se um monocarrinho passar pelo este monotrilho, o mesmo enviará um sinal de redstone."
+	"Criando:",
+	{"link":"fp:lang/part/cr_space.drone.mono.detector.json"}
+]

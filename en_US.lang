@@ -537,6 +537,8 @@ item.spawnerchest_full.name=Filled Spawner Chest
 item.minerbox.name=Construction Box - Miner
 item.forstmasterbox.name=Construction Box - Forestmaster
 item.monocartbox.name=Construction Box - Monocart
+item.pearlegger.name=Activated Pearlegger
+item.pearlegger_empty.name=Empty Pearlegger
 item.creeperWurfel.name=Slime Cube
 item.sauerstofftank.name=Oxygen Tank
 item.laserBow.name=Laser Bow
@@ -601,8 +603,6 @@ item.lasercutter.name=Lasercutter
 item.analyzer.name=Analyzer
 item.timemanipulator.name=Time Manipulator
 
-item.pearlegger.name=Aktivated Pearlegger
-item.pearlegger_empty.name=Empty Pearlegger
 
 item.record_futurepack.name=Music Disc
 item.record.futurepack.desc=Mantes - Futurepack Soundtrack

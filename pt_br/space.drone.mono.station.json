@@ -1,0 +1,9 @@
+[
+	"Este especial trilho redesenhado pode carregar bens em um monocarrinho esperante e também funciona como ponto de monotrilho.",
+	"Na tela da estação, pode usar o símbolo de lápis para (re)nomear o ponto. Para a entrada e a saída, pode ser filtrado até 5 itens diferentes. A seta verda é a entrada e a seta vermelha é a saída.",
+	"Além disso, pode modificar a quantidade para cada lugar/item (clique esquerdo: +1; clique direito: -1; shift+clique esquerdo: +10; shift+clique direito: -10). Um número acima de 64 representaria tudo/infinidade.",
+	"A conta de carregamento configurada representa a quantidade total de itens daquele tipo colocados dentro do monocarrinho, pois a conta de descarregamento configurada representa a quantidade total de itens tirados do monocarrinho.",
+	"Criando:",
+	{"link":"fp:lang/part/cr_space.drone.mono.station.json"},
+	"A estação não tem seu próprio inventário; portanto a estação interage diretamente com inventários ao redor."
+]
