@@ -6,7 +6,7 @@ list()
 	echo "Parent Dir $1 , Sub Dir $2"
 	
 	echo "| File | Time diff | Commit |"
-	echo "| ... | ... | ... |"
+	echo "| --- | --- | --- |"
 	
 	git ls-tree -r --name-only HEAD $2 | while read filename; do
 	export fname="$(basename $filename)"
