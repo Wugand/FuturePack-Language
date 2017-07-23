@@ -671,11 +671,11 @@ research.production.supercrusher=超级破碎机
 research.production.neonfurnace=氖炉
 
 research.energy.generator=发电机
-research.energy.neonmotor=((TODO)) #Neonmotor
-research.energy.infusion=((TODO)) #Infusionsgenerator
-research.energy.solar=((TODO)) #Solarzelle
-research.energy.wasser_turbine=((TODO)) #Wasserturbine
-research.energy.ionen=((TODO)) #Ionenkollektor
+research.energy.neonmotor=((TODO)) #氖灯引擎
+research.energy.infusion=((TODO)) #浸剂发电机
+research.energy.solar=((TODO)) #太阳能电池
+research.energy.wasser_turbine=((TODO)) #水力涡轮机
+research.energy.ionen=((TODO)) #离子收集器
 
 research.log.itempipe=普通管道
 research.log.cable=电缆
@@ -738,8 +738,8 @@ research.chip.network=网络芯片组
 research.chip.support=支撑芯片组
 research.chip.ultimate=终极芯片组
 
-research.chips.cooler=((TODO)) #Kühler
-research.chips.watercooler=((TODO)) #Wasserkühler
+research.chips.cooler=((TODO)) #冷却器
+research.chips.watercooler=((TODO)) #水冷冷却器
 
 research.deco.metall=金属块
 research.deco.metallslab=金属台阶
