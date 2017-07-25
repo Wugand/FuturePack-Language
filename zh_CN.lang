@@ -498,7 +498,7 @@ item.composite_axe.name=复合斧
 item.composite_hoe.name=复合锄
 item.composite_spade.name=复合铲
 
-item.spawnnote.name=((TODO)) #神秘文件
+item.spawnnote.name=神秘文件
 
 itemGroup.fpTab.deco=飞向未来的材料
 itemGroup.fpTab.maschiens=飞向未来的机器
@@ -539,19 +539,19 @@ chat.spaceship.missingFuel=推进器的燃料不够.你还需要%s个动力推�
 chat.research.add=你的研究完成了(%s). 
 research.useblock.missing=你不知道如何使用这个物品！
 
-hologram.error.set.notsupported=((TODO)) 你无法为此方块设置一张全息图！
-hologram.error.set.notileentity=((TODO)) 你无法为此方块设置一张全息图！
-hologram.error.select.tileentity=((TODO)) 你不能使用这个方块的全息图！
+hologram.error.set.notsupported=你无法为此方块设置一张全息图！
+hologram.error.set.notileentity=你无法为此方块设置一张全息图！
+hologram.error.select.tileentity=你不能使用这个方块的全息图！
 
 achievement.installFP=我喜欢星星
 achievement.installFP.desc=安装飞向未来
 achievement.sushi=我喜欢寿司
 achievement.sushi.desc=鱼块?!
-achievement.erse=((TODO)) #草莓的世界！
-achievement.erse.desc=((TODO)) #找到一个草莓
+achievement.erse=草莓的世界！
+achievement.erse.desc=找到一个草莓
 achievement.theImpalpable=不可及之技术
-achievement.theImpalpable.desc=((TODO)) #得到一个物品扫描仪
-achievement.labor=((TODO)) #研究实验室
+achievement.theImpalpable.desc=得到一个物品扫描仪
+achievement.labor=研究实验室
 achievement.labor.desc=((TODO)) #合成一个扫描仪和研究员
 achievement.mainboard=((TODO)) #我的第一台电脑
 achievement.mainboard.desc=((TODO)) #合成一个主板
@@ -563,14 +563,14 @@ achievement.needBukkit=我需要更多的桶
 achievement.needBukkit.desc=制造一个工业炉
 achievement.composite=合金
 achievement.composite.desc=浅尝万物
-achievement.menelaus=((TODO)) #墨涅拉俄斯
-achievement.menelaus.desc=((TODO)) #去墨涅拉俄斯旅行
-achievement.metalhaltig=((TODO)) #金属基底
-achievement.metalhaltig.desc=((TODO)) #获得墨涅拉俄斯的砾石或泥土
-achievement.tyros=((TODO)) #泰尔
-achievement.tyros.desc=((TODO)) #去泰尔旅行
-achievement.glowmelo=((TODO)) #辉光瓜
-achievement.glowmelo.desc=((TODO)) #收获辉光瓜
+achievement.menelaus=墨涅拉俄斯
+achievement.menelaus.desc=去墨涅拉俄斯旅行
+achievement.metalhaltig=金属基底
+achievement.metalhaltig.desc=获得墨涅拉俄斯的砾石或泥土
+achievement.tyros=泰尔
+achievement.tyros.desc=去泰尔旅行
+achievement.glowmelo=辉光瓜
+achievement.glowmelo.desc=收获辉光瓜
 
 scanner.button.0.name=科技树
 scanner.button.1.name=扫描结果
@@ -578,7 +578,7 @@ scanner.button.2.name=技术信息
 scanner.button.3.name=计算器
 gui.scanner.start.name=扫描
 
-info.note.read=((TODO)) #§2右键点击查看！
+info.note.read=§2右键点击查看！
 
 research.need.achievement=需要 %s
 
@@ -671,11 +671,11 @@ research.production.supercrusher=超级破碎机
 research.production.neonfurnace=氖炉
 
 research.energy.generator=发电机
-research.energy.neonmotor=((TODO)) #氖灯引擎
-research.energy.infusion=((TODO)) #浸剂发电机
-research.energy.solar=((TODO)) #太阳能电池
-research.energy.wasser_turbine=((TODO)) #水力涡轮机
-research.energy.ionen=((TODO)) #离子收集器
+research.energy.neonmotor=氖灯引擎
+research.energy.infusion=浸剂发电机
+research.energy.solar=太阳能电池
+research.energy.wasser_turbine=水力涡轮机
+research.energy.ionen=离子收集器
 
 research.log.itempipe=普通管道
 research.log.cable=电缆
@@ -738,8 +738,8 @@ research.chip.network=网络芯片组
 research.chip.support=支撑芯片组
 research.chip.ultimate=终极芯片组
 
-research.chips.cooler=((TODO)) #冷却器
-research.chips.watercooler=((TODO)) #水冷冷却器
+research.chips.cooler=冷却器
+research.chips.watercooler=水冷冷却器
 
 research.deco.metall=金属块
 research.deco.metallslab=金属台阶
