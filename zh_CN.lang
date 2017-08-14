@@ -292,15 +292,18 @@ tile.cristall_3.name=有机晶体
 tile.cristall_4.name=魔铝晶体
 
 tile.recycler.name=回收机
+
 tile.optiBench.name=自动合成台
 tile.elektroMagnet.name=电磁铁
 tile.pulsit.name=重力发生器
 tile.monorail.name=单轨铁路
 tile.monorail_station.name=单轨站
+
 tile.monorail_waypoint.name=路径单轨
 tile.monorail_booster.name=动力单轨
 tile.monorail_charger.name=充电单轨
 tile.monorail_detector.name=检测单轨
+
 tile.pucher.name=推进器
 tile.blockFish.name=冻鱼块
 tile.industrieFurnace.name=工业炉
@@ -327,7 +330,9 @@ tile.erzBlocke_kristall_block_retium.name=红石晶体块
 tile.erzBlocke_kristall_block_glowtit.name=萤石晶体块
 tile.erzBlocke_kristall_block_bioterium.name=有机晶体块
 tile.erzBlocke_kristall_block_alutin.name=魔铝晶体块
+
 tile.erzBlocke_metal_block_luftschacht.name=通风方块
+
 tile.uncolorPane.name=栅格
 tile.uncolorGitter.name=栅格块
 tile.claime.name=发射请求器
@@ -347,7 +352,9 @@ tile.modul.1.name=研究模块 - 能源
 tile.modul.2.name=研究模块 - SP
 tile.modul.3.name=研究模块 - 经验
 tile.scanner.name=扫描仪
+
 tile.modul1_calc.name=计算模块
+
 tile.forscher.name=研究台
 tile.laser_transmitter.name=激光发射器
 tile.industrial_neon_furnace.name=工业氖炉
@@ -385,8 +392,10 @@ tile.ftl_drive.name=FTL方块
 tile.advanced_boardcomputer.name=高级机载电脑
 
 tile.modular_door.name=模块化门
+
 tile.composite_door.name=复合金属门
 item.composite_door.name=复合金属门
+
 tile.sapling_holder.name=种植标记
 
 tile.mendel_berry.name=孟德尔浆果丛
@@ -394,6 +403,7 @@ tile.planks_menelaus_mushroom.name=门勒兰木板
 tile.planks_tyros.name=泰瑞木板
 
 tile.fluid_tube.name=流体管道
+
 tile.fluid_pump.name=液泵
 tile.fluid_tank.name=流体储罐
 tile.fluid.saltwater.name=盐水
@@ -422,6 +432,7 @@ item.Battery_N_full.name=中号电池
 item.Battery_L_full.name=大号电池
 
 item.Objektscenner.name=建筑机
+
 item.Kristall_Blueprint.name=蓝图
 item.Kristall_Blueprint_empty.name=空蓝图
 
@@ -460,7 +471,9 @@ item.P2-Core.name=Penton II处理器
 item.TCT-Core.name=TCT处理器
 item.Master-Core.name=超级处理器
 item.Non-Core.name=Non处理器
+
 item.Dungon-Core.name=地牢处理器
+
 item.Univ-Core.name=宇宙处理器
 
 item.toasted_chip.name=烧焦的芯片
@@ -475,6 +488,8 @@ item.IronCoil.name=铁线圈
 item.NeonCoil.name=氖线圈
 item.GoldCoil.name=金线圈
 
+item.quantanium_coil.name=量子线圈
+
 item.Eisenteile.name=铁制零件
 item.Diamandteile.name=钻石零件
 item.Quarzteile.name=石英零件
@@ -482,7 +497,9 @@ item.Neonteile.name=氖零件
 item.Kupferteile.name=铜制零件
 
 item.Iron_Stick.name=铁棒
+
 item.Aluminiumplatten.name=铝板
+
 item.Verbuntmetall.name=复合金属
 item.Silizium.name=硅片
 item.Tank.name=储罐
@@ -500,9 +517,11 @@ item.itemErze_ingot_seltenerde.name=稀土
 item.itemErze_ingot_gadolinium.name=钆锭
 item.itemErze_ingot_lithium.name=锂锭
 item.itemErze_ingot_neodymium.name=钕锭
+
 item.recipe.name=配方
 item.MaschinBord.name=主板
 item.double_maschinboard.name=双核主板
+
 
 item.LackTank0.name=白色染料罐
 item.LackTank1.name=橙色染料罐
@@ -529,6 +548,7 @@ item.aiflash2.name=萤石闪存
 item.aiflash3.name=水晶闪存
 item.aiflash4.name=同位素闪存
 item.aiflash5.name=量子闪存
+
 item.drone_engine.name=无人机引擎
 
 item.entityegger.name=实体捕捉蛋
@@ -537,6 +557,7 @@ item.spawnerchest_full.name=生物箱子（满）
 item.minerbox.name=采掘无人机
 item.forstmasterbox.name=伐木无人机
 item.monocartbox.name=单轨矿车
+
 item.creeperWurfel.name=粘液块
 item.sauerstofftank.name=供氧器
 item.laserBow.name=激光弓
@@ -545,6 +566,7 @@ item.helmetMagnetit.name=磁铁头盔
 item.chestplateMagnetit.name=磁铁胸甲
 item.leggingsMagnetit.name=磁铁护腿
 item.bootsMagnetit.name=磁铁靴子
+
 item.helmet_composite.name=复合头盔
 item.chestplate_composite.name=复合胸甲
 item.leggings_composite.name=复合护腿
@@ -552,6 +574,7 @@ item.boots_composite.name=复合靴子
 
 item.itemMonitor.name=监视器
 item.grablingHook.name=史莱姆抓钩
+
 item.plasmaschneider.name=等离子切割枪
 item.hologramcontroler.name=全息控制器
 item.research_blueprint.name=研究蓝图
@@ -566,6 +589,7 @@ item.fragment_core.name=处理器碎片
 item.fragment_ram.name=内存碎片
 item.fuel_cell.name=火箭燃料
 item.keramik.name=隔热板
+
 item.itemErze_ingot_bitripentium.name=比特锭
 
 item.composite_pickaxe.name=复合镐
@@ -618,6 +642,7 @@ item.record.fp_unknown.desc=Martin 1
 item.mendel_berry.name=孟德尔浆果
 item.mendel_seed.name=孟德尔浆果种子
 item.mendel_flower.name=孟德尔浆果花
+
 item.astrofood_empty.name=罐头（空）
 item.astrofood1.name=罐头（酱汁肉片）
 item.astrofood2.name=罐头（浆果咖喱）
@@ -630,12 +655,15 @@ item.EnergyCell_full.name=能量单元
 item.CompactEnergyCell_full.name=压缩能量单元
 item.CrystalEnergyCell_full.name=晶体能量单元
 
+
 item.fibers.name=植物纤维
 item.chemicals.name=化学制品
 item.polymer.name=有机聚合物
+
 item.quantanium_coil.name=量子线圈
 item.modul_battery.name=能源模块
 item.modul_shield.name=屏障发生器
+
 
 itemGroup.fpTab.deco=Future Pack材料
 itemGroup.fpTab.maschiens=Future Pack机器
@@ -646,6 +674,7 @@ container.Ion_collector=离子收集器
 
 entity.fp.FP-Gehuf.name=泽夫兽
 entity.fp.FP-Crawler.name=外星蜘蛛
+
 entity.FP-EvilRobot.name=科技部队
 entity.FP-Forstmaster.name=伐木无人机
 entity.miner.name=采掘无人机
@@ -732,8 +761,10 @@ achievement.crys_bioterium.desc=找到有机晶体
 command.fp.usage=/fp <research> ...
 command.fp.research.usage=/fp research <玩家> <reset:unlock> [...]
 command.fp.research.unlock.usage=/fp research <玩家> unlock <all:basics:Research> [path:single]
+
 command.fp.research.reset.feedback=你的研究已重置!
 command.fp.research.reset.success= %s 的研究已重置!
+
 command.fp.research.unlock.success=%s 解锁了 [%s]!
 command.fp.research.copy.success=%s的研究已拷贝给 %s!
 
@@ -782,6 +813,7 @@ research.energieerzeugung=产能 1
 research.energielogistik=能量物流
 
 research.upgradeT1=研究模块 - 能量
+
 research.assembly=芯片组
 research.calculation=计算模块
 research.optik=光学
@@ -793,14 +825,17 @@ research.thermodynamik=热力学
 research.ai=人工智能
 research.recycling=回收
 
+
 research.upgradeT2=研究模块 (AI)
 research.erneuerbare=再生能源
 research.aispeicher=已升级AI内存
 research.energietools=能源工具
+
 research.lasertechnik=激光技术1
 research.bergbau=采掘
 research.waffentechnik=武器
 research.production3=生产3
+
 research.netzwerke=网络
 research.hologrammtechnik=全息技术
 research.raumfahrt=太空旅行
@@ -815,11 +850,7 @@ research.astronomie1=天文学1
 
 research.drones=无人机技术
 
-
-
 research.itempipe=普通管道
-
-
 
 research.story.tec_dungeon=踏入未知
 research.hs.geologie=地质学
@@ -880,11 +911,13 @@ research.production.zent.bio=植物提取
 research.production.zent.color=颜色制作
 research.production.nind.polymer=有机聚合物
 research.production.zent.rare=稀土金属
+
 research.production.recycler=回收机
 research.production.recycler.shredder=碎纸机
 research.production.recycler.lasercutter=激光切割器
 research.production.recycler.analyzer=分析仪
 research.production.recycler.timemanipulator=时间机械臂
+
 
 research.energy.generator=发电机
 research.energy.neonmotor=氖引擎
@@ -991,13 +1024,16 @@ research.space.computer=机载电脑
 research.space.spaceship=导航和控制
 research.space.navcord.menelaus=门勒兰星球坐标
 research.space.drive.ftl=FTL-驱动
+
 research.space.navcord.tyros=泰瑞星球坐标
 research.space.dronestation=无人机站
 research.space.claime=区域声明
+
 research.space.miner=采矿无人机
 research.space.turret.killer=激光炮塔
 research.space.turret.heal=再生激光
 research.space.turret.absorb=吸收激光
+
 research.space.modular_door=模块化门
 research.space.drone.monocart=单轨矿车
 research.space.drone.mono.rail=单轨
@@ -1009,6 +1045,7 @@ research.space.drone.mono.charger=充电单轨
 research.space.forstmaster=伐木大师
 research.space.plantmarker=种植标记
 research.space.advanced=高级机载电脑
+
 
 research.tools.scrench=扳手
 research.tools.airbrush=喷枪
@@ -1044,6 +1081,7 @@ futurepack.zentrifuge.name=离心配方
 futurepack.jei.neededsupport= %s SP
 futurepack.crafting.name=研究合成
 futurepack.jei.notresearched=你还没有研究过这个!
+
 futurepack.assembly.name=装配
 futurepack.furnace.industrial.name=工业炉
 futurepack.furnace.industrial.neon.name=工业氖炉
@@ -1056,7 +1094,11 @@ jei.recycler.repair=使用 SP
 futurepack.recycler.name=回收机
 
 tile.blockWithHole.name=更多内容正在制作中 - 部分功能尚未开放!
+
 tile.ion_collector.name=离子收集器
 achievement.laserbow=镭射弓
 achievement.laserbow.desc=制作一把镭射弓
 entity.fp.FP-EvilRobot.name=FP-邪恶机器人
+
+entity.fp.miner.name=采掘无人机
+entity.fp.FP-Forstmaster.name=伐木无人机
