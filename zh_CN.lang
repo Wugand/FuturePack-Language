@@ -243,7 +243,7 @@ tile.colorPlasmaLamp_red.name=红色等离子灯
 tile.colorPlasmaLamp_black.name=黑色等离子灯
 
 tile.microbox.name=微电脑
-tile.protonenCollektor.name=离子收集器
+tile.ionCollector.name=离子收集器
 tile.wire_0.name=电缆
 tile.wire_1.name=红石电缆
 tile.wire_2.name=网络电缆
@@ -426,7 +426,7 @@ fluid.liquid.neon=液化氖
 fluid.saltwater=盐水
 fluid.liquid.bitripentium=比特原子燃料
 
-tem.scrench.name=扳手
+item.scrench.name=扳手
 item.NeonBattery_full.name=氖电池
 item.Battery_N_full.name=中号电池
 item.Battery_L_full.name=大号电池
@@ -672,10 +672,9 @@ itemGroup.fpTab.items=Future Pack物品
 container.opticrafting=自动合成台
 container.Ion_collector=离子收集器
 
-entity.fp.FP-Gehuf.name=泽夫兽
-entity.fp.FP-Crawler.name=外星蜘蛛
+entity.FP-Gehuf.name=泽夫兽
+entity.FP-Crawler.name=外星蜘蛛
 
-entity.FP-EvilRobot.name=科技部队
 entity.FP-Forstmaster.name=伐木无人机
 entity.miner.name=采掘无人机
 entity.monocart.name=单轨矿车
@@ -1098,7 +1097,7 @@ tile.blockWithHole.name=更多内容正在制作中 - 部分功能尚未开放!
 tile.ion_collector.name=离子收集器
 achievement.laserbow=镭射弓
 achievement.laserbow.desc=制作一把镭射弓
-entity.fp.FP-EvilRobot.name=FP-邪恶机器人
+entity.FP-EvilRobot.name=FP-邪恶机器人
 
-entity.fp.miner.name=采掘无人机
-entity.fp.FP-Forstmaster.name=伐木无人机
+entity.miner.name=采掘无人机
+entity.FP-Forstmaster.name=伐木无人机
