@@ -20,5 +20,6 @@
 			"out": [{"name":"fp:modul_3","meta":2},{"name":"fp:modul_3","meta":6},{"name":"fp:modul_3","meta":10}]
 		}
 	},	
-	"The module stores up to 1500 XP (about 31 levels). If this proves insufficient, I can simply connect several modules to a Researcher."
+	"The module stores up to 1500 XP (about 31 levels). If this proves insufficient, I can simply connect several modules to a Researcher.",
+	"However, I should also connect more calculation modules to the researcher. Currently, 8-16 modules are expected to be adequate."
 ]

@@ -1,0 +1,24 @@
+[
+	"Ich habe ein Werkzeug für den Recycler entwickelt, das ich in den mittleren Slot einlegen kann.",
+	"Es besteht aus Kameras und einem Laser, mit dem das Werkstück präzise zerteilt wird. Dieses Verfahren ist vielseitig, erhöht aber den Energieverbrauch um das vierfache.",
+	
+	"Crafting:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"name":"fp:chip", "meta":0},
+			"2": {"OreDict":"ingotAluminum"},
+			"3": {"name":"fp:chip", "meta":0},
+			"4": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>"},
+			"5": {"name":"fp:spaceship", "meta":"<spaceship.Laserdiode>"},
+			"6": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>"},
+			"7": {"name":"minecraft:glass_pane", "meta":0},
+			"8": {"name":"fp:spaceship", "meta":"<spaceship.LinseR>"},
+			"9": {"name":"minecraft:glass_pane", "meta":0},
+			"out": [{"name":"fp:lasercutter","meta":0}]
+		}
+	},
+	
+	"Dieses Werkzeug verfügt über sehr viele Rezepte, unter anderem: \n -Alle Produkte des Montagetisches \n -Pferderüstungen \n -Produkte von der Seite \"Dekoration\" (falls möglich unlackiert) \n - Eisengitter, Loren, Eimer \n -Weiteres"
+	
+]

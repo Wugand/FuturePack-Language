@@ -1,0 +1,24 @@
+[
+	"I developed a tool for the recycler to put into the middle slot.",
+	"It consists of two spiked cylinders which rip the workpiece into shreds. This process is versatile, but sports a somewhat low yield.",
+	
+	"Crafting:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {},
+			"2": {"OreDict":"ingotIron"},
+			"3": {},
+			"4": {"OreDict":"ingotIron"},
+			"5": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
+			"6": {"OreDict":"ingotIron"},
+			"7": {},
+			"8": {"OreDict":"ingotIron"},
+			"9": {},
+			"out": [{"name":"fp:shredder","meta":0}]
+		}
+	},
+	
+	"This tool features many recipes, among others: \n -all products of the Assembly Table \n -Stones \n -Plants, wood, foliage \n -Glass und wool \n -Bones"
+	
+]

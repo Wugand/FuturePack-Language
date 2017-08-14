@@ -1,0 +1,24 @@
+[
+	"Ich habe ein Werkzeug für den Recycler entwickelt, das ich in den mittleren Slot einlegen kann.",
+	"Es besteht aus zwei gezackten Walzen die das Werkstück in kleine Teile reißen. Dieses Verfahren ist vielseitig, hat aber eine ziemlich geringe Ausbeute.",
+	
+	"Crafting:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {},
+			"2": {"OreDict":"ingotIron"},
+			"3": {},
+			"4": {"OreDict":"ingotIron"},
+			"5": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
+			"6": {"OreDict":"ingotIron"},
+			"7": {},
+			"8": {"OreDict":"ingotIron"},
+			"9": {},
+			"out": [{"name":"fp:shredder","meta":0}]
+		}
+	},
+	
+	"Dieses Werkzeug verfügt über sehr viele Rezepte, unter anderem: \n -Alle Produkte des Montagetisches \n -Gesteine \n -Pflanzen, Holz, Laub \n -Glas und Wolle \n -Knochen"
+	
+]

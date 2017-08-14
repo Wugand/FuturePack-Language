@@ -6,7 +6,9 @@
 	
 	"Crafting:",
 	{"link":"fp:lang/part/cr_calculation.main.json"},
-	{"link":"fp:lang/part/cr_calculation.json"}	
+	{"link":"fp:lang/part/cr_calculation.json"},
+	
+	"Currently, I should be able to attach 1-2 Modules to the researcher."
 ]
 	
 	

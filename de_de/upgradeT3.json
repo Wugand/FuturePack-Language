@@ -20,5 +20,7 @@
 			"out": [{"name":"fp:modul_3","meta":2},{"name":"fp:modul_3","meta":6},{"name":"fp:modul_3","meta":10}]
 		}
 	},	
-	"Das Modul speichert bis zu 1500 XP (etwa Level 31), falls dies einmal nicht genügen sollte, kann ich mehrere dieser Module mit dem Forscher verbinden."
+	"Das Modul speichert bis zu 1500 XP (etwa Level 31), falls dies einmal nicht genügen sollte, kann ich mehrere dieser Module mit dem Forscher verbinden.",
+	"Allerdings sollte ich auch mehr Berechnungsmodule an den Forscher anbinden. Aktuell sind vermutlich 8-16 Module angemessen."
+	
 ]

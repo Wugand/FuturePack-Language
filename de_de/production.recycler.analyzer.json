@@ -1,0 +1,24 @@
+[
+	"Ich habe ein Werkzeug für den Recycler entwickelt, das ich in den mittleren Slot einlegen kann.",
+	"Es ist ein Scanner, der das Werkstück schichtweise abträgt und analysiert. Es produziert dabei Support-Punkte",
+	
+	"Crafting:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"OreDict":"ingotAluminum"},
+			"2": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>"},
+			"3": {"name":"fp:spaceship", "meta":"<spaceship.NeonParts>"},
+			"4": {"name":"fp:spaceship", "meta":"<spaceship.NeonCoil>"},
+			"5": {"name":"fp:chip", "meta":0},
+			"6": {},
+			"7": {"OreDict":"ingotAluminum"},
+			"8": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>"},
+			"9": {"name":"fp:spaceship", "meta":"<spaceship.NeonParts>"},
+			"out": [{"name":"fp:analyzer","meta":0}]
+		}
+	},
+	
+	"Dieses Werkzeug kann alle Produkte des Montagetisches analysieren. Bei Prozessoren, Chips und Speichern ist dabei die Menge der Supportpunkte von der Leistung des Bauteils abhängig."
+	
+]

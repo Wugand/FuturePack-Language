@@ -1,0 +1,25 @@
+[
+	"Bei meiner Arbeit fällt jede Menge Müll an, es wäre praktisch diesen wiederzuverwerten. Aktuell plane ich die Gegenstände zu zerkleinern. Allerdings will ich mir alle Optionen offen halten, deswegen habe ich ein Gehäuse mit Förderbändern erschaffen.",
+	"Es kann mir ein beliebiges Werkzeug mit Energie versorgen und dieses in Betrieb nehmen. Die Maschine kann dabei ein geeignetes Werkstück in bis zu 9 Teile zerlegen, die Arbeitsgeschwindigkeit hängt dabei von der Leistung des eingebauten Computers ab.",
+	
+	"Crafting:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"name":"fp:pipe", "meta":2},
+			"2": {"name":"minecraft:light_weighted_pressure_plate", "meta":0},
+			"3": {"name":"fp:pipe", "meta":2},
+			"4": {"name":"fp:spaceship", "meta":"<spaceship.IronCoil>"},
+			"5": [{"name":"fp:color_iron","meta":0},{"name":"fp:color_iron","meta":8},{"name":"fp:color_iron","meta":15}],
+			"6": {"name":"fp:spaceship", "meta":"<spaceship.IronCoil>"},
+			"7": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"8": {"name":"fp:spaceship", "meta":"<spaceship.Maschinboard>"},
+			"9": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"out": [{"name":"fp:recycler","meta":2},{"name":"fp:recycler","meta":6},{"name":"fp:recycler","meta":10}]
+		}
+	},
+	
+	"Unterstützte Chipsätze:",
+	"Logikchipsatz\nTransportchipsatz\nRedstonesteuerungschipsatz\nUnterstützungschipsatz\nSchadenskontrollchipsatz"
+	
+]

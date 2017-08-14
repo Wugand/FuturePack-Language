@@ -1,0 +1,25 @@
+[
+	"My work produces huge amounts of waste, would be handy to recycle it. Right now I'm planning to grind the items. I want to leave any options open though, so I created a case with conveyor belts.",
+	"It can supply any tool with energy and activate it. In this process the machine can decompose a suitable workpiece into up to 9 parts, the speed of which depends on the power of the embedded computer system.",
+	
+	"Crafting:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"name":"fp:pipe", "meta":2},
+			"2": {"name":"minecraft:light_weighted_pressure_plate", "meta":0},
+			"3": {"name":"fp:pipe", "meta":2},
+			"4": {"name":"fp:spaceship", "meta":"<spaceship.IronCoil>"},
+			"5": [{"name":"fp:color_iron","meta":0},{"name":"fp:color_iron","meta":8},{"name":"fp:color_iron","meta":15}],
+			"6": {"name":"fp:spaceship", "meta":"<spaceship.IronCoil>"},
+			"7": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"8": {"name":"fp:spaceship", "meta":"<spaceship.Maschinboard>"},
+			"9": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"out": [{"name":"fp:recycler","meta":2},{"name":"fp:recycler","meta":6},{"name":"fp:recycler","meta":10}]
+		}
+	},
+	
+	"Supported Chipsets:",
+	"Logic Chipset\nTransport Chipset\nRedstone Control Chipset\nSupport Chipset\nDamage Control Chipset"
+	
+]
