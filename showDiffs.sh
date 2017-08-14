@@ -9,31 +9,30 @@ list()
 	echo "| --- | --- | --- |"
 	
 	git ls-tree -r --name-only HEAD $2 | while read filename; do
-	export fname="$(basename $filename)"
-	export sub="$(git log -1 --format="%at" -- $filename)"
-	export base="$(git log -1 --format="%at" -- $1/$fname)"
-	if (( $base > $sub )); then
-		export timediff="$(expr $base - $sub)"
-		export timediff="$(expr $timediff / 1000)"
-		if (( $timediff > 120 )); then
-			export timediff="$(expr $timediff / 60)"
+		export fname="$(basename $filename)"
+		export sub="$(git log -1 --format="%at" -- $filename)"
+		export base="$(git log -1 --format="%at" -- $1/$fname)"
+		if (( $base > $sub )); then
+			export timediff="$(expr $base - $sub)"
 			if (( $timediff > 120 )); then
 				export timediff="$(expr $timediff / 60)"
-				if (( $timediff > 48 )); then
-					export timediff="$(expr $timediff / 24) days"
+				if (( $timediff > 120 )); then
+					export timediff="$(expr $timediff / 60)"
+					if (( $timediff > 48 )); then
+						export timediff="$(expr $timediff / 24) days"
+					else
+						export timediff="$timediff h"
+					fi
 				else
-					export timediff="$timediff h"
-				fi
+					export timediff="$timediff min"
+				fi	  
 			else
-				export timediff="$timediff min"
-			fi	  
-		else
-			export timediff="$timediff s"
+				export timediff="$timediff s"
+			fi
+		
+			export name="$(git log -1 --format="%an:%s" -- $1/$fname)"
+			echo "| $filename | $timediff | $name |"
 		fi
-	
-	export name="$(git log -1 --format="%an:%s" -- $1/$fname)"
-		echo "| $filename | $timediff | $name |"
-	fi
 	done
 	echo ""
 	echo ""
