@@ -884,7 +884,7 @@ research.production.recycler=Recycler
 research.production.recycler.shredder=Shredder
 research.production.recycler.lasercutter=Lasercutter
 research.production.recycler.analyzer=Analyzer
-research.production.recycler.timemanipulator=Time Manipulator
+research.production.recycler.timemanipulator=Timemanipulator
 
 research.energy.generator=Generator
 research.energy.neonmotor=Neon Engine
