@@ -2,19 +2,7 @@
 	"Eu desenvolvei uma eletroímã, um bloco que é muito mais forte do que um bloco magnético normal, mas precisa de energia de néon. A diferência maior é que eu posso ligar e desligar com sinais de redstone.",
 	"Criando:",
 	{
-		"type": "crafting",
-		"slots": {
-			"1": {"name":"fp:spaceship","meta":"<spaceship.CopperCoil>"},
-			"2": {"name":"fp:magnet","meta":0},
-			"3": {"name":"fp:spaceship","meta":"<spaceship.CopperCoil>"},
-			"4": {"name":"fp:spaceship","meta":"<spaceship.CompositeMetall>"},
-			"5": {"name":"fp:color_iron","meta":15},
-			"6": {"name":"fp:spaceship","meta":"<spaceship.CompositeMetall>"},
-			"7": "OreDict:ingotNeon",
-			"8": {"name":"fp:spaceship","meta":"<spaceship.Maschinboard>"},
-			"9": "OreDict:ingotNeon",
-			"out": {"name":"fp:elektro_magnet","meta":0}
-		}
+		"link":"fp:lang/part/cr_space.emagnet.json"
 	},
 	"Este bloco magnético é controlado por um computador para evitar superaquecimento e para ajustar finamente o campo magnético e a intensidade. Deve-se notar que o valor do RAM determina a frequencia variável do campo. Finas calculações aumentam a força do campo, criando atrações mais fortes do que normalmente existente na natureza.",
 	"Chipsets Compatíveis:\nChipset Industrial",

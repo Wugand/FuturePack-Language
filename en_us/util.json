@@ -40,7 +40,7 @@
 			"1": "OreDict:ingotIron",
 			"2": {},
 			"3": "OreDict:ingotIron",
-			"4": ["OreDict:ingotCopper", "OreDict:ingotIron", "OreDict:ingotNeon", "OreDict:ingotGold"],
+			"4": [{"name":"fp:itemerze", "meta":2}, "OreDict:ingotIron", "OreDict:ingotNeon", "OreDict:ingotGold"],
 			"5": {"name":"fp:spaceship", "meta":"<spaceship.IronParts>"},
 			"6": ["OreDict:ingotCopper", "OreDict:ingotIron", "OreDict:ingotNeon", "OreDict:ingotGold"],
 			"7": "OreDict:ingotIron",
