@@ -5,20 +5,24 @@
 	
 	"Crafting:",
 	{
-		"type": "crafting",
-		"slots": {
-			"1": {"name":"fp:spaceship","meta":"<spaceship.QuantaniumCoil>"},
-			"2": {"name":"fp:chip","meta":"<chip.UltimateChip>"},
-			"3": {"name":"fp:spaceship","meta":"<spaceship.QuantaniumCoil>"},
-			"4": {"name":"fp:spaceship","meta":"<spaceship.CompactEnergieZelle>"},
-			"5": {"name":"fp:core","meta":4},
-			"6": {"name":"fp:spaceship","meta":"<spaceship.CompactEnergieZelle>"},
-			"7": {"name":"fp:spaceship","meta":"<spaceship.CompositeMetall>"},
-			"8": {"name":"fp:chip","meta":"<chip.NavigationChip>"},
-			"9": {"name":"fp:spaceship","meta":"<spaceship.CompositeMetall>"},
-			"out": {"name":"fp:ftl_drive","meta":0,"size":1}
-		}
+		"link":"fp:lang/part/cr_space.drive.ftl.json"
 	},
 	
-	"Warnung: Benutzte den FTL-Block nicht als Dekoration."
+	"Warnung: Benutzte den FTL-Block nicht als Dekoration.",
+	
+	"Konstruktion:",
+	{
+	   "type":"building",
+	   "blocks":
+	   [
+	       [  
+                ["fp:ftl_drive","fp:ftl_drive","fp:ftl_drive"], 
+                ["fp:ftl_drive","fp:ftl_drive","fp:ftl_drive"] 
+           ],
+           [
+                ["fp:ftl_drive","fp:ftl_drive","fp:ftl_drive"], 
+                ["fp:ftl_drive","fp:ftl_drive","fp:ftl_drive"]
+           ]
+        ]
+	}
 ]

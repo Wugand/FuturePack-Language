@@ -1,9 +1,0 @@
-[
-	"I created another simple structure out of compound metal, a half-sized and solid block.",
-	"Crafting:",
-	{"link":"fp:lang/part/cr_deco.metallslab1.json"},
-	"Alternative:",
-	{"link":"fp:lang/part/cr_deco.metallslab2.json"},
-	"Information: This block can be (un)colored using the air brush.",
-	"Info: Two slabs placed on top of another will drop a full-sized block when broken."
-]

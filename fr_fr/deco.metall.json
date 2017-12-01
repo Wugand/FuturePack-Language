@@ -1,6 +1,14 @@
 [
 	"J'ai créé une structure simple de métal composite : un bloc ordinaire et solide.",
 	"Craft :",
-	{"link":"fp:lang/part/cr_deco.metall.json"},	
-	"Information: Ce bloc peut être (dé)coloré avec le pistolet à peinture."
+	{"link":"fp:lang/part/cr_deco.metall.json"},
+	{"link":"fp:lang/part/cr_deco.metallslab1.json"},
+	{"link":"fp:lang/part/cr_deco.metalltreppe1.json"},
+	
+	"Alternativ:",
+	{"link":"fp:lang/part/cr_deco.metallslab2.json"},
+	{"link":"fp:lang/part/cr_deco.metalltreppe2.json"},
+	
+	"Information: Ce bloc peut être (dé)coloré avec le pistolet à peinture.",
+	"Info: Deux dalles placées l'une sur l'autre droppent un bloc de métal quand on le casse."
 ]

@@ -1,0 +1,16 @@
+[
+	"To manipulate nano-structures I need a adjustable laser with high precision."
+	"So I designed a new lens based on an emerald, which can be adjust by electricity. For such high precision I need many support points for assembly.",
+	{
+		"type": "industrialneonfurnace",
+		"slots": {
+			"in1":  {"OreDict":"ingotAluminum", "size":1},
+			"in2":  {"name":"minecraft:stained_glass_pane", "meta":5, "size":1},
+			"in3":  {"OreDict":"gemEmerald", "size":1},
+			"out1": {"name":"fp:spaceship", "meta":"<spaceship.LinseG>", "size":1},
+			"out2": {},
+			"out3": {}
+		},
+		"support":30
+	}
+]

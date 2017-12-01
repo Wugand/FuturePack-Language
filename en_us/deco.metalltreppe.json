@@ -1,8 +1,0 @@
-[
-	"I created another simple structure out of compound metal: a stair-shaped and solid block.",
-	"Crafting:",
-	{"link":"fp:lang/part/cr_deco.metalltreppe1.json"},
-	"Alternative:",
-	{"link":"fp:lang/part/cr_deco.metalltreppe2.json"},
-	"Information: This block can be (un)colored using the air brush."
-]

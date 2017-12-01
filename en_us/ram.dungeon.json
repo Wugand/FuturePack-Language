@@ -1,0 +1,6 @@
+[
+	"I finally understood the RAM Fragments. They are remains of ancient quantum RAMs.",
+	"Using some new parts I able to reconstruct them to a fully functional RAM. The reconstructed RAM should be slightly more powerfully then my own RAMs.",
+	"Assembly:",
+	{"link":"fp:lang/part/as_ram.dungeon.json"}
+]

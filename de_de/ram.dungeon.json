@@ -1,0 +1,6 @@
+[
+	"Endlich ist es mir gelungen die gefundenen Speicherfragmente zu verstehen. Es sind Überreste alter Quantenspeicher.",
+	"Mit einigen neuen Teilen kann ich aus den Fragmenten einen funktionsfähigen Speicher rekonstruieren. Der somit geringfügig leistungsfähiger ist als meine eigenen Speicher.",
+	"Assembly:",
+	{"link":"fp:lang/part/as_ram.dungeon.json"}
+]

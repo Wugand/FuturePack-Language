@@ -1,8 +1,0 @@
-[
-	"Eu criei uma estrutura simples de metal composto: um bloco sólido na forma de uma escada.",
-	"Criando:",
-	{"link":"fp:lang/part/cr_deco.metalltreppe1.json"},
-	"Alternativo:",
-	{"link":"fp:lang/part/cr_deco.metalltreppe2.json"},
-	"Informação: Este bloco pode ser colorido (ou a cor pode ser tirada) usando o aerógrafo."
-]

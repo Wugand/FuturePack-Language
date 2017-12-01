@@ -1,7 +1,12 @@
-
 [
 	"Se eu coloco estanho e zinco juntos em um fluído adequado, os materiais liquefazem lentamente e se transferem ao outro lado. Isso causa um fluxo de energia no sentido oposto.",
 	"Ao invés, eu posso adicionar energia ao aparelho e regenerar a estrutura física.",
 	"Criando:",
-	{"link":"fp:lang/part/cr_log.battery.normal.json"}
+	{"link":"fp:lang/part/cr_log.battery.normal.json"},
+	"As baterias pequenas funcionam bem para transportar energia manualmente, mas não é automatico ou um bom amortecedor. Para realizar isso, eu conectei algumas baterias a uma caixa para armazenamento.",
+	"Este aparelho pode (dependendo das configurações), funcionar como colector, fonte, ou amortecedor. Além disso, eu adicionei lugares dentro da máquina para carregamento e descarga, bem como uma melhoria da capacidade (12 lugares).",
+	"Criando:",
+	{"link":"fp:lang/part/cr_log.batbox.json"},
+	"Capacidade Internal: 6000 NE",
+	"Configurações: Qualquer lado pode ser nomeado como entrada ou saída de energia usando o \"Editor de Logistica\"."
 ]

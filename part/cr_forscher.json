@@ -2,7 +2,8 @@
 	"Crafting:",
 	{
 		"type": "crafting",
-		"slots": {
+		"load":["fp:forscher_2","fp:forscher_6","fp:forscher_10"],
+		"slots_old": {
 			"1": {"name":"fp:cristall","meta":0},
 			"2": {"name":"minecraft:glass_pane","meta":0},
 			"3": {"name":"fp:cristall","meta":0},

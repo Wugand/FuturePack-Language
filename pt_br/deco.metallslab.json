@@ -1,9 +1,0 @@
-[
-	"Eu criei outra estrutura simples de metal composto, um sólido bloco de meio tamanho.",
-	"Criando:",
-	{"link":"fp:lang/part/cr_deco.metallslab1.json"},
-	"Alternativo:",
-	{"link":"fp:lang/part/cr_deco.metallslab2.json"},
-	"Informação: Este bloco pode ser colorido (ou a cor pode ser tirada) usando o aerógrafo.",
-	"Informação: Dois degraus um em cima do outro criará um bloco completo quando quebrado."
-]

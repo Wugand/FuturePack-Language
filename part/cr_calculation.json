@@ -3,7 +3,7 @@
 		"type": "crafting",
 		"slots": {
 			"1": [{"name":"fp:core","meta":0},{"name":"fp:core","meta":1}],
-			"2": {"name":"fp:spaceship", "meta":"<spaceship.GoldCoil>"},
+			"2": {"name":"fp:spaceship", "meta":"<spaceship.GoldParts>"},
 			"3": [{"name":"fp:core","meta":0},{"name":"fp:core","meta":1}],
 			"4": {"name":"fp:spaceship", "meta":"<spaceship.CopperCoil>"},
 			"5": [{"name":"fp:chip","meta":0}],

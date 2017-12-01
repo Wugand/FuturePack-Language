@@ -1,7 +1,0 @@
-[
-	"Ich habe eine einfache Struktur aus Gitterblöcken geschaffen, einen halben Gitterblock.",
-	"Crafting:",
-	{"link":"fp:lang/part/cr_deco.gitterslab.json"},	
-	"Information: Der Block ist mit der Farbpistole (ent)färbbar.",
-	"Information: Zwei übereinander platzierte Stufen ergeben beim Abreißen wieder einen Vollblock."
-]

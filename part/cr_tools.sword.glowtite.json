@@ -1,0 +1,19 @@
+[
+    "Crafting:",
+    {
+        "type":"crafting",
+        "slots":
+        {
+            "1": {},
+            "2": "OreDict:ingotGlowtite",
+            "3": {},
+            "4": {},
+            "5": "OreDict:ingotGlowtite",
+            "6": {},
+            "7": {},
+            "8": {"name":"fp:spaceship", "meta":"<spaceship.swordHandle>"},
+            "9": {},
+            "out": "fp:sword_glowtite"
+        }
+    }
+]

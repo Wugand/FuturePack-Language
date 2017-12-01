@@ -1,9 +1,0 @@
-[
-	"J'ai créé une autre structure simple composée de métal : un dalle de métal.",
-	"Craft :",
-	{"link":"fp:lang/part/cr_deco.metallslab1.json"},
-	"Alternative:",
-	{"link":"fp:lang/part/cr_deco.metallslab2.json"},
-	"Information: Ce bloc peut être (dé)coloré avec le pistolet à peinture.",
-	"Info: Deux dalles placées l'une sur l'autre droppent un bloc de métal quand on le casse."
-]

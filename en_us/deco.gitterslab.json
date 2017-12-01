@@ -1,7 +1,0 @@
-[
-	"I researched a block of grid blocks, a grid block slab.",
-	"Crafting:",
-	{"link":"fp:lang/part/cr_deco.gitterslab.json"},
-	"Information: This block can be (un)colored using the air brush.",
-	"Information: Two stacked slabs drop a full block."
-]
