@@ -1,8 +1,0 @@
-[
-	"J'ai créé une autre structure en métal simple : un escalier en métal.",
-	"Craft :",
-	{"link":"fp:lang/part/cr_deco.metalltreppe1.json"},
-	"Alternative:",
-	{"link":"fp:lang/part/cr_deco.metalltreppe2.json"},
-	"Information: Ce bloc peut être (dé)coloré avec le pistolet à peinture."
-]

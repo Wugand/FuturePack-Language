@@ -2,5 +2,7 @@
 	"Eu criei uma estrutura mais complexa de metal composto: uma cerca de metal sólido.",
 	"Criando:",
 	{"link":"fp:lang/part/cr_deco.metallzaun.json"},
-	"Informação: Este bloco pode ser colorido (ou a cor pode ser tirada) usando o aerógrafo."
+	"Informação: Este bloco pode ser colorido (ou a cor pode ser tirada) usando o aerógrafo.",
+	{"link":"fp:lang/part/cr_deco.metallgate.json"},
+	"Informação: Este bloco não pode ser (des)colorido."
 ]

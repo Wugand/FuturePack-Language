@@ -1,0 +1,18 @@
+[
+	"I was able to basically understand the ancient security systems. So I am able to reconstruct a Key Card with low security grade.",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {},
+			"2": {"name":"fp:cristall", "meta":0, "size":1},
+			"3": {},
+			"4": {"name":"fp:spaceship", "meta":15, "size":1},
+			"5": {"name":"fp:core", "meta":0},
+			"6": {"name":"fp:spaceship", "meta":15, "size":1},
+			"7": {},
+			"8": {"name":"fp:normalbattery", "meta":0, "size":1},
+			"9": {},
+			"out": {"name":"fp:spaceship", "meta":21, "size":1}
+		}
+	}
+]

@@ -1,0 +1,12 @@
+[
+	"Auf Grundlage der Nanostrukturmanipulation, habe ich einen Geschützturm entwickelt. Dieser visiert mit Hilfe des integrierten Computers automatisch alle Kreaturen und Spieler in Reichweite an. Mit einem sehr genauen Laserstrahl heilt dieser dann alle Wunden des Ziels.",
+	"Dabei verbraucht der Turm große Mengen Neonenergie, weshalb ich ihn mit einer Energiequelle verbinden sollte. Neben dem kontinuierlichen Verbrauch des Computersystems, benötigt das heilen eines Lebewesens zusätzlich Energie (10 NE pro Lebenspunkt).",
+	"Crafting:",
+	{"link":"fp:lang/part/cr_space.turret.heal.json"},
+	"Der Laserturm wird über ein Computersystem gesteuert, das unter anderem die Zielerfassung und den Energiefluss regelt.",
+	"Unterstützte Chipsätze:",
+	"Industriechipsatz: Verringert die benötigte Energie zum heilen einer Kreatur",
+	"Taktikkontrollcipsatz: Erhöht den Radius in dem Ziele gesucht werden",
+	"KI-Chipsatz: Erweiterte Konfiguration mittels GUI !"
+	
+]

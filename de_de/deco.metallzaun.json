@@ -1,6 +1,9 @@
 [
 	"Ich habe eine komplexere Struktur aus Verbundmetall geschaffen, einen soliden Metallzaun.",
 	"Crafting:",
-	{"link":"fp:lang/part/cr_deco.metallzaun.json"},	
-	"Information: Der Block ist mit der Farbpistole färbbar/ sandstrahlbar."
+	{"link":"fp:lang/part/cr_deco.metallzaun.json"},
+	"Information: Dieser Block ist mit der Farbpistole färbbar/ sandstrahlbar.",
+	{"link":"fp:lang/part/cr_deco.metallgate.json"},
+	"Information: Dieser Block ist NICHT färbbar/ sandstrahlbar."
+	
 ]

@@ -1,6 +1,11 @@
 [
 	"Eu desenvolvei uma estrutura complexa feita de metal composto e paus de ferro: um normal bloco grade.",
 	"Criando:",
-	{"link":"fp:lang/part/cr_deco.gitter.json"},	
-	"Informação: Este bloco pode ser colorido (ou a cor pode ser tirada) usando o aerógrafo."
+	{"link":"fp:lang/part/cr_deco.gitter.json"},
+	{"link":"fp:lang/part/cr_deco.gitterpane.json"},
+	{"link":"fp:lang/part/cr_deco.gitterslab.json"},	
+	{"link":"fp:lang/part/cr_deco.gittertreppe.json"},
+	
+	"Informação: Este bloco pode ser colorido (ou a cor pode ser tirada) usando o aerógrafo.",
+	"Informação: Dois degraus um em cima do outro criará um bloco completo."
 ]

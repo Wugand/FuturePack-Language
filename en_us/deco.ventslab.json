@@ -1,7 +1,0 @@
-[
-	"I created a simple structure from vent blocks, a vent slab.",
-	"Crafting:",
-	{"link":"fp:lang/part/cr_deco.ventslab.json"},
-	"Information: This block can be (un)colored using the air brush.",
-	"Info: Two slabs placed on top of another will drop a full block when destroyed."
-]

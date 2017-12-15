@@ -2,5 +2,13 @@
 	"Eu criei uma estrutura simples de metal composto: um comum bloco sólido.",
 	"Criando:",
 	{"link":"fp:lang/part/cr_deco.metall.json"},
-	"Informação: Este bloco pode ser colorido (ou a cor pode ser tirada) usando o aerógrafo."
+	{"link":"fp:lang/part/cr_deco.metallslab1.json"},
+	{"link":"fp:lang/part/cr_deco.metalltreppe1.json"},
+	
+	"Alternativo:",
+	{"link":"fp:lang/part/cr_deco.metallslab2.json"},
+	{"link":"fp:lang/part/cr_deco.metalltreppe2.json"},
+	
+	"Informação: Este bloco pode ser colorido (ou a cor pode ser tirada) usando o aerógrafo.",
+	"Informação: Dois degraus um em cima do outro criará um bloco completo quando quebrado."
 ]

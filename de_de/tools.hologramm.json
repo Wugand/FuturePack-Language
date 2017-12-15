@@ -5,9 +5,9 @@
 	{
 		"type": "crafting",
 		"slots": {
-			"1": "OreDict:ingotMagnetite",
-			"2": {"name":"fp:spaceship", "meta":"<spaceship.Laserdiode>"},
-			"3": "OreDict:ingotMagnetite",
+			"1": "OreDict:dustGlowstone",
+			"2": {"name":"fp:scrench", "meta":0},
+			"3": "OreDict:dustGlowstone",
 			"4": "OreDict:ingotAluminum",
 			"5": {"name":"fp:spaceship", "meta":"<spaceship.Display>"},
 			"6": "OreDict:ingotAluminum",

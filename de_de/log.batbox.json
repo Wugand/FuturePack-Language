@@ -1,8 +1,0 @@
-[
-	"Mit meinen kleinen Energiespeichern kann ich Energie von Hand transportieren, allerdings sind diese kaum als automatisierte Speicher geeignet. Deshalb habe ich mehrere Energiespeicher zu einer Batteriebox verbunden.",
-	"Diese Speichereinheit kann man je nach Einstellung als Sammler, Quelle oder Puffer benutzen. Zudem habe ich im inneren Anschlüsse zum Laden/Entladen von Hand und zur dauerhaften vergrößerung der Kapazität (12 Slots) vorgesehen.",
-	"Crafting:",
-	{"link":"fp:lang/part/cr_log.batbox.json"},
-	"Eigenkapazität: 6000 NE",
-	"Einstellungen: Mit dem \"Logistikeditor\" können die Seiten des Blocks als Energieausgang oder Energieeingang eingestellt werden."
-]

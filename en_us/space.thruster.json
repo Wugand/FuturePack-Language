@@ -9,11 +9,11 @@
             "3": {"name":"fp:spaceship","meta":"<spaceship.CompositeMetall>"},
             "4": {"name":"fp:spaceship","meta":"<spaceship.QuartzParts>"},
             "5": [
-                    {"name":"fp:lackTank3"},
-                    {"name":"fp:lackTank4"},
-                    {"name":"fp:lackTank5"},
-                    {"name":"fp:lackTank1"},
-                    {"name":"fp:lackTank10"}
+                    {"OreDict":"dyeLightBlue"},
+                    {"OreDict":"dyeYellow"},
+                    {"OreDict":"dyeLime"},
+                    {"OreDict":"dyeOrange"},
+                    {"OreDict":"dyePurple"}
                  ],
             "6": [
                     {"name":"fp:color_iron","meta":0},

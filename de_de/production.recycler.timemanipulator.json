@@ -1,9 +1,8 @@
 [
-    "Ich habe ein Werkzeug entwickelt, dass man in den mittleren Slot des Recyclers legen kann.",
-    "Es besteht aus einem grünen Laser, zwei Quantaniumspulen, und einigen Computer Chips um alles zu steuern.",
-    "Ein grüner Laser wird anstelle eines roten verwendet, weil eine höhere Präzision durch die kurze Wellenlänge des grünen Lichts erreicht werden kann.",
-    "Als erstes scannt der Laser das Objekt, um alle Schäden zu dokumentieren und um heraus zu finden welche Materialien benötigt werden um das Werkzeug zu reparieren. Als nächstes werden die Spulen verwendet um die Verschiebung im Raum-Zeit-Kontinuum zu öffnen um die benötigten Ressourcen zu bekommen.",
-    "Diser Prozess brauch eine Menge Energie und um zu verhindern das permanente interdimensionale Löcher entstehen werden Supportpoints verwendet um die Verschiebungen zu stabilisieren",
+    "Ich habe ein Werkzeug entwickelt, dass ich in den mittleren Slot des Recyclers legen kann.",
+    "Es besteht aus einem grünen Präzisionslaser, zwei Quantaniumspulen, und einigen Computer Chips zur Steuerung.",
+    "Als erstes scannt der Laser das Objekt, um alle Schäden zu dokumentieren, um dann mit Hilfe von Supportpunkten heraus zu finden wie das Werkzeug zu reparieren ist. Abschließend wird die Nanostruktur des Werkzeuges so umstrukturiert, dass es wieder dem neuwertigen Stand entspricht.",
+    "Dies kann einige Durchläufe benötigen, bis das Werkzeug vollständig wiederhergestellt ist.",
     "Crafting:",
     {"link":"fp:lang/part/cr_production.recycler.timemanipulator.json"},
     "Dieses Werkzeug hat viele Rezepte und sollte jedes Werkzeug reparieren können."

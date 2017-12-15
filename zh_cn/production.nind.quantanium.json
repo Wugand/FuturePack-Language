@@ -4,7 +4,7 @@
 	{
 		"type": "industrialneonfurnace",
 		"slots": {
-			"in1":  {"OreDict":"ingotWakurum", "size":1},
+			"in1":  {"OreDict":"ingotWakurium", "size":1},
 			"in2":  {"OreDict":"ingotGadolinium", "size":1},
 			"in3":  {"OreDict":"gemLapis", "size":1},
 			"out1": {"OreDict":"ingotQuantanium", "size":1},

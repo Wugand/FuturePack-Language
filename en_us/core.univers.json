@@ -1,0 +1,7 @@
+[
+	"The efficiency of the reconstructed Dungeon Cores was unexpectedly low. After some investigation I recognized a mistake at the reconstruction.",
+	"The concept of the Unreachable was linking the single units of the core to a torus-shaped network. I can follow this concept by combining tow Dungeon Cores.",
+	"This improved design permits an extremely power. This power is also influence by the power of the both Dungeon Cores.",
+	"Assembly:",
+	{"link":"fp:lang/part/as_core.univers.json"}
+]
