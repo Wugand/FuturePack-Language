@@ -1,0 +1,24 @@
+[
+	"Eu desenvolvei uma ferramenta para o Reciclador para colocar na expansão no meio.",
+	"Consiste de dois cilindros cravados que rasgam o alvo até desfazer. Este processo é versátil, mas não tem rendimento alto.",
+	
+	"Criando:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {},
+			"2": {"OreDict":"ingotIron"},
+			"3": {},
+			"4": {"OreDict":"ingotIron"},
+			"5": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
+			"6": {"OreDict":"ingotIron"},
+			"7": {},
+			"8": {"OreDict":"ingotIron"},
+			"9": {},
+			"out": [{"name":"fp:shredder","meta":0}]
+		}
+	},
+	
+	"Esta ferramenta apresenta muitas receitas, por exemplo: \n -Todo produto da Bancada de Montagem \n -Pedras \n -Plantas, madeira, folhagem \n -Vidro e lã \n -Ossos"
+	
+]
