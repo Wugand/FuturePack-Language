@@ -5,11 +5,11 @@
 			"1": {"name":"fp:spaceship","meta":"<spaceship.CopperCoil>"},
 			"2": {"name":"minecraft:iron_block","meta":0},
 			"3": {"name":"fp:spaceship","meta":"<spaceship.CopperCoil>"},
-			"4": {"name":"fp:spaceship","meta":"<spaceship.CopperCoil>"},
-			"5": {"name":"fp:color_iron","meta":15},
-			"6": {"name":"fp:spaceship","meta":"<spaceship.CopperCoil>"},
+      "4": {"name":"fp:spaceship","meta":"<spaceship.CopperCoil>"},
+      "5": {"name":"fp:color_iron","meta":15},
+      "6": {"name":"fp:spaceship","meta":"<spaceship.CopperCoil>"},
 			"7": {"name":"fp:spaceship","meta":"<spaceship.CompositeMetall>"},
-			"8": {"name":"fp:spaceship","meta":"<spaceship.Maschinboard>"},
+      "8": {"name":"fp:spaceship","meta":"<spaceship.Maschinboard>"},
 			"9": {"name":"fp:spaceship","meta":"<spaceship.CompositeMetall>"},
 			"out": {"name":"fp:elektro_magnet","meta":0}
 		}

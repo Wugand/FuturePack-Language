@@ -41,6 +41,8 @@ list()
 echo "Last Update at $(date)" > "outdated.md"
 echo "" >> "outdated.md"
 echo "" >> "outdated.md"
+echo "zh_cn..."
+list de_de zh_cn >> "outdated.md"
 echo "en_us..."
 list de_de en_us >> "outdated.md"
 echo "fr_fr..."
