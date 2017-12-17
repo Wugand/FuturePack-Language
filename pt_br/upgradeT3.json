@@ -1,7 +1,7 @@
 [
-	"De acordo das leis de física deste mundo, eu posso extrair uma parte do meu conhecimento com a ajuda de - faltando uma expressão melhor - uma varinha mágica. Eu posso então ligar este conhecimento a itens.",
-	"Talvez eu possa usar este processo estranho para criar coisas mais úteis do que ferramentas brilhantes. Minha tecnologia atual tem tanto potencial para ser melhorada com isto.",
-	"Eu desenvolvei um módulo de pesquisa baseado na Mesa de Encantamentos, que me permite extrair meu conhecimento do mundo na forma de pontos de experiência (XP) e, se necessário, injetar de volta.",
+	"De acordo com as leis de física deste mundo, eu posso extrair uma parte do meu conhecimento com a ajuda de - faltando uma expressão melhor - uma varinha mágica. Eu posso então ligar este conhecimento com itens.",
+	"Talvez eu possa usar este processo estranho para criar coisas mais úteis do que só ferramentas brilhantes. Isso tem muita potencial melhorar minha tecnologia atual.",
+	"Eu desenvolvei um módulo de pesquisa baseado na Mesa de Encantamentos, que me permite extrair meu conhecimento do mundo na forma de pontos de experiência (XP) e, se necessário, repôr.",
 	"O módulo deve ser ligado diretamente ao Pesquisador ou por meio de uma rede para funcionar. O trabalho em si acontece no Pesquisador como normal.",
 
 	"Criando:",
@@ -20,5 +20,6 @@
 			"out": [{"name":"fp:modul_3","meta":2},{"name":"fp:modul_3","meta":6},{"name":"fp:modul_3","meta":10}]
 		}
 	},	
-	"O módulo armazena até 1 500 XP (cerca de 31 níveis). Se isto não for suficiente, eu posso simplesmente conectar vários módulos a um Pesquisador."
+	"O módulo armazena até 1 500 XP (cerca de 31 níveis). Se não for suficiente, eu posso simplesmente ligar vários módulos com um Pesquisador."
+	"Porém, eu deveria também ligar mais módulos de calculação ao Pesquisador. Atualmente, 8 a 16 módulos devem ser adequados."
 ]
