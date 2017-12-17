@@ -1,6 +1,6 @@
 [
 	"Eu desenvolvei uma ferramenta para o Reciclador para colocar na expansão no meio.",
-	"É um scanner que analisa uma unidade camada por camada. Produz Pontos de Suporte durante o processo.",
+	"É um scanner que analisa uma unidade camada por camada. Produz Pontos de Apoio durante o processo.",
 	
 	"Criando:",
 	{
@@ -19,6 +19,6 @@
 		}
 	},
 	
-	"Esta unidade pode ananisar todo produto da Bancada de Montagem. Para núcleos, chipsets e RAM, a quantidade de pontos de suporte depende na potência do componente."
+	"Esta unidade pode ananisar todo produto da Bancada de Montagem. Para núcleos, chipsets e RAM, a quantidade de pontos de apoio depende na potência do componente."
 	
 ]
