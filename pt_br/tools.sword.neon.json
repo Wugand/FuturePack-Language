@@ -1,0 +1,7 @@
+[
+    "O ataque é a melhor defesa. Tá bom... mesmo se isso não é sempre a verdade, ter uma espada bolada para matar seus inimigos é bem acalmante.",
+    "Os cristais de néon têm um efeito interesante de destruir tecido vivo. Eu pensei recentemente que seria útil aproveitar esse efeito para fazer armas mais eficazes. Mas devido ao custo, eu não quero que quebrarem como espadas normais. Por isso eu desenvolvei um punho especial.",
+    "Duas bobinas de néon são ligadas e desligadas rapidamente para que o pó e a lâmina começam vibrar. Essas micro-vibrações impedem dano à lâmina quando é usada. Mas com cada corte, a bateria internal drena um pouco.",
+    {"link":"fp:lang/part/cr_tools.sword.neon.json"},
+    "Graças às habilidades especias de néon puro, esta espada tem uma chance de paralisar o oponente com um ataque crítico."
+]
