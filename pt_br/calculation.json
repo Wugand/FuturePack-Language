@@ -1,0 +1,12 @@
+[
+	"Pesquisar energia precisa de muita potencial de computação, que infelizmente o Pesquisador não possui. É por isso que as pesquisas estão demorando mais e mais.",
+	"Então, eu desenvolvei um módulo de calculações, que vai ajudar o Pesquisador realizar calculações complexas. Porque este módulo não precisa de muitos chipsets, eu consegui modificar o sistema para incluir mais sítios para RAM. Eu também inclui um segundo processador para processar os dados ainda mais rapidamente. Assim, o sistema pode utilizar mais poder de núcleos do que sistemas normais.",
+	"O módulo de calculações deve ser ligado diretamente ao Pesquisador por uma rede. (Pode ser que redes ainda não foram descobertas.)",
+	"É possível conectar qualquer número de módulos a um Pesquisador, através do qual um módulo com 100% RAM tem 4 vezes o poder de calculações do que um Pesquisador normal. O poder do módulo depende somente no poder de RAM.",
+	
+	"Criando:",
+	{"link":"fp:lang/part/cr_calculation.main.json"},
+	{"link":"fp:lang/part/cr_calculation.json"},
+	
+	"Atualmente, eu consigo ligar 1 a 2 módulos a um Pesquisador."
+]
