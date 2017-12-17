@@ -1,5 +1,5 @@
 [
-    "Doing experiments with bioterium is difficult, because of its ability to not only destroy tissue but also being very poisonus.",
-    "I managed to form a blade with bioterium, if something gets cut it will suffer from the natural poison from the blade.",
+    "Experimenting with bioterium is difficult because of its ability to not only destroy tissue, but also being very poisonous.",
+    "Despite this difficulty, I managed to forge a blade with bioterium. If something gets cut, it will additionally suffer from the natural poison in the blade's metal.",
     {"link":"fp:lang/part/cr_tools.sword.bioterium.json"}
 ]
