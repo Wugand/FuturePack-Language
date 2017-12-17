@@ -1,6 +1,6 @@
 [
 	"I developed a tool for the recycler to put into the middle slot.",
-	"It's a scanner which wears and analyzes the workpiece layerwise. It produces support points in the process.",
+	"It's a scanner which scans and analyzes the unit layer by layer. It produces support points in the process.",
 	
 	"Crafting:",
 	{
@@ -19,6 +19,6 @@
 		}
 	},
 	
-	"This workpiece can analyze all products of the Assembly Table. For cores, chips and RAM, the amount of Support Points depends on the power of the component."
+	"This unit can analyze all products of the Assembly Table. For cores, chipsets, and RAM, the amount of Support Points depends on the power of the component."
 	
 ]
