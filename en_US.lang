@@ -715,7 +715,7 @@ hologram.error.select.tileentity=You can't use this block for an hologram!
 laser.attack.warn.time=Restricted Area. You have %s seconds.
 
 dungeon.message.double_power=Double Power!
-dungeon.message.much_damage=To much damage!
+dungeon.message.much_damage=Too much damage!
 dungeon.message.evil_arrow=Supported by Arrows!
 dungeon.message.the_emperor=The ultimate Emperor!
 dungeon.message.sniper=Snipers!
@@ -723,7 +723,7 @@ dungeon.message.fp_tools=Nice tools!
 dungeon.message.evil_robot=The Technocratic Unit!
 dungeon.message.evenmore=Oh no, more of them!
 dungeon.message.strange_experiment=What are these strange creatures?
-dungeon.message.the_scientist=A Energy-Sword ?!?
+dungeon.message.the_scientist=An Energy-Sword?!?
 dungeon.message.the_trap=It seems this is a trap!
 dungeon.message.the_general=Looks like the leader of this squad.
 
