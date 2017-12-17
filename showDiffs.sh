@@ -4,7 +4,7 @@
 list()
 {
 	echo "Parent Dir $1 , Sub Dir $2"
-	
+	echo ""
 	echo "| File | Time diff | Commit |"
 	echo "| --- | --- | --- |"
 	
