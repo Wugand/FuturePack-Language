@@ -1,0 +1,24 @@
+[
+	"Eu desenvolvei uma ferramenta para o Reciclador para colocar na expansão no meio.",
+	"Consiste de câmeras e um laser que corte precisamente uma unidade adequada. Este processo é muito versátil, mas aumenta o uso de energia por 4 vezes.",
+	
+	"Criando:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"name":"fp:chip", "meta":0},
+			"2": {"OreDict":"ingotAluminum"},
+			"3": {"name":"fp:chip", "meta":0},
+			"4": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>"},
+			"5": {"name":"fp:spaceship", "meta":"<spaceship.Laserdiode>"},
+			"6": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>"},
+			"7": {"name":"minecraft:glass_pane", "meta":0},
+			"8": {"name":"fp:spaceship", "meta":"<spaceship.LinseR>"},
+			"9": {"name":"minecraft:glass_pane", "meta":0},
+			"out": [{"name":"fp:lasercutter","meta":0}]
+		}
+	},
+	
+	"Essa ferramenta apresenta muitas receitas, incluindo:\n -Todo produto da Bancada de Montagem \n -Armadura de Cavalo \n -Produtos da aba \"Decorações\" (não coloridos, so possível) \n -Barras de Ferro, Carrinhos, Baldes \n -Mais"
+	
+]
