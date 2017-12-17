@@ -1,0 +1,25 @@
+[
+	"Meus trabalhos acabam desperdiçando muito, e seria muito melhor reciclar uma parte do lixo. Agora, eu pretendo triturar os itens. Contudo, eu não quero fazer nada final, então eu criei uma caixa com correias transportadoras dentro.",
+	"O reciclador pode fornecer qualquer ferramenta com energia e ativá-la. Durante o processo, a máquina pode desconstruir uma peça adequada em até 9 partes, a velocidade do quê depende no poder no computador embutido nele.",
+	
+	"Criando:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"name":"fp:pipe", "meta":2},
+			"2": {"name":"minecraft:light_weighted_pressure_plate", "meta":0},
+			"3": {"name":"fp:pipe", "meta":2},
+			"4": {"name":"fp:spaceship", "meta":"<spaceship.IronCoil>"},
+			"5": [{"name":"fp:color_iron","meta":0},{"name":"fp:color_iron","meta":8},{"name":"fp:color_iron","meta":15}],
+			"6": {"name":"fp:spaceship", "meta":"<spaceship.IronCoil>"},
+			"7": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"8": {"name":"fp:spaceship", "meta":"<spaceship.Maschinboard>"},
+			"9": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"out": [{"name":"fp:recycler","meta":2},{"name":"fp:recycler","meta":6},{"name":"fp:recycler","meta":10}]
+		}
+	},
+	
+	"Chipsets Suportados:",
+	"Chipset de Lógica\nChipset de Transporte\nChipset para Controle de Redstone\nChipset de Apoio\nChipset para Prevenção de Danos"
+	
+]
