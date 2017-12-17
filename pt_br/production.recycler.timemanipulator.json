@@ -1,0 +1,10 @@
+[
+    "Eu desenvolvei uma ferramenta para o Reciclador para colocar na expansão no meio.",
+    "Consiste de um laser verde, duas bobinas de quantânio e uns chips de computador para controlar tudo.",
+    "Um laser verde é usado em vez de um vermelho por causa da maior precisão possível com as ondas menores de luz verde.",
+    "Primeiro, o laser escanea o objeto para mapear onde tem dano e para achar quais materais serão necessários para consertar as ferramentas. Daí, as bobinas criam pequenos rasgos no tecido de espaço-tempo para adquerir os recursos precisos.",
+    "O processo precisa de muita energia, e para prevenir a criação de buracos interdimensionais permanentes, pontos de apoio são usados para estabilizar os rasgos.",
+    "Criando:",
+    {"link":"fp:lang/part/cr_production.recycler.timemanipulator.json"},
+    "Esta máquina apresenta várias receitas e deve ser capaz de consertar qualquer ferramenta."
+]
