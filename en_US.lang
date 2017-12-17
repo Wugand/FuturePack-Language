@@ -419,6 +419,7 @@ tile.menelaus_mushroom_blauling.name=Blueshroom
 tile.menelaus_mushroom_rotkappe.name=Peakhead
 tile.force_field.name=Force Field
 tile.dungeon_core.name=Dungeon Core
+tile.composite_chest.name=Composite Chest
 
 fluid.liquid.neon=Neon Liquid
 fluid.saltwater=Salt Water
@@ -652,6 +653,7 @@ item.dungeon_key_0.name=Dungeon Key 1
 item.dungeon_key_1.name=Dungeon Key 2
 item.dungeon_key_2.name=Dungeon Key 3
 item.dungeon_key_3.name=Dungeon Key 4
+item.composite_fishing_rod.name=Composite Fishing Rod
 
 itemGroup.fpTab.deco=Future Pack Materials
 itemGroup.fpTab.maschiens=Future Pack Machinery
