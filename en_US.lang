@@ -420,6 +420,7 @@ tile.menelaus_mushroom_rotkappe.name=Peakhead
 tile.force_field.name=Force Field
 tile.dungeon_core.name=Dungeon Core
 
+
 fluid.liquid.neon=Neon Liquid
 fluid.saltwater=Salt Water
 fluid.liquid.bitripentium=Bitripentium-Fuel
@@ -653,6 +654,7 @@ item.dungeon_key_1.name=Dungeon Key 2
 item.dungeon_key_2.name=Dungeon Key 3
 item.dungeon_key_3.name=Dungeon Key 4
 
+
 itemGroup.fpTab.deco=Future Pack Materials
 itemGroup.fpTab.maschiens=Future Pack Machinery
 itemGroup.fpTab.items=Future Pack Items
@@ -795,6 +797,7 @@ info.note.read=Right click to view!
 key.categories.futurepack=Futurepack
 key.fp.gleiter=Paraglider open/close
 
+research.need.advancements.futurepack=Need %s
 research.need.achievement=Needs %s
 
 research.page.base.name=Basics
