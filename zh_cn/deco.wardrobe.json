@@ -1,8 +1,8 @@
 [
-	"我用铝和金属块创建了一个储物箱。 虽然它提供与标准箱子相同的存储空间，但它更加稳定，具有各种设计和颜色。",
+	"我用铝和金属块创建了一个储物箱。虽然它提供与标准箱子相同的存储空间，但它更加稳定，具有各种设计和颜色。",
 	"最显着的优点是，即使储物箱移动，其内容仍然得到保存。",
 	"信息：（填充）储物柜可以拆除并放置，而不会丢失内容！",
-	"门 - 灯：",
+	"门-灯：",
 	{
 		"type": "crafting",
 		"slots": {
@@ -18,7 +18,7 @@
 			"out": [{"name":"fp:wandrope", "meta":2, "size":1},{"name":"fp:wandrope", "meta":6, "size":1},{"name":"fp:wandrope", "meta":10, "size":1}]
 		}
 	},
-	"门 - 黑色",
+	"门-黑色",
 	{
 		"type": "crafting",
 		"slots": {
@@ -34,7 +34,7 @@
 			"out": [{"name":"fp:wandrope", "meta":3, "size":1},{"name":"fp:wandrope", "meta":7, "size":1},{"name":"fp:wandrope", "meta":11, "size":1}]
 		}
 	},
-	"抽屉 - 灯:",
+	"抽屉-灯:",
 	{
 		"type": "crafting",
 		"slots": {
@@ -50,7 +50,7 @@
 			"out": [{"name":"fp:wandrope", "meta":0, "size":1},{"name":"fp:wandrope", "meta":4, "size":1},{"name":"fp:wandrope", "meta":8, "size":1}]
 		}
 	},
-	"抽屉 - 黑色:",
+	"抽屉-黑色:",
 	{
 		"type": "crafting",
 		"slots": {
