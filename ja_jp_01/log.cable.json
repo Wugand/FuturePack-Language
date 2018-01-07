@@ -1,0 +1,21 @@
+[
+	"エネルギーコンダクターのプロトタイプを作成しました。結晶体と精錬したネオン素材の組み合わせにより、最適な伝導体が得られました。",
+	"環境による影響を強く受けるようで、そのままでは構造を安定させることは難しい。そのため私はアルミニウムの外装を施し、それを保護することにしました。",
+	"ケーブルは自由に配置できます。ネオン導体は電圧や電流など、旧来のような制限を持たず、巨大なエネルギーを転送することが可能で、オーバーロード(過負荷)などについて気にする必要はなさそうです。",
+	"作成図:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"OreDict":"ingotAluminum"},
+			"2": {"OreDict":"ingotAluminum"},
+			"3": {"OreDict":"ingotAluminum"},
+			"4": {"OreDict":"ingotNeon"},
+			"5": {"name":"fp:cristall","meta":0},
+			"6": {"OreDict":"ingotNeon"},
+			"7": {"OreDict":"ingotAluminum"},
+			"8": {"OreDict":"ingotAluminum"},
+			"9": {"OreDict":"ingotAluminum"},
+			"out": {"name":"fp:wire", "meta":0, "size":16}
+		}
+	}
+]
