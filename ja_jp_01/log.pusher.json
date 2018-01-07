@@ -1,0 +1,21 @@
+[
+	"私は他のブロックのインベントリからアイテムを引き出す装置の開発を行いました。この機構はホッパーとドロッパーの組み合わせによるものです。",
+	"アイテムシフターは六方向のすべてに向けることができます。入力は緑色の矢印でマークされ、出力は黒色の点でマークされています。",
+  "装置がレッドストーン信号を受けると、入力側のブロックに収納されているアイテムが出力側に転送されます。",
+	"作成図:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"OreDict":"ingotAluminum"},
+			"2": {"OreDict":"ingotAluminum"},
+			"3": {"OreDict":"ingotAluminum"},
+			"4": {"name":"minecraft:chest", "meta":0},
+			"5": {"OreDict":"dustRedstone"},
+			"6": {"name":"minecraft:bow", "meta":0},
+			"7": {"OreDict":"ingotAluminum"},
+			"8": {"OreDict":"ingotAluminum"},
+			"9": {"OreDict":"ingotAluminum"},
+			"out": {"name":"fp:pucher", "meta":0, "size":1}
+		}
+	}
+]
