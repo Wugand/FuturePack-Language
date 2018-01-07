@@ -962,6 +962,7 @@ research.log.redstonecable=Redstone-Kabel
 research.log.supportcable=Support-Kabel
 research.log.batbox=Batteriebox
 research.log.networkcable=Netzwerkkabel
+research.log.supercable=Super-Kabel
 research.log.laser=Netzwerk Transmitter
 research.log.flashserver=Flashserver
 
@@ -1029,6 +1030,7 @@ research.deco.neonlamp=Neonlampe
 research.deco.monitor=Monitor
 research.deco.wardrobe=Wandschrank
 research.deco.cdoor=Verbundmetalltür
+research.deco.rs_utils=Redstonetechnik
 
 research.space.magnetblock=Magnetblock
 research.space.emagnet=Elektromagnet
@@ -1056,6 +1058,7 @@ research.space.drone.mono.waypoint=Monorail Wegpunkt
 research.space.drone.mono.station=Monorail Station
 research.space.drone.mono.detector=Monorail Detektor
 research.space.drone.mono.booster=Monorail Booster
+research.space.drone.mono.oneway=Monorail Einbahnstraße
 research.space.drone.mono.charger=Monorail Lader
 research.space.forstmaster=Forstmaster
 research.space.plantmarker=Pflanzmarker

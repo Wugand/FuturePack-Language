@@ -421,7 +421,6 @@ tile.force_field.name=Force Field
 tile.dungeon_core.name=Dungeon Core
 tile.composite_chest.name=Composite Chest
 
-
 fluid.liquid.neon=Neon Liquid
 fluid.saltwater=Salt Water
 fluid.liquid.bitripentium=Bitripentium-Fuel
@@ -656,7 +655,6 @@ item.dungeon_key_2.name=Dungeon Key 3
 item.dungeon_key_3.name=Dungeon Key 4
 item.composite_fishing_rod.name=Composite Fishing Rod
 
-
 itemGroup.fpTab.deco=Future Pack Materials
 itemGroup.fpTab.maschiens=Future Pack Machinery
 itemGroup.fpTab.items=Future Pack Items
@@ -671,7 +669,7 @@ entity.FP-Forstmaster.name=Forestmaster
 entity.miner.name=Miner
 entity.monocart.name=Monocart
 
-research.need.advancements.futurepack=Needs %s
+research.need.advancements.futurepack=Need %s
 
 potion.paralyze=Paralyze
 
@@ -799,7 +797,6 @@ info.note.read=Right click to view!
 key.categories.futurepack=Futurepack
 key.fp.gleiter=Paraglider open/close
 
-research.need.advancements.futurepack=Need %s
 research.need.achievement=Needs %s
 
 research.page.base.name=Basics
@@ -824,6 +821,7 @@ research.werkzeug=Tools
 research.decoration=Decoration
 research.energieerzeugung=Energy Generation 1
 research.energielogistik=Energy Logistics
+research.partpress=Part Press
 
 research.upgradeT1=Research Module - Energy
 research.assembly=Chip Assembly
@@ -913,7 +911,6 @@ research.hs.menelaus.entity=Alien Creatures
 
 research.production.blockbreaker=Block Breaker
 research.production.blockplacer=Block Placer
-research.partpress=Part Press
 research.production.industrieofen=Industrial Furnace
 research.production.ind.compositemetal=Composite Metal
 research.production.ind.aluminium=Aluminum
@@ -965,6 +962,7 @@ research.log.redstonecable=Redstone Cable
 research.log.supportcable=Support Cable
 research.log.batbox=Battery Box
 research.log.networkcable=Network Cable
+research.log.supercable=Super Cable
 research.log.laser=Network Transmitter
 research.log.flashserver=Flash Server
 
@@ -1022,23 +1020,17 @@ research.chips.cooler=Cooler
 research.chips.watercooler=Water Cooler
 
 research.deco.metall=Metal Block
-research.deco.metallslab=Metal Slab
-research.deco.metalltreppe=Metal Stairs
 research.deco.metallzaun=Metal Fence
 research.deco.gitter=Grid Block
-research.deco.gitterslab=Grid Slab
-research.deco.gittertreppe=Grid Stairs
-research.deco.gitterpane=Grid
 research.deco.eisenleiter=Iron Ladder
 research.deco.vent=Vent
-research.deco.ventslab=Vent Slab
 research.deco.glass=Lacquered Glass
 research.deco.plasmalamp=Plasma Lamp
 research.deco.neonlamp=Neon Lamp
 research.deco.monitor=Monitor
 research.deco.wardrobe=Wardrobe
 research.deco.cdoor=Composite Door
-research.deco.metallgate=Metal Fence Gate
+research.deco.rs_utils=Redstone Technology
 
 research.space.magnetblock=Magnet Block
 research.space.emagnet=Electro Magnet
@@ -1066,6 +1058,7 @@ research.space.drone.mono.waypoint=Monorail Waypoint
 research.space.drone.mono.station=Monorail Station
 research.space.drone.mono.detector=Monorail Detector
 research.space.drone.mono.booster=Monorail Booster
+research.space.drone.mono.oneway=Monorail Oneway
 research.space.drone.mono.charger=Monorail Charger
 research.space.forstmaster=Forestmaster
 research.space.plantmarker=Plant Marker

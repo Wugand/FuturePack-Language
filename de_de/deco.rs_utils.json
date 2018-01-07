@@ -1,0 +1,22 @@
+[
+	"Ich habe ein paar nützliche Redstone Bauelemente entwickelt.",
+	
+	"Hebel:",
+	{
+		"type": "crafting",
+		"load": "fp:fp_lever"
+	},
+	
+	"Knopf:",
+	{
+		"type": "crafting",
+		"load": "fp:button"
+	},
+	
+	"Redstone Schaltuhr (Clock):",
+	{
+		"type": "crafting",
+		"load": "fp:rs_timer"
+	},
+	"Das Intervall der Schaltuhr kann mittels GUI eingestellt werden."
+]

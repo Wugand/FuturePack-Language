@@ -1,0 +1,22 @@
+[
+	"I have developed some useful Redstone components.",
+	
+	"Lever:",
+	{
+		"type": "crafting",
+		"load": "fp:fp_lever"
+	},
+	
+	"Button:",
+	{
+		"type": "crafting",
+		"load": "fp:button"
+	},
+	
+	"Redstone Timer (Clock):",
+	{
+		"type": "crafting",
+		"load": "fp:rs_timer"
+	},
+	"The interval of the timer can be set via GUI."
+]

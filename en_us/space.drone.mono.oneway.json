@@ -1,0 +1,9 @@
+[
+	"This special, redesigned monorail can only be crossed by Monocarts in one direction. The path-finding of the Monocart will respect this.",
+
+	"Crafting:",
+	{
+		"type": "crafting",
+		"load": "fp:monorail_oneway_0"
+	}
+]

@@ -1,0 +1,9 @@
+[
+	"Diese speziell umgebaute Schiene kann von Monocarts nur in eine Richtung überquert werden. Die Wegsuche des Monocarts wird dies entsprechend berücksichtigen.",
+	
+	"Crafting:",
+	{
+		"type": "crafting",
+		"load": "fp:monorail_oneway_0"
+	}
+]
