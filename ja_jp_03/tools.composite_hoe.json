@@ -1,0 +1,19 @@
+[
+	"複合金属のクワを開発し、従来のツールよりも強く、耐久性のあるものにしました。\n特に根を刈り取る機能は、農作業を楽にしてくれました。",
+	"作成図:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"2": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"3": {},
+			"4": {},
+			"5": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
+			"6": {},
+			"7": {},
+			"8": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
+			"9": {},
+			"out": {"name":"fp:composite_hoe"}
+		}
+	}
+]

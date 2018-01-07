@@ -1,0 +1,27 @@
+[
+	"身の回りの装置の入出力の動作を調整するために、汎用ツールを作成しました。",
+	"作成図:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"name":"minecraft:glass_pane"},
+			"2": {"OreDict":"ingotAluminum"},
+			"3": {"name":"fp:scrench"},
+			"4": {"name":"fp:spaceship", "meta":"<spaceship.NeonCoil>"},
+			"5": {"name":"fp:wire", "meta":0},
+			"6": {"name":"fp:spaceship", "meta":"<spaceship.CopperParts>"},
+			"7": {"name":"fp:chip", "meta":0},
+			"8": {"OreDict":"ingotAluminum"},
+			"9": {"name":"fp:scrench"},
+			"out": {"name":"fp:logisticEditor"}
+		}
+	},
+	"-使い方:",
+	"§l右クリック§r(空中で)することでモードを切り替えることができます。",
+	"エネルギー,サポート,ネットワーク,アイテム,液体",
+	"各モードのいずれかに対応している機械がある場合、その機械類の外観には表示が現れます(色の付いた境界線)。",
+	"§lShift-右クリック§rで、それらの側面を以下のように設定することができます。",
+	"非アクティブ(シンボルなし),\n入力(緑の矢印),\n出力(赤の矢印),\n入力+出力(両方),",
+	"対象の機械に対応している設定構成のみを選択できます。",
+	"(例:溶岩熱精練炉に対し、液体を出力する設定を行うことはできません。)"
+]
