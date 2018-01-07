@@ -1,0 +1,15 @@
+[
+	"このワールドにある金属から耐久力の非常に高い軽合金を見出し、私はそれを複合金属と名付けることにしました。",
+	"これらはさまざまな構造物に使用されており、幅広く活用していけそうです。",
+	{
+		"type": "industrialfurnace",
+		"slots": {
+			"in1":  {"OreDict":"ingotIron"},
+			"in2":  {"OreDict":"ingotCopper"},
+			"in3":  [{"OreDict":"ingotTin"}, {"OreDict":"ingotZinc"}],
+			"out1": {"name":"fp:spaceship",  "meta":"<spaceship.CompositeMetall>", "size":6},
+			"out2": {},
+			"out3": {}
+		}
+	}	
+]

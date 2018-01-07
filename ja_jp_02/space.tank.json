@@ -1,0 +1,21 @@
+[
+	"宇宙旅行における最大の懸念は、燃料を大量に用意することと、それらを安全に保管しなければならないということです。",
+	"そこで私は、8000mbの容量を持つ専用の燃料タンクを開発しました。\nさらに、ロケット燃料を固体の状態で格納できる9スロットのスペースがあります。",
+    "作成図:",
+    {
+        "type": "crafting",
+        "slots": {
+            "1": {"name":"fp:spaceship","meta":"<spaceship.Tank>"},
+            "2": {"OreDict":"ingotAluminum"},
+            "3": {"OreDict":"ingotAluminum"},
+            "4": {"name":"fp:spaceship","meta":"<spaceship.Tank>"},
+            "5": {"name":"fp:spaceship","meta":"<spaceship.IronStick>"},
+            "6": "chest",
+            "7": {"name":"fp:spaceship","meta":"<spaceship.Tank>"},
+            "8": {"OreDict":"ingotAluminum"},
+            "9": {"OreDict":"ingotAluminum"},
+            "out": {"name":"fp:fuelcell","meta":0}
+        }
+    },
+	"-注意:\nタンクはエンジンに直接接続させる必要はありません。船自体に接続されていれば十分です。"
+]

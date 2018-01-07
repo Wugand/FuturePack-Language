@@ -1,0 +1,39 @@
+[
+	"この先進的な精練炉は、バケツやパイプで供給される溶岩によって動作します。\nアイテムを溶かすと同時に熱エネルギーを放出した溶岩が冷え、凝固して黒曜石になります。\nこの熱エネルギーを使用して、3つのアイテムを同時に精錬することができます。",
+	"作成図:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"name":"fp:spaceship","meta":"<spaceship.Tank>"},
+			"2": {"OreDict":"ingotIron"},
+			"3": {"name":"fp:spaceship","meta":"<spaceship.Tank>"},
+			"4": {"name":"minecraft:furnace","meta":0},
+			"5": {"name":"minecraft:furnace","meta":0},
+			"6": {"name":"minecraft:furnace","meta":0},
+			"7": {"OreDict":"ingotIron"},
+			"8": {"name":"fp:spaceship","meta":"<spaceship.Tank>"},
+			"9": {"OreDict":"ingotIron"},
+			"out": {"name":"fp:industrie_ofen","meta":0}
+		}
+	},
+		
+	"-使い方(GUI):",
+	{
+		"type": "industrialfurnace",
+		"slots": {
+			"in1": {"name":"minecraft:cobblestone", "size":32},
+			"in2": {"OreDict":"oreCopper"},
+			"in3": {},
+			"out1": {"name":"minecraft:stone", "size":32},
+			"out2": {"name":"fp:ItemErze", "meta":2, "size":1},
+			"out3": {}
+		}
+	},
+		
+	"テクニカルデータ:",
+	"-溶岩の使用量:\nアイテム1つの精錬に対し10mb",
+	"-黒曜石の生成:\n1000mbの溶岩を消費し、黒曜石1つが得られます。",
+	"-処理速度:\n精練サイクル_400tick(20秒)",
+	"",
+	"-memo:\nスロットにいれた3つの素材を組み合わせて精錬することができるようになりました。より良い素材が得られるはずです。"
+]
