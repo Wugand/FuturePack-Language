@@ -1,0 +1,22 @@
+[
+	"私は自分の作業を効率化するために、内部にアイテムインベントリを備えた特別な作業台を再現してみました。",
+	"この作業台は、今後使用するクラフトレシピのための設備を備えています。\nそれらも、すぐに見つけ出せるはずです。",
+	"作成図:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": "OreDict:ingotIron",
+			"2": "OreDict:ingotIron",
+			"3": "OreDict:ingotIron",
+			"4": "OreDict:ingotIron",
+			"5": {"name":"minecraft:crafting_table"},
+			"6": "OreDict:ingotIron",
+			"7": "OreDict:ingotIron",
+			"8": {"name":"minecraft:chest"},
+			"9": "OreDict:ingotIron",
+			"out": {"name":"fp:techtable","meta":0}
+		}
+	},
+	"-重要:\nこのMODで追加されているクラフトレシピは、この作業台でのみ使用可能です！",
+	"1.12以降では、通常のバニラ作業台でも作成が可能です。"
+]

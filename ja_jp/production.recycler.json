@@ -1,0 +1,22 @@
+[
+	"作業や試作を繰り返していると、いつの間にか膨大な量の廃棄物を産みだしていることがあり、それらをリサイクルして活用できないかと考えました。",
+  "それで今、私はアイテムをすり砕くこと試みています。まずはコンベアベルトとケースを作成し、実際に粉砕を行う部分は消耗に備え、交換式にしてあります。",
+	"このマシンの動作には、取り換え可能な専用部品とエネルギーが必要です。\n投入された不用品を粉々にし、最大9つの素材に分解します。その速度は、組み込まれたコンピュータシステムの能力に依存しています。",
+	"作成図:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"name":"fp:pipe", "meta":2},
+			"2": {"name":"minecraft:light_weighted_pressure_plate", "meta":0},
+			"3": {"name":"fp:pipe", "meta":2},
+			"4": {"name":"fp:spaceship", "meta":"<spaceship.IronCoil>"},
+			"5": [{"name":"fp:color_iron","meta":0},{"name":"fp:color_iron","meta":8},{"name":"fp:color_iron","meta":15}],
+			"6": {"name":"fp:spaceship", "meta":"<spaceship.IronCoil>"},
+			"7": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"8": {"name":"fp:spaceship", "meta":"<spaceship.Maschinboard>"},
+			"9": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"out": [{"name":"fp:recycler","meta":2},{"name":"fp:recycler","meta":6},{"name":"fp:recycler","meta":10}]
+		}
+	},
+	"-対応しているチップセット:\n論理チップセット\n転送チップセット\nﾚｯﾄﾞｽﾄｰﾝ制御ﾁｯﾌﾟｾｯﾄ\nサポートチップセット\nﾀﾞﾒｰｼﾞ制御ﾁｯﾌﾟｾｯﾄ"
+]

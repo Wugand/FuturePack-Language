@@ -1,0 +1,22 @@
+[
+	"\"彼方のものたち\"の遺物の\n一つを復元することができました。\nこのような仕組みがどうして機能するのかを完全に把握できない状態のまま、彼らの武器の一つを作り上げてしまいました。",
+	"これは、矢の代わりに固体化したレーザービームのようなものを放つ弓で、エネルギーを十分に負荷させれば、着弾時にレーザーダーツを爆発させることもできます。",
+	"作成図:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {},
+			"2": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
+			"3": {"OreDict":"ingotRetium"},
+			"4": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
+			"5": {"name":"minecraft:bow", "meta":0},
+			"6": {"OreDict":"ingotGlowtite"},
+			"7": {},
+			"8": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
+			"9": {"OreDict":"ingotRetium"},
+			"out": {"name":"fp:laserBow", "meta":0, "size":1}
+		}
+	},
+	"使用するにはネオンエネルギーを充電させる必要があります。",
+	"このレーザーボウがエンチャントに適しているかが気になります..."
+]

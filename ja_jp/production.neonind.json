@@ -1,0 +1,23 @@
+[
+	"最新の技術を使って製錬炉を改良しました。現在はネオンエネルギーを活用し、アップグレード可能なコンピュータシステムを導入しています。",
+	"ネオン工業製錬炉は、加熱ネオンコイルとその調整を司る精密なセンサーシステムを備えており、製錬プロセスを自在に制御することができます。",
+	"これらの新しい設備によって、以前からあるレシピをより効率的に行うことができます。\n(すべてのレシピは、次の研究に掲載されています)",
+	"この機械には、さらなる可能性があると確信しています。今以上に複雑なレシピに対応するための、サポートポイントを活用するシステムも統合させました。",
+	"作成図:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"name":"fp:spaceship","meta":"<spaceship.IronCoil>"},
+			"2": {"name":"fp:industrie_ofen", "meta":0},
+			"3": {"name":"fp:spaceship","meta":"<spaceship.IronCoil>"},
+			"4": {"name":"fp:chip","meta":"<chip.DamageControlChip>"},
+			"5": [{"name":"fp:color_iron","meta":0},{"name":"fp:color_iron","meta":8},{"name":"fp:color_iron","meta":15}],
+			"6": {"name":"fp:extern_cooler", "meta":0},
+			"7": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"8": {"name":"fp:spaceship", "meta":"<spaceship.Maschinboard>"},
+			"9": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"out": [{"name":"fp:ind_neon_furn","meta":2},{"name":"fp:ind_neon_furn","meta":6},{"name":"fp:ind_neon_furn","meta":10}]
+		}
+	},
+"-重要:\nフラッシュメモリを使用してサポートポイント(SP)を供給することはできません。\n必要な技術は、のちに研究可能になるでしょう！"
+]

@@ -1,0 +1,16 @@
+[
+	"メネラーオスで発見した新素材レッチウムは、信号伝達において非常に有効な特性を持っており、それにより、メモリパーツを再び改良することができました。",
+	"組み立てレシピ:",
+	{
+		"type": "assembly",
+		"slots": {
+			"in1": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>", "size":4},
+			"in2": {"name":"fp:spaceship", "meta":"<spaceship.NeonParts>", "size":4},
+			"in3": {"OreDict":"ingotRetium"},
+			"out": {"name":"fp:ram", "meta":3, "size":1}
+		}
+	},
+	"以前の技術革新から比べると、今回の改善はごく小さなものです。\nシリコンウエハを基礎としたプロセッサ(情報処理装置)などの改良は、その限界が見えつつあります。\n抜本的な改善を行うには、次の後継となる素材を見つける必要がありそうです。",
+	"(TcT:Target_Cycle_Time)",
+	"ヒント:_概要については、\"標準型RAM\"のページを参照してください。"
+]

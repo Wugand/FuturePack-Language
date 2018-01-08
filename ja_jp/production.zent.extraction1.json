@@ -1,0 +1,42 @@
+[
+	"遠心分離機を活用して、石、砂利、その他の岩石から、より貴重な素材類を取り出すことができます。",
+	"この処理を行ってゆくと、岩石類は最終的に砂になります。",
+	"実例:",
+    {
+        "type":"zentrifuge",
+        "slots":
+        {
+            "in":{"name":"minecraft:cobblestone", "meta":0, "size":32},
+            "out1":{"name":"minecraft:gravel", "size":28, "meta":0},
+            "out2":{"name":"minecraft:stone", "size":4, "meta":5},
+            "out3":{"name":"minecraft:coal", "size":1, "meta":0}
+        },
+	    "support":0,
+	    "time":200
+    },
+	{
+        "type":"zentrifuge",
+        "slots":
+        {
+            "in":{"name":"minecraft:stone", "meta":3, "size":8},
+            "out1":{"name":"minecraft:gravel", "size":3, "meta":0},
+            "out2":{"OreDict":"gemQuartz", "size":4},
+            "out3":{"OreDict":"dustIron", "size":1}
+        },
+	    "support":0,
+	    "time":300
+    },
+	{
+        "type":"zentrifuge",
+        "slots":
+        {
+            "in":{"name":"minecraft:gravel", "meta":0, "size":16},
+            "out1":{"name":"minecraft:sand", "size":4, "meta":0},
+            "out2":{"OreDict":"dustTin", "size":1},
+            "out3":{"OreDict":"dustCopper", "size":1}
+        },
+	    "support":0,
+	    "time":300
+    },
+	"-通知:\n遠心分離機には多くのレシピがあり、ここに掲載されているものが全てではありません！"
+]
