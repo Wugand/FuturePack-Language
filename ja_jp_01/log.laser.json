@@ -1,0 +1,41 @@
+[
+	"このアンテナは、ネットワークを簡単に拡張することのできる便利な機器です。\n壁を挟んでいたり深い洞窟であったとしても、ネットワークを無線でつなぎ合わせることができます。",
+	"作成図:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"name":"fp:spaceship", "meta":"<spaceship.CopperCoil>"},
+			"2": {"name":"fp:metal_fence"},
+			"3": {"name":"fp:spaceship", "meta":"<spaceship.CopperCoil>"},
+			"4": {"name":"fp:spaceship", "meta":"<spaceship.NeonCoil>"},
+			"5": {"name":"fp:metal_fence"},
+			"6": {"name":"fp:spaceship", "meta":"<spaceship.NeonCoil>"},
+			"7": {"name":"fp:chip", "meta":"<chip.LogicChip>"},
+			"8": [{"name":"fp:color_iron", "meta":0},{"name":"fp:color_iron", "meta":8},{"name":"fp:color_iron", "meta":15}],
+			"9": {"name":"fp:chip", "meta":"<chip.LogicChip>"},
+			"out": [{"name":"fp:antenne", "meta":0, "size":1},{"name":"fp:antenne", "meta":1, "size":1},{"name":"fp:antenne", "meta":2, "size":1}]
+		}
+	},
+	"アンテナの範囲は、送信側に接続されている金属体のブロックと、受信側で接続されている金属体ブロックの数で変動します。\n(金属体は、ブロックやフェンスなどを使うことができます)",
+"",
+	"また、遠く離れた場所に向けて信号を伝達させる必要性にも思い至りました。\n今まで通りの手段で行った場合は、膨大な量のネットワークケーブルが必要になってしまいます。",
+	"そこで、1024ブロック先に\nまで信号を伝送することのできるレーザーを開発しました。\nネットワークの送信と受信に対応できるよう、それらの機能を一つのブロックにまとめてあります。",
+	"もともとは紫外線光を使ってデータ通信を行おうと考えていましたが、大気の影響によるノイズが大きすぎるために赤外線にせざるを得ませんでした。",
+	"作成図:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": "OreDict:ingotAluminum",
+			"2": {"name":"fp:spaceship", "meta":"<spaceship.Polymer>"},
+			"3": "",
+			"4": {"name":"fp:chip", "meta":"<chip.NetworkChip>"},
+			"5": {"name":"fp:spaceship", "meta":"<spaceship.Laserdiode>"},
+			"6": {"name":"fp:spaceship", "meta":"<spaceship.LinseR>"},
+			"7": "OreDict:ingotAluminum",
+			"8": {"name":"fp:spaceship", "meta":"<spaceship.Polymer>"},
+			"9": "",
+			"out": {"name":"fp:laser_transmitter", "meta":0, "size":1}
+		}
+	},
+	"レーザー光線を(長距離で)運用したい場合は、送信機と受信機同士を正確に一直線に合わせる必要があります。"
+]

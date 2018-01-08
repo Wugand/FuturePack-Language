@@ -1,0 +1,22 @@
+[
+	"大量のエネルギーを伝えると、コイルが発熱します。\n私はこの原理を利用して、エネルギーを利用した製錬炉の製作を試みました。",
+	"エネルギーの流量の制御を行うコンピュータシステムを搭載し、発熱するコイルを破損させること無く、最大限の熱量を生み出すことができます。",
+  "この製錬炉の本当の性能を引き出すには、アップグレードを積み重ねていかなければなりません。",
+	"作成図:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"name":"fp:spaceship", "meta":"<spaceship.IronCoil>"},
+			"2": {"name":"minecraft:furnace"},
+			"3": {"name":"fp:spaceship", "meta":"<spaceship.GoldCoil>"},
+			"4": {"OreDict":"ingotNeon"},
+			"5": [{"name":"fp:color_iron","meta":0},{"name":"fp:color_iron","meta":8},{"name":"fp:color_iron","meta":15}],
+			"6": {"OreDict":"ingotNeon"},
+			"7": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"8": {"name":"fp:spaceship", "meta":"<spaceship.Maschinboard>"},
+			"9": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"out": [{"name":"fp:e_furnace","meta":2},{"name":"fp:e_furnace","meta":6},{"name":"fp:e_furnace","meta":10}]
+		}
+	},
+	"-対応しているチップセット:\n論理チップセット\n転送チップセット\nﾚｯﾄﾞｽﾄｰﾝ制御ﾁｯﾌﾟｾｯﾄ\nサポートチップセット\nｱﾙﾃｨﾒｯﾄﾁｯﾌﾟｾｯﾄ\nﾀﾞﾒｰｼﾞ制御ﾁｯﾌﾟｾｯﾄ"
+]

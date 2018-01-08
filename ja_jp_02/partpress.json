@@ -1,0 +1,68 @@
+[
+	"この機械は、数種類の金属素材を小さな部品へ分割していくよう設計されています。その動作は素早く、あらゆるタイプの可燃性の燃料を受け入れます。",
+		
+	"作成図:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": "OreDict:ingotIron",
+			"2": {"name":"minecraft:piston","meta":0},
+			"3": "OreDict:ingotIron",
+			"4": "OreDict:ingotIron",
+			"5": {"name":"minecraft:iron_bars","meta":0},
+			"6": "OreDict:ingotIron",
+			"7": "OreDict:ingotIron",
+			"8": {"name":"minecraft:piston","meta":0},
+			"9": "OreDict:ingotIron",
+			"out": {"name":"fp:partpress","meta":0}
+		}
+	},
+	"レシピ:",
+	{
+        "type": "partpress",
+        "slots": {
+            "in": "OreDict:ingotIron",
+            "out": {"name":"fp:spaceship", "meta":"<spaceship.IronParts>", "size":4}
+        }
+    },
+		
+	{
+        "type": "partpress",
+        "slots": {
+            "in": "OreDict:ingotCopper",
+			"out": {"name":"fp:spaceship", "meta":"<spaceship.CopperParts>", "size":4}
+		}
+	},
+		
+	{
+		"type": "partpress",
+		"slots": {
+			"in": "OreDict:ingotNeon",
+			"out": {"name":"fp:spaceship", "meta":"<spaceship.NeonParts>", "size":4}
+		}
+	},
+		
+	{
+		"type": "partpress",
+		"slots": {
+			"in": "OreDict:gemQuartz",
+			"out": {"name":"fp:spaceship", "meta":"<spaceship.QuartzParts>", "size":4}
+		}
+	},
+		
+	{
+		"type": "partpress",
+		"slots": {
+			"in": "OreDict:gemDiamond",
+			"out": {"name":"fp:spaceship", "meta":"<spaceship.DiaParts>", "size":4}
+		}
+	},
+		
+	{
+		"type": "partpress",
+		"slots": {
+			"in": "OreDict:ingotGold",
+			"out": {"name":"fp:spaceship", "meta":"<spaceship.GoldParts>", "size":4}
+		}
+	}	
+]

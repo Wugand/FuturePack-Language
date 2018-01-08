@@ -1,0 +1,19 @@
+[
+	"複合金属製のツルハシを開発しました。これは従来のツールよりも、高い耐久性を持っています。\n耐久性を上げる決め手となったのは、鉄の持ち手です。",
+	"作成図:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"2": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"3": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"4": {},
+			"5": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
+			"6": {},
+			"7": {},
+			"8": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
+			"9": {},
+			"out": {"name":"fp:composite_pickaxe"}
+		}
+	}
+]

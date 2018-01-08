@@ -1,0 +1,19 @@
+[
+	"複合金属製のスペード\n(鋤:スキ)を開発しました。\nこれは従来のツールよりも高い耐久性を持っています。\n穴を掘ることに関しては、スペードはシャベルよりも優れています。",
+	"作成図:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {},
+			"2": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"3": {},
+			"4": {},
+			"5": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
+			"6": {},
+			"7": {},
+			"8": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
+			"9": {},
+			"out": {"name":"fp:composite_spade"}
+		}
+	}
+]

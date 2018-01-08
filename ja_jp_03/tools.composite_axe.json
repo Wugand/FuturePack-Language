@@ -1,0 +1,19 @@
+[
+	"複合金属製の斧を開発しました。これは従来のツールよりも、高い耐久性を持っています。\n最適なバランスで仕上がり、私にも軽快に振り回すことができます。",
+	"作成図:",
+	{
+		"type": "crafting",
+		"slots": {
+			"1": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"2": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"3": {},
+			"4": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"5": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
+			"6": {},
+			"7": {},
+			"8": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
+			"9": {},
+			"out": {"name":"fp:composite_axe"}
+		}
+	}
+]
