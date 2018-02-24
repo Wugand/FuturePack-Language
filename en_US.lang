@@ -420,6 +420,8 @@ tile.menelaus_mushroom_rotkappe.name=Peakhead
 tile.force_field.name=Force Field
 tile.dungeon_core.name=Dungeon Core
 tile.composite_chest.name=Composite Chest
+tile.syncronizer.name=Synchronizer
+tile.deep_core_miner.name=Deep Core Miner
 
 fluid.liquid.neon=Neon Liquid
 fluid.saltwater=Salt Water
@@ -752,7 +754,7 @@ advancements.futurepack.composite.description=Just a little bit of everything
 advancements.futurepack.menelaus.title=Menelaus
 advancements.futurepack.menelaus.description=Travel to Menelaus
 advancements.futurepack.metalhaltig.title=It contains metals
-advancements.futurepack.metalhaltig.description=Get Menelaus Gravel od Dirt
+advancements.futurepack.metalhaltig.description=Get Menelaus Gravel or Dirt
 advancements.futurepack.tyros.title=Tyros
 advancements.futurepack.tyros.description=Travel to Tyros
 advancements.futurepack.glowmelow.title=Glowmelo
@@ -1015,6 +1017,7 @@ research.chip.redstone=Redstone Control Chipset
 research.chip.network=Network Chipset
 research.chip.support=Support Chipset
 research.chip.ultimate=Ultimate Chipset
+research.chip.combinations=Combination Effects
 
 research.chips.cooler=Cooler
 research.chips.watercooler=Water Cooler
@@ -1031,6 +1034,7 @@ research.deco.monitor=Monitor
 research.deco.wardrobe=Wardrobe
 research.deco.cdoor=Composite Door
 research.deco.rs_utils=Redstone Technology
+research.deco.composite_chest=Composite Chest
 
 research.space.magnetblock=Magnet Block
 research.space.emagnet=Electro Magnet
@@ -1063,7 +1067,7 @@ research.space.drone.mono.charger=Monorail Charger
 research.space.forstmaster=Forestmaster
 research.space.plantmarker=Plant Marker
 research.space.advanced=Advanced Boardcomputer
-research.space.externalcore=External Processing Unit
+research.chips.externalcore=External Processing Unit
 
 research.tools.scrench=Scrench
 research.tools.airbrush=Airbrush

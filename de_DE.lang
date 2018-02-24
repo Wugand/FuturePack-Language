@@ -419,7 +419,9 @@ tile.menelaus_mushroom_blauling.name=Blauling
 tile.menelaus_mushroom_rotkappe.name=Spitzkappe
 tile.force_field.name=Kraftfeld
 tile.dungeon_core.name=Dungeonherz
-tile.composite_chest.name=Verbundkiste
+tile.composite_chest.name=Verbundmetalltruhe
+tile.syncronizer.name=Synchronisierer
+tile.deep_core_miner.name=Tiefen Miner
 
 fluid.liquid.neon=Neonflüssigkeit
 fluid.saltwater=Salzwasser
@@ -1015,6 +1017,7 @@ research.chip.redstone=Redstonesteuerungschipsatz
 research.chip.network=Netzwerkchipsatz
 research.chip.support=Unterstützungschipsatz
 research.chip.ultimate=Ultimativer Chipsatz
+research.chip.combinations=Kombinationseffekte
 
 research.chips.cooler=Kühler
 research.chips.watercooler=Wasserkühler
@@ -1031,6 +1034,7 @@ research.deco.monitor=Monitor
 research.deco.wardrobe=Wandschrank
 research.deco.cdoor=Verbundmetalltür
 research.deco.rs_utils=Redstonetechnik
+research.deco.composite_chest=Verbundmetalltruhe
 
 research.space.magnetblock=Magnetblock
 research.space.emagnet=Elektromagnet
@@ -1063,7 +1067,7 @@ research.space.drone.mono.charger=Monorail Lader
 research.space.forstmaster=Forstmaster
 research.space.plantmarker=Pflanzmarker
 research.space.advanced=Erweiterter Bordcomputer
-research.space.externalcore=Externe Verarbeitungseinheit
+research.chips.externalcore=Externe Verarbeitungseinheit
 
 research.tools.scrench=Schraubendrehschlüssel
 research.tools.airbrush=Farbpistole

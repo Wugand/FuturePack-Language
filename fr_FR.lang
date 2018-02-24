@@ -1015,6 +1015,7 @@ research.chip.redstone=Puce Contrôle Redstone
 research.chip.network=Puce Réseau
 research.chip.support=Puce Support
 research.chip.ultimate=Puce Ultime
+research.chip.combinations=((TODO)) #Combination Effects
 
 research.chips.cooler=Dissipateur
 research.chips.watercooler=Dissipateur à Eau
@@ -1031,6 +1032,7 @@ research.deco.monitor=Moniteur
 research.deco.wardrobe=Armoire
 research.deco.cdoor=Porte en métal Composite
 research.deco.rs_utils=((TODO)) #Redstone Technology
+research.deco.composite_chest=((TODO)) #Composite Chest
 
 research.space.magnetblock=Bloc Magnétique
 research.space.emagnet=Electro-aimant
@@ -1063,7 +1065,7 @@ research.space.drone.mono.charger=((TODO)) #Monorail Charger
 research.space.forstmaster=((TODO)) #Forestmaster
 research.space.plantmarker=((TODO)) #Plant Marker
 research.space.advanced=((TODO)) #Advanced Boardcomputer
-research.space.externalcore=((TODO)) #External Processing Unit
+research.chips.externalcore=((TODO)) #External Processing Unit
 
 research.tools.scrench=Clé à molette
 research.tools.airbrush=Pistolet Peinture

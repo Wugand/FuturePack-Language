@@ -1,0 +1,17 @@
+[
+	"Using my Centrifuge, I can process remnants of plants and other organic material to extract more dye.",
+	"Example:",
+    {
+        "type":"zentrifuge",
+        "slots":
+        {
+            "in":{"name":"minecraft:red_flower", "meta":0, "size":1},
+            "out1":{"name":"fp:spaceship", "size":1, "meta":"<spaceship.Fibers>"},
+            "out2":{"name":"fp:spaceship", "size":1, "meta":"<spaceship.Kompost>"},
+            "out3":{"name":"minecraft:dye", "size":4, "meta":1}
+        },
+	    "support":4,
+	    "time":100
+    },
+    "Information: The centrifuge has a large number recipes, so not all listed here!"
+]

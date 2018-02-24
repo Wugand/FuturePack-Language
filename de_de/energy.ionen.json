@@ -1,0 +1,9 @@
+[	
+	"Durch Luftreibung, Strahlung, Sonnenlicht und anderen Einflüssen entsteht ein gewisser Teil an Ionen in der Luft. Mit einer Gitterkonstruktion kann ich diese Partikel einsammeln und mit einem modifizierten Solar Panel zu Neonenergie umwandeln.", 
+	"Besonders viele Ionen entstehen bei Gewitter und starker Sonneneinstrahlung, der Ionenkollektor kann diese sehr effizient Umwandeln. Mit dieser Konstruktion kann ich sogar Nachts Energie produzieren.",
+	"Crafting:",
+	{
+		"type": "crafting",
+		"load": ["fp:ion_collector_0", "fp:ion_collector_1", "fp:ion_collector_2"]
+	}
+]

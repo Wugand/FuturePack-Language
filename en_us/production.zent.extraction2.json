@@ -1,0 +1,42 @@
+[
+	"With the assistance of my centrifuge, I can process ore to extract more valuable materials.",
+	"By using Support-Points I am able to extract dust with an ratio of 1:2.5 from the ores. And a small amount of an additional material, too.",
+	"Example:",
+    {
+        "type":"zentrifuge",
+        "slots":
+        {
+            "in":{"OreDict":"oreIron", "size":4},
+            "out1":{"OreDict":"dustIron", "size":10},
+            "out2":{"name":"minecraft:cobblestone", "size":3, "meta":0},
+            "out3":{"OreDict":"dustGold", "size":1}
+        },
+	    "support":2,
+	    "time":200
+    },
+	{
+        "type":"zentrifuge",
+        "slots":
+        {
+            "in":{"OreDict":"oreDiamond", "size":4},
+            "out1":{"OreDict":"gemDiamond", "size":12},
+            "out2":{"name":"minecraft:cobblestone", "size":3, "meta":0},
+            "out3":{"OreDict":"nuggetGold", "size":12}
+        },
+	    "support":8,
+	    "time":200
+    },
+	{
+        "type":"zentrifuge",
+        "slots":
+        {
+            "in":{"OreDict":"oreCopper", "size":4},
+            "out1":{"OreDict":"dustCopper", "size":10},
+            "out2":{"name":"minecraft:cobblestone", "size":3, "meta":0},
+            "out3":{"OreDict":"dustTin", "size":2}
+        },
+	    "support":4,
+	    "time":200
+    },
+    "Information: The centrifuge has many recipes, so not all listed here!"
+]

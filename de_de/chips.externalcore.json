@@ -1,0 +1,9 @@
+[
+	"Die Möglichkeiten des \"Übertaktens\" sind begrenzt und nur auf Blöcke mit Computersystem anwendbar. Mit Hilfe der Nanostrukturmanipulation kann ich allerdings jeden arbeitenden Block (tickende TileEntity) manipulieren, um diesem zusätzliche Arbeitsschritte hinzuzufügen.",
+	"Dazu habe ich eine Maschine entwickelt, welche ich an andere Blöcke platzieren kann. Sie verfügt über ein Computersystem und benötigt Neonenergie. Eine einzelne Externe Verarbeitungseinheit mit einem Takt von 100% verdoppelt dabei die Geschwindigkeit des Blocks.",
+	"Crafting:",
+	{
+		"type": "crafting",
+		"load": "fp:external_core"
+	}
+]

@@ -1073,7 +1073,7 @@ research.space.drone.mono.charger=チャージモノレール
 research.space.forstmaster=フォレストマスター
 research.space.plantmarker=プラントマスター
 research.space.advanced=上級ボードコンピュータ
-research.space.externalcore=増設処理装置
+research.chips.externalcore=増設処理装置
 
 research.tools.scrench=スクレンチ
 research.tools.airbrush=エアブラシ

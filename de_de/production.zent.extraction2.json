@@ -1,0 +1,42 @@
+[
+	"Mit Hilfe meiner Zentrifuge kann ich auch Erze verarbeiten, um mehr wertvolle Materialien zu extrahieren.",
+	"Durch die Nutzung von Support-Punkten kann ich aus den Erzen, Staub mit einer Rate von 1:2,5 und einen weiterer Stoff in geringer Menge exrahiert werden.",
+	"Beispiele:",
+    {
+        "type":"zentrifuge",
+        "slots":
+        {
+            "in":{"OreDict":"oreIron", "size":4},
+            "out1":{"OreDict":"dustIron", "size":10},
+            "out2":{"name":"minecraft:cobblestone", "size":3, "meta":0},
+            "out3":{"OreDict":"dustGold", "size":1}
+        },
+	    "support":2,
+	    "time":200
+    },
+	{
+        "type":"zentrifuge",
+        "slots":
+        {
+            "in":{"OreDict":"oreDiamond", "size":4},
+            "out1":{"OreDict":"gemDiamond", "size":12},
+            "out2":{"name":"minecraft:cobblestone", "size":3, "meta":0},
+            "out3":{"OreDict":"nuggetGold", "size":12}
+        },
+	    "support":8,
+	    "time":200
+    },
+	{
+        "type":"zentrifuge",
+        "slots":
+        {
+            "in":{"OreDict":"oreCopper", "size":4},
+            "out1":{"OreDict":"dustCopper", "size":10},
+            "out2":{"name":"minecraft:cobblestone", "size":3, "meta":0},
+            "out3":{"OreDict":"dustTin", "size":2}
+        },
+	    "support":4,
+	    "time":200
+    },
+     "Information: Die Zentrifuge hat sehr viele Rezepte, es werden hier nicht alle aufgelistet!"
+]

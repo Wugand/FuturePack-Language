@@ -4,7 +4,7 @@
 		"slots": {
 			"in1": {"name":"fp:spaceship","meta":"<spaceship.Silizium>","size":1},
 			"in2": {"name":"fp:spaceship","meta":"<spaceship.QuartzParts>","size":1},
-			"in3": {"name":"fp:pucher","meta":0,"size":1},
+			"in3": {"name":"minecraft:bow","meta":0,"size":1},
 			"out": {"name":"fp:chip", "meta":"<chip.LogisticChip>", "size":1}
 		}
 	}
