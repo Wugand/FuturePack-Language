@@ -1,43 +1,15 @@
 [
-	"Mit Hilfe meiner Zentrifuge kann ich Abraum und Gestein verarbeiten, um Spuren von wertvolleren Materialien zu extrahieren.",
-	"Ich kann dieses Verfahren mehrmals auf die verschiedensten Gesteine anwenden, um Schlussendlich feinen sauberen Sand zu erhalten.",
-	"Beispiele:",
-    {
-        "type":"zentrifuge",
-        "slots":
-        {
-            "in":{"name":"minecraft:cobblestone", "meta":0, "size":32},
-            "out1":{"name":"minecraft:gravel", "size":28, "meta":0},
-            "out2":{"name":"minecraft:stone", "size":4, "meta":5},
-            "out3":{"name":"minecraft:coal", "size":1, "meta":0}
-        },
-	    "support":0,
-	    "time":200
-    },
-	{
-        "type":"zentrifuge",
-        "slots":
-        {
-            "in":{"name":"minecraft:stone", "meta":3, "size":8},
-            "out1":{"name":"minecraft:gravel", "size":3, "meta":0},
-            "out2":{"OreDict":"gemQuartz", "size":4},
-            "out3":{"OreDict":"dustIron", "size":1}
-        },
-	    "support":0,
-	    "time":300
-    },
-	{
-        "type":"zentrifuge",
-        "slots":
-        {
-            "in":{"name":"minecraft:gravel", "meta":0, "size":16},
-            "out1":{"name":"minecraft:sand", "size":4, "meta":0},
-            "out2":{"OreDict":"dustTin", "size":1},
-            "out3":{"OreDict":"dustCopper", "size":1}
-        },
-	    "support":0,
-	    "time":300
-    },
-	
-    "Information: Die Zentrifuge hat sehr viele Rezepte, es werden hier nicht alle aufgelistet!"
+  "Mit Hilfe meiner Zentrifuge kann ich Abraum und Gestein verarbeiten, um Spuren von wertvolleren Materialien zu extrahieren.",
+  "Ich kann dieses Verfahren mehrmals auf die verschiedensten Gesteine anwenden, um Schlussendlich feinen sauberen Sand zu erhalten.",
+  "Beispiele:",
+  {
+    "link": "fp:lang/part/zentrifuge_production.zent.extraction1.json"
+  },
+  {
+    "link": "fp:lang/part/zentrifuge_production.zent.extraction12.json"
+  },
+  {
+    "link": "fp:lang/part/zentrifuge_production.zent.extraction13.json"
+  },
+  "Information: Die Zentrifuge hat sehr viele Rezepte, es werden hier nicht alle aufgelistet!"
 ]

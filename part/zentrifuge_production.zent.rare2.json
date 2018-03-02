@@ -1,0 +1,28 @@
+[
+  {
+    "type": "zentrifuge",
+    "slots": {
+      "in": {
+        "name": "fp:gravel",
+        "meta": 0,
+        "size": 8
+      },
+      "out1": {
+        "name": "minecraft:gravel",
+        "size": 4,
+        "meta": 0
+      },
+      "out2": {
+        "name": "minecraft:clay_ball",
+        "size": 6,
+        "meta": 0
+      },
+      "out3": {
+        "OreDict": "ingotRareEarthMetal",
+        "size": 12
+      }
+    },
+    "support": 0,
+    "time": 240
+  }
+]

@@ -1,23 +1,9 @@
 [
-	"Pour connecter un processeur, une mémoire et des puces, j'ai créé une grande plaque de quartz isolée avec des connexions, des emplacements et des unités de d'alimentation",
-	"Craft :",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {"name":"fp:spaceship", "meta":"<spaceship.QuartzParts>"},
-			"2": [{"name":"fp:ram","meta":0}],
-			"3": {"name":"fp:spaceship", "meta":"<spaceship.QuartzParts>"},
-			"4": {"name":"fp:spaceship", "meta":"<spaceship.CopperCoil>"},
-			"5": [{"name":"fp:core","meta":0}],
-			"6": {"name":"fp:spaceship", "meta":"<spaceship.CopperCoil>"},
-			"7": {"name":"fp:spaceship", "meta":"<spaceship.QuartzParts>"},
-			"8": [{"name":"fp:chip","meta":0}],
-			"9": {"name":"fp:spaceship", "meta":"<spaceship.QuartzParts>"},
-			"out": {"name":"fp:spaceship","meta":"<spaceship.Maschinboard>"}
-		}
-	},
-	
-	"Information :",
-	"Lors de la création, je peux combiner plusieurs types de processeur et de mémoires. Tous les composants seront remplaçables plus tard (voir \"Overclocking\") ! Il est possible que les paramétrages définis lors du craft ne marche pas immédiatement ou commencent à surchauffer."
-	
+  "Pour connecter un processeur, une mémoire et des puces, j\u0027ai créé une grande plaque de quartz isolée avec des connexions, des emplacements et des unités de d\u0027alimentation",
+  "Craft :",
+  {
+    "link": "fp:lang/part/crafting_motherboard.json"
+  },
+  "Information :",
+  "Lors de la création, je peux combiner plusieurs types de processeur et de mémoires. Tous les composants seront remplaçables plus tard (voir \"Overclocking\") ! Il est possible que les paramétrages définis lors du craft ne marche pas immédiatement ou commencent à surchauffer."
 ]

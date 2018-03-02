@@ -1,9 +1,7 @@
 [
-	"Das normale Kabel kann nur 500 NE pro Tick transportieren, das kann in manchen Fällen zu wenig sein, deshalb habe ich das einfache Kabel mit besseren Verbindern und einer weiteren Neonschicht versehen. Das verbesserte Kabel kann somit bis zu 1000 NE pro Tick transportieren.",
-	
-	"Crafting:",
-	{
-		"type": "crafting",
-		"load": "fp:wire_2"
-	}
+  "Das normale Kabel kann nur 500 NE pro Tick transportieren, das kann in manchen Fällen zu wenig sein, deshalb habe ich das einfache Kabel mit besseren Verbindern und einer weiteren Neonschicht versehen. Das verbesserte Kabel kann somit bis zu 1000 NE pro Tick transportieren.",
+  "Crafting:",
+  {
+    "link": "fp:lang/part/crafting_log.supercable.json"
+  }
 ]

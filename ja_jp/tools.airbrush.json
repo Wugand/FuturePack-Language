@@ -1,42 +1,17 @@
 [
-	"複合金属で作ったブロックに、色を塗るためのツールができました。",
-	"いわゆるエアブラシ。タンクに入れた染料を空気圧で飛ばし、均一に吹き付けることができます。この装置はブロックを塗装するだけでなく、サンドブラスト機能も備えおり、染料をはがすこともできます。それをするには砂や砂利が必要です。",
-	"作成図:",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"2": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"3": {"name":"fp:spaceship", "meta":"<spaceship.IronParts>"},
-			"4": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
-			"5": {"name":"minecraft:stone_button", "meta":0},
-			"6": {},
-			"7": {},
-			"8": {},
-			"9": {},
-			"out": {"name":"fp:airBrush"}
-		}
-	},
-	"カラータンク (不定形):",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {"name":"minecraft:water_bucket"},
-			"2": {"name":"fp:spaceship", "meta":"<spaceship.Tank>"},
-			"3": {},
-			"4": [{"name":"minecraft:dye", "meta":15},{"name":"minecraft:dye", "meta":14},{"name":"minecraft:dye", "meta":13},{"name":"minecraft:dye", "meta":12},{"name":"minecraft:dye", "meta":11},{"name":"minecraft:dye", "meta":10},{"name":"minecraft:dye", "meta":9},{"name":"minecraft:dye", "meta":8},{"name":"minecraft:dye", "meta":7},{"name":"minecraft:dye", "meta":6},{"name":"minecraft:dye", "meta":5},{"name":"minecraft:dye", "meta":4},{"name":"minecraft:dye", "meta":3},{"name":"minecraft:dye", "meta":2},{"name":"minecraft:dye", "meta":1},{"name":"minecraft:dye", "meta":0}],
-			"5": [{"name":"minecraft:dye", "meta":15},{"name":"minecraft:dye", "meta":14},{"name":"minecraft:dye", "meta":13},{"name":"minecraft:dye", "meta":12},{"name":"minecraft:dye", "meta":11},{"name":"minecraft:dye", "meta":10},{"name":"minecraft:dye", "meta":9},{"name":"minecraft:dye", "meta":8},{"name":"minecraft:dye", "meta":7},{"name":"minecraft:dye", "meta":6},{"name":"minecraft:dye", "meta":5},{"name":"minecraft:dye", "meta":4},{"name":"minecraft:dye", "meta":3},{"name":"minecraft:dye", "meta":2},{"name":"minecraft:dye", "meta":1},{"name":"minecraft:dye", "meta":0}],
-			"6": [{"name":"minecraft:dye", "meta":15},{"name":"minecraft:dye", "meta":14},{"name":"minecraft:dye", "meta":13},{"name":"minecraft:dye", "meta":12},{"name":"minecraft:dye", "meta":11},{"name":"minecraft:dye", "meta":10},{"name":"minecraft:dye", "meta":9},{"name":"minecraft:dye", "meta":8},{"name":"minecraft:dye", "meta":7},{"name":"minecraft:dye", "meta":6},{"name":"minecraft:dye", "meta":5},{"name":"minecraft:dye", "meta":4},{"name":"minecraft:dye", "meta":3},{"name":"minecraft:dye", "meta":2},{"name":"minecraft:dye", "meta":1},{"name":"minecraft:dye", "meta":0}],
-			"7": {},
-			"8": {},
-			"9": {},
-			"out": [{"name":"fp:lackTank0"},{"name":"fp:lackTank1"},{"name":"fp:lackTank2"},{"name":"fp:lackTank3"},{"name":"fp:lackTank4"},{"name":"fp:lackTank5"},{"name":"fp:lackTank6"},{"name":"fp:lackTank7"},{"name":"fp:lackTank8"},{"name":"fp:lackTank9"},{"name":"fp:lackTank10"},{"name":"fp:lackTank11"},{"name":"fp:lackTank12"},{"name":"fp:lackTank13"},{"name":"fp:lackTank14"},{"name":"fp:lackTank15"}]
-		}
-	},
-	"-使い方:",
-	"§lShift-右クリック§rで、カラータンクや砂、砂利を挿入できるエアブラシのインベントリを開きます。",
-	"金属体、メッシュのブロックへ§l右クリック§rすることで吹き付け(ブラッシュ)をすることができます。 砂を吹き付けるとブロックの色をはがすことができ、カラータンクを使用するとそれぞれの色に塗装されます。",
-	
-	"塗装可能できるかどうかは、ブロックの調査情報のページで分かります。\n(単純に試してみましょう)",
-	"-memo:\nすでに塗装されているブロックの色を直接変えることはできません。先に色をはがさなくてはなりません。"
+  "複合金属で作ったブロックに、色を塗るためのツールができました。",
+  "いわゆるエアブラシ。タンクに入れた染料を空気圧で飛ばし、均一に吹き付けることができます。この装置はブロックを塗装するだけでなく、サンドブラスト機能も備えおり、染料をはがすこともできます。それをするには砂や砂利が必要です。",
+  "作成図:",
+  {
+    "link": "fp:lang/part/crafting_tools.airbrush.json"
+  },
+  "カラータンク (不定形):",
+  {
+    "link": "fp:lang/part/crafting_tools.airbrush2.json"
+  },
+  "-使い方:",
+  "§lShift-右クリック§rで、カラータンクや砂、砂利を挿入できるエアブラシのインベントリを開きます。",
+  "金属体、メッシュのブロックへ§l右クリック§rすることで吹き付け(ブラッシュ)をすることができます。 砂を吹き付けるとブロックの色をはがすことができ、カラータンクを使用するとそれぞれの色に塗装されます。",
+  "塗装可能できるかどうかは、ブロックの調査情報のページで分かります。\n(単純に試してみましょう)",
+  "-memo:\nすでに塗装されているブロックの色を直接変えることはできません。先に色をはがさなくてはなりません。"
 ]

@@ -1,23 +1,9 @@
 [
-	"Mit der Zeit ist es sehr lästig immer wieder die Flashspeicher zu wechseln. Deshalb habe ich ein Kabel entwickelt, dass die Supportpunkte zwischen Maschinen transportieren kann.",
-	"Es ist ein Normales Kabel ergänzt mit einer Glowtit-Ummantelung, dadurch kann es Supportpunkte leiten, wenn sie an das Kabel übertragen werden.",
-	
-	"Crafting:",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {},
-			"2": {"OreDict":"ingotGlowtite"},
-			"3": {},
-			"4": {"name":"fp:wire", "meta":0},
-			"5": {"name":"fp:wire", "meta":0},
-			"6": {"name":"fp:wire", "meta":0},
-			"7": {},
-			"8": {},
-			"9": {},
-			"out": {"name":"fp:wire", "meta":3, "size":3}
-		}
-	},
-	
-	"Das Kabel kann selber die Informationen nicht lange speichern, es braucht also auch ein Ziel, damit keine Verluste entstehen."
+  "Mit der Zeit ist es sehr lästig immer wieder die Flashspeicher zu wechseln. Deshalb habe ich ein Kabel entwickelt, dass die Supportpunkte zwischen Maschinen transportieren kann.",
+  "Es ist ein Normales Kabel ergänzt mit einer Glowtit-Ummantelung, dadurch kann es Supportpunkte leiten, wenn sie an das Kabel übertragen werden.",
+  "Crafting:",
+  {
+    "link": "fp:lang/part/crafting_log.supportcable.json"
+  },
+  "Das Kabel kann selber die Informationen nicht lange speichern, es braucht also auch ein Ziel, damit keine Verluste entstehen."
 ]

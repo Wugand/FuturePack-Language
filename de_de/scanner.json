@@ -1,34 +1,22 @@
 [
-	"Die Funktionsweise des E-Scanners, den ich in einer der Strukturen der Ungreifbaren gefunden habe, ist mir immer noch ein Rätsel. Allerdings ist es mir Gelungen dieses Gerät du modifizieren, dabei habe ich scheinbar auch Funktionen entdeckt die mir vorher verborgen waren.",
-	"Mein Konstrukt nenne ich Scanner, da ich damit meine bisherige Technik analysieren und verbessern kann. Zur Benutzung benötige ich nur ein erforschtes Item und etwas Geduld. Die Technologie der Ungreifbaren unterstütz mich bei dem Erkennen der Möglichkeiten, ich muss allerding noch die Grundaspekte wählen mit den ich arbeiten möchte.",
-	"Wenn ich so eine umsetzbare Idee entwickelt habe, kann ich mir die Ergebnisse als Blaupause drucken um sie weiter auszuarbeiten.",
-	"Crafting:",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {"name":"fp:cristall","meta":0},
-			"2": {"name":"fp:escenner","meta":0},
-			"3": {"name":"fp:cristall","meta":0},
-			"4": "OreDict:ingotIron",
-			"5": [{"name":"fp:color_iron","meta":0},{"name":"fp:color_iron","meta":8},{"name":"fp:color_iron","meta":15}],
-			"6": "OreDict:ingotIron",
-			"7": {"name":"fp:spaceship","meta":"<spaceship.CopperCoil>"},
-			"8": {"name":"fp:spaceship","meta":"<spaceship.IronParts>"},
-			"9": {"name":"fp:spaceship","meta":"<spaceship.CopperCoil>"},
-			"out": [{"name":"fp:scanner_block","meta":2},{"name":"fp:scanner_block","meta":6},{"name":"fp:scanner_block","meta":10}]
-		}
-	},
-	"Tipp: Lies vorher die Informationen zu \"Das Forschungssytem\"!",
-	"Benutzung im Detail:",
-	"Nachdem das zu untersuchende Item in den Slot oben links gelegt wurde, zeigt der gelbe Balken an wie viele Forschungen mit diesem Item noch durchführbar sind (vom Gesamtwert)",
-	"Im rechten Teil sind die 12 Aspekte, diese müssen entsprechend ausgewählt werden. Dabei sind mindestens 1 und maximal circa 6 notwendig.",
-	"Im mittleren Teil befindet sich (inzwischen) ein \"Scannen\"-Button, mit dem die aktuell eingestellte Kombination getestet werden kann. Nach einer Animation können folgende ausgaben erscheinen:",
-	"Puzzleteile: Die aktuelle Auswahl ist korrekt, allerdings sind weitere Aspekte notwendig.",
-	"Goldener Stern: Forschung erfolgreich. Blaupause kann entnommen werden.",
-	"Gelbes X: Mindestens einer der gewählten Aspekte ist falsch.",
-	"Rotes X: Für dieses Item gibt es keine Forschungen.",
-	"Grüner Haken: Alle Forschungen mit diesem Item sind abgeschlossen.",
-	"Gelbes Fragezeichen: Es gibt noch weitere Forschungen mit diesem Item, allerdings fehlen Vorbedingungen für diese.",
-	"Hinweis: Die Blaupause kann so lange erzeugt werden bis die zugehörige Forschung im Forscher abgeschlossen wurde, es können währenddessen mit anderen Aspekten allerdings noch andere Forschungen als Blaupause aus diesem 'Item erzeugt werden(falls vorhanden).",
-	"Tipp: Links neben dem Blaupausen-Slot befindet sich ein Button zum öffen des Forschungsbaums."
-]	
+  "Die Funktionsweise des E-Scanners, den ich in einer der Strukturen der Ungreifbaren gefunden habe, ist mir immer noch ein Rätsel. Allerdings ist es mir Gelungen dieses Gerät du modifizieren, dabei habe ich scheinbar auch Funktionen entdeckt die mir vorher verborgen waren.",
+  "Mein Konstrukt nenne ich Scanner, da ich damit meine bisherige Technik analysieren und verbessern kann. Zur Benutzung benötige ich nur ein erforschtes Item und etwas Geduld. Die Technologie der Ungreifbaren unterstütz mich bei dem Erkennen der Möglichkeiten, ich muss allerding noch die Grundaspekte wählen mit den ich arbeiten möchte.",
+  "Wenn ich so eine umsetzbare Idee entwickelt habe, kann ich mir die Ergebnisse als Blaupause drucken um sie weiter auszuarbeiten.",
+  "Crafting:",
+  {
+    "link": "fp:lang/part/crafting_scanner.json"
+  },
+  "Tipp: Lies vorher die Informationen zu \"Das Forschungssytem\"!",
+  "Benutzung im Detail:",
+  "Nachdem das zu untersuchende Item in den Slot oben links gelegt wurde, zeigt der gelbe Balken an wie viele Forschungen mit diesem Item noch durchführbar sind (vom Gesamtwert)",
+  "Im rechten Teil sind die 12 Aspekte, diese müssen entsprechend ausgewählt werden. Dabei sind mindestens 1 und maximal circa 6 notwendig.",
+  "Im mittleren Teil befindet sich (inzwischen) ein \"Scannen\"-Button, mit dem die aktuell eingestellte Kombination getestet werden kann. Nach einer Animation können folgende ausgaben erscheinen:",
+  "Puzzleteile: Die aktuelle Auswahl ist korrekt, allerdings sind weitere Aspekte notwendig.",
+  "Goldener Stern: Forschung erfolgreich. Blaupause kann entnommen werden.",
+  "Gelbes X: Mindestens einer der gewählten Aspekte ist falsch.",
+  "Rotes X: Für dieses Item gibt es keine Forschungen.",
+  "Grüner Haken: Alle Forschungen mit diesem Item sind abgeschlossen.",
+  "Gelbes Fragezeichen: Es gibt noch weitere Forschungen mit diesem Item, allerdings fehlen Vorbedingungen für diese.",
+  "Hinweis: Die Blaupause kann so lange erzeugt werden bis die zugehörige Forschung im Forscher abgeschlossen wurde, es können währenddessen mit anderen Aspekten allerdings noch andere Forschungen als Blaupause aus diesem \u0027Item erzeugt werden(falls vorhanden).",
+  "Tipp: Links neben dem Blaupausen-Slot befindet sich ein Button zum öffen des Forschungsbaums."
+]

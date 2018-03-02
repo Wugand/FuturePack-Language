@@ -1,19 +1,7 @@
 [
-	"Ich habe eine Axt aus Verbundmetall entwickelt, sie ist wesentlich stabiler und langlebiger als die herkömmlichen Werkzeuge. Durch ihr geringes Gewicht lässt sie sich besonders leicht schwingen.",
-	"Crafting:",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"2": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"3": {},
-			"4": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"5": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
-			"6": {},
-			"7": {},
-			"8": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
-			"9": {},
-			"out": {"name":"fp:composite_axe"}
-		}
-	}
+  "Ich habe eine Axt aus Verbundmetall entwickelt, sie ist wesentlich stabiler und langlebiger als die herkömmlichen Werkzeuge. Durch ihr geringes Gewicht lässt sie sich besonders leicht schwingen.",
+  "Crafting:",
+  {
+    "link": "fp:lang/part/crafting_tools.composite_axe.json"
+  }
 ]

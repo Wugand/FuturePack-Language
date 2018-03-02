@@ -1,18 +1,14 @@
 [
-	"Les points Support produit par ma machine ne peuvent pas être transportés de façon classique, parce que ce ne sont que des données virtuelles. Pour résoudre ce problème, j'ai développé une mémoire Flash, qui peut stocker et transporter une certaine quantité de points Support.",
-	"Cette première mémoire Flash toute simple (mémoire Redstone Flash) est basé sur un petit élément de Redstone qui peut prendre 2 états. Comme ces éléments sont très sensibles aux influences physiques et électriques, je les ai placés dans une petite caisse protectrice en or et résistante à la corrosion.",
-	"Une puce logique incluse à la mémoire contient un programme spécifique qui permet de gérer l'organisation interne et d'avoir un accès à la mémoire.",
-	
-	"Assemblage:",
-	{"link":"fp:lang/part/as_log.flash.1.json"},
-	"Capacité: 128 SP",
-	
-	"Information: l'emplacement suivant sert au chargement/déchargement des mémoires Flash (présent sur quelques machines).",
-	{
-		"type":"image",
-		"width":32,
-		"height":32,
-		"resource":"fp:textures/research/slot_support.png"
-	}
-	
+  "Les points Support produit par ma machine ne peuvent pas être transportés de façon classique, parce que ce ne sont que des données virtuelles. Pour résoudre ce problème, j\u0027ai développé une mémoire Flash, qui peut stocker et transporter une certaine quantité de points Support.",
+  "Cette première mémoire Flash toute simple (mémoire Redstone Flash) est basé sur un petit élément de Redstone qui peut prendre 2 états. Comme ces éléments sont très sensibles aux influences physiques et électriques, je les ai placés dans une petite caisse protectrice en or et résistante à la corrosion.",
+  "Une puce logique incluse à la mémoire contient un programme spécifique qui permet de gérer l\u0027organisation interne et d\u0027avoir un accès à la mémoire.",
+  "Assemblage:",
+  {
+    "link": "fp:lang/part/as_log.flash.1.json"
+  },
+  "Capacité: 128 SP",
+  "Information: l\u0027emplacement suivant sert au chargement/déchargement des mémoires Flash (présent sur quelques machines).",
+  {
+    "link": "fp:lang/part/image_log.flash.1.json"
+  }
 ]

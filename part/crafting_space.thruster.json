@@ -1,0 +1,176 @@
+[
+  {
+    "type": "crafting",
+    "slots": {
+      "1": {
+        "name": "fp:spaceship",
+        "meta": "\u003cspaceship.keramik\u003e"
+      },
+      "2": {
+        "name": "fp:spaceship",
+        "meta": "\u003cspaceship.keramik\u003e"
+      },
+      "3": {
+        "name": "fp:spaceship",
+        "meta": "\u003cspaceship.CompositeMetall\u003e"
+      },
+      "4": {
+        "name": "fp:spaceship",
+        "meta": "\u003cspaceship.QuartzParts\u003e"
+      },
+      "5": [
+        {
+          "OreDict": "dyeLightBlue"
+        },
+        {
+          "OreDict": "dyeYellow"
+        },
+        {
+          "OreDict": "dyeLime"
+        },
+        {
+          "OreDict": "dyeOrange"
+        },
+        {
+          "OreDict": "dyePurple"
+        }
+      ],
+      "6": [
+        {
+          "name": "fp:color_iron",
+          "meta": 0
+        },
+        {
+          "name": "fp:color_iron",
+          "meta": 0
+        },
+        {
+          "name": "fp:color_iron",
+          "meta": 0
+        },
+        {
+          "name": "fp:color_iron",
+          "meta": 0
+        },
+        {
+          "name": "fp:color_iron",
+          "meta": 0
+        },
+        {
+          "name": "fp:color_iron",
+          "meta": 8
+        },
+        {
+          "name": "fp:color_iron",
+          "meta": 8
+        },
+        {
+          "name": "fp:color_iron",
+          "meta": 8
+        },
+        {
+          "name": "fp:color_iron",
+          "meta": 8
+        },
+        {
+          "name": "fp:color_iron",
+          "meta": 8
+        },
+        {
+          "name": "fp:color_iron",
+          "meta": 15
+        },
+        {
+          "name": "fp:color_iron",
+          "meta": 15
+        },
+        {
+          "name": "fp:color_iron",
+          "meta": 15
+        },
+        {
+          "name": "fp:color_iron",
+          "meta": 15
+        },
+        {
+          "name": "fp:color_iron",
+          "meta": 15
+        }
+      ],
+      "7": {
+        "name": "fp:spaceship",
+        "meta": "\u003cspaceship.keramik\u003e"
+      },
+      "8": {
+        "name": "fp:spaceship",
+        "meta": "\u003cspaceship.keramik\u003e"
+      },
+      "9": {
+        "name": "fp:spaceship",
+        "meta": "\u003cspaceship.CompositeMetall\u003e"
+      },
+      "out": [
+        {
+          "name": "fp:triebwerk",
+          "meta": 0
+        },
+        {
+          "name": "fp:triebwerk",
+          "meta": 1
+        },
+        {
+          "name": "fp:triebwerk",
+          "meta": 2
+        },
+        {
+          "name": "fp:triebwerk",
+          "meta": 3
+        },
+        {
+          "name": "fp:triebwerk",
+          "meta": 4
+        },
+        {
+          "name": "fp:triebwerk",
+          "meta": 5
+        },
+        {
+          "name": "fp:triebwerk",
+          "meta": 6
+        },
+        {
+          "name": "fp:triebwerk",
+          "meta": 7
+        },
+        {
+          "name": "fp:triebwerk",
+          "meta": 8
+        },
+        {
+          "name": "fp:triebwerk",
+          "meta": 9
+        },
+        {
+          "name": "fp:triebwerk",
+          "meta": 10
+        },
+        {
+          "name": "fp:triebwerk",
+          "meta": 11
+        },
+        {
+          "name": "fp:triebwerk",
+          "meta": 12
+        },
+        {
+          "name": "fp:triebwerk",
+          "meta": 13
+        },
+        {
+          "name": "fp:triebwerk",
+          "meta": 14
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "type": "zentrifuge",
+    "slots": {
+      "in": {
+        "name": "minecraft:cobblestone",
+        "meta": 0,
+        "size": 32
+      },
+      "out1": {
+        "name": "minecraft:gravel",
+        "size": 28,
+        "meta": 0
+      },
+      "out2": {
+        "name": "minecraft:stone",
+        "size": 4,
+        "meta": 5
+      },
+      "out3": {
+        "name": "minecraft:coal",
+        "size": 1,
+        "meta": 0
+      }
+    },
+    "support": 0,
+    "time": 200
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "type": "crafting",
+    "load": [
+      "fp:ion_collector_0",
+      "fp:ion_collector_1",
+      "fp:ion_collector_2"
+    ]
+  }
+]

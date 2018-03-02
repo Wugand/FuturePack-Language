@@ -1,22 +1,9 @@
-[	
-	"Un faisceau concentré de lumière est capable de transporter une importante quantité d'énergie, qui serait suffisante pour fondre du métal.",
-	"Grâce à quelques unes de mes nouvelles recherches, je suis capable de créer un faisceau de lumière extrêmement concentré.",
-	"Je l'ai réalisé grâce à l'alimentation d'énergie dans une gemme qui se trouve entre deux miroirs semi-transparents. Cette fois, la gemme est stimulée pour émettre une lumière au moment exact où le faisceau de lumière sera parfaitement synchrone.",
-
-	"Crafting:",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {"OreDict":"ingotAluminum"},
-			"2": {"name":"fp:spaceship", "meta":"<spaceship.NeonCoil>"},
-			"3": {},
-			"4": {"name":"minecraft:glass_pane"},
-			"5": {"OreDict":"gemDiamond"},
-			"6": {"name":"minecraft:glass_pane"},
-			"7": {"OreDict":"ingotAluminum"},
-			"8": {"name":"fp:spaceship", "meta":"<spaceship.NeonCoil>"},
-			"9": {},
-			"out": [{"name":"fp:spaceship", "meta":"<spaceship.Laserdiode>"}]
-		}
-	}
+[
+  "Un faisceau concentré de lumière est capable de transporter une importante quantité d\u0027énergie, qui serait suffisante pour fondre du métal.",
+  "Grâce à quelques unes de mes nouvelles recherches, je suis capable de créer un faisceau de lumière extrêmement concentré.",
+  "Je l\u0027ai réalisé grâce à l\u0027alimentation d\u0027énergie dans une gemme qui se trouve entre deux miroirs semi-transparents. Cette fois, la gemme est stimulée pour émettre une lumière au moment exact où le faisceau de lumière sera parfaitement synchrone.",
+  "Crafting:",
+  {
+    "link": "fp:lang/part/crafting_lasertechnik.json"
+  }
 ]

@@ -1,22 +1,9 @@
 [
-	"Die Neonenergie scheint der Schlüssel für zahlreiche neue Technologien zu sein, deshalb habe ich ein Modul zur Erweiterung meines Forschers entwickelt, um Forschungen an/mit dieser Energieform durchführen kann.",
-	"Das Modul muss direkt mit dem Forscher verknüpft werden um zu funktionieren (daneben stehen), wodurch die eigentliche Arbeit weiter im Forscher ausgeführt wird.",
-	
-	"Crafting:",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {"name":"fp:spaceship", "meta":"<spaceship.GoldParts>"},
-			"2": {"name":"fp:scrench"},
-			"3": {"name":"fp:spaceship", "meta":"<spaceship.GoldParts>"},
-			"4": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>"},
-			"5": [{"name":"fp:color_iron","meta":0},{"name":"fp:color_iron","meta":8},{"name":"fp:color_iron","meta":15}],
-			"6": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>"},
-			"7": {"name":"fp:wire"},
-			"8": {"name":"fp:spaceship", "meta":"<spaceship.NeonCoil>"},
-			"9": {"name":"fp:wire"},
-			"out": [{"name":"fp:modul_1","meta":2},{"name":"fp:modul_1","meta":6},{"name":"fp:modul_1","meta":10}]
-		}
-	},	
-	"Das Modul speichert bis zu 10000 NE, falls dies einmal nicht genügen sollte, kann ich mehere Module mit dem Forscher verbinden oder warten bis sich das Modul wieder gefüllt hat. Die Energie kann ich per Kabel oder mit Batterien in das Modul transportieren."
+  "Die Neonenergie scheint der Schlüssel für zahlreiche neue Technologien zu sein, deshalb habe ich ein Modul zur Erweiterung meines Forschers entwickelt, um Forschungen an/mit dieser Energieform durchführen kann.",
+  "Das Modul muss direkt mit dem Forscher verknüpft werden um zu funktionieren (daneben stehen), wodurch die eigentliche Arbeit weiter im Forscher ausgeführt wird.",
+  "Crafting:",
+  {
+    "link": "fp:lang/part/crafting_upgradet1.json"
+  },
+  "Das Modul speichert bis zu 10000 NE, falls dies einmal nicht genügen sollte, kann ich mehere Module mit dem Forscher verbinden oder warten bis sich das Modul wieder gefüllt hat. Die Energie kann ich per Kabel oder mit Batterien in das Modul transportieren."
 ]

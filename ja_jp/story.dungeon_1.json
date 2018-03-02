@@ -1,18 +1,6 @@
 [
-	"古代のセキュリティシステムの基本構造を解析することができたので、セキュリティグレードの低いキーカードを複製することができました。",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {},
-			"2": {"name":"fp:cristall", "meta":0, "size":1},
-			"3": {},
-			"4": {"name":"fp:spaceship", "meta":15, "size":1},
-			"5": {"name":"fp:core", "meta":0},
-			"6": {"name":"fp:spaceship", "meta":15, "size":1},
-			"7": {},
-			"8": {"name":"fp:normalbattery", "meta":0, "size":1},
-			"9": {},
-			"out": {"name":"fp:spaceship", "meta":21, "size":1}
-		}
-	}
+  "古代のセキュリティシステムの基本構造を解析することができたので、セキュリティグレードの低いキーカードを複製することができました。",
+  {
+    "link": "fp:lang/part/crafting_story.dungeon_1.json"
+  }
 ]

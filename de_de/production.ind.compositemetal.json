@@ -1,15 +1,7 @@
 [
-	"Durch die Kombination der hier vorkommenden Metalle habe ich eine Legierung entdeckt, ich nenne sie Verbundmetall.",
-	"Das Material ist sehr robust und leicht. Es sollte vielseitig einsetzbar sein, vor allem scheint es sich sehr gut als Baumaterial zu eignen.",
-	{
-		"type": "industrialfurnace",
-		"slots": {
-			"in1":  {"OreDict":"ingotIron"},
-			"in2":  {"OreDict":"ingotCopper"},
-			"in3":  [{"OreDict":"ingotTin"}, {"OreDict":"ingotZinc"}],
-			"out1": {"name":"fp:spaceship",  "meta":"<spaceship.CompositeMetall>", "size":6},
-			"out2": {},
-			"out3": {}
-		}
-	}	
+  "Durch die Kombination der hier vorkommenden Metalle habe ich eine Legierung entdeckt, ich nenne sie Verbundmetall.",
+  "Das Material ist sehr robust und leicht. Es sollte vielseitig einsetzbar sein, vor allem scheint es sich sehr gut als Baumaterial zu eignen.",
+  {
+    "link": "fp:lang/part/industrialfurnace_production.ind.compositemetal.json"
+  }
 ]

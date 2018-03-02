@@ -1,22 +1,9 @@
 [
-	"On dirait que l'énergie Néon est la clé de beaucoup de nouvelles recettes, j'ai donc créé un module pour améliorer mon module de Recherche. Il me permet de faire plus de recherches en utilisant ce type d'énergie.",
-	"Ce module doit être directement connecté au module de Recherche. Tout le travail est fait dans le module de Recherche comme habituellement.",
-	
-	"Craft :",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {"name":"fp:spaceship", "meta":"<spaceship.GoldParts>"},
-			"2": {"name":"fp:scrench"},
-			"3": {"name":"fp:spaceship", "meta":"<spaceship.GoldParts>"},
-			"4": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>"},
-			"5": [{"name":"fp:color_iron","meta":0},{"name":"fp:color_iron","meta":8},{"name":"fp:color_iron","meta":15}],
-			"6": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>"},
-			"7": {"name":"fp:wire"},
-			"8": {"name":"fp:spaceship", "meta":"<spaceship.NeonCoil>"},
-			"9": {"name":"fp:wire"},
-			"out": [{"name":"fp:modul_1","meta":2},{"name":"fp:modul_1","meta":6},{"name":"fp:modul_1","meta":10}]
-		}
-	},	
-	"Ce module stocke 10000 NE, si ce n'est pas assez pour un projet de recherche, vous pouvez utiliser plus de modules ou attendre qu'il se remplisse de nouveau. L'énergie peut être apportée par câbles ou par batteries."
+  "On dirait que l\u0027énergie Néon est la clé de beaucoup de nouvelles recettes, j\u0027ai donc créé un module pour améliorer mon module de Recherche. Il me permet de faire plus de recherches en utilisant ce type d\u0027énergie.",
+  "Ce module doit être directement connecté au module de Recherche. Tout le travail est fait dans le module de Recherche comme habituellement.",
+  "Craft :",
+  {
+    "link": "fp:lang/part/crafting_upgradet1.json"
+  },
+  "Ce module stocke 10000 NE, si ce n\u0027est pas assez pour un projet de recherche, vous pouvez utiliser plus de modules ou attendre qu\u0027il se remplisse de nouveau. L\u0027énergie peut être apportée par câbles ou par batteries."
 ]

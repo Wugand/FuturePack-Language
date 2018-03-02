@@ -1,21 +1,9 @@
 [
-	"NEリサイクラーの中央スロットに搭載するためのツールを開発しました。",
-	"レーザー装置とカメラが組み合わされており、製造部品を正確に切断、分解します。\n様々なものに活用できるプロセスですが、通常の4倍のエネルギーが必要になります。",
-	"作成図:",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {"name":"fp:chip", "meta":0},
-			"2": {"OreDict":"ingotAluminum"},
-			"3": {"name":"fp:chip", "meta":0},
-			"4": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>"},
-			"5": {"name":"fp:spaceship", "meta":"<spaceship.Laserdiode>"},
-			"6": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>"},
-			"7": {"name":"minecraft:glass_pane", "meta":0},
-			"8": {"name":"fp:spaceship", "meta":"<spaceship.LinseR>"},
-			"9": {"name":"minecraft:glass_pane", "meta":0},
-			"out": [{"name":"fp:lasercutter","meta":0}]
-		}
-	},
-"-処理が可能なアイテム類:\nアセンブリテーブルによるすべての製品\n\"装飾\"タブの全製品\n(できれば無着色)\n鉄の格子,バケツ,馬の鎧,\nマインカートなど..."
+  "NEリサイクラーの中央スロットに搭載するためのツールを開発しました。",
+  "レーザー装置とカメラが組み合わされており、製造部品を正確に切断、分解します。\n様々なものに活用できるプロセスですが、通常の4倍のエネルギーが必要になります。",
+  "作成図:",
+  {
+    "link": "fp:lang/part/crafting_production.recycler.lasercutter.json"
+  },
+  "-処理が可能なアイテム類:\nアセンブリテーブルによるすべての製品\n\"装飾\"タブの全製品\n(できれば無着色)\n鉄の格子,バケツ,馬の鎧,\nマインカートなど..."
 ]

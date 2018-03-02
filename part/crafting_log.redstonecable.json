@@ -1,0 +1,32 @@
+[
+  {
+    "type": "crafting",
+    "slots": {
+      "1": {},
+      "2": {
+        "OreDict": "dustRedstone"
+      },
+      "3": {},
+      "4": {
+        "name": "fp:wire",
+        "meta": 0
+      },
+      "5": {
+        "name": "fp:wire",
+        "meta": 0
+      },
+      "6": {
+        "name": "fp:wire",
+        "meta": 0
+      },
+      "7": {},
+      "8": {},
+      "9": {},
+      "out": {
+        "name": "fp:wire",
+        "meta": 1,
+        "size": 3
+      }
+    }
+  }
+]

@@ -1,17 +1,7 @@
 [
-	"Für die Manipulation von Nanostrukturen, benötige ich eine sehr präzise und genau einstellbaren Laserstrahl.",
-	"Hierzu habe ich eine neue Linse entwickelt, die mittels elektrischer Beeinflussung eines Edelsteins einen solchen Laserstrahl erzeugen kann. Aufgrund der benötigten Genauigkeit benötigt die Herstellung sehr viele Supportpunkte.",
-	{
-		"type": "industrialneonfurnace",
-		"slots": {
-			"in1":  {"OreDict":"ingotAluminum", "size":1},
-			"in2":  {"name":"minecraft:stained_glass_pane", "meta":5, "size":1},
-			"in3":  {"OreDict":"gemEmerald", "size":1},
-			"out1": {"name":"fp:spaceship", "meta":"<spaceship.LinseG>", "size":1},
-			"out2": {},
-			"out3": {}
-		},
-		"support":30
-	}
-	
+  "Für die Manipulation von Nanostrukturen, benötige ich eine sehr präzise und genau einstellbaren Laserstrahl.",
+  "Hierzu habe ich eine neue Linse entwickelt, die mittels elektrischer Beeinflussung eines Edelsteins einen solchen Laserstrahl erzeugen kann. Aufgrund der benötigten Genauigkeit benötigt die Herstellung sehr viele Supportpunkte.",
+  {
+    "link": "fp:lang/part/industrialneonfurnace_production.nind.linse.g.json"
+  }
 ]

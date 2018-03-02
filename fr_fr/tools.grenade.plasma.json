@@ -1,55 +1,18 @@
 [
-	"La grenade simple à poudre à canon est très efficace pour tuer des créatures, mais elle cause également des dégâts au paysage  et au bâtiments.",
-	"Je peux enflammer une petite quantité de poudre de Néon avec de la poudre de Blaze qui déclencheront une vaque de Plasma extrêmement forte. Cependant, cela ne blessera que les créatures ! La radiation sera absorbée sans créer dommage pour les objets non-organiques",
-	"Je peux utiliser jusqu'à 3 poudres de Néon pour sélectionner la puissance de la grenade.",
-	
-	"Craft :",
-	"Force 1:",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {"name":"fp:grenade", "meta":0},
-			"2": {"OreDict":"dustNeon"},
-			"3": {},
-			"4": {},
-			"5": {"name":"minecraft:blaze_powder"},
-			"6": {},
-			"7": {},
-			"8": {},
-			"9": {},
-			"out": {"name":"fp:grenade", "meta":3, "size":1}
-		}
-	},
-	"Force 2:",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {"name":"fp:grenade", "meta":0},
-			"2": {"OreDict":"dustNeon"},
-			"3": {},
-			"4": {"OreDict":"dustNeon"},
-			"5": {"name":"minecraft:blaze_powder"},
-			"6": {},
-			"7": {},
-			"8": {},
-			"9": {},
-			"out": {"name":"fp:grenade", "meta":3, "size":1}
-		}
-	},
-	"Force 3:",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {"name":"fp:grenade", "meta":0},
-			"2": {"OreDict":"dustNeon"},
-			"3": {"OreDict":"dustNeon"},
-			"4": {"OreDict":"dustNeon"},
-			"5": {"name":"minecraft:blaze_powder"},
-			"6": {},
-			"7": {},
-			"8": {},
-			"9": {},
-			"out": {"name":"fp:grenade", "meta":3, "size":1}
-		}
-	}
+  "La grenade simple à poudre à canon est très efficace pour tuer des créatures, mais elle cause également des dégâts au paysage  et au bâtiments.",
+  "Je peux enflammer une petite quantité de poudre de Néon avec de la poudre de Blaze qui déclencheront une vaque de Plasma extrêmement forte. Cependant, cela ne blessera que les créatures ! La radiation sera absorbée sans créer dommage pour les objets non-organiques",
+  "Je peux utiliser jusqu\u0027à 3 poudres de Néon pour sélectionner la puissance de la grenade.",
+  "Craft :",
+  "Force 1:",
+  {
+    "link": "fp:lang/part/crafting_tools.grenade.plasma.json"
+  },
+  "Force 2:",
+  {
+    "link": "fp:lang/part/crafting_tools.grenade.plasma2.json"
+  },
+  "Force 3:",
+  {
+    "link": "fp:lang/part/crafting_tools.grenade.plasma3.json"
+  }
 ]

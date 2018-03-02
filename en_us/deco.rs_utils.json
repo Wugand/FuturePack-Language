@@ -1,22 +1,16 @@
 [
-	"I have developed some useful Redstone components.",
-	
-	"Lever:",
-	{
-		"type": "crafting",
-		"load": "fp:fp_lever"
-	},
-	
-	"Button:",
-	{
-		"type": "crafting",
-		"load": "fp:button"
-	},
-	
-	"Redstone Timer (Clock):",
-	{
-		"type": "crafting",
-		"load": "fp:rs_timer"
-	},
-	"The interval of the timer can be set via GUI."
+  "I have developed some useful Redstone components.",
+  "Lever:",
+  {
+    "link": "fp:lang/part/crafting_deco.rs_utils.json"
+  },
+  "Button:",
+  {
+    "link": "fp:lang/part/crafting_deco.rs_utils2.json"
+  },
+  "Redstone Timer (Clock):",
+  {
+    "link": "fp:lang/part/crafting_deco.rs_utils3.json"
+  },
+  "The interval of the timer can be set via GUI."
 ]

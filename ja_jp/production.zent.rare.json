@@ -1,43 +1,16 @@
 [
-	"メネラーオスでは、ずっと昔から猛烈な暴風雨に晒されているようです。\n太古の湖の底から、珍しい鉱物が見つかっています。",
-	"これらの鉱床は、流れ着いてまとまった希少な物質類を含んでいるようです。堆積物を取り除き、これらの希少な元素を抽出することは極めて有益なことでしょう。",
-	"これらの希少元素は入念な抽出過程を経て、リチウム、ガドリウム、そしてネオジムに分離させることができます。",
-	"その他の素材からも見つかることはありますが、これら3つを得るためのプロセスはコストと時間がかかるため、今回の発見はとても価値があります。",
-	"作成図:",
-	{
-        "type":"zentrifuge",
-        "slots":
-        {
-            "in":{"name":"fp:dirt", "meta":0, "size":8},
-            "out1":{"name":"minecraft:gravel", "size":4, "meta":0},
-            "out2":{"name":"minecraft:clay_ball", "size":3, "meta":0},
-            "out3":{"OreDict":"ingotRareEarthMetal", "size":4}
-        },
-	    "support":0,
-	    "time":160
-    },
-	{
-        "type":"zentrifuge",
-        "slots":
-        {
-            "in":{"name":"fp:gravel", "meta":0, "size":8},
-            "out1":{"name":"minecraft:gravel", "size":4, "meta":0},
-            "out2":{"name":"minecraft:clay_ball", "size":6, "meta":0},
-            "out3":{"OreDict":"ingotRareEarthMetal", "size":12}
-        },
-	    "support":0,
-	    "time":240
-    },
-	{
-        "type":"zentrifuge",
-        "slots":
-        {
-            "in":{"OreDict":"ingotRareEarthMetal", "size":4},
-            "out1":{"OreDict":"ingotLithium", "size":2},
-            "out2":{"OreDict":"ingotGadolinium", "size":1},
-            "out3":{"OreDict":"ingotNeodymium", "size":1}
-        },
-	    "support":0,
-	    "time":240
-    }
+  "メネラーオスでは、ずっと昔から猛烈な暴風雨に晒されているようです。\n太古の湖の底から、珍しい鉱物が見つかっています。",
+  "これらの鉱床は、流れ着いてまとまった希少な物質類を含んでいるようです。堆積物を取り除き、これらの希少な元素を抽出することは極めて有益なことでしょう。",
+  "これらの希少元素は入念な抽出過程を経て、リチウム、ガドリウム、そしてネオジムに分離させることができます。",
+  "その他の素材からも見つかることはありますが、これら3つを得るためのプロセスはコストと時間がかかるため、今回の発見はとても価値があります。",
+  "作成図:",
+  {
+    "link": "fp:lang/part/zentrifuge_production.zent.rare.json"
+  },
+  {
+    "link": "fp:lang/part/zentrifuge_production.zent.rare2.json"
+  },
+  {
+    "link": "fp:lang/part/zentrifuge_production.zent.rare3.json"
+  }
 ]

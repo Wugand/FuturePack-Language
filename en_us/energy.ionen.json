@@ -1,9 +1,8 @@
-[	
-	"Air friction, radiation, sunlight, and other influences create a certain amount of ions in the air. I can use a metal grid to collect these particles and convert them to neon energy using a modified solar panel.",
-	"Especially many ions are produced during thunderstorms and strong solar radiation. The ion collector can convert them very efficiently and with this construction I can even produce energy at night.",
-	"Crafting:",
-	{
-		"type": "crafting",
-		"load": ["fp:ion_collector_0", "fp:ion_collector_1", "fp:ion_collector_2"]
-	}
+[
+  "Air friction, radiation, sunlight, and other influences create a certain amount of ions in the air. I can use a metal grid to collect these particles and convert them to neon energy using a modified solar panel.",
+  "Especially many ions are produced during thunderstorms and strong solar radiation. The ion collector can convert them very efficiently and with this construction I can even produce energy at night.",
+  "Crafting:",
+  {
+    "link": "fp:lang/part/crafting_energy.ionen.json"
+  }
 ]

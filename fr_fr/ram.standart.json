@@ -3,15 +3,7 @@
 	"Ce design de mémoire est très rapide, mais les données doivent être réécrites de temps en temps. Cela est dû à une petite fuite d'énergie.",	
 
 	"Assemblage :",
-	{
-		"type": "assembly",
-		"slots": {
-			"in1": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>"},
-			"in2": {"name":"fp:spaceship", "meta":"<spaceship.NeonParts>"},
-			"in3": {"OreDict":"ingotIron"},
-			"out": {"name":"fp:ram", "meta":0, "size":1}
-		}
-	},
+	{"link":"fp:lang/part/as_ram.standart.json"},
 		
 	"Info :",
 	"Les unités de RAM possèdent 2 propriétés critiques : Leur vitesse (§lRAM§r), qui donne la vitesse générale du système (se référer à \"Carte Mère\"), et leur coût (§lcorepower§r), qui donne la performance nécessaire pour le processeur."	

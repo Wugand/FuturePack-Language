@@ -1,42 +1,15 @@
 [
-	"Il semblerait que Menelaus a subi dans le passé de fortes pluies. J'ai trouvé des dépôts très intéressant dans les vestiges d'anciens lacs.",
-	"Il semble qu'ils contiennent de grandes quantités de matériaux rares. Je devrais essayer de les pulvériser pour extraire ces matériaux.",
-	"Ces terres rares peuvent être extraites grâce à des procédés coûteux, mais fournirait du Lithium, Gadolinium et Neodymium. Il serait possible de trouver d'autres matériaux, cependant, ce sont les trois seuls rentables par rapport au coût et au temps d'extraction.",
-	"Centrifugeuse :",
-	{
-        "type":"zentrifuge",
-        "slots":
-        {
-            "in":{"name":"fp:dirt", "meta":0, "size":8},
-            "out1":{"name":"minecraft:gravel", "size":4, "meta":0},
-            "out2":{"name":"minecraft:clay_ball", "size":3, "meta":0},
-            "out3":{"OreDict":"ingotRareEarthMetal", "size":4}
-        },
-	    "support":0,
-	    "time":160
-    },
-	{
-        "type":"zentrifuge",
-        "slots":
-        {
-            "in":{"name":"fp:gravel", "meta":0, "size":8},
-            "out1":{"name":"minecraft:gravel", "size":4, "meta":0},
-            "out2":{"name":"minecraft:clay_ball", "size":6, "meta":0},
-            "out3":{"OreDict":"ingotRareEarthMetal", "size":12}
-        },
-	    "support":0,
-	    "time":240
-    },
-	{
-        "type":"zentrifuge",
-        "slots":
-        {
-            "in":{"OreDict":"ingotRareEarthMetal", "size":4},
-            "out1":{"OreDict":"ingotLithium", "size":2},
-            "out2":{"OreDict":"ingotGadolinium", "size":1},
-            "out3":{"OreDict":"ingotNeodymium", "size":1}
-        },
-	    "support":0,
-	    "time":240
-    }
+  "Il semblerait que Menelaus a subi dans le passé de fortes pluies. J\u0027ai trouvé des dépôts très intéressant dans les vestiges d\u0027anciens lacs.",
+  "Il semble qu\u0027ils contiennent de grandes quantités de matériaux rares. Je devrais essayer de les pulvériser pour extraire ces matériaux.",
+  "Ces terres rares peuvent être extraites grâce à des procédés coûteux, mais fournirait du Lithium, Gadolinium et Neodymium. Il serait possible de trouver d\u0027autres matériaux, cependant, ce sont les trois seuls rentables par rapport au coût et au temps d\u0027extraction.",
+  "Centrifugeuse :",
+  {
+    "link": "fp:lang/part/zentrifuge_production.zent.rare.json"
+  },
+  {
+    "link": "fp:lang/part/zentrifuge_production.zent.rare2.json"
+  },
+  {
+    "link": "fp:lang/part/zentrifuge_production.zent.rare3.json"
+  }
 ]

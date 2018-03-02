@@ -1,28 +1,11 @@
 [
-	"精練処理に石炭(炭素)を使うことで、酸素やその他の汚染物質を除去できることが判明しました。",
-	"そしてこの方法を砂ブロックに試したところ、茶色い光沢のある素材、シリコンを得ることができました。素材としては興味深いのですが、利用法が分かるのはまだ先のことなのでしょう...",
-	{
-		"type": "industrialfurnace",
-		"slots": {
-			"in1":  [{"name":"minecraft:coal", "meta":0, "size":1},{"name":"minecraft:coal", "meta":0, "size":1}],
-			"in2":  [{"name":"minecraft:coal", "meta":0, "size":1},{"name":"minecraft:coal", "meta":0, "size":1}],
-			"in3":  {"OreDict":"sand"},
-			"out1": {"name":"fp:spaceship",  "meta":"<spaceship.Silizium>", "size":4},
-			"out2": {},
-			"out3": {}
-		}
-	},
-	
-	"見つかるさまざまなクリスタルにとっても、これは効果的なようです。今後はこれらのインゴットも作ることができます。",
-	{
-		"type": "industrialfurnace",
-		"slots": {
-			"in1":  [{"name":"minecraft:coal", "meta":0, "size":1},{"name":"minecraft:coal", "meta":0, "size":1}],
-			"in2":  [{"OreDict":"gemNeon"},{"OreDict":"gemAluminum"},{"OreDict":"gemGlowtite"},{"OreDict":"gemRetium"},{"OreDict":"gemBioterium"}],
-			"in3":  [{"OreDict":"gemNeon"},{"OreDict":"gemAluminum"},{"OreDict":"gemGlowtite"},{"OreDict":"gemRetium"},{"OreDict":"gemBioterium"}],
-			"out1": [{"OreDict":"ingotNeon"},{"OreDict":"ingotAluminum"},{"OreDict":"ingotGlowtite"},{"OreDict":"ingotRetium"},{"OreDict":"ingotBioterium"}],
-			"out2": {},
-			"out3": {}
-		}
-	}		
+  "精練処理に石炭(炭素)を使うことで、酸素やその他の汚染物質を除去できることが判明しました。",
+  "そしてこの方法を砂ブロックに試したところ、茶色い光沢のある素材、シリコンを得ることができました。素材としては興味深いのですが、利用法が分かるのはまだ先のことなのでしょう...",
+  {
+    "link": "fp:lang/part/industrialfurnace_production.ind.reduktion.json"
+  },
+  "見つかるさまざまなクリスタルにとっても、これは効果的なようです。今後はこれらのインゴットも作ることができます。",
+  {
+    "link": "fp:lang/part/industrialfurnace_production.ind.reduktion2.json"
+  }
 ]

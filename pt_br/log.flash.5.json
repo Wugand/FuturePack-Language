@@ -1,14 +1,6 @@
 [
 	"Durante a extração de vários materiais, eu percebi que extratos dos metais raros exibem vários estados estáveis. Para meus experimentos continuados, eu escolhi gadolínio. Eu achei 5 isótopos estáveis para ele. A mudança de estado pode ser realizado por exposição direcionada que eu gero por um sistema complicado e baseado na estrutura de esmeralda. Porque eu tenho 5 estados disponíveis, eu posso salvar muito mais informação.",	
 	"Montagem:",
-	{
-		"type": "assembly",
-		"slots": {
-			"in1": {"name":"fp:chip","meta":0,"size":1},
-			"in2": {"OreDict":"gemEmerald","size":1},
-			"in3": {"OreDict":"ingotGadolinium","size":1},
-			"out": {"name":"fp:spaceship", "meta":"<spaceship.SupportSpeicher4>", "size":1}
-		}
-	},
+	{"link":"fp:lang/part/as_log.flash.5.json"},
 	"Capacidade: 2048 SP"
 ]

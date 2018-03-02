@@ -1,28 +1,13 @@
 [
-	"J'ai développé une version plus souple du Sas. Il peut prendre la taille, la forme et la direction que nous souhaitons.",
-	"Ce module peut être facilement placé comme un bloc, et peut être tourné (en faisant §lShift + Clic Droit§r pour ne pas l'activer). Plusieurs orientations peuvent être combinées pour réaliser un portail.",
-	"La porte comportera tous les blocs en contact avec elle. La porte peut s'ouvrir et se fermer avec un §lClic Droit§r sur n'importe quel bloc de la porte.",
-	"Craft :",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {"name":"fp:spaceship", "meta":"<spaceship.keramik>"},
-			"2": {"name":"fp:spaceship", "meta":"<spaceship.IronParts>"},
-			"3": {"name":"fp:spaceship", "meta":"<spaceship.keramik>"},
-			"4": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"5": {"name":"fp:spaceship", "meta":"<spaceship.Polymer>"},
-			"6": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"7": {"name":"fp:spaceship", "meta":"<spaceship.keramik>"},
-			"8": {"name":"fp:spaceship", "meta":"<spaceship.IronParts>"},
-			"9": {"name":"fp:spaceship", "meta":"<spaceship.keramik>"},
-			"out": {"name":"fp:modular_door", "meta":0, "size":2}
-		}
-	},
-	"Exemple :",
-	{
-		"type":"image",
-		"width":96,
-		"height":116,
-		"resource":"fp:textures/mdoor.png"
-	}
+  "J\u0027ai développé une version plus souple du Sas. Il peut prendre la taille, la forme et la direction que nous souhaitons.",
+  "Ce module peut être facilement placé comme un bloc, et peut être tourné (en faisant §lShift + Clic Droit§r pour ne pas l\u0027activer). Plusieurs orientations peuvent être combinées pour réaliser un portail.",
+  "La porte comportera tous les blocs en contact avec elle. La porte peut s\u0027ouvrir et se fermer avec un §lClic Droit§r sur n\u0027importe quel bloc de la porte.",
+  "Craft :",
+  {
+    "link": "fp:lang/part/crafting_space.modular_door.json"
+  },
+  "Exemple :",
+  {
+    "link": "fp:lang/part/image_space.modular_door2.json"
+  }
 ]

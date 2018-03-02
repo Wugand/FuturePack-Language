@@ -1,19 +1,7 @@
 [
-	"Ich habe eine Hacke aus Verbundmetall entwickelt, sie ist wesentlich stabiler und langlebiger als die herkömmlichen Werkzeuge. Der Wurzelzieher an der Rückseite erleichtert mir das Anlegen neuer Felder.",
-	"Crafting:",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"2": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"3": {},
-			"4": {},
-			"5": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
-			"6": {},
-			"7": {},
-			"8": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
-			"9": {},
-			"out": {"name":"fp:composite_hoe"}
-		}
-	}
+  "Ich habe eine Hacke aus Verbundmetall entwickelt, sie ist wesentlich stabiler und langlebiger als die herkömmlichen Werkzeuge. Der Wurzelzieher an der Rückseite erleichtert mir das Anlegen neuer Felder.",
+  "Crafting:",
+  {
+    "link": "fp:lang/part/crafting_tools.composite_hoe.json"
+  }
 ]

@@ -1,0 +1,26 @@
+[
+  {
+    "type": "zentrifuge",
+    "slots": {
+      "in": {
+        "OreDict": "oreDiamond",
+        "size": 4
+      },
+      "out1": {
+        "OreDict": "gemDiamond",
+        "size": 12
+      },
+      "out2": {
+        "name": "minecraft:cobblestone",
+        "size": 3,
+        "meta": 0
+      },
+      "out3": {
+        "OreDict": "nuggetGold",
+        "size": 12
+      }
+    },
+    "support": 8,
+    "time": 200
+  }
+]

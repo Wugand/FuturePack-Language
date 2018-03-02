@@ -3,13 +3,7 @@
 
 	"装配",
 	{
-		"type": "assembly",
-		"slots": {
-			"in1": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>", "size":2},
-			"in2": {"name":"fp:spaceship", "meta":"<spaceship.CopperParts>", "size":2},
-			"in3": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"out": {"name":"fp:core", "meta":1, "size":1}
-		}
+		"link":"fp:lang/part/as_core.alon.json"
 	},
 
 	"提示:参考\"标准处理器\"相关信息。"

@@ -1,69 +1,27 @@
 [
-	"Mit dieser Maschine kann ich diverse Materialien in nützliche Kleinteile zerlegen.",
-	"Die Maschine ist sehr schnell und kann mit beliebigem Brennmaterial betrieben werden.",
-		
-	"Crafting:",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": "OreDict:ingotIron",
-			"2": {"name":"minecraft:piston","meta":0},
-			"3": "OreDict:ingotIron",
-			"4": "OreDict:ingotIron",
-			"5": {"name":"minecraft:iron_bars","meta":0},
-			"6": "OreDict:ingotIron",
-			"7": "OreDict:ingotIron",
-			"8": {"name":"minecraft:piston","meta":0},
-			"9": "OreDict:ingotIron",
-			"out": {"name":"fp:partpress","meta":0}
-		}
-	},
-	"Rezepte:",
-	{
-        "type": "partpress",
-        "slots": {
-            "in": "OreDict:ingotIron",
-            "out": {"name":"fp:spaceship", "meta":"<spaceship.IronParts>", "size":4}
-        }
-    },
-		
-	{
-        "type": "partpress",
-        "slots": {
-            "in": "OreDict:ingotCopper",
-			"out": {"name":"fp:spaceship", "meta":"<spaceship.CopperParts>", "size":4}
-		}
-	},
-		
-	{
-		"type": "partpress",
-		"slots": {
-			"in": "OreDict:ingotNeon",
-			"out": {"name":"fp:spaceship", "meta":"<spaceship.NeonParts>", "size":4}
-		}
-	},
-		
-	{
-		"type": "partpress",
-		"slots": {
-			"in": "OreDict:gemQuartz",
-			"out": {"name":"fp:spaceship", "meta":"<spaceship.QuartzParts>", "size":4}
-		}
-	},
-		
-	{
-		"type": "partpress",
-		"slots": {
-			"in": "OreDict:gemDiamond",
-			"out": {"name":"fp:spaceship", "meta":"<spaceship.DiaParts>", "size":4}
-		}
-	},
-		
-	{
-		"type": "partpress",
-		"slots": {
-			"in": "OreDict:ingotGold",
-			"out": {"name":"fp:spaceship", "meta":"<spaceship.GoldParts>", "size":4}
-		}
-	}	
+  "Mit dieser Maschine kann ich diverse Materialien in nützliche Kleinteile zerlegen.",
+  "Die Maschine ist sehr schnell und kann mit beliebigem Brennmaterial betrieben werden.",
+  "Crafting:",
+  {
+    "link": "fp:lang/part/crafting_partpress.json"
+  },
+  "Rezepte:",
+  {
+    "link": "fp:lang/part/partpress_partpress2.json"
+  },
+  {
+    "link": "fp:lang/part/partpress_partpress3.json"
+  },
+  {
+    "link": "fp:lang/part/partpress_partpress4.json"
+  },
+  {
+    "link": "fp:lang/part/partpress_partpress5.json"
+  },
+  {
+    "link": "fp:lang/part/partpress_partpress6.json"
+  },
+  {
+    "link": "fp:lang/part/partpress_partpress7.json"
+  }
 ]

@@ -1,14 +1,6 @@
 [
 	"",
 	"Montagem:",
-	{
-		"type": "assembly",
-		"slots": {
-			"in1": {"name":"fp:chip","meta":0,"size":1},
-			"in2": {"OreDict":"ingotBioterium","size":1},
-			"in3": {"OreDict":"ingotQuantanium","size":1},
-			"out": {"name":"fp:spaceship", "meta":"<spaceship.SupportSpeicher5>", "size":1}
-		}
-	},
+	{"link":"fp:lang/part/as_log.flash.6.json"},
 	"Capacidade: 4096 SP"
 ]

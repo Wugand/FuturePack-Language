@@ -1,23 +1,10 @@
 [
-	"Mit der Zeit ist es sehr lästig immer wieder die Flashspeicher zu wechseln. Deshalb habe ich ein Rohr entwickelt, dass die Supportpunkte zwischen Maschinen transportieren kann.",
-	"Es ist ein normales Rohr ergänzt mit einer Glowtit-Ummantelung, dadurch kann es Supportpunkte leiten, wenn sie an das Rohr übertragen werden.",	
-	"Crafting:",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {},
-			"2": {"OreDict":"ingotGlowtite"},
-			"3": {},
-			"4": {"name":"fp:pipe", "meta":0},
-			"5": {"name":"fp:pipe", "meta":0},
-			"6": {"name":"fp:pipe", "meta":0},
-			"7": {},
-			"8": {},
-			"9": {},
-			"out": {"name":"fp:pipe", "meta":3, "size":3}
-		}
-	},
-	
-	"Besonders praktisch sind diese Rohre um Maschinen mit Supportpunkten zu versorgen.",
-	"Einstellungen: Mit dem Schraubendrehschlüssel kann ich einzelnen Seiten des Rohrs umstellen, damit sie sich nicht mehr mit anderen Rohren und Inventaren verbinden. (§lRechstklick§r auf die entsprechende Seite des Rohrs)  Zudem gibt es hier noch einen dritten Modus, welcher durch einen Punkt auf der entsprechenden Seite darstellt wird, in diesem Modus werden nur die SUpportpunkte übertragen (auch zu Machienen), Items allerdings nicht."
+  "Mit der Zeit ist es sehr lästig immer wieder die Flashspeicher zu wechseln. Deshalb habe ich ein Rohr entwickelt, dass die Supportpunkte zwischen Maschinen transportieren kann.",
+  "Es ist ein normales Rohr ergänzt mit einer Glowtit-Ummantelung, dadurch kann es Supportpunkte leiten, wenn sie an das Rohr übertragen werden.",
+  "Crafting:",
+  {
+    "link": "fp:lang/part/crafting_log.supportpipe.json"
+  },
+  "Besonders praktisch sind diese Rohre um Maschinen mit Supportpunkten zu versorgen.",
+  "Einstellungen: Mit dem Schraubendrehschlüssel kann ich einzelnen Seiten des Rohrs umstellen, damit sie sich nicht mehr mit anderen Rohren und Inventaren verbinden. (§lRechstklick§r auf die entsprechende Seite des Rohrs)  Zudem gibt es hier noch einen dritten Modus, welcher durch einen Punkt auf der entsprechenden Seite darstellt wird, in diesem Modus werden nur die SUpportpunkte übertragen (auch zu Machienen), Items allerdings nicht."
 ]

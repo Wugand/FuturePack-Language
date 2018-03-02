@@ -1,0 +1,29 @@
+[
+  {
+    "type": "zentrifuge",
+    "slots": {
+      "in": {
+        "name": "minecraft:dirt",
+        "meta": 0,
+        "size": 8
+      },
+      "out1": {
+        "name": "minecraft:gravel",
+        "size": 4,
+        "meta": 0
+      },
+      "out2": {
+        "name": "minecraft:clay_ball",
+        "size": 2,
+        "meta": 0
+      },
+      "out3": {
+        "name": "fp:spaceship",
+        "size": 1,
+        "meta": "\u003cspaceship.Kompost\u003e"
+      }
+    },
+    "support": 0,
+    "time": 100
+  }
+]

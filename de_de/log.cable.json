@@ -1,22 +1,9 @@
 [
-	"Ich habe den Prototypen eines Energieleiters weiterentwickelt, eine Kombination aus kristallinem und raffiniertem Neon hat dabei den optimalen Leiter ergeben.",
-	"Da dieser Leiter sehr instabil und anfällig für Umwelteinflüsse ist, habe ich ihn mit Aluminium ummantelt.",
-	"Das entstandene Kabel kann ich frei platzieren. Ebenso muss ich nicht auf Überlastung achten, da die Neonleiter sehr große Energiemengen transportieren können und es keine Dinge wie Spannung oder Stromstärke zu beachten gibt.",
-	
-	"Crafting:",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {"OreDict":"ingotAluminum"},
-			"2": {"OreDict":"ingotAluminum"},
-			"3": {"OreDict":"ingotAluminum"},
-			"4": {"OreDict":"ingotNeon"},
-			"5": {"name":"fp:cristall","meta":0},
-			"6": {"OreDict":"ingotNeon"},
-			"7": {"OreDict":"ingotAluminum"},
-			"8": {"OreDict":"ingotAluminum"},
-			"9": {"OreDict":"ingotAluminum"},
-			"out": {"name":"fp:wire", "meta":0, "size":16}
-		}
-	}
+  "Ich habe den Prototypen eines Energieleiters weiterentwickelt, eine Kombination aus kristallinem und raffiniertem Neon hat dabei den optimalen Leiter ergeben.",
+  "Da dieser Leiter sehr instabil und anfällig für Umwelteinflüsse ist, habe ich ihn mit Aluminium ummantelt.",
+  "Das entstandene Kabel kann ich frei platzieren. Ebenso muss ich nicht auf Überlastung achten, da die Neonleiter sehr große Energiemengen transportieren können und es keine Dinge wie Spannung oder Stromstärke zu beachten gibt.",
+  "Crafting:",
+  {
+    "link": "fp:lang/part/crafting_log.cable.json"
+  }
 ]

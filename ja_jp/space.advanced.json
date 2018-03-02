@@ -1,24 +1,12 @@
 [
-	"私が作成したボードコンピューターでは、残念ながら\nFTLドライブ(*1)の進路を計算することはできません。\n(*1:FTL/Faster Than Light)\n(*1:FTLﾄﾞﾗｲﾌﾞ,超光速航法)",
-	"なぜなら、FTL自体の処理のみならず、正確な制御とコース計算のデータ処理が必要であり、量子力学の影響と時空間理論(またはその欠如)までもを補わなければならないからです。",
-	"そのために私は強力なCPUと量子コンピューターを使った改良型を設計しました。",
-	"初期のボードコンピューターのバージョンから、いくつかの不足していた機能も追加しました。\nたとえば'宇宙船が密閉されていません'というメッセージでは、解放されている箇所の報告もしてくれます。",
-    "作成図:",
-    {
-        "type": "crafting",
-        "slots": {
-            "1": {"name":"fp:spaceship","meta":"<spaceship.IronCoil>"},
-            "2": {"name":"fp:erz_blocke","meta":9},
-            "3": {"name":"fp:spaceship","meta":"<spaceship.IronCoil>"},
-            "4": {"name":"fp:spaceship","meta":"<spaceship.Polymer>"},
-            "5": [{"name":"fp:board_computer","meta":2},{"name":"fp:board_computer","meta":6},{"name":"fp:board_computer","meta":10}],
-            "6": {"name":"fp:spaceship","meta":"<spaceship.Polymer>"},
-            "7": {"name":"fp:ram","meta":4},
-            "8": {"name":"fp:core","meta":4},
-            "9": {"name":"fp:ram","meta":4},
-            "out": [{"name":"fp:advanced_boardcomputer","meta":2},{"name":"fp:advanced_boardcomputer","meta":6},{"name":"fp:advanced_boardcomputer","meta":10}]
-        }
-    },
-	"ボードコンピューターの項目で、使用に関するその他のメモを再確認できます。",
-	"筐体の色によって、各ボードコンピューターのインターフェースの表示が異なります。"
+  "私が作成したボードコンピューターでは、残念ながら\nFTLドライブ(*1)の進路を計算することはできません。\n(*1:FTL/Faster Than Light)\n(*1:FTLﾄﾞﾗｲﾌﾞ,超光速航法)",
+  "なぜなら、FTL自体の処理のみならず、正確な制御とコース計算のデータ処理が必要であり、量子力学の影響と時空間理論(またはその欠如)までもを補わなければならないからです。",
+  "そのために私は強力なCPUと量子コンピューターを使った改良型を設計しました。",
+  "初期のボードコンピューターのバージョンから、いくつかの不足していた機能も追加しました。\nたとえば\u0027宇宙船が密閉されていません\u0027というメッセージでは、解放されている箇所の報告もしてくれます。",
+  "作成図:",
+  {
+    "link": "fp:lang/part/crafting_space.advanced.json"
+  },
+  "ボードコンピューターの項目で、使用に関するその他のメモを再確認できます。",
+  "筐体の色によって、各ボードコンピューターのインターフェースの表示が異なります。"
 ]

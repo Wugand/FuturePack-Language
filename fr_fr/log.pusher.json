@@ -1,21 +1,8 @@
 [
-	"J'ai développé une machine qui permet de pousser les objets présents dans l'inventaire d'un autre bloc. Cette invention est dans l'ensemble la combinaison d'un entonnoir et d'un distributeur.",
-	"Le pousseur d'objet peut être aligné dans les 6 directions. L'entrée est marquée d'une flèche verte et la sortie d'un point noir. Si la machine est déclenchée par une impulsion de Redstone, un stack d'objets est transféré depuis l'entrée vers la sortie (qui peut être l'inventaire d'un bloc)",
-
-	"Craft :",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {"OreDict":"ingotAluminum"},
-			"2": {"OreDict":"ingotAluminum"},
-			"3": {"OreDict":"ingotAluminum"},
-			"4": {"name":"minecraft:chest", "meta":0},
-			"5": {"OreDict":"dustRedstone"},
-			"6": {"name":"minecraft:bow", "meta":0},
-			"7": {"OreDict":"ingotAluminum"},
-			"8": {"OreDict":"ingotAluminum"},
-			"9": {"OreDict":"ingotAluminum"},
-			"out": {"name":"fp:pucher", "meta":0, "size":1}
-		}
-	}
+  "J\u0027ai développé une machine qui permet de pousser les objets présents dans l\u0027inventaire d\u0027un autre bloc. Cette invention est dans l\u0027ensemble la combinaison d\u0027un entonnoir et d\u0027un distributeur.",
+  "Le pousseur d\u0027objet peut être aligné dans les 6 directions. L\u0027entrée est marquée d\u0027une flèche verte et la sortie d\u0027un point noir. Si la machine est déclenchée par une impulsion de Redstone, un stack d\u0027objets est transféré depuis l\u0027entrée vers la sortie (qui peut être l\u0027inventaire d\u0027un bloc)",
+  "Craft :",
+  {
+    "link": "fp:lang/part/crafting_log.pusher.json"
+  }
 ]

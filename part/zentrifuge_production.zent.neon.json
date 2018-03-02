@@ -1,0 +1,22 @@
+[
+  {
+    "type": "zentrifuge",
+    "slots": {
+      "in": {
+        "OreDict": "dustNeon",
+        "size": 32
+      },
+      "out1": {
+        "OreDict": "gemQuartz",
+        "size": 32
+      },
+      "out2": {
+        "OreDict": "gemBitripentium",
+        "size": 1
+      },
+      "out3": {}
+    },
+    "support": 0,
+    "time": 150
+  }
+]

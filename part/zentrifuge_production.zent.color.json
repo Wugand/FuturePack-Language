@@ -1,0 +1,29 @@
+[
+  {
+    "type": "zentrifuge",
+    "slots": {
+      "in": {
+        "name": "minecraft:red_flower",
+        "meta": 0,
+        "size": 1
+      },
+      "out1": {
+        "name": "fp:spaceship",
+        "size": 1,
+        "meta": "\u003cspaceship.Fibers\u003e"
+      },
+      "out2": {
+        "name": "fp:spaceship",
+        "size": 1,
+        "meta": "\u003cspaceship.Kompost\u003e"
+      },
+      "out3": {
+        "name": "minecraft:dye",
+        "size": 4,
+        "meta": 1
+      }
+    },
+    "support": 4,
+    "time": 100
+  }
+]

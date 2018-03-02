@@ -1,27 +1,15 @@
 [
-	"J'ai dessiné un établi spécial pour réaliser mes expériences et évaluer mes idées. Je peux donc terminer mes recherches en les ajoutant à ma base de données.",
-	"Craft :",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {"name":"fp:cristall","meta":0},
-			"2": {"name":"minecraft:glass_pane","meta":0},
-			"3": {"name":"fp:cristall","meta":0},
-			"4": {"name":"minecraft:paper","meta":0},
-			"5": [{"name":"fp:color_iron","meta":0},{"name":"fp:color_iron","meta":8},{"name":"fp:color_iron","meta":15}],
-			"6": {"name":"minecraft:piston","meta":0},
-			"7": {"OreDict":"ingotZinc"},
-			"8": {"name":"fp:spaceship","meta":"<spaceship.IronParts>"},
-			"9": {"OreDict":"ingotZinc"},
-			"out": [{"name":"fp:forscher","meta":2},{"name":"fp:forscher","meta":6},{"name":"fp:forscher","meta":10}]
-		}
-	},
-	"Conseil : Lire d'abord les informations dans \"Le Système de Recherche\".",
-	"Utilisation :",
-	"Dans la suite, il est fait mention des concepts comme l'énergie, le Support, l'Expérience et le Réseau. Ces concepts sont seulement valable dans la progression future du jeu.",
-	"En utilisant la flèche verte, je peux mettre un Blueprint dans le scanner le plus proche. Cependant, je peux également le mettre manuellement dans le slot en dessous. En cliquant sur le \"Bouton de recherche\" (en bas à droite), la recherche commencera.",
-	"Ensuite les hologrammes des objets (en indiquant le nombre attendu en haut) apparaissent dans les slots à gauche. Tous ces slots doivent être remplis avec les objets correspondants. Une bordure rouge indique que le type ou le nombre d'objets n'est pas correct. Ces items seront consommés lorsque la recherche sera terminée.",
-	"Les barres de progression en dessous des slots montre le consommation des ressources provenant du réseau de recherches, ces ressources étant (de gauche à droite) : Temps (toujours présent), Énergie, Support, Expérience. Si la bordure de la barre passe au gris, cela veut dire que la ressource n'est plus disponible.",
-	"Si tout est OK, les barres commencent à se remplir, jusqu'à ce que la recherche soit terminées. Le présence du joueur n'est pas nécessaire (le chunk doit seulement être chargé).",
-	"Il peut être utile d'avoir plusieurs Modules de Recherches, parce que quelques recherches (plus tard) demanderont beaucoup de temps."
+  "J\u0027ai dessiné un établi spécial pour réaliser mes expériences et évaluer mes idées. Je peux donc terminer mes recherches en les ajoutant à ma base de données.",
+  "Craft :",
+  {
+    "link": "fp:lang/part/crafting_forscher.json"
+  },
+  "Conseil : Lire d\u0027abord les informations dans \"Le Système de Recherche\".",
+  "Utilisation :",
+  "Dans la suite, il est fait mention des concepts comme l\u0027énergie, le Support, l\u0027Expérience et le Réseau. Ces concepts sont seulement valable dans la progression future du jeu.",
+  "En utilisant la flèche verte, je peux mettre un Blueprint dans le scanner le plus proche. Cependant, je peux également le mettre manuellement dans le slot en dessous. En cliquant sur le \"Bouton de recherche\" (en bas à droite), la recherche commencera.",
+  "Ensuite les hologrammes des objets (en indiquant le nombre attendu en haut) apparaissent dans les slots à gauche. Tous ces slots doivent être remplis avec les objets correspondants. Une bordure rouge indique que le type ou le nombre d\u0027objets n\u0027est pas correct. Ces items seront consommés lorsque la recherche sera terminée.",
+  "Les barres de progression en dessous des slots montre le consommation des ressources provenant du réseau de recherches, ces ressources étant (de gauche à droite) : Temps (toujours présent), Énergie, Support, Expérience. Si la bordure de la barre passe au gris, cela veut dire que la ressource n\u0027est plus disponible.",
+  "Si tout est OK, les barres commencent à se remplir, jusqu\u0027à ce que la recherche soit terminées. Le présence du joueur n\u0027est pas nécessaire (le chunk doit seulement être chargé).",
+  "Il peut être utile d\u0027avoir plusieurs Modules de Recherches, parce que quelques recherches (plus tard) demanderont beaucoup de temps."
 ]

@@ -1,0 +1,32 @@
+[
+  {
+    "type": "crafting",
+    "slots": {
+      "1": {},
+      "2": {
+        "OreDict": "ingotNeon"
+      },
+      "3": {},
+      "4": {
+        "name": "fp:pipe",
+        "meta": 0
+      },
+      "5": {
+        "name": "fp:pipe",
+        "meta": 0
+      },
+      "6": {
+        "name": "fp:pipe",
+        "meta": 0
+      },
+      "7": {},
+      "8": {},
+      "9": {},
+      "out": {
+        "name": "fp:pipe",
+        "meta": 2,
+        "size": 3
+      }
+    }
+  }
+]

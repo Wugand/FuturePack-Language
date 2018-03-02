@@ -1,21 +1,9 @@
 [
-	"NEリサイクラーの中央スロットに搭載するためのツールを開発しました。",
-	"このスキャナ装置で製造部品を細かな層ごとに分析してゆき、これによりサポートポイントが生成されます。",
-	"作成図:",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {"OreDict":"ingotAluminum"},
-			"2": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>"},
-			"3": {"name":"fp:spaceship", "meta":"<spaceship.NeonParts>"},
-			"4": {"name":"fp:spaceship", "meta":"<spaceship.NeonCoil>"},
-			"5": {"name":"fp:chip", "meta":0},
-			"6": {},
-			"7": {"OreDict":"ingotAluminum"},
-			"8": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>"},
-			"9": {"name":"fp:spaceship", "meta":"<spaceship.NeonParts>"},
-			"out": [{"name":"fp:analyzer","meta":0}]
-		}
-	},
-	"アセンブリテーブルで製造できるすべての製品を分析することができます。\nコア,チップ,RAMの場合、獲得できるサポートポイントはそれらの部品ごとの消費電力によって異なります。"
+  "NEリサイクラーの中央スロットに搭載するためのツールを開発しました。",
+  "このスキャナ装置で製造部品を細かな層ごとに分析してゆき、これによりサポートポイントが生成されます。",
+  "作成図:",
+  {
+    "link": "fp:lang/part/crafting_production.recycler.analyzer.json"
+  },
+  "アセンブリテーブルで製造できるすべての製品を分析することができます。\nコア,チップ,RAMの場合、獲得できるサポートポイントはそれらの部品ごとの消費電力によって異なります。"
 ]

@@ -1,8 +1,7 @@
 [
-	"I created a chest from composite metal. While it provides a bit more storage space then a standard chest.",
-	"Crafting:",
-	{
-		"type": "crafting",
-		"load": "fp:compositechest_0"
-	}
+  "I created a chest from composite metal. While it provides a bit more storage space then a standard chest.",
+  "Crafting:",
+  {
+    "link": "fp:lang/part/crafting_deco.composite_chest.json"
+  }
 ]

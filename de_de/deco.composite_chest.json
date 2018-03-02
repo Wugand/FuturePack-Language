@@ -1,8 +1,7 @@
 [
-	"Aus Verbundmetall konnte ich eine Truhe kreieren. Sie bietet etwas mehr Stauraum als eine klassische Holztruhe.",
-	"Crafting:",
-	{
-		"type": "crafting",
-		"load": "fp:compositechest_0"
-	}
+  "Aus Verbundmetall konnte ich eine Truhe kreieren. Sie bietet etwas mehr Stauraum als eine klassische Holztruhe.",
+  "Crafting:",
+  {
+    "link": "fp:lang/part/crafting_deco.composite_chest.json"
+  }
 ]

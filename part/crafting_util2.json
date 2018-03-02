@@ -1,0 +1,31 @@
+[
+  {
+    "type": "crafting",
+    "slots": {
+      "1": {},
+      "2": "OreDict:ingotCopper",
+      "3": {},
+      "4": {
+        "name": "minecraft:glass_pane"
+      },
+      "5": {},
+      "6": {
+        "name": "minecraft:glass_pane"
+      },
+      "7": {
+        "name": "minecraft:glass_pane"
+      },
+      "8": {
+        "name": "minecraft:glass_pane"
+      },
+      "9": {
+        "name": "minecraft:glass_pane"
+      },
+      "out": {
+        "name": "fp:spaceship",
+        "meta": "\u003cspaceship.Tank\u003e",
+        "size": 2
+      }
+    }
+  }
+]

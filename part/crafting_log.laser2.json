@@ -1,0 +1,36 @@
+[
+  {
+    "type": "crafting",
+    "slots": {
+      "1": "OreDict:ingotAluminum",
+      "2": {
+        "name": "fp:spaceship",
+        "meta": "\u003cspaceship.Polymer\u003e"
+      },
+      "3": {},
+      "4": {
+        "name": "fp:chip",
+        "meta": "\u003cchip.NetworkChip\u003e"
+      },
+      "5": {
+        "name": "fp:spaceship",
+        "meta": "\u003cspaceship.Laserdiode\u003e"
+      },
+      "6": {
+        "name": "fp:spaceship",
+        "meta": "\u003cspaceship.LinseR\u003e"
+      },
+      "7": "OreDict:ingotAluminum",
+      "8": {
+        "name": "fp:spaceship",
+        "meta": "\u003cspaceship.Polymer\u003e"
+      },
+      "9": {},
+      "out": {
+        "name": "fp:laser_transmitter",
+        "meta": 0,
+        "size": 1
+      }
+    }
+  }
+]

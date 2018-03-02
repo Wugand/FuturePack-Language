@@ -1,0 +1,40 @@
+[
+  {
+    "type": "crafting",
+    "slots": {
+      "1": {
+        "name": "fp:spaceship",
+        "meta": "\u003cspaceship.Tank\u003e"
+      },
+      "2": {
+        "OreDict": "ingotAluminum"
+      },
+      "3": {
+        "OreDict": "ingotAluminum"
+      },
+      "4": {
+        "name": "fp:spaceship",
+        "meta": "\u003cspaceship.Tank\u003e"
+      },
+      "5": {
+        "name": "fp:spaceship",
+        "meta": "\u003cspaceship.IronStick\u003e"
+      },
+      "6": "chest",
+      "7": {
+        "name": "fp:spaceship",
+        "meta": "\u003cspaceship.Tank\u003e"
+      },
+      "8": {
+        "OreDict": "ingotAluminum"
+      },
+      "9": {
+        "OreDict": "ingotAluminum"
+      },
+      "out": {
+        "name": "fp:fuelcell",
+        "meta": 0
+      }
+    }
+  }
+]

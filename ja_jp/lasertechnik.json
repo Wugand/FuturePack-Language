@@ -1,21 +1,9 @@
-[	
-	"集中させた光のビームは、金属を溶かすのに十分な熱量をもたらします。",
-	"この新しい発見を改良してゆき、非常に強力な光線を作り出すことができました。",
-	"二つの半透明ミラーの間に配置された宝石へエネルギーを注ぎ込むことで、その宝石は受けた光から完全なシンクロビームを生成します。",
-	"作成図:",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {"OreDict":"ingotAluminum"},
-			"2": {"name":"fp:spaceship", "meta":"<spaceship.NeonCoil>"},
-			"3": {},
-			"4": {"name":"minecraft:glass_pane"},
-			"5": {"OreDict":"gemDiamond"},
-			"6": {"name":"minecraft:glass_pane"},
-			"7": {"OreDict":"ingotAluminum"},
-			"8": {"name":"fp:spaceship", "meta":"<spaceship.NeonCoil>"},
-			"9": {},
-			"out": [{"name":"fp:spaceship", "meta":"<spaceship.Laserdiode>"}]
-		}
-	}
+[
+  "集中させた光のビームは、金属を溶かすのに十分な熱量をもたらします。",
+  "この新しい発見を改良してゆき、非常に強力な光線を作り出すことができました。",
+  "二つの半透明ミラーの間に配置された宝石へエネルギーを注ぎ込むことで、その宝石は受けた光から完全なシンクロビームを生成します。",
+  "作成図:",
+  {
+    "link": "fp:lang/part/crafting_lasertechnik.json"
+  }
 ]

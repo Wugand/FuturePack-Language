@@ -1,21 +1,9 @@
 [
-    "L'espace n'est rien d'autre que du vide. Pour m'en protéger, j'ai créé un Sas.",
-    "C'est un bloc rotatif et rétractable, qui ne fait que 1 x 1 x 1 bloc quand il est rétracté, et 1 x 2,5 x 1 blocs quand il est étendu.",
-    "Avec l'utilisation de Redstone, je peux changer entre ces deux états. La façon optimale de l'utiliser est de mettre 2 sas à 3 blocs d'écarts l'un de l'autre, et grâce à sa propriété de rotation, vous pouvez le construire verticalement ou horizontalement.",
-	"Craft :",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {},
-			"2": "OreDict:ingotAluminum",
-			"3": {},
-			"4": {"name":"fp:spaceship","meta":"<spaceship.CompositeMetall>"},
-			"5": "OreDict:ingotAluminum",
-			"6": {"name":"fp:spaceship","meta":"<spaceship.CompositeMetall>"},
-			"7": {"name":"fp:spaceship","meta":"<spaceship.NeonCoil>"},
-			"8": {"name":"sticky_piston","meta":0},
-			"9": "OreDict:ingotMagnetite",
-			"out": {"name":"fp:spacedoor","meta":0}
-		}
-	}
+  "L\u0027espace n\u0027est rien d\u0027autre que du vide. Pour m\u0027en protéger, j\u0027ai créé un Sas.",
+  "C\u0027est un bloc rotatif et rétractable, qui ne fait que 1 x 1 x 1 bloc quand il est rétracté, et 1 x 2,5 x 1 blocs quand il est étendu.",
+  "Avec l\u0027utilisation de Redstone, je peux changer entre ces deux états. La façon optimale de l\u0027utiliser est de mettre 2 sas à 3 blocs d\u0027écarts l\u0027un de l\u0027autre, et grâce à sa propriété de rotation, vous pouvez le construire verticalement ou horizontalement.",
+  "Craft :",
+  {
+    "link": "fp:lang/part/crafting_space.airlock.json"
+  }
 ]

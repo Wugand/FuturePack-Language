@@ -1,22 +1,10 @@
 [
-	"Ich konnte einige Aufzeichnungen der Ungreifbaren rekonstruieren und eine ihrer Waffen nachbauen. Auch wenn ich weder verstehe wie noch warum diese Konstruktion funktioniert.",
-	"Es handelt sich um einen Bogen der eine Art feste Laserstrahlen anstatt von Pfeilen verschießt. Wenn diese stark genug geladen wurden, können sie sogar beim Aufprall explodieren.",
-	"Crafting:",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {},
-			"2": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
-			"3": {"OreDict":"ingotRetium"},
-			"4": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
-			"5": {"name":"minecraft:bow", "meta":0},
-			"6": {"OreDict":"ingotGlowtite"},
-			"7": {},
-			"8": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
-			"9": {"OreDict":"ingotRetium"},
-			"out": {"name":"fp:laserBow", "meta":0, "size":1}
-		}
-	},
-	"Es wird Neonenergie für die (wieder-)Aufladung benötigt.",
-	"Ich sollte auch einmal testen ob der Laserbogen mit Verzauberungen kompatibel ist."
+  "Ich konnte einige Aufzeichnungen der Ungreifbaren rekonstruieren und eine ihrer Waffen nachbauen. Auch wenn ich weder verstehe wie noch warum diese Konstruktion funktioniert.",
+  "Es handelt sich um einen Bogen der eine Art feste Laserstrahlen anstatt von Pfeilen verschießt. Wenn diese stark genug geladen wurden, können sie sogar beim Aufprall explodieren.",
+  "Crafting:",
+  {
+    "link": "fp:lang/part/crafting_unreach.laserbow.json"
+  },
+  "Es wird Neonenergie für die (wieder-)Aufladung benötigt.",
+  "Ich sollte auch einmal testen ob der Laserbogen mit Verzauberungen kompatibel ist."
 ]

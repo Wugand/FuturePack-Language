@@ -1,24 +1,12 @@
 [
-	"Metallblöcke mit einer Spitzhacke abzubauen dauert lange, und ist nicht effizient. Also habe ich ein Werkzeug entwickelt, dass ähnlich wie ein Bunsenbrenner, große Hitze entwickelt mit der ich die Metalle schmelzen kann. Für Stahl oder Eisen benötigt man allerdings viel mehr Energie, deshalb kommt ein super heißer Plasmastrahl zum Einsatz. Dieser wird erzeugt in dem die umliegende Luft ionisiert und dann durch Entladungen stark erhitzt wird, dieser Prozess verbraucht jedoch viel Energie.",
-	"Damit die gewaltige Hitze nicht alles zerstört wird ein Magnetfeld erzeugt, jedoch sollte ich aufpassen dass immer genügend Energie für die Erzeugung vorhanden ist.",
-	"Somit kann der Plasmaschneider alle Arten von Metallblöcken* (unter anderem fast alle Dekorationsblöcke und Maschinen des Futurepacks) extrem schnell abbauen. Er ersetzt allerdings keine Spitzhacke, das er beispielsweise für Gestein nicht zu gebrauchen ist.",
-	"Crafting:",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {},
-			"2": {"name":"fp:spaceship", "meta":"<spaceship.NeonCoil>"},
-			"3": {"name":"fp:spaceship", "meta":"<spaceship.CopperParts>"},
-			"4": "OreDict:ingotAluminum",
-			"5": "OreDict:dustNeon",
-			"6": {"name":"fp:spaceship", "meta":"<spaceship.NeonCoil>"},
-			"7": {"name":"fp:spaceship", "meta":"<spaceship.Tank>"},
-			"8": "OreDict:ingotAluminum",
-			"9": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
-			"out": {"name":"fp:plasmaschneider", "meta":0, "size":1}
-		}
-	},	
-	"Es wird Neonenergie für die (wieder-)Aufladung benötigt. Wenn die Ladung komplett aufgebraucht ist wird der Plasmaschneider zerstört.",
-	"Zum Aufladen kann ich, genau wie bei Batterien, die entsprechenden Slots der Energieerzeuger, Batterieboxen oder das Forschungsmodul-Energie nutzen.",
-	"* Information für \"Insider\": Alle Blöcke der Kategorie \"Material.IRON\""
+  "Metallblöcke mit einer Spitzhacke abzubauen dauert lange, und ist nicht effizient. Also habe ich ein Werkzeug entwickelt, dass ähnlich wie ein Bunsenbrenner, große Hitze entwickelt mit der ich die Metalle schmelzen kann. Für Stahl oder Eisen benötigt man allerdings viel mehr Energie, deshalb kommt ein super heißer Plasmastrahl zum Einsatz. Dieser wird erzeugt in dem die umliegende Luft ionisiert und dann durch Entladungen stark erhitzt wird, dieser Prozess verbraucht jedoch viel Energie.",
+  "Damit die gewaltige Hitze nicht alles zerstört wird ein Magnetfeld erzeugt, jedoch sollte ich aufpassen dass immer genügend Energie für die Erzeugung vorhanden ist.",
+  "Somit kann der Plasmaschneider alle Arten von Metallblöcken* (unter anderem fast alle Dekorationsblöcke und Maschinen des Futurepacks) extrem schnell abbauen. Er ersetzt allerdings keine Spitzhacke, das er beispielsweise für Gestein nicht zu gebrauchen ist.",
+  "Crafting:",
+  {
+    "link": "fp:lang/part/crafting_tools.plasma.json"
+  },
+  "Es wird Neonenergie für die (wieder-)Aufladung benötigt. Wenn die Ladung komplett aufgebraucht ist wird der Plasmaschneider zerstört.",
+  "Zum Aufladen kann ich, genau wie bei Batterien, die entsprechenden Slots der Energieerzeuger, Batterieboxen oder das Forschungsmodul-Energie nutzen.",
+  "* Information für \"Insider\": Alle Blöcke der Kategorie \"Material.IRON\""
 ]

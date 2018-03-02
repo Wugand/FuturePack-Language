@@ -3,13 +3,5 @@
 	"Les unités individuelles peuvent aussi gérer des valeurs dynamiques, ce qui veut dire qu'elles contiennent des états concrets, chacun d'eux avec une certaine probabilité.",
 	"Il est possible d'accéder aux données de façons conventionnelles, la Glowtite étant parfaite pour cela.",
 	"Assemblage :",
-	{
-		"type": "assembly",
-		"slots": {
-			"in1": {"OreDict":"ingotQuantanium", "size":1},
-			"in2": {"name":"fp:spaceship", "meta":"<spaceship.NeonParts>", "size":1},
-			"in3": {"OreDict":"ingotGlowtite"},
-			"out": {"name":"fp:ram", "meta":4, "size":1}
-		}
-	}
+	{"link":"fp:lang/part/as_ram.mm.json"}
 ]

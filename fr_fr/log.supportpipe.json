@@ -1,23 +1,10 @@
 [
-	"Au fil du temps, cela devient très fastidieux de changer manuellement les mémoires Flash. J'ai crée un tube qui permet de transférer des points Supports entre des machines.",
-	"C'est un tube normal auquel on a ajouté un revêtement de Glowtite, qui permet une transmission des points Support.",	
-	"Craft :",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {},
-			"2": {"OreDict":"ingotGlowtite"},
-			"3": {},
-			"4": {"name":"fp:pipe", "meta":0},
-			"5": {"name":"fp:pipe", "meta":0},
-			"6": {"name":"fp:pipe", "meta":0},
-			"7": {},
-			"8": {},
-			"9": {},
-			"out": {"name":"fp:pipe", "meta":3, "size":3}
-		}
-	},
-	
-	"Ces tubes sont particulièrement utiles pour alimenter des machines avec des points Support.",
-	"Paramètres : en utilisant la clé à molette, je peux changer les côtés du tube pour qu'ils ne soient pas connectés avec les autres tubes et inventaires. De plus, il y a un troisième mode qui est identifié par un point. Dans ce mode, seuls les points Supports sont transférés (aux machines notamment), mais pas les objets."
+  "Au fil du temps, cela devient très fastidieux de changer manuellement les mémoires Flash. J\u0027ai crée un tube qui permet de transférer des points Supports entre des machines.",
+  "C\u0027est un tube normal auquel on a ajouté un revêtement de Glowtite, qui permet une transmission des points Support.",
+  "Craft :",
+  {
+    "link": "fp:lang/part/crafting_log.supportpipe.json"
+  },
+  "Ces tubes sont particulièrement utiles pour alimenter des machines avec des points Support.",
+  "Paramètres : en utilisant la clé à molette, je peux changer les côtés du tube pour qu\u0027ils ne soient pas connectés avec les autres tubes et inventaires. De plus, il y a un troisième mode qui est identifié par un point. Dans ce mode, seuls les points Supports sont transférés (aux machines notamment), mais pas les objets."
 ]

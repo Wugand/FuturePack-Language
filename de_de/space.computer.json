@@ -1,17 +1,25 @@
 [
-    "Im Weltraum darf man nicht die Orientierung verlieren. Deshalbhabe ich einen Computer gebaut der mich sicher durch das Universum führt.",
-    "Crafting:",
-    {"link":"fp:lang/part/cr_space.computer.json"},
-    "Die GUI hat 3 Tabs:",
-    "Der erste Tab zeigt immer den Minecraft Planeten, heißt ich kann immer nach Hause zurückkehren.",
-    "Der 2. Tab zeigt immer wo ich bin, ich weiß zwar nicht warum ich nicht Wissen sollte wo ich grade bin, aber man weiß nie was man mal alles wissen muss.",
-    "Der 3. Tab zeigt den Ort an, der mit Hilfe von Koordinaten eingelesen wurde (zum einlesen den Slot verwenden).",
-    "",
-    "Außerdem werden verschiedene Sicherheitsmeldungen angezeigt:",
-    {"type":"translate","text":"chat.spaceship.lowEnergie"},
-    "Bedeutet dass der Boardcomputer selbst zu wenig NE hat.",
-    {"type":"translate","text":"chat.spaceship.open"},
-    "Bedeutet dass der Boardcomputer nicht in einem 100%ig dichten Raum ist.",
-    {"type":"translate","text":"chat.spaceship.missingEngine"},
-    "Bedeutet, dass es im Raumschiff keinen Neonenergie Erzeuger gibt."
+  "Im Weltraum darf man nicht die Orientierung verlieren. Deshalbhabe ich einen Computer gebaut der mich sicher durch das Universum führt.",
+  "Crafting:",
+  {
+    "link": "fp:lang/part/cr_space.computer.json"
+  },
+  "Die GUI hat 3 Tabs:",
+  "Der erste Tab zeigt immer den Minecraft Planeten, heißt ich kann immer nach Hause zurückkehren.",
+  "Der 2. Tab zeigt immer wo ich bin, ich weiß zwar nicht warum ich nicht Wissen sollte wo ich grade bin, aber man weiß nie was man mal alles wissen muss.",
+  "Der 3. Tab zeigt den Ort an, der mit Hilfe von Koordinaten eingelesen wurde (zum einlesen den Slot verwenden).",
+  "",
+  "Außerdem werden verschiedene Sicherheitsmeldungen angezeigt:",
+  {
+    "link": "fp:lang/part/translate_space.computer2.json"
+  },
+  "Bedeutet dass der Boardcomputer selbst zu wenig NE hat.",
+  {
+    "link": "fp:lang/part/translate_space.computer3.json"
+  },
+  "Bedeutet dass der Boardcomputer nicht in einem 100%ig dichten Raum ist.",
+  {
+    "link": "fp:lang/part/translate_space.computer4.json"
+  },
+  "Bedeutet, dass es im Raumschiff keinen Neonenergie Erzeuger gibt."
 ]

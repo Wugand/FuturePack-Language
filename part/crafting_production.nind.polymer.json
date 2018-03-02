@@ -1,0 +1,36 @@
+[
+  {
+    "type": "crafting",
+    "slots": {
+      "1": {},
+      "2": {
+        "name": "minecraft:nether_wart",
+        "meta": 0
+      },
+      "3": {},
+      "4": {
+        "name": "fp:spaceship",
+        "meta": "\u003cspaceship.HackSchnitzel\u003e"
+      },
+      "5": {
+        "name": "minecraft:water_bucket",
+        "meta": 0
+      },
+      "6": {
+        "name": "minecraft:gunpowder",
+        "meta": 0
+      },
+      "7": {},
+      "8": {
+        "name": "minecraft:fermented_spider_eye",
+        "meta": 0
+      },
+      "9": {},
+      "out": {
+        "name": "fp:spaceship",
+        "meta": "\u003cspaceship.Chemicals\u003e",
+        "size": 32
+      }
+    }
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "type": "crafting",
+    "slots": {
+      "1": {
+        "name": "fp:cristall",
+        "meta": 0
+      },
+      "2": {
+        "name": "fp:escenner",
+        "meta": 0
+      },
+      "3": {
+        "name": "fp:cristall",
+        "meta": 0
+      },
+      "4": "OreDict:ingotIron",
+      "5": [
+        {
+          "name": "fp:color_iron",
+          "meta": 0
+        },
+        {
+          "name": "fp:color_iron",
+          "meta": 8
+        },
+        {
+          "name": "fp:color_iron",
+          "meta": 15
+        }
+      ],
+      "6": "OreDict:ingotIron",
+      "7": {
+        "name": "fp:spaceship",
+        "meta": "\u003cspaceship.CopperCoil\u003e"
+      },
+      "8": {
+        "name": "fp:spaceship",
+        "meta": "\u003cspaceship.IronParts\u003e"
+      },
+      "9": {
+        "name": "fp:spaceship",
+        "meta": "\u003cspaceship.CopperCoil\u003e"
+      },
+      "out": [
+        {
+          "name": "fp:scanner_block",
+          "meta": 2
+        },
+        {
+          "name": "fp:scanner_block",
+          "meta": 6
+        },
+        {
+          "name": "fp:scanner_block",
+          "meta": 10
+        }
+      ]
+    }
+  }
+]

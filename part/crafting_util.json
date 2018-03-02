@@ -1,0 +1,21 @@
+[
+  {
+    "type": "crafting",
+    "slots": {
+      "1": "OreDict:ingotIron",
+      "2": {},
+      "3": {},
+      "4": "OreDict:ingotIron",
+      "5": {},
+      "6": {},
+      "7": {},
+      "8": {},
+      "9": {},
+      "out": {
+        "name": "fp:spaceship",
+        "meta": "\u003cspaceship.IronStick\u003e",
+        "size": 8
+      }
+    }
+  }
+]

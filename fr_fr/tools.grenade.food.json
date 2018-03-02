@@ -1,55 +1,18 @@
 [
-	"C'est toujours ennuyeux de nourrir les animaux de la ferme. Mais depuis que j'ai compacté de la nourriture dans une Grenade à Nourriture, je peux la distribuer plus facilement dans leur enclos.",
-	"Quand je remplis la grenade avec de la nourriture, elle est distribuée à l'impact. Tous les animaux de la zone de la zone seront nourris et pourront se reproduire.",
-	"Je peux mettre jusqu'à 3 unités de nourriture pour choisir la taille de la zone d'effet. On peut adapté la nourriture en fonction de des espèces.",
-	
-	"Craft :",
-	"Force 1:",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {"name":"fp:grenade", "meta":0},
-			"2": [{"name":"minecraft:wheat"},{"name":"minecraft:potato"}],
-			"3": {},
-			"4": {},
-			"5": [{"name":"minecraft:apple"},{"name":"minecraft:carrot"}],
-			"6": {},
-			"7": {},
-			"8": {},
-			"9": {},
-			"out": {"name":"fp:grenade", "meta":6, "size":1}
-		}
-	},
-	"Force 2:",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {"name":"fp:grenade", "meta":0},
-			"2": [{"name":"minecraft:wheat"},{"name":"minecraft:potato"}],
-			"3": {},
-			"4": [{"name":"minecraft:wheat"},{"name":"minecraft:potato"}],
-			"5": [{"name":"minecraft:apple"},{"name":"minecraft:carrot"}],
-			"6": {},
-			"7": {},
-			"8": {},
-			"9": {},
-			"out": {"name":"fp:grenade", "meta":6, "size":1}
-		}
-	},
-	"Force 3:",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {"name":"fp:grenade", "meta":0},
-			"2": [{"name":"minecraft:wheat"},{"name":"minecraft:potato"}],
-			"3": [{"name":"minecraft:wheat"},{"name":"minecraft:potato"}],
-			"4": [{"name":"minecraft:wheat"},{"name":"minecraft:potato"}],
-			"5": [{"name":"minecraft:apple"},{"name":"minecraft:carrot"}],
-			"6": {},
-			"7": {},
-			"8": {},
-			"9": {},
-			"out": {"name":"fp:grenade", "meta":6, "size":1}
-		}
-	}
+  "C\u0027est toujours ennuyeux de nourrir les animaux de la ferme. Mais depuis que j\u0027ai compacté de la nourriture dans une Grenade à Nourriture, je peux la distribuer plus facilement dans leur enclos.",
+  "Quand je remplis la grenade avec de la nourriture, elle est distribuée à l\u0027impact. Tous les animaux de la zone de la zone seront nourris et pourront se reproduire.",
+  "Je peux mettre jusqu\u0027à 3 unités de nourriture pour choisir la taille de la zone d\u0027effet. On peut adapté la nourriture en fonction de des espèces.",
+  "Craft :",
+  "Force 1:",
+  {
+    "link": "fp:lang/part/crafting_tools.grenade.food.json"
+  },
+  "Force 2:",
+  {
+    "link": "fp:lang/part/crafting_tools.grenade.food2.json"
+  },
+  "Force 3:",
+  {
+    "link": "fp:lang/part/crafting_tools.grenade.food3.json"
+  }
 ]

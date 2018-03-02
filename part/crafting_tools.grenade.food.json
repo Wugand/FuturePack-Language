@@ -1,0 +1,38 @@
+[
+  {
+    "type": "crafting",
+    "slots": {
+      "1": {
+        "name": "fp:grenade",
+        "meta": 0
+      },
+      "2": [
+        {
+          "name": "minecraft:wheat"
+        },
+        {
+          "name": "minecraft:potato"
+        }
+      ],
+      "3": {},
+      "4": {},
+      "5": [
+        {
+          "name": "minecraft:apple"
+        },
+        {
+          "name": "minecraft:carrot"
+        }
+      ],
+      "6": {},
+      "7": {},
+      "8": {},
+      "9": {},
+      "out": {
+        "name": "fp:grenade",
+        "meta": 6,
+        "size": 1
+      }
+    }
+  }
+]

@@ -1,26 +1,12 @@
 [
-	"Pour travailler sous l'eau pendant de longues périodes, j'ai besoin d'air. Les réservoirs que j'ai créés sont très utile pour cela ; et en les combinant avec un boîtier en aluminium léger, je peux les mettre comme un sac à dos.",
-	"J'ai aussi ajouté un contrôleur et un compresseur pour les recharger dès que je sors de l'eau.",
-
-	"Craft :",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {"OreDict":"ingotAluminum"},
-			"2": {"name":"fp:chip", "meta":0},
-			"3": {"OreDict":"ingotAluminum"},
-			"4": {"name":"fp:spaceship", "meta":"<spaceship.Tank>"},
-			"5": {"OreDict":"ingotMagnetite"},
-			"6": {"name":"fp:spaceship", "meta":"<spaceship.Tank>"},
-			"7": {},
-			"8": {"name":"fp:spaceship", "meta":"<spaceship.CopperCoil>"},
-			"9": {},
-			"out": {"name":"fp:sauerstofftank"}
-		}
-	},
-	"Capacité : 2 min",
-	"Rechargement : 2 min",
-		
-	"Affichage : le niveau de remplissage du réservoir est donné par la barre classique d'oxygène. Une fois qu'elle est vide (après 2 minutes), votre réserve d'oxygène est épuisée. Votre niveau d'oxygène sera alors rempli une nouvelle fois, puis descendra à la vitesse normale.",
-	"En dehors de l'eau, les réservoirs se remplissent lentement, du moment qu'ils sont équipés."
+  "Pour travailler sous l\u0027eau pendant de longues périodes, j\u0027ai besoin d\u0027air. Les réservoirs que j\u0027ai créés sont très utile pour cela ; et en les combinant avec un boîtier en aluminium léger, je peux les mettre comme un sac à dos.",
+  "J\u0027ai aussi ajouté un contrôleur et un compresseur pour les recharger dès que je sors de l\u0027eau.",
+  "Craft :",
+  {
+    "link": "fp:lang/part/crafting_tools.sauerstofftank.json"
+  },
+  "Capacité : 2 min",
+  "Rechargement : 2 min",
+  "Affichage : le niveau de remplissage du réservoir est donné par la barre classique d\u0027oxygène. Une fois qu\u0027elle est vide (après 2 minutes), votre réserve d\u0027oxygène est épuisée. Votre niveau d\u0027oxygène sera alors rempli une nouvelle fois, puis descendra à la vitesse normale.",
+  "En dehors de l\u0027eau, les réservoirs se remplissent lentement, du moment qu\u0027ils sont équipés."
 ]

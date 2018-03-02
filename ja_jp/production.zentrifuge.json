@@ -1,22 +1,10 @@
 [
-	"自然界においては純粋な物質というものはほとんど存在せず、大抵の物には別の物質が微量に含まれています。\nそのため、これら混ざり合ったものを分離させる機械を開発しました。",
-	"この機械は超高速で回転するいくつかの容器で構成されており、遠心力を使って素材を質量ごとに分離させます。\n装置の中には分別、採集のための機能がたくさん用意されています。",
-	"機械にはまだ改善の余地があり、さらなる機能を追加することができます。\n後に使用するためのサポートポイントを集積するシステムも搭載しました。",
-	"作成図:",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {"name":"fp:spaceship","meta":"<spaceship.Tank>"},
-			"2": {"OreDict":"ingotMagnetite"},
-			"3": {"name":"fp:spaceship","meta":"<spaceship.Tank>"},
-			"4": {"name":"fp:spaceship", "meta":"<spaceship.GoldCoil>"},
-			"5": [{"name":"fp:color_iron","meta":0},{"name":"fp:color_iron","meta":8},{"name":"fp:color_iron","meta":15}],
-			"6": {"name":"fp:spaceship", "meta":"<spaceship.GoldCoil>"},
-			"7": {"name":"fp:metal_gitter_pane", "meta":0},
-			"8": {"name":"fp:spaceship", "meta":"<spaceship.Maschinboard>"},
-			"9": {"name":"fp:metal_gitter_pane", "meta":0},
-			"out": [{"name":"fp:zentrifuge","meta":2},{"name":"fp:zentrifuge","meta":6},{"name":"fp:zentrifuge","meta":10}]
-		}
-	},
-"-通知:\nこの機械ではサポートポイント(SP)をフラッシュメモリに書き込む機能がありません。\n対応する技術は、あとで開発ができる可能性があります。"
+  "自然界においては純粋な物質というものはほとんど存在せず、大抵の物には別の物質が微量に含まれています。\nそのため、これら混ざり合ったものを分離させる機械を開発しました。",
+  "この機械は超高速で回転するいくつかの容器で構成されており、遠心力を使って素材を質量ごとに分離させます。\n装置の中には分別、採集のための機能がたくさん用意されています。",
+  "機械にはまだ改善の余地があり、さらなる機能を追加することができます。\n後に使用するためのサポートポイントを集積するシステムも搭載しました。",
+  "作成図:",
+  {
+    "link": "fp:lang/part/crafting_production.zentrifuge.json"
+  },
+  "-通知:\nこの機械ではサポートポイント(SP)をフラッシュメモリに書き込む機能がありません。\n対応する技術は、あとで開発ができる可能性があります。"
 ]

@@ -3,15 +3,7 @@
 	"它特别适用于杀死生物的机器,因为这个芯片增强了他们的能力。",
 
 	"装配",
-	{
-		"type": "assembly",
-		"slots": {
-			"in1": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>"},
-			"in2": {"name":"fp:spaceship", "meta":"<spaceship.QuartzParts>"},
-			"in3": {"name":"golden_sword", "meta":0, "size":1},
-			"out": {"name":"fp:chip", "meta":"<chip.TacticChip>", "size":1}
-		}
-	},
+	{"link":"fp:lang/part/as_chip.tactic.json"},
 
 	"战术芯片组的影响效果随着其质量(chip power)和数量的增加而增强。",
 	"信息:在相应的机器的注释上查看具体效果。",

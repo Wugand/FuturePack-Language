@@ -1,14 +1,6 @@
 [
 	"製造方法を改善し、\n１つのメモリモジュールの記憶容量を2倍に増やすことができました。\nさらに熱伝導率の高い素材を使用して、放熱効果も高めました。",
 	"組み立てレシピ:",
-	{
-		"type": "assembly",
-		"slots": {
-			"in1": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>", "size":2},
-			"in2": {"name":"fp:spaceship", "meta":"<spaceship.NeonParts>", "size":2},
-			"in3": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"out": {"name":"fp:ram", "meta":1, "size":1}
-		}
-	},
+	{"link":"fp:lang/part/as_ram.alon.json"},
 	"-ヒント:\n概要については、\"標準メモリ\"のページを参照してください。"
 ]

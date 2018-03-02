@@ -1,22 +1,8 @@
 [
-	"Aus der Kombination einer Spitzhacke mit einem einfachen Werfer konnte ich das Abbauen von Blöcken automatisieren.",
-	"Wenn die Maschine vor einem Block steht und durch Redstone-Signale aktiviert wird, zerstört sie den Block und wirft seine Überreste nach hinten aus.",
-	
-	"Crafting:",
-	{
-		"type": "crafting",
-		"slots":
-		{
-			"1": {"OreDict":"ingotAluminum"},
-			"2": {"OreDict":"ingotAluminum"},
-			"3": {"OreDict":"ingotAluminum"},
-			"4": {"OreDict":"ingotAluminum"},
-			"5": {"name":"minecraft:dispenser","meta":0},
-			"6": {"OreDict":"ingotAluminum"},
-			"7": {"name":"minecraft:obsidian","meta":0},
-			"8": {"name":"minecraft:iron_pickaxe","meta":0},
-			"9": {"name":"minecraft:obsidian","meta":0},
-			"out": {"name":"fp:block_breaker","meta":0}
-		}
-	}
+  "Aus der Kombination einer Spitzhacke mit einem einfachen Werfer konnte ich das Abbauen von Blöcken automatisieren.",
+  "Wenn die Maschine vor einem Block steht und durch Redstone-Signale aktiviert wird, zerstört sie den Block und wirft seine Überreste nach hinten aus.",
+  "Crafting:",
+  {
+    "link": "fp:lang/part/crafting_production.blockbreaker.json"
+  }
 ]

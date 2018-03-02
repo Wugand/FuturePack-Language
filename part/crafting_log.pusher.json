@@ -1,0 +1,41 @@
+[
+  {
+    "type": "crafting",
+    "slots": {
+      "1": {
+        "OreDict": "ingotAluminum"
+      },
+      "2": {
+        "OreDict": "ingotAluminum"
+      },
+      "3": {
+        "OreDict": "ingotAluminum"
+      },
+      "4": {
+        "name": "minecraft:chest",
+        "meta": 0
+      },
+      "5": {
+        "OreDict": "dustRedstone"
+      },
+      "6": {
+        "name": "minecraft:bow",
+        "meta": 0
+      },
+      "7": {
+        "OreDict": "ingotAluminum"
+      },
+      "8": {
+        "OreDict": "ingotAluminum"
+      },
+      "9": {
+        "OreDict": "ingotAluminum"
+      },
+      "out": {
+        "name": "fp:pucher",
+        "meta": 0,
+        "size": 1
+      }
+    }
+  }
+]

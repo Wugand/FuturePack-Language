@@ -1,21 +1,9 @@
 [
-	"コア、メモリ、チップセットを接続させるため、私は独立した大型のクォーツ基板を作成し、たくさんの挿入スロットや電源ユニットを付属させました。",
-	"作成図:",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {"name":"fp:spaceship", "meta":"<spaceship.QuartzParts>"},
-			"2": [{"name":"fp:ram","meta":0}],
-			"3": {"name":"fp:spaceship", "meta":"<spaceship.QuartzParts>"},
-			"4": {"name":"fp:spaceship", "meta":"<spaceship.CopperCoil>"},
-			"5": [{"name":"fp:core","meta":0}],
-			"6": {"name":"fp:spaceship", "meta":"<spaceship.CopperCoil>"},
-			"7": {"name":"fp:spaceship", "meta":"<spaceship.QuartzParts>"},
-			"8": [{"name":"fp:chip","meta":0}],
-			"9": {"name":"fp:spaceship", "meta":"<spaceship.QuartzParts>"},
-			"out": {"name":"fp:spaceship","meta":"<spaceship.Maschinboard>"}
-		}
-	},
-	"-Info:",
-	"作成の際にはさまざまなタイプのコアとメモリを組み合わせることができます。全ての部品は後に交換することができます！\n(\"オーバークロック\"を参照) クラフトして出来上がった仕様によっては、すぐに機能しない、またはオーバーヒートを起こす可能性があります。"
+  "コア、メモリ、チップセットを接続させるため、私は独立した大型のクォーツ基板を作成し、たくさんの挿入スロットや電源ユニットを付属させました。",
+  "作成図:",
+  {
+    "link": "fp:lang/part/crafting_motherboard.json"
+  },
+  "-Info:",
+  "作成の際にはさまざまなタイプのコアとメモリを組み合わせることができます。全ての部品は後に交換することができます！\n(\"オーバークロック\"を参照) クラフトして出来上がった仕様によっては、すぐに機能しない、またはオーバーヒートを起こす可能性があります。"
 ]

@@ -1,0 +1,29 @@
+[
+  {
+    "type": "crafting",
+    "slots": {
+      "1": {},
+      "2": {},
+      "3": {},
+      "4": {
+        "name": "fp:beam",
+        "meta": 1
+      },
+      "5": {
+        "name": "fp:spaceship",
+        "meta": "\u003cspaceship.GoldCoil\u003e"
+      },
+      "6": {
+        "name": "fp:beam",
+        "meta": 2
+      },
+      "7": {},
+      "8": {},
+      "9": {},
+      "out": {
+        "name": "fp:beam",
+        "meta": 0
+      }
+    }
+  }
+]

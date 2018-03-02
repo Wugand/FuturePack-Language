@@ -1,18 +1,8 @@
 [
-	"En modifiant la diode laser avec une lentille de précision, je peux manipuler précisément le faisceau de sortie pour obtenir des effets spécifiques et potentiellement plus puissants.",
-	"La lentille Rouge de mise au point modifie le laser de telle sorte qu'il génère une quantité importante de chaleur sur la cible. Cette lentille est idéale pour tuer ou pour couper des objets.",
-	"La lentille de mise au point nécessite un processus de fabrication très précis, qui peut être réalisé uniquement grâce au four industriel au Néon.",
-	{
-		"type": "industrialneonfurnace",
-		"slots": {
-			"in1":  {"OreDict":"ingotAluminum", "size":1},
-			"in2":  {"name":"minecraft:stained_glass_pane", "meta":14, "size":1},
-			"in3":  {"OreDict":"dustRedstone", "size":1},
-			"out1": {"name":"fp:spaceship", "meta":"<spaceship.LinseR>", "size":1},
-			"out2": {},
-			"out3": {}
-		},
-		"support":0
-	}
-		
+  "En modifiant la diode laser avec une lentille de précision, je peux manipuler précisément le faisceau de sortie pour obtenir des effets spécifiques et potentiellement plus puissants.",
+  "La lentille Rouge de mise au point modifie le laser de telle sorte qu\u0027il génère une quantité importante de chaleur sur la cible. Cette lentille est idéale pour tuer ou pour couper des objets.",
+  "La lentille de mise au point nécessite un processus de fabrication très précis, qui peut être réalisé uniquement grâce au four industriel au Néon.",
+  {
+    "link": "fp:lang/part/industrialneonfurnace_production.nind.linse.r.json"
+  }
 ]

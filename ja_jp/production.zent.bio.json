@@ -1,44 +1,17 @@
 [
-	"遠心分離機を使って、植物やその他の有機物の残骸を処理して、それらに含まれている希少な成分を抽出することができます。",
-	"処理を行った後は、以下のものが残ります。",
-	"-木のチップ:可燃性の残留物\n-堆肥物:肥料として活用\n-植物繊維:バイオポリマーの原料",
-	"土や様々な植物をこの処理にかけることができます。しかし染料を含む植物については、より有効な手段があります。",
-	"実例:",
-    {
-        "type":"zentrifuge",
-        "slots":
-        {
-            "in":{"name":"minecraft:dirt", "meta":0, "size":8},
-            "out1":{"name":"minecraft:gravel", "size":4, "meta":0},
-            "out2":{"name":"minecraft:clay_ball", "size":2, "meta":0},
-            "out3":{"name":"fp:spaceship", "size":1, "meta":"<spaceship.Kompost>"}
-        },
-	    "support":0,
-	    "time":100
-    },
-	{
-        "type":"zentrifuge",
-        "slots":
-        {
-            "in":{"name":"minecraft:sapling", "size":2},
-            "out1":{"name":"fp:spaceship", "size":1, "meta":"<spaceship.HackSchnitzel>"},
-            "out2":{"name":"fp:spaceship", "size":1, "meta":"<spaceship.Kompost>"},
-            "out3":{}
-        },
-	    "support":0,
-	    "time":200
-    },
-	{
-        "type":"zentrifuge",
-        "slots":
-        {
-            "in":{"name":"minecraft:reeds", "meta":0, "size":6},
-            "out1":{"name":"fp:spaceship", "size":6, "meta":"<spaceship.Fibers>"},
-            "out2":{"name":"minecraft:sugar", "meta":0, "size":8},
-            "out3":{}
-        },
-	    "support":0,
-	    "time":200
-    },
-	"-通知:\n遠心分離機には多くのレシピがあり、ここに掲載されているものが全てではありません！"
+  "遠心分離機を使って、植物やその他の有機物の残骸を処理して、それらに含まれている希少な成分を抽出することができます。",
+  "処理を行った後は、以下のものが残ります。",
+  "-木のチップ:可燃性の残留物\n-堆肥物:肥料として活用\n-植物繊維:バイオポリマーの原料",
+  "土や様々な植物をこの処理にかけることができます。しかし染料を含む植物については、より有効な手段があります。",
+  "実例:",
+  {
+    "link": "fp:lang/part/zentrifuge_production.zent.bio.json"
+  },
+  {
+    "link": "fp:lang/part/zentrifuge_production.zent.bio2.json"
+  },
+  {
+    "link": "fp:lang/part/zentrifuge_production.zent.bio3.json"
+  },
+  "-通知:\n遠心分離機には多くのレシピがあり、ここに掲載されているものが全てではありません！"
 ]

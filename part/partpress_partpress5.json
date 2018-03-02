@@ -1,0 +1,13 @@
+[
+  {
+    "type": "partpress",
+    "slots": {
+      "in": "OreDict:gemQuartz",
+      "out": {
+        "name": "fp:spaceship",
+        "meta": "\u003cspaceship.QuartzParts\u003e",
+        "size": 4
+      }
+    }
+  }
+]

@@ -1,54 +1,18 @@
 [
-	"出会ったものを毎回殺す必要はありません。それを固定してしまう手もあります。",
-	"グレネードの容器にスライムを充填することで、目標を減速させる武器を製作できます。",
-	"1~3個のスライムを使用して、効果範囲を選択できます。",
-	"作成図 (不定形):",
-	"範囲_I:",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {"name":"fp:grenade", "meta":0},
-			"2": {"name":"minecraft:slime_ball"},
-			"3": {},
-			"4": {},
-			"5": {},
-			"6": {},
-			"7": {},
-			"8": {},
-			"9": {},
-			"out": {"name":"fp:grenade", "meta":4, "size":1}
-		}
-	},
-	"範囲_II:",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {"name":"fp:grenade", "meta":0},
-			"2": {"name":"minecraft:slime_ball"},
-			"3": {},
-			"4": {"name":"minecraft:slime_ball"},
-			"5": {},
-			"6": {},
-			"7": {},
-			"8": {},
-			"9": {},
-			"out": {"name":"fp:grenade", "meta":4, "size":1}
-		}
-	},
-	"範囲_II:",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {"name":"fp:grenade", "meta":0},
-			"2": {"name":"minecraft:slime_ball"},
-			"3": {"name":"minecraft:slime_ball"},
-			"4": {"name":"minecraft:slime_ball"},
-			"5": {},
-			"6": {},
-			"7": {},
-			"8": {},
-			"9": {},
-			"out": {"name":"fp:grenade", "meta":4, "size":1}
-		}
-	}
+  "出会ったものを毎回殺す必要はありません。それを固定してしまう手もあります。",
+  "グレネードの容器にスライムを充填することで、目標を減速させる武器を製作できます。",
+  "1~3個のスライムを使用して、効果範囲を選択できます。",
+  "作成図 (不定形):",
+  "範囲_I:",
+  {
+    "link": "fp:lang/part/crafting_tools.grenade.slime.json"
+  },
+  "範囲_II:",
+  {
+    "link": "fp:lang/part/crafting_tools.grenade.slime2.json"
+  },
+  "範囲_II:",
+  {
+    "link": "fp:lang/part/crafting_tools.grenade.slime3.json"
+  }
 ]

@@ -3,12 +3,7 @@
 	"Montagem:",
 	{
 		"type": "assembly",
-		"slots": {
-			"in1": {"name":"minecraft:slime_ball","meta":0,"size":1},
-			"in2": {"name":"minecraft:chest","meta":0,"size":1},
-			"in3": {"name":"fp:chip","meta":"<chip.LogicChip>","size":1},
-			"out": {"name":"fp:entityEgger", "meta":2, "size":1}
-		}
+		"load": "chest_egger"
 	},
 	"É possível clicar em um gerador de monstros (monster spawner) com um \"Cofre de Spawners\" para salvar o item. Depois disso, eu posso colocar o gerador em qualquer lugar."
 ]

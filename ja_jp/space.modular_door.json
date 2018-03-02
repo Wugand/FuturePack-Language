@@ -1,28 +1,13 @@
 [
-	"エアロックよりも柔軟な動作を行えるバージョンのものを開発しました。\nこのゲートは、サイズ、形状、向きを自由に選ぶことができます。",
-	"このパーツはブロックとして様々な向きで配置することができます。\n(ゲートに対して配置する際は、ゲートを起動させないように§lスニーク-右クリック§rを使用してください)\n異なる方向のゲートを組み合わせてさまざまな形のものを作ることができます。",
-	"画期的な点は、接触しているゲート同士が連動することです。\nゲートに対し§l右クリック§rすることで開閉させることができます。",
-	"作成図:",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {"name":"fp:spaceship", "meta":"<spaceship.keramik>"},
-			"2": {"name":"fp:spaceship", "meta":"<spaceship.IronParts>"},
-			"3": {"name":"fp:spaceship", "meta":"<spaceship.keramik>"},
-			"4": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"5": {"name":"fp:spaceship", "meta":"<spaceship.Polymer>"},
-			"6": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"7": {"name":"fp:spaceship", "meta":"<spaceship.keramik>"},
-			"8": {"name":"fp:spaceship", "meta":"<spaceship.IronParts>"},
-			"9": {"name":"fp:spaceship", "meta":"<spaceship.keramik>"},
-			"out": {"name":"fp:modular_door", "meta":0, "size":2}
-		}
-	},
-	"実例:",
-	{
-		"type":"image",
-		"width":96,
-		"height":116,
-		"resource":"fp:textures/mdoor.png"
-	}
+  "エアロックよりも柔軟な動作を行えるバージョンのものを開発しました。\nこのゲートは、サイズ、形状、向きを自由に選ぶことができます。",
+  "このパーツはブロックとして様々な向きで配置することができます。\n(ゲートに対して配置する際は、ゲートを起動させないように§lスニーク-右クリック§rを使用してください)\n異なる方向のゲートを組み合わせてさまざまな形のものを作ることができます。",
+  "画期的な点は、接触しているゲート同士が連動することです。\nゲートに対し§l右クリック§rすることで開閉させることができます。",
+  "作成図:",
+  {
+    "link": "fp:lang/part/crafting_space.modular_door.json"
+  },
+  "実例:",
+  {
+    "link": "fp:lang/part/image_space.modular_door2.json"
+  }
 ]

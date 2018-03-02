@@ -1,26 +1,12 @@
 [
-	"Nach den Gesetzen dieser Welt kann ich mir mein Wissen mit Hilfe eines Zaubertischs aussaugen, um die dann an Gegenstände zu binden.",
-	"Vielleicht kann ich diesen seltsamen Effekt auch nützlicher einsetzen, als zur Herstellung von glitzernden Werkzeugen. Zum Beispiel kann ich damit noch bessere Technologie entwickeln.",
-	"Auf Basis des Zaubertischs habe ich ein Forschungsmodul entwickelt. Das Modul kann mir mein Wissen in Form von Erfahrungspunkten (XP) absaugen und bei Bedarf auch wieder injizieren.",
-	"Das Modul muss direkt oder per Netzwerk mit dem Forscher verknüpft werden um zu funktionieren, die eigentliche Arbeit weiterhin im Forscher ausgeführt.",
-
-	"Crafting:",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {"name":"fp:spaceship", "meta":"<spaceship.GoldParts>"},
-			"2": {"name":"fp:scrench"},
-			"3": {"name":"fp:spaceship", "meta":"<spaceship.GoldParts>"},
-			"4": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>"},
-			"5": [{"name":"fp:color_iron","meta":0},{"name":"fp:color_iron","meta":8},{"name":"fp:color_iron","meta":15}],
-			"6": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>"},
-			"7": {"OreDict":"ingotNeodymium"},
-			"8": {"name":"minecraft:enchanting_table", "meta":0},
-			"9": {"OreDict":"ingotNeodymium"},
-			"out": [{"name":"fp:modul_3","meta":2},{"name":"fp:modul_3","meta":6},{"name":"fp:modul_3","meta":10}]
-		}
-	},	
-	"Das Modul speichert bis zu 1500 XP (etwa Level 31), falls dies einmal nicht genügen sollte, kann ich mehrere dieser Module mit dem Forscher verbinden.",
-	"Allerdings sollte ich auch mehr Berechnungsmodule an den Forscher anbinden. Aktuell sind vermutlich 8-16 Module angemessen."
-	
+  "Nach den Gesetzen dieser Welt kann ich mir mein Wissen mit Hilfe eines Zaubertischs aussaugen, um die dann an Gegenstände zu binden.",
+  "Vielleicht kann ich diesen seltsamen Effekt auch nützlicher einsetzen, als zur Herstellung von glitzernden Werkzeugen. Zum Beispiel kann ich damit noch bessere Technologie entwickeln.",
+  "Auf Basis des Zaubertischs habe ich ein Forschungsmodul entwickelt. Das Modul kann mir mein Wissen in Form von Erfahrungspunkten (XP) absaugen und bei Bedarf auch wieder injizieren.",
+  "Das Modul muss direkt oder per Netzwerk mit dem Forscher verknüpft werden um zu funktionieren, die eigentliche Arbeit weiterhin im Forscher ausgeführt.",
+  "Crafting:",
+  {
+    "link": "fp:lang/part/crafting_upgradet3.json"
+  },
+  "Das Modul speichert bis zu 1500 XP (etwa Level 31), falls dies einmal nicht genügen sollte, kann ich mehrere dieser Module mit dem Forscher verbinden.",
+  "Allerdings sollte ich auch mehr Berechnungsmodule an den Forscher anbinden. Aktuell sind vermutlich 8-16 Module angemessen."
 ]

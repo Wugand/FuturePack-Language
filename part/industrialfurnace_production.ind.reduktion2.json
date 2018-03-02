@@ -1,0 +1,6 @@
+[
+  {
+    "type": "industrialfurnace",
+    "load": ["ingot_neon", "ingot_glowtite", "ingot_retium", "ingot_bioterium", "ingot_aluminum_crystal"]
+  }
+]

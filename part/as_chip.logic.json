@@ -1,11 +1,6 @@
 [
 	{
 		"type": "assembly",
-		"slots": {
-			"in1": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>"},
-			"in2": {"name":"fp:spaceship", "meta":"<spaceship.QuartzParts>"},
-			"in3": {"OreDict":"ingotCopper"},
-			"out": {"name":"fp:chip", "meta":0, "size":1}
-		}
+		"load": "chip_logic"
 	}
 ]

@@ -1,21 +1,9 @@
 [
-	"ネオンエネルギーは新たに生まれるたくさんの技術のカギになると考え、私は研究装置の改良モジュールを作成しました。\nこれらのエネルギーを応用して、より多くの調査、研究をすることができます。",
-	"モジュールは研究装置に直接接続させます。\nすべての作業は、今までのように研究装置で行われます。",
-	"作成図:",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {"name":"fp:spaceship", "meta":"<spaceship.GoldParts>"},
-			"2": {"name":"fp:scrench"},
-			"3": {"name":"fp:spaceship", "meta":"<spaceship.GoldParts>"},
-			"4": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>"},
-			"5": [{"name":"fp:color_iron","meta":0},{"name":"fp:color_iron","meta":8},{"name":"fp:color_iron","meta":15}],
-			"6": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>"},
-			"7": {"name":"fp:wire"},
-			"8": {"name":"fp:spaceship", "meta":"<spaceship.NeonCoil>"},
-			"9": {"name":"fp:wire"},
-			"out": [{"name":"fp:modul_1","meta":2},{"name":"fp:modul_1","meta":6},{"name":"fp:modul_1","meta":10}]
-		}
-	},	
-	"モジュールには10,000NEを蓄えておくことができます。研究を行うにあたりNE量が\n足りていない場合は、より多くのモジュールを増設したり、再びNEが満タンになるまで待ってください。\nエネルギーは、ケーブルやバッテリーから供給することができます。"
+  "ネオンエネルギーは新たに生まれるたくさんの技術のカギになると考え、私は研究装置の改良モジュールを作成しました。\nこれらのエネルギーを応用して、より多くの調査、研究をすることができます。",
+  "モジュールは研究装置に直接接続させます。\nすべての作業は、今までのように研究装置で行われます。",
+  "作成図:",
+  {
+    "link": "fp:lang/part/crafting_upgradet1.json"
+  },
+  "モジュールには10,000NEを蓄えておくことができます。研究を行うにあたりNE量が\n足りていない場合は、より多くのモジュールを増設したり、再びNEが満タンになるまで待ってください。\nエネルギーは、ケーブルやバッテリーから供給することができます。"
 ]

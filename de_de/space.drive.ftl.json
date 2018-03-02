@@ -1,28 +1,14 @@
 [
-	"Meinen Berechnungen zufolge würde ich sehr lange fliegen um einen anderen Planet zu erreichen, da ich scheinbar nicht beliebig schnell fliegen kann. Ich musste also eine andere Möglichkeit zur Fortbewegung finden. In Anlehnung an das Prinzip der Teleportation mit Hilfe von Enderperlen habe ich einen Antrieb entwickelt, welcher den Raum so manipuliert das eine Abkürzung zum Ziel entsteht.",
-	"Dieser Prozess verbraucht sehr viel Energie und ist nur mit einer speziellen Konstruktion möglich die ich FTL-Antrieb nenne. Dieser besteht aus 12 FTL-Blöcken, er hat eine Grundfläche von 3 x 2 und ist 2 Blöcke hoch. Wenn alle 12 Bauteile platziert sind kann ich den FTL - Antrieb montieren (verbindet sich automatisch)",
-	"Ich werde diesen Antrieb zusätzlich in jedes Raumschiff einbauen müssen, mit dem ich weiter als bis nach Menelaus fliegen möchte.",
-	
-	"Crafting:",
-	{
-		"link":"fp:lang/part/cr_space.drive.ftl.json"
-	},
-	
-	"Warnung: Benutzte den FTL-Block nicht als Dekoration.",
-	
-	"Konstruktion:",
-	{
-	   "type":"building",
-	   "blocks":
-	   [
-	       [  
-                ["fp:ftl_drive","fp:ftl_drive","fp:ftl_drive"], 
-                ["fp:ftl_drive","fp:ftl_drive","fp:ftl_drive"] 
-           ],
-           [
-                ["fp:ftl_drive","fp:ftl_drive","fp:ftl_drive"], 
-                ["fp:ftl_drive","fp:ftl_drive","fp:ftl_drive"]
-           ]
-        ]
-	}
+  "Meinen Berechnungen zufolge würde ich sehr lange fliegen um einen anderen Planet zu erreichen, da ich scheinbar nicht beliebig schnell fliegen kann. Ich musste also eine andere Möglichkeit zur Fortbewegung finden. In Anlehnung an das Prinzip der Teleportation mit Hilfe von Enderperlen habe ich einen Antrieb entwickelt, welcher den Raum so manipuliert das eine Abkürzung zum Ziel entsteht.",
+  "Dieser Prozess verbraucht sehr viel Energie und ist nur mit einer speziellen Konstruktion möglich die ich FTL-Antrieb nenne. Dieser besteht aus 12 FTL-Blöcken, er hat eine Grundfläche von 3 x 2 und ist 2 Blöcke hoch. Wenn alle 12 Bauteile platziert sind kann ich den FTL - Antrieb montieren (verbindet sich automatisch)",
+  "Ich werde diesen Antrieb zusätzlich in jedes Raumschiff einbauen müssen, mit dem ich weiter als bis nach Menelaus fliegen möchte.",
+  "Crafting:",
+  {
+    "link": "fp:lang/part/cr_space.drive.ftl.json"
+  },
+  "Warnung: Benutzte den FTL-Block nicht als Dekoration.",
+  "Konstruktion:",
+  {
+    "link": "fp:lang/part/building_space.drive.ftl.json"
+  }
 ]

@@ -1,24 +1,9 @@
 [
-	"A partir d'une pioche déclenchée par un distributeur, je peux casser des blocs automatiquement.",
-	"Si cette machine est placée devant un bloc et qu'elle est activée par une impulsion de Redstone, elle cassera le bloc qui tombera derrière-elle.",
-	
-	"Craft :",
-	{
-		"type": "crafting",
-		"slots":
-		{
-			"1": {"OreDict":"ingotAluminum"},
-			"2": {"OreDict":"ingotAluminum"},
-			"3": {"OreDict":"ingotAluminum"},
-			"4": {"OreDict":"ingotAluminum"},
-			"5": {"name":"minecraft:dispenser","meta":0},
-			"6": {"OreDict":"ingotAluminum"},
-			"7": {"name":"minecraft:obsidian","meta":0},
-			"8": {"name":"minecraft:iron_pickaxe","meta":0},
-			"9": {"name":"minecraft:obsidian","meta":0},
-			"out": {"name":"fp:block_breaker","meta":0}
-		}
-	},
-	
-	"Cette machine peut être améliorée en mettant un livre enchanté à l'intérieur."
+  "A partir d\u0027une pioche déclenchée par un distributeur, je peux casser des blocs automatiquement.",
+  "Si cette machine est placée devant un bloc et qu\u0027elle est activée par une impulsion de Redstone, elle cassera le bloc qui tombera derrière-elle.",
+  "Craft :",
+  {
+    "link": "fp:lang/part/crafting_production.blockbreaker.json"
+  },
+  "Cette machine peut être améliorée en mettant un livre enchanté à l\u0027intérieur."
 ]

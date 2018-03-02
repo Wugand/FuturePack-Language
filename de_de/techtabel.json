@@ -1,23 +1,10 @@
 [
-	"Ich habe einen spezielle Werkbank entwickelt, mit der ich Dank eingebautem Lager effizienter arbeiten kann.",
-	"Zudem brauche ich diese für alle weiteren Crafting-Rezepte die ich entdecken werde.",
-		
-	"Crafting:",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": "OreDict:ingotIron",
-			"2": "OreDict:ingotIron",
-			"3": "OreDict:ingotIron",
-			"4": "OreDict:ingotIron",
-			"5": {"name":"minecraft:crafting_table"},
-			"6": "OreDict:ingotIron",
-			"7": "OreDict:ingotIron",
-			"8": {"name":"minecraft:chest"},
-			"9": "OreDict:ingotIron",
-			"out": {"name":"fp:techtable","meta":0}
-		}
-	},
-	"WICHTIG: Alle durch in diesem Mod freischaltbaren Crafting-Rezepte sind NUR in dieser Werkbank ausführbar!",
-	"Seit 1.12 kann man auch die normale Werkbank verwewnden."
+  "Ich habe einen spezielle Werkbank entwickelt, mit der ich Dank eingebautem Lager effizienter arbeiten kann.",
+  "Zudem brauche ich diese für alle weiteren Crafting-Rezepte die ich entdecken werde.",
+  "Crafting:",
+  {
+    "link": "fp:lang/part/crafting_techtabel.json"
+  },
+  "WICHTIG: Alle durch in diesem Mod freischaltbaren Crafting-Rezepte sind NUR in dieser Werkbank ausführbar!",
+  "Seit 1.12 kann man auch die normale Werkbank verwewnden."
 ]

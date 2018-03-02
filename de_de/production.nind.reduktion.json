@@ -1,30 +1,10 @@
 [
-	"Ich habe den Neonindustrieofen um eine Erweiterung ergänzt die es mir erlaubt Kohlenstoff zu extrahieren. Somit bin ich kaum noch auf Kohle angewiesen.",
-	
-	{
-		"type": "industrialneonfurnace",
-		"slots": {
-			"in1":  {"OreDict":"sand"},
-			"in2":  {"OreDict":"sand"},
-			"in3":  {"name":"minecraft:coal", "meta":0, "size":1},
-			"out1": {"name":"fp:spaceship",  "meta":"<spaceship.Silizium>", "size":6},
-			"out2": {},
-			"out3": {}
-		},
-		"support":0
-	},
-	
-	"Auch bei Kristallen funktioniert das neue Verfahren, um sie zu Barren zu verarbeiten.",
-	{
-		"type": "industrialneonfurnace",
-		"slots": {
-			"in1":  [{"OreDict":"gemNeon"},{"OreDict":"gemAluminum"},{"OreDict":"gemGlowtite"},{"OreDict":"gemRetium"},{"OreDict":"gemBioterium"}],
-			"in2":  {},
-			"in3":  {},
-			"out1": [{"OreDict":"ingotNeon"},{"OreDict":"ingotAluminum"},{"OreDict":"ingotGlowtite"},{"OreDict":"ingotRetium"},{"OreDict":"ingotBioterium"}],
-			"out2": {},
-			"out3": {}
-		},
-		"support":0
-	}		
+  "Ich habe den Neonindustrieofen um eine Erweiterung ergänzt die es mir erlaubt Kohlenstoff zu extrahieren. Somit bin ich kaum noch auf Kohle angewiesen.",
+  {
+    "link": "fp:lang/part/industrialneonfurnace_production.nind.reduktion.json"
+  },
+  "Auch bei Kristallen funktioniert das neue Verfahren, um sie zu Barren zu verarbeiten.",
+  {
+    "link": "fp:lang/part/industrialneonfurnace_production.nind.reduktion2.json"
+  }
 ]

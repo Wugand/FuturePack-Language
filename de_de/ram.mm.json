@@ -3,13 +3,5 @@
 	"Die einzelnen Einheiten können dabei auch dynamische Werte annehmen, indem sie sich mit einer bestimmten Wahrscheinlichkeit einen konkreten Zustand enthalten.",
 	"Auf Daten kann auch in konventioneller Form zugegriffen werden, dazu eignen sich besonders Glowtitelemente.",
 	"Assembly:",
-	{
-		"type": "assembly",
-		"slots": {
-			"in1": {"OreDict":"ingotQuantanium", "size":1},
-			"in2": {"name":"fp:spaceship", "meta":"<spaceship.NeonParts>", "size":1},
-			"in3": {"OreDict":"ingotGlowtite"},
-			"out": {"name":"fp:ram", "meta":4, "size":1}
-		}
-	}
+	{"link":"fp:lang/part/as_ram.mm.json"}
 ]

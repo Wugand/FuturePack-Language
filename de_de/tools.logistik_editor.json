@@ -1,27 +1,14 @@
 [
-	"Ich habe ein unviversal Werkzeug erfunden, das es mir erlaubt, das Ein-/Ausgangsverhalten von Machinen anzupassen.",
-	"Crafting:",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {"name":"minecraft:glass_pane"},
-			"2": {"OreDict":"ingotAluminum"},
-			"3": {"name":"fp:scrench"},
-			"4": {"name":"fp:spaceship", "meta":"<spaceship.NeonCoil>"},
-			"5": {"name":"fp:wire", "meta":0},
-			"6": {"name":"fp:spaceship", "meta":"<spaceship.CopperParts>"},
-			"7": {"name":"fp:chip", "meta":0},
-			"8": {"OreDict":"ingotAluminum"},
-			"9": {"name":"fp:scrench"},
-			"out": {"name":"fp:logisticEditor"}
-		}
-	},
-	
-	"Benutzung:",
-	"Durch §lRechtsklick§r (in die Luft) kann der Modus gewechselt werden, zwischen:",
-	"Energie, Support, Netzwerk, Items, Flüssigkeiten",
-	"Im entsprechenden Modus wird auf jeder Seite von jeder Maschiene, die diesen Modus untersztüzt, ein Overlay (farbiger Rahmen) angezeigt.",
-	"Durch §lShift + Rechtsklick§r kann die Seite entsprechend eingestellt werden, möglich sind:",
-	"Aus(kein Symbol), Eingang(grüner Pfeil), Ausgang(roter Pfeil), Eingang+Ausgang",
-	"Es werden nur Modi und Einstellungen unterstützt, die für die aktuelle Seite/Maschiene sinnvoll ist."
+  "Ich habe ein unviversal Werkzeug erfunden, das es mir erlaubt, das Ein-/Ausgangsverhalten von Machinen anzupassen.",
+  "Crafting:",
+  {
+    "link": "fp:lang/part/crafting_tools.logistik_editor.json"
+  },
+  "Benutzung:",
+  "Durch §lRechtsklick§r (in die Luft) kann der Modus gewechselt werden, zwischen:",
+  "Energie, Support, Netzwerk, Items, Flüssigkeiten",
+  "Im entsprechenden Modus wird auf jeder Seite von jeder Maschiene, die diesen Modus untersztüzt, ein Overlay (farbiger Rahmen) angezeigt.",
+  "Durch §lShift + Rechtsklick§r kann die Seite entsprechend eingestellt werden, möglich sind:",
+  "Aus(kein Symbol), Eingang(grüner Pfeil), Ausgang(roter Pfeil), Eingang+Ausgang",
+  "Es werden nur Modi und Einstellungen unterstützt, die für die aktuelle Seite/Maschiene sinnvoll ist."
 ]

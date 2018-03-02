@@ -1,17 +1,25 @@
 [
-    "Dans l'immensité vide de l'espace, il est impératif de ne pas se perdre. C'est pourquoi, j'ai construit un ordinateur pour me guider à travers le vide.",
-    "Craft :",
-    {"link":"fp:lang/part/cr_space.computer.json"},
-    "L'interface a 3 onglets :",
-    "Le premier représente la planète Minecraft, je peux donc toujours retourner chez moi.",
-    "Le deuxième montre toujours l'endroit où je me trouve. Je ne suis pas sûr qu'un tel cas, où je ne sais pas où je suis, puisse arriver, mais il vaut mieux le prévoir.",
-    "Le troisième montre la destination sélectionnée par les coordonnées (insérées dans le champ prévu à cet effet).",
-    "",
-    "De plus, des messages de sécurité peuvent s'afficher :",
-    {"type":"translate","text":"chat.spaceship.lowEnergie"},
-    "Cela veut dire que l'ordinateur n'a pas assez d'énergie.",
-    {"type":"translate","text":"chat.spaceship.open"},
-    "Cela veut dire que la pièce du vaisseau où est installé l'ordinateur n'est pas 100% hermétique.",
-    {"type":"translate","text":"chat.spaceship.missingEngine"},
-    "Cela veut dire qu'il n'y a pas de générateur Néon dans le vaisseau."
+  "Dans l\u0027immensité vide de l\u0027espace, il est impératif de ne pas se perdre. C\u0027est pourquoi, j\u0027ai construit un ordinateur pour me guider à travers le vide.",
+  "Craft :",
+  {
+    "link": "fp:lang/part/cr_space.computer.json"
+  },
+  "L\u0027interface a 3 onglets :",
+  "Le premier représente la planète Minecraft, je peux donc toujours retourner chez moi.",
+  "Le deuxième montre toujours l\u0027endroit où je me trouve. Je ne suis pas sûr qu\u0027un tel cas, où je ne sais pas où je suis, puisse arriver, mais il vaut mieux le prévoir.",
+  "Le troisième montre la destination sélectionnée par les coordonnées (insérées dans le champ prévu à cet effet).",
+  "",
+  "De plus, des messages de sécurité peuvent s\u0027afficher :",
+  {
+    "link": "fp:lang/part/translate_space.computer2.json"
+  },
+  "Cela veut dire que l\u0027ordinateur n\u0027a pas assez d\u0027énergie.",
+  {
+    "link": "fp:lang/part/translate_space.computer3.json"
+  },
+  "Cela veut dire que la pièce du vaisseau où est installé l\u0027ordinateur n\u0027est pas 100% hermétique.",
+  {
+    "link": "fp:lang/part/translate_space.computer4.json"
+  },
+  "Cela veut dire qu\u0027il n\u0027y a pas de générateur Néon dans le vaisseau."
 ]

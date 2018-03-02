@@ -1,25 +1,10 @@
 [
-	"Dans la nature, les matériaux pures n'existent que rarement ; La plupart ont des toutes petites traces d'autres substances en eux. J'ai donc développé une machine qui permet de les extraire.",
-	"Cette machine est composée de plusieurs boites tournant très vite, et grâce à la force centrifuge, les matériaux de poids différents sont séparés. J'ai également mis en place différents filtres et méthodes d'extraction.",
-	"Je peux certainement faire plusieurs améliorations sur la machine et ajouter plus de fonctionnalité. J'ai aussi installé un système qui fonctionne avec les points Support pour une utilisation future.",
-	
-	"Craft :",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {"name":"fp:spaceship","meta":"<spaceship.Tank>"},
-			"2": {"OreDict":"ingotMagnetite"},
-			"3": {"name":"fp:spaceship","meta":"<spaceship.Tank>"},
-			"4": {"name":"fp:spaceship", "meta":"<spaceship.GoldCoil>"},
-			"5": [{"name":"fp:color_iron","meta":0},{"name":"fp:color_iron","meta":8},{"name":"fp:color_iron","meta":15}],
-			"6": {"name":"fp:spaceship", "meta":"<spaceship.GoldCoil>"},
-			"7": {"name":"fp:metal_gitter_pane", "meta":0},
-			"8": {"name":"fp:spaceship", "meta":"<spaceship.Maschinboard>"},
-			"9": {"name":"fp:metal_gitter_pane", "meta":0},
-			"out": [{"name":"fp:zentrifuge","meta":2},{"name":"fp:zentrifuge","meta":6},{"name":"fp:zentrifuge","meta":10}]
-		}
-	},
-
-	"Information: Les points Support (SP) ne sont pas transférables avec des mémoires Flash. La technologie correspondante sera développée plus tard."
-
+  "Dans la nature, les matériaux pures n\u0027existent que rarement ; La plupart ont des toutes petites traces d\u0027autres substances en eux. J\u0027ai donc développé une machine qui permet de les extraire.",
+  "Cette machine est composée de plusieurs boites tournant très vite, et grâce à la force centrifuge, les matériaux de poids différents sont séparés. J\u0027ai également mis en place différents filtres et méthodes d\u0027extraction.",
+  "Je peux certainement faire plusieurs améliorations sur la machine et ajouter plus de fonctionnalité. J\u0027ai aussi installé un système qui fonctionne avec les points Support pour une utilisation future.",
+  "Craft :",
+  {
+    "link": "fp:lang/part/crafting_production.zentrifuge.json"
+  },
+  "Information: Les points Support (SP) ne sont pas transférables avec des mémoires Flash. La technologie correspondante sera développée plus tard."
 ]

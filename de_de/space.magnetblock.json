@@ -1,21 +1,9 @@
 [
-	"Ein einfacher Stabmagnet ist zwar gut, ist aber relativ schwach. Deshalb habe ich viele Stabmagnete zu einem großen Magnetblock verbunden.",
-	"Crafting:",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {"name":"fp:ItemErze","meta":4},
-			"2": {"name":"fp:ItemErze","meta":4},
-			"3": {"name":"fp:ItemErze","meta":4},
-			"4": {"name":"fp:ItemErze","meta":4},
-			"5": "OreDict:ingotMagnetite",
-			"6": {"name":"fp:ItemErze","meta":4},
-			"7": {"name":"fp:ItemErze","meta":4},
-			"8": {"name":"fp:ItemErze","meta":4},
-			"9": {"name":"fp:ItemErze","meta":4},
-			"out": {"name":"fp:magnet","meta":0}
-		}
-	},
-	"Er kann in einem Radius von 5 Blöcken Items, Minecarts und andere Objekte aus Metall anziehen.",
-	"Ich frage mich wie andere Magneten auf diesen Block reagieren."
+  "Ein einfacher Stabmagnet ist zwar gut, ist aber relativ schwach. Deshalb habe ich viele Stabmagnete zu einem großen Magnetblock verbunden.",
+  "Crafting:",
+  {
+    "link": "fp:lang/part/crafting_space.magnetblock.json"
+  },
+  "Er kann in einem Radius von 5 Blöcken Items, Minecarts und andere Objekte aus Metall anziehen.",
+  "Ich frage mich wie andere Magneten auf diesen Block reagieren."
 ]

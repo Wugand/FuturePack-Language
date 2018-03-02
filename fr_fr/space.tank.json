@@ -1,21 +1,9 @@
 [
-	"Le plus gros problème avec les voyages spatiaux est, avec le ratio masse-carburant, le fait que le carburant doit aussi être stocké de façon sécurisée, et qu'il ne pose aucun risque pour la sécurité.",
-    "C'est pourquoi j'ai développé un réservoir de carburant capable de contenir jusqu'à 8000mB. De plus, il y a 21 emplacements additionnels pour stocker du carburant de fusée sous forme solide.",
-    "Craft :",
-    {
-        "type": "crafting",
-        "slots": {
-            "1": {"name":"fp:spaceship","meta":"<spaceship.Tank>"},
-            "2": {"OreDict":"ingotAluminum"},
-            "3": {"OreDict":"ingotAluminum"},
-            "4": {"name":"fp:spaceship","meta":"<spaceship.Tank>"},
-            "5": {"name":"fp:spaceship","meta":"<spaceship.IronStick>"},
-            "6": "chest",
-            "7": {"name":"fp:spaceship","meta":"<spaceship.Tank>"},
-            "8": {"OreDict":"ingotAluminum"},
-            "9": {"OreDict":"ingotAluminum"},
-            "out": {"name":"fp:fuelcell","meta":0}
-        }
-    },
-    "Note : Les réservoirs n'ont pas besoin d'être connectés directement aux moteurs. Un simple connexion au vaisseau suffira."
+  "Le plus gros problème avec les voyages spatiaux est, avec le ratio masse-carburant, le fait que le carburant doit aussi être stocké de façon sécurisée, et qu\u0027il ne pose aucun risque pour la sécurité.",
+  "C\u0027est pourquoi j\u0027ai développé un réservoir de carburant capable de contenir jusqu\u0027à 8000mB. De plus, il y a 21 emplacements additionnels pour stocker du carburant de fusée sous forme solide.",
+  "Craft :",
+  {
+    "link": "fp:lang/part/crafting_space.tank.json"
+  },
+  "Note : Les réservoirs n\u0027ont pas besoin d\u0027être connectés directement aux moteurs. Un simple connexion au vaisseau suffira."
 ]

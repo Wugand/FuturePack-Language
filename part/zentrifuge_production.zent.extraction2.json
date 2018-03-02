@@ -1,0 +1,26 @@
+[
+  {
+    "type": "zentrifuge",
+    "slots": {
+      "in": {
+        "OreDict": "oreIron",
+        "size": 4
+      },
+      "out1": {
+        "OreDict": "dustIron",
+        "size": 10
+      },
+      "out2": {
+        "name": "minecraft:cobblestone",
+        "size": 3,
+        "meta": 0
+      },
+      "out3": {
+        "OreDict": "dustGold",
+        "size": 1
+      }
+    },
+    "support": 2,
+    "time": 200
+  }
+]

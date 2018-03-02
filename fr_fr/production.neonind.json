@@ -1,25 +1,11 @@
 [
-	"J'ai amélioré le simple four industriel à partir de nouvelles technologies. Maintenant, il consomme de l'énergie Néon et contient un système informatique upgradable.",
-	"Le four industriel au Néon se distingue par ses capteurs et ses bobines chauffantes ajustables précisément. Il peut donc contrôler parfaitement le processus de fonte.",
-	"Avec ces nouvelles possibilités, je peux donc améliorer mes anciennes recettes pour les rendre plus efficaces (toutes les recettes sont listées dans les recherches à venir).",
-	"Je suis sûr qu'il y a bien d'autres utilisations pour cette machine. J'y ai aussi ajouté un système pour consommer des points Support, que je pourrais utiliser dans des recettes plus complexes.",
-
-	"Craft :",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {"name":"fp:spaceship","meta":"<spaceship.IronCoil>"},
-			"2": {"name":"fp:industrie_ofen", "meta":0},
-			"3": {"name":"fp:spaceship","meta":"<spaceship.IronCoil>"},
-			"4": {"name":"fp:chip","meta":"<chip.DamageControlChip>"},
-			"5": [{"name":"fp:color_iron","meta":0},{"name":"fp:color_iron","meta":8},{"name":"fp:color_iron","meta":15}],
-			"6": {"name":"fp:extern_cooler", "meta":0},
-			"7": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"8": {"name":"fp:spaceship", "meta":"<spaceship.Maschinboard>"},
-			"9": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"out": [{"name":"fp:ind_neon_furn","meta":2},{"name":"fp:ind_neon_furn","meta":6},{"name":"fp:ind_neon_furn","meta":10}]
-		}
-	},
-
-	"Important: la consommation de points Support (SP) ne peut pas être réalisée en utilisant une mémoire Flash. Les techniques nécessaires viendront par la suite !"
+  "J\u0027ai amélioré le simple four industriel à partir de nouvelles technologies. Maintenant, il consomme de l\u0027énergie Néon et contient un système informatique upgradable.",
+  "Le four industriel au Néon se distingue par ses capteurs et ses bobines chauffantes ajustables précisément. Il peut donc contrôler parfaitement le processus de fonte.",
+  "Avec ces nouvelles possibilités, je peux donc améliorer mes anciennes recettes pour les rendre plus efficaces (toutes les recettes sont listées dans les recherches à venir).",
+  "Je suis sûr qu\u0027il y a bien d\u0027autres utilisations pour cette machine. J\u0027y ai aussi ajouté un système pour consommer des points Support, que je pourrais utiliser dans des recettes plus complexes.",
+  "Craft :",
+  {
+    "link": "fp:lang/part/crafting_production.neonind.json"
+  },
+  "Important: la consommation de points Support (SP) ne peut pas être réalisée en utilisant une mémoire Flash. Les techniques nécessaires viendront par la suite !"
 ]

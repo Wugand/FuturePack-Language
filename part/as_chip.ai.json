@@ -1,11 +1,6 @@
 [
     {
         "type": "assembly",
-        "slots": {
-            "in1": {"name":"fp:spaceship","meta":"<spaceship.Silizium>","size":2},
-            "in2": {"name":"fp:spaceship","meta":"<spaceship.QuartzParts>","size":2},
-            "in3":  {"name":"fp:aiflash1", "meta":0, "size":1},
-            "out": {"name":"fp:chip", "meta":"<chip.KIChip>", "size":1}
-        }
+        "load": "chip_ai"
     }
 ]

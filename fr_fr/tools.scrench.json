@@ -1,39 +1,18 @@
 [
-	"J'ai créé un outil multi-fonctions très utile. il me permet de faire tourner des blocs, et devrait être utile pour modifier les machines.",
-	
-	{
-		"type": "crafting",
-		"slots": {
-			"1": "OreDict:ingotIron",
-			"2": {},
-			"3": "OreDict:ingotIron",
-			"4": {},
-			"5": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"6": {},
-			"7": {},
-			"8": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
-			"9": {},
-			"out": {"name":"fp:scrench"}
-		}
-	},
-	"Changement de Mode : §lClic Droit \"dans les airs\"§r",
-	
-	"Mode Rotation:",
-	{
-		"type":"image",
-		"width":32,
-		"height":32,
-		"resource":"fp:textures/items/tool_sub.png"
-	},
-	"§lClic Droit§r sur un bloc pour le faire tourner.",
-	
-	"Mode Modification:",
-	{
-		"type":"image",
-		"width":32,
-		"height":32,
-		"resource":"fp:textures/items/tool.png"
-	},
-	"§lShift + Clic Droit§r sur la machine pour la modifier.",
-	"Note: La première machine modifiable sera débloquée plus tard !"
+  "J\u0027ai créé un outil multi-fonctions très utile. il me permet de faire tourner des blocs, et devrait être utile pour modifier les machines.",
+  {
+    "link": "fp:lang/part/crafting_tools.scrench.json"
+  },
+  "Changement de Mode : §lClic Droit \"dans les airs\"§r",
+  "Mode Rotation:",
+  {
+    "link": "fp:lang/part/image_tools.scrench2.json"
+  },
+  "§lClic Droit§r sur un bloc pour le faire tourner.",
+  "Mode Modification:",
+  {
+    "link": "fp:lang/part/image_tools.scrench3.json"
+  },
+  "§lShift + Clic Droit§r sur la machine pour la modifier.",
+  "Note: La première machine modifiable sera débloquée plus tard !"
 ]

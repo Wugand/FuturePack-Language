@@ -1,23 +1,9 @@
 [
-	"La Redstone peut naturellement transférer des signaux simples. En intégrant de la Redstone dans le cadre des câbles Néon, j'ai créé un câble qui peut aussi transférer des signaux de Redstone.",
-	"De plus, ces nouveaux câbles n'ont pas de pertes de puissance de signal et peut être simplement connectés avec de la poudre de Redstone Traditionnelle.",
-	
-	"Craft:",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {},
-			"2": {"OreDict":"dustRedstone"},
-			"3": {},
-			"4": {"name":"fp:wire", "meta":0},
-			"5": {"name":"fp:wire", "meta":0},
-			"6": {"name":"fp:wire", "meta":0},
-			"7": {},
-			"8": {},
-			"9": {},
-			"out": {"name":"fp:wire", "meta":1, "size":3}
-		}
-	},
-	
-	"Ces câbles sont très pratique pour alimenter les machines et les lampes avec des signaux de Redstone."
+  "La Redstone peut naturellement transférer des signaux simples. En intégrant de la Redstone dans le cadre des câbles Néon, j\u0027ai créé un câble qui peut aussi transférer des signaux de Redstone.",
+  "De plus, ces nouveaux câbles n\u0027ont pas de pertes de puissance de signal et peut être simplement connectés avec de la poudre de Redstone Traditionnelle.",
+  "Craft:",
+  {
+    "link": "fp:lang/part/crafting_log.redstonecable.json"
+  },
+  "Ces câbles sont très pratique pour alimenter les machines et les lampes avec des signaux de Redstone."
 ]

@@ -1,25 +1,10 @@
 [
-	"In der Natur gibt es nur selten reine Stoffe, die meisten enthalten Spuren von verschiedenen anderen Materialien. Ich habe eine Maschine entwickelt die solche Materialien extrahieren kann.",
-	"Die Maschine verfügt über boxen die sich in der Maschine schnell drehen, dadurch werden die Stoffe je nach ihrem Gewicht unterschiedlich stark nach außen gedrückt. Zudem habe ich noch verschiedene Filter und Sortierverfahren vorgesehen.",
-	"Ich kann sicher noch einige Verbesserungen an der Maschine vornehmen um weitere Funktionen hinzuzufügen. Zudem habe ich auch hier ein System zur Arbeit mit Supportpunkten eingebaut um diese eventuell später noch nutzen zu können.",
-	
-	"Crafting:",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {"name":"fp:spaceship","meta":"<spaceship.Tank>"},
-			"2": {"OreDict":"ingotMagnetite"},
-			"3": {"name":"fp:spaceship","meta":"<spaceship.Tank>"},
-			"4": {"name":"fp:spaceship", "meta":"<spaceship.GoldCoil>"},
-			"5": [{"name":"fp:color_iron","meta":0},{"name":"fp:color_iron","meta":8},{"name":"fp:color_iron","meta":15}],
-			"6": {"name":"fp:spaceship", "meta":"<spaceship.GoldCoil>"},
-			"7": {"name":"fp:metal_gitter_pane", "meta":0},
-			"8": {"name":"fp:spaceship", "meta":"<spaceship.Maschinboard>"},
-			"9": {"name":"fp:metal_gitter_pane", "meta":0},
-			"out": [{"name":"fp:zentrifuge","meta":2},{"name":"fp:zentrifuge","meta":6},{"name":"fp:zentrifuge","meta":10}]
-		}
-	},
-
-	"Wichtig: Die Zuführung von Supportpunkten (SP) ist nicht mit Flash-Speichern möglich, die entsprechende Technologie wird erst später Verfügbar!"
-
+  "In der Natur gibt es nur selten reine Stoffe, die meisten enthalten Spuren von verschiedenen anderen Materialien. Ich habe eine Maschine entwickelt die solche Materialien extrahieren kann.",
+  "Die Maschine verfügt über boxen die sich in der Maschine schnell drehen, dadurch werden die Stoffe je nach ihrem Gewicht unterschiedlich stark nach außen gedrückt. Zudem habe ich noch verschiedene Filter und Sortierverfahren vorgesehen.",
+  "Ich kann sicher noch einige Verbesserungen an der Maschine vornehmen um weitere Funktionen hinzuzufügen. Zudem habe ich auch hier ein System zur Arbeit mit Supportpunkten eingebaut um diese eventuell später noch nutzen zu können.",
+  "Crafting:",
+  {
+    "link": "fp:lang/part/crafting_production.zentrifuge.json"
+  },
+  "Wichtig: Die Zuführung von Supportpunkten (SP) ist nicht mit Flash-Speichern möglich, die entsprechende Technologie wird erst später Verfügbar!"
 ]

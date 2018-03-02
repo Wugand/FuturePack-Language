@@ -1,28 +1,13 @@
 [
-	"Ich habe eine flexiblere Variante der Luftschleuse entwickelt, bei diesem Tor ist in Größe, Form und Ausrichtung beliebig wählbar.",
-	"Die Module können einfach als Block platziert werden, dabei kann der Block in verschieden Ausrichtungen platziert werden (benutze §lShift + Rechtsklick§r um das Tor nicht zu aktivieren). Es können auch verschiedene Ausrichtungen zu einem Tor kombiniert werden.",
-	"Zum Tor zählen dann alle Blöcke die miteinander Kontakt haben. Mit einem §lRechtsklick§r auf einen beliebigen Block des Tores kann dieses geöffnet/geschlossen werden.",
-	"Crafting:",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {"name":"fp:spaceship", "meta":"<spaceship.keramik>"},
-			"2": {"name":"fp:spaceship", "meta":"<spaceship.IronParts>"},
-			"3": {"name":"fp:spaceship", "meta":"<spaceship.keramik>"},
-			"4": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"5": {"name":"fp:spaceship", "meta":"<spaceship.Polymer>"},
-			"6": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"7": {"name":"fp:spaceship", "meta":"<spaceship.keramik>"},
-			"8": {"name":"fp:spaceship", "meta":"<spaceship.IronParts>"},
-			"9": {"name":"fp:spaceship", "meta":"<spaceship.keramik>"},
-			"out": {"name":"fp:modular_door", "meta":0, "size":2}
-		}
-	},
-	"Beispiel:",
-	{
-		"type":"image",
-		"width":96,
-		"height":116,
-		"resource":"fp:textures/mdoor.png"
-	}
+  "Ich habe eine flexiblere Variante der Luftschleuse entwickelt, bei diesem Tor ist in Größe, Form und Ausrichtung beliebig wählbar.",
+  "Die Module können einfach als Block platziert werden, dabei kann der Block in verschieden Ausrichtungen platziert werden (benutze §lShift + Rechtsklick§r um das Tor nicht zu aktivieren). Es können auch verschiedene Ausrichtungen zu einem Tor kombiniert werden.",
+  "Zum Tor zählen dann alle Blöcke die miteinander Kontakt haben. Mit einem §lRechtsklick§r auf einen beliebigen Block des Tores kann dieses geöffnet/geschlossen werden.",
+  "Crafting:",
+  {
+    "link": "fp:lang/part/crafting_space.modular_door.json"
+  },
+  "Beispiel:",
+  {
+    "link": "fp:lang/part/image_space.modular_door2.json"
+  }
 ]

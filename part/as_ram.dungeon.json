@@ -1,11 +1,6 @@
 [
 	{
 		"type": "assembly",
-		"slots": {
-			"in1": {"OreDict":"ingotQuantanium", "size":4},
-			"in2": {"name":"fp:spaceship", "meta":"<spaceship.NeonParts>", "size":4},
-			"in3": {"name":"fp:spaceship","meta":"<spaceship.fragmentRam>","size":1},
-			"out": {"name":"fp:ram", "meta":6, "size":1}
-		}
+		"load": "ram_dungeon"
 	}
 ]

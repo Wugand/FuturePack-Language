@@ -1,27 +1,11 @@
 [
-	"J'ai découvert que le charbon peut être utilisé pendant un cycle de fusion, pour enlever l'oxygène et autre impureté de différentes ressources.",
-	"Un test utilisant du sable a produit un matériau marron, brillant et solide que je nomme Silicium. Peut être que je pourrais trouver une utilisation pour ce matériau plus tard...",
-	{
-		"type": "industrialfurnace",
-		"slots": {
-			"in1":  [{"name":"minecraft:coal", "meta":0, "size":1},{"name":"minecraft:coal", "meta":0, "size":1}],
-			"in2":  [{"name":"minecraft:coal", "meta":0, "size":1},{"name":"minecraft:coal", "meta":0, "size":1}],
-			"in3":  {"OreDict":"sand"},
-			"out1": {"name":"fp:spaceship",  "meta":"<spaceship.Silizium>", "size":4},
-			"out2": {},
-			"out3": {}
-		}
-	},
-	"Cela fonctionne aussi avec les cristaux. Je peux donc produire des lingots de cristal.",
-	{
-		"type": "industrialfurnace",
-		"slots": {
-			"in1":  [{"name":"minecraft:coal", "meta":0, "size":1},{"name":"minecraft:coal", "meta":0, "size":1}],
-			"in2":  [{"OreDict":"gemNeon"},{"OreDict":"gemAluminum"},{"OreDict":"gemGlowtite"},{"OreDict":"gemRetium"},{"OreDict":"gemBioterium"}],
-			"in3":  [{"OreDict":"gemNeon"},{"OreDict":"gemAluminum"},{"OreDict":"gemGlowtite"},{"OreDict":"gemRetium"},{"OreDict":"gemBioterium"}],
-			"out1": [{"OreDict":"ingotNeon"},{"OreDict":"ingotAluminum"},{"OreDict":"ingotGlowtite"},{"OreDict":"ingotRetium"},{"OreDict":"ingotBioterium"}],
-			"out2": {},
-			"out3": {}
-		}
-	}		
+  "J\u0027ai découvert que le charbon peut être utilisé pendant un cycle de fusion, pour enlever l\u0027oxygène et autre impureté de différentes ressources.",
+  "Un test utilisant du sable a produit un matériau marron, brillant et solide que je nomme Silicium. Peut être que je pourrais trouver une utilisation pour ce matériau plus tard...",
+  {
+    "link": "fp:lang/part/industrialfurnace_production.ind.reduktion.json"
+  },
+  "Cela fonctionne aussi avec les cristaux. Je peux donc produire des lingots de cristal.",
+  {
+    "link": "fp:lang/part/industrialfurnace_production.ind.reduktion2.json"
+  }
 ]

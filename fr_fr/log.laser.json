@@ -1,41 +1,17 @@
 [
-	"Cette antenne est une simple et très utile extension pour un réseau. Je suis capable d'étendre mon réseau, sans fil, même dans des cavernes profondes ou à travers des murs.",
-	"Craft :",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {"name":"fp:spaceship", "meta":"<spaceship.CopperCoil>"},
-			"2": {"name":"fp:metal_fence"},
-			"3": {"name":"fp:spaceship", "meta":"<spaceship.CopperCoil>"},
-			"4": {"name":"fp:spaceship", "meta":"<spaceship.NeonCoil>"},
-			"5": {"name":"fp:metal_fence"},
-			"6": {"name":"fp:spaceship", "meta":"<spaceship.NeonCoil>"},
-			"7": {"name":"fp:chip", "meta":"<chip.LogicChip>"},
-			"8": [{"name":"fp:color_iron", "meta":0},{"name":"fp:color_iron", "meta":8},{"name":"fp:color_iron", "meta":15}],
-			"9": {"name":"fp:chip", "meta":"<chip.LogicChip>"},
-			"out": [{"name":"fp:antenne", "meta":0, "size":1},{"name":"fp:antenne", "meta":1, "size":1},{"name":"fp:antenne", "meta":2, "size":1}]
-		}
-	},
-	"La couverture de l'antenne dépend du nombre de blocs métalliques connectés à l'antenne émettrice et du nombre de blocs métalliques de l'antenne réceptrice.",
-	"",
-	"Je me suis fait la remarque que je devais envoyer des signaux sur de grandes distances. Si je devais utiliser des câbles réseaux, j'utiliserai une énorme quantité de ressources.",
-	"C'est pourquoi j'ai développé un laser qui est capable de transmettre un signal sur une distances de 1024 mètres. Comme je dois pouvoir répondre, un transmetteur et un récepteur sont intégrés au bloc.",
-	"A l'origine, je voulais utiliser les ultras-violets pour transférer les données, mais la déflexion atmosphérique était trop grande et j'ai dû utiliser des infrarouges.",
-	"Craft:",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": "OreDict:ingotAluminum",
-			"2": {"name":"fp:spaceship", "meta":"<spaceship.Polymer>"},
-			"3": "",
-			"4": {"name":"fp:chip", "meta":"<chip.NetworkChip>"},
-			"5": {"name":"fp:spaceship", "meta":"<spaceship.Laserdiode>"},
-			"6": {"name":"fp:spaceship", "meta":"<spaceship.LinseR>"},
-			"7": "OreDict:ingotAluminum",
-			"8": {"name":"fp:spaceship", "meta":"<spaceship.Polymer>"},
-			"9": "",
-			"out": {"name":"fp:laser_transmitter", "meta":0, "size":1}
-		}
-	},
-	"Pour que le laser fonctionne (même sur de longues distances) le transmetteur et le récepteur doivent être exactement sur la même ligne."
+  "Cette antenne est une simple et très utile extension pour un réseau. Je suis capable d\u0027étendre mon réseau, sans fil, même dans des cavernes profondes ou à travers des murs.",
+  "Craft :",
+  {
+    "link": "fp:lang/part/crafting_log.laser.json"
+  },
+  "La couverture de l\u0027antenne dépend du nombre de blocs métalliques connectés à l\u0027antenne émettrice et du nombre de blocs métalliques de l\u0027antenne réceptrice.",
+  "",
+  "Je me suis fait la remarque que je devais envoyer des signaux sur de grandes distances. Si je devais utiliser des câbles réseaux, j\u0027utiliserai une énorme quantité de ressources.",
+  "C\u0027est pourquoi j\u0027ai développé un laser qui est capable de transmettre un signal sur une distances de 1024 mètres. Comme je dois pouvoir répondre, un transmetteur et un récepteur sont intégrés au bloc.",
+  "A l\u0027origine, je voulais utiliser les ultras-violets pour transférer les données, mais la déflexion atmosphérique était trop grande et j\u0027ai dû utiliser des infrarouges.",
+  "Craft:",
+  {
+    "link": "fp:lang/part/crafting_log.laser.json"
+  },
+  "Pour que le laser fonctionne (même sur de longues distances) le transmetteur et le récepteur doivent être exactement sur la même ligne."
 ]

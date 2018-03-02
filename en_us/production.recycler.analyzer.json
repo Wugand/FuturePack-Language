@@ -1,24 +1,9 @@
 [
-	"I developed a tool for the recycler to put into the middle slot.",
-	"It's a scanner which scans and analyzes the unit layer by layer. It produces support points in the process.",
-	
-	"Crafting:",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {"OreDict":"ingotAluminum"},
-			"2": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>"},
-			"3": {"name":"fp:spaceship", "meta":"<spaceship.NeonParts>"},
-			"4": {"name":"fp:spaceship", "meta":"<spaceship.NeonCoil>"},
-			"5": {"name":"fp:chip", "meta":0},
-			"6": {},
-			"7": {"OreDict":"ingotAluminum"},
-			"8": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>"},
-			"9": {"name":"fp:spaceship", "meta":"<spaceship.NeonParts>"},
-			"out": [{"name":"fp:analyzer","meta":0}]
-		}
-	},
-	
-	"This unit can analyze all products of the Assembly Table. For cores, chipsets, and RAM, the amount of Support Points depends on the power of the component."
-	
+  "I developed a tool for the recycler to put into the middle slot.",
+  "It\u0027s a scanner which scans and analyzes the unit layer by layer. It produces support points in the process.",
+  "Crafting:",
+  {
+    "link": "fp:lang/part/crafting_production.recycler.analyzer.json"
+  },
+  "This unit can analyze all products of the Assembly Table. For cores, chipsets, and RAM, the amount of Support Points depends on the power of the component."
 ]

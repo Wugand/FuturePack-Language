@@ -1,28 +1,13 @@
 [
-	"J'ai dû améliorer ma gestion d'objets pour qu'ils puissent être redirigés. Un ordinateur analyse chaque objet et décide de quel côté il doit être transféré.",
-	"Le côté avec la flèche verte est l'entrée pour les objets, et celui avec la flèche rouge correspond à la sortie pour les objets qui ne sont assignés à aucune catégorie. Dans l'interface Utilisateur, il y a un buffer d'objet sur la gauche; et sur la droite, il y a 4 filtres de couleurs différentes, correspondant chacune à une face du bloc. Si un objet défini par un filtre rentre dans le bloc, il ressortira par la face colorée correspondante.",
-	"Pour fonctionner la machine a besoin d'énergie Néon. Les tubes en néons sont particulièrement recommandé pour cela.",
-
-	"Craft:",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"2": {"OreDict":"dyeGreen"},
-			"3": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"4": {"OreDict":"dyeBlue"},
-			"5": {"name":"fp:spaceship", "meta":"<spaceship.Maschinboard>"},
-			"6": {"OreDict":"dyeYellow"},
-			"7": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"8": {"OreDict":"dyeRed"},
-			"9": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"out": {"name":"fp:sorter", "meta":0, "size":1}
-		}
-	},
-	
-	"Modification:",
-	"En augmentant la valeur de la \"RAM\", le débit d'objets peut être augmenté.",
-	
-	"Puces supportées",
-	"Puce logique\nPuce Industrielle (stack-size)\nPuce de contrôle des Dommages"
+  "J\u0027ai dû améliorer ma gestion d\u0027objets pour qu\u0027ils puissent être redirigés. Un ordinateur analyse chaque objet et décide de quel côté il doit être transféré.",
+  "Le côté avec la flèche verte est l\u0027entrée pour les objets, et celui avec la flèche rouge correspond à la sortie pour les objets qui ne sont assignés à aucune catégorie. Dans l\u0027interface Utilisateur, il y a un buffer d\u0027objet sur la gauche; et sur la droite, il y a 4 filtres de couleurs différentes, correspondant chacune à une face du bloc. Si un objet défini par un filtre rentre dans le bloc, il ressortira par la face colorée correspondante.",
+  "Pour fonctionner la machine a besoin d\u0027énergie Néon. Les tubes en néons sont particulièrement recommandé pour cela.",
+  "Craft:",
+  {
+    "link": "fp:lang/part/crafting_log.sorter.json"
+  },
+  "Modification:",
+  "En augmentant la valeur de la \"RAM\", le débit d\u0027objets peut être augmenté.",
+  "Puces supportées",
+  "Puce logique\nPuce Industrielle (stack-size)\nPuce de contrôle des Dommages"
 ]

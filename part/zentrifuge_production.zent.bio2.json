@@ -1,0 +1,24 @@
+[
+  {
+    "type": "zentrifuge",
+    "slots": {
+      "in": {
+        "name": "minecraft:sapling",
+        "size": 2
+      },
+      "out1": {
+        "name": "fp:spaceship",
+        "size": 1,
+        "meta": "\u003cspaceship.HackSchnitzel\u003e"
+      },
+      "out2": {
+        "name": "fp:spaceship",
+        "size": 1,
+        "meta": "\u003cspaceship.Kompost\u003e"
+      },
+      "out3": {}
+    },
+    "support": 0,
+    "time": 200
+  }
+]

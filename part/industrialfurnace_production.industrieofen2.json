@@ -1,0 +1,25 @@
+[
+  {
+    "type": "industrialfurnace",
+    "slots": {
+      "in1": {
+        "name": "minecraft:cobblestone",
+        "size": 32
+      },
+      "in2": {
+        "OreDict": "oreCopper"
+      },
+      "in3": {},
+      "out1": {
+        "name": "minecraft:stone",
+        "size": 32
+      },
+      "out2": {
+        "name": "fp:ItemErze",
+        "meta": 2,
+        "size": 1
+      },
+      "out3": {}
+    }
+  }
+]

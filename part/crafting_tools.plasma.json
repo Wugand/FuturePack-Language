@@ -1,0 +1,36 @@
+[
+  {
+    "type": "crafting",
+    "slots": {
+      "1": {},
+      "2": {
+        "name": "fp:spaceship",
+        "meta": "\u003cspaceship.NeonCoil\u003e"
+      },
+      "3": {
+        "name": "fp:spaceship",
+        "meta": "\u003cspaceship.CopperParts\u003e"
+      },
+      "4": "OreDict:ingotAluminum",
+      "5": "OreDict:dustNeon",
+      "6": {
+        "name": "fp:spaceship",
+        "meta": "\u003cspaceship.NeonCoil\u003e"
+      },
+      "7": {
+        "name": "fp:spaceship",
+        "meta": "\u003cspaceship.Tank\u003e"
+      },
+      "8": "OreDict:ingotAluminum",
+      "9": {
+        "name": "fp:spaceship",
+        "meta": "\u003cspaceship.IronStick\u003e"
+      },
+      "out": {
+        "name": "fp:plasmaschneider",
+        "meta": 0,
+        "size": 1
+      }
+    }
+  }
+]

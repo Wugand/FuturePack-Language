@@ -1,43 +1,15 @@
 [
-	"Avec l'aide de ma centrifugeuse, je peux retraité de la pierre, du gravier, ou toute autre roche pour extraire des traces de matériaux plus précieux.",
-	"Je peux réaliser cette méthodes plusieurs fois sur divers types de roches pour éventuellement avoir du sable finement moulu et propre...",
-	"Exemple :",
-    {
-        "type":"zentrifuge",
-        "slots":
-        {
-            "in":{"name":"minecraft:cobblestone", "meta":0, "size":32},
-            "out1":{"name":"minecraft:gravel", "size":28, "meta":0},
-            "out2":{"name":"minecraft:stone", "size":4, "meta":5},
-            "out3":{"name":"minecraft:coal", "size":1, "meta":0}
-        },
-	    "support":0,
-	    "time":200
-    },
-	{
-        "type":"zentrifuge",
-        "slots":
-        {
-            "in":{"name":"minecraft:stone", "meta":3, "size":8},
-            "out1":{"name":"minecraft:gravel", "size":3, "meta":0},
-            "out2":{"OreDict":"gemQuartz", "size":4},
-            "out3":{"OreDict":"dustIron", "size":1}
-        },
-	    "support":0,
-	    "time":300
-    },
-	{
-        "type":"zentrifuge",
-        "slots":
-        {
-            "in":{"name":"minecraft:gravel", "meta":0, "size":16},
-            "out1":{"name":"minecraft:sand", "size":4, "meta":0},
-            "out2":{"OreDict":"dustTin", "size":1},
-            "out3":{"OreDict":"dustCopper", "size":1}
-        },
-	    "support":0,
-	    "time":300
-    },
-	
-    "Information : la centrifugeuse a un nombre important de recettes, qui ne sont pas toutes listées ici !"
+  "Avec l\u0027aide de ma centrifugeuse, je peux retraité de la pierre, du gravier, ou toute autre roche pour extraire des traces de matériaux plus précieux.",
+  "Je peux réaliser cette méthodes plusieurs fois sur divers types de roches pour éventuellement avoir du sable finement moulu et propre...",
+  "Exemple :",
+  {
+    "link": "fp:lang/part/zentrifuge_production.zent.extraction1.json"
+  },
+  {
+    "link": "fp:lang/part/zentrifuge_production.zent.extraction12.json"
+  },
+  {
+    "link": "fp:lang/part/zentrifuge_production.zent.extraction13.json"
+  },
+  "Information : la centrifugeuse a un nombre important de recettes, qui ne sont pas toutes listées ici !"
 ]

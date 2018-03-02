@@ -1,24 +1,10 @@
 [
-	"J'ai remarqué que les objets légers de grande surface glissaient dans l'air. J'ai poussé ce concept pour créer une sorte de parachute, rangé dans un sac à dos.",
-	"Si j'ouvre le parapente, il se déploie de lui-même et me fait descendre tout doucement vers le sol.",
-
-	"Craft :",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {"name":"minecraft:carpet", "meta":0},
-			"2": {"name":"minecraft:carpet", "meta":0},
-			"3": {"name":"minecraft:carpet", "meta":0},
-			"4": {"name":"minecraft:string"},
-			"5": {},
-			"6": {"name":"minecraft:string"},
-			"7": {"name":"minecraft:leather"},
-			"8": {"name":"minecraft:leather_chestplate"},
-			"9": {"name":"minecraft:leather"},
-			"out": {"name":"fp:gleiter"}
-		}
-	},
-	
-	"Pendant une chute libre, je peux déployer mon parapente en appuyant sur la touche \"F\" (il faut appuyer juste une fois, pas tout le temps). En appuyant de nouveau sur cette touche, vous pouvez le ranger.",
-	"Info : La touche peut être modifiée dans le menu Option."
+  "J\u0027ai remarqué que les objets légers de grande surface glissaient dans l\u0027air. J\u0027ai poussé ce concept pour créer une sorte de parachute, rangé dans un sac à dos.",
+  "Si j\u0027ouvre le parapente, il se déploie de lui-même et me fait descendre tout doucement vers le sol.",
+  "Craft :",
+  {
+    "link": "fp:lang/part/crafting_tools.gleiter.json"
+  },
+  "Pendant une chute libre, je peux déployer mon parapente en appuyant sur la touche \"F\" (il faut appuyer juste une fois, pas tout le temps). En appuyant de nouveau sur cette touche, vous pouvez le ranger.",
+  "Info : La touche peut être modifiée dans le menu Option."
 ]

@@ -1,0 +1,13 @@
+[
+  {
+    "type": "partpress",
+    "slots": {
+      "in": "OreDict:ingotCopper",
+      "out": {
+        "name": "fp:spaceship",
+        "meta": "\u003cspaceship.CopperParts\u003e",
+        "size": 4
+      }
+    }
+  }
+]

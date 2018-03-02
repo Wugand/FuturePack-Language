@@ -1,0 +1,6 @@
+[
+    {
+        "type": "assembly",
+        "load": "ram_a"
+    }
+]

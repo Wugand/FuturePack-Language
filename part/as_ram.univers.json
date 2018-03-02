@@ -1,11 +1,6 @@
 [
 	{
 		"type": "assembly",
-		"slots": {
-			"in1": {"name":"fp:ram", "meta":6, "size":1},
-			"in2": {"name":"fp:spaceship", "meta":"<spaceship.NeonParts>", "size":1},
-			"in3": {"name":"fp:ram", "meta":6, "size":1},
-			"out": {"name":"fp:ram", "meta":7, "size":1}
-		}
+		"load": "ram_torus"
 	}
 ]

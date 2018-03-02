@@ -1,16 +1,7 @@
 [
-	"Il y a quelques temps, j'ai trouvé un minerai qui attire le fer et les autres matériaux ferreux ; Mais il perdait cet effet lorsqu'il fondait et devenait du fer classique.",
-	"Grâce à une méthode de refroidissement lente et ciblée après la fusion dans le four industriel néon, je peux maintenant conserver cet effet, et même le renforcer. Je peux maintenant produire des barres de Magnétite à partir des minerais.",
-	{
-		"type": "industrialneonfurnace",
-		"slots": {
-			"in1":  {"OreDict":"dustMagnetite", "size":1},
-			"in2":  {"OreDict":"dustMagnetite", "size":1},
-			"in3":  {"OreDict":"ingotIron", "size":1},
-			"out1": {"OreDict":"ingotMagnetite", "size":1},
-			"out2": {},
-			"out3": {}
-		},
-		"support":0
-	}
+  "Il y a quelques temps, j\u0027ai trouvé un minerai qui attire le fer et les autres matériaux ferreux ; Mais il perdait cet effet lorsqu\u0027il fondait et devenait du fer classique.",
+  "Grâce à une méthode de refroidissement lente et ciblée après la fusion dans le four industriel néon, je peux maintenant conserver cet effet, et même le renforcer. Je peux maintenant produire des barres de Magnétite à partir des minerais.",
+  {
+    "link": "fp:lang/part/industrialneonfurnace_production.nind.magnet.json"
+  }
 ]

@@ -3,15 +3,7 @@
 	"这种内存设计非常快，但是必须定期重写数据。 这是由于小型存储器的能量缓慢泄漏所致。",
 
 	"装配:",
-	{
-		"type": "assembly",
-		"slots": {
-			"in1": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>"},
-			"in2": {"name":"fp:spaceship", "meta":"<spaceship.NeonParts>"},
-			"in3": {"OreDict":"ingotIron"},
-			"out": {"name":"fp:ram", "meta":0, "size":1}
-		}
-	},
+	{"link":"fp:lang/part/as_ram.standart.json"},
 
 	"信息:",
 	"内存条具有两个关键属性:",

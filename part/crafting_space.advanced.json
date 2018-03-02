@@ -1,0 +1,67 @@
+[
+  {
+    "type": "crafting",
+    "slots": {
+      "1": {
+        "name": "fp:spaceship",
+        "meta": "\u003cspaceship.IronCoil\u003e"
+      },
+      "2": {
+        "name": "fp:erz_blocke",
+        "meta": 9
+      },
+      "3": {
+        "name": "fp:spaceship",
+        "meta": "\u003cspaceship.IronCoil\u003e"
+      },
+      "4": {
+        "name": "fp:spaceship",
+        "meta": "\u003cspaceship.Polymer\u003e"
+      },
+      "5": [
+        {
+          "name": "fp:board_computer",
+          "meta": 2
+        },
+        {
+          "name": "fp:board_computer",
+          "meta": 6
+        },
+        {
+          "name": "fp:board_computer",
+          "meta": 10
+        }
+      ],
+      "6": {
+        "name": "fp:spaceship",
+        "meta": "\u003cspaceship.Polymer\u003e"
+      },
+      "7": {
+        "name": "fp:ram",
+        "meta": 4
+      },
+      "8": {
+        "name": "fp:core",
+        "meta": 4
+      },
+      "9": {
+        "name": "fp:ram",
+        "meta": 4
+      },
+      "out": [
+        {
+          "name": "fp:advanced_boardcomputer",
+          "meta": 2
+        },
+        {
+          "name": "fp:advanced_boardcomputer",
+          "meta": 6
+        },
+        {
+          "name": "fp:advanced_boardcomputer",
+          "meta": 10
+        }
+      ]
+    }
+  }
+]

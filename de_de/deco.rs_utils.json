@@ -1,22 +1,16 @@
 [
-	"Ich habe ein paar nützliche Redstone Bauelemente entwickelt.",
-	
-	"Hebel:",
-	{
-		"type": "crafting",
-		"load": "fp:fp_lever"
-	},
-	
-	"Knopf:",
-	{
-		"type": "crafting",
-		"load": "fp:button"
-	},
-	
-	"Redstone Schaltuhr (Clock):",
-	{
-		"type": "crafting",
-		"load": "fp:rs_timer"
-	},
-	"Das Intervall der Schaltuhr kann mittels GUI eingestellt werden."
+  "Ich habe ein paar nützliche Redstone Bauelemente entwickelt.",
+  "Hebel:",
+  {
+    "link": "fp:lang/part/crafting_deco.rs_utils.json"
+  },
+  "Knopf:",
+  {
+    "link": "fp:lang/part/crafting_deco.rs_utils2.json"
+  },
+  "Redstone Schaltuhr (Clock):",
+  {
+    "link": "fp:lang/part/crafting_deco.rs_utils3.json"
+  },
+  "Das Intervall der Schaltuhr kann mittels GUI eingestellt werden."
 ]

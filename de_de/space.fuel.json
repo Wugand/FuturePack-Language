@@ -1,20 +1,7 @@
 [
-	"Bitripentium ist scheinbar extrem Energiereich, allerdings ist es äußerst schwer die Struktur aufzuspalten. Eine einfache Explosion reicht dazu allerdings nicht, aber mit Hilfe von Lohenruten kann der Vorgang erleichtert werden.",
-    
-	"Crafting:",
-    {
-        "type": "crafting",
-        "slots": {
-            "1": {"OreDict":"gemBitripentium"},
-            "2": {"name":"minecraft:gunpowder","meta":0},
-            "3": {"OreDict":"gemBitripentium"},
-            "4": {"OreDict":"gemBitripentium"},
-            "5": {"name":"minecraft:blaze_rod","meta":0},
-            "6": {"OreDict":"gemBitripentium"},
-            "7": {"OreDict":"gemBitripentium"},
-            "8": {"name":"minecraft:gunpowder","meta":0},
-            "9": {"OreDict":"gemBitripentium"},
-            "out": {"name":"fp:spaceship","meta":"<spaceship.fuelCell>"}
-        }
-    }
+  "Bitripentium ist scheinbar extrem Energiereich, allerdings ist es äußerst schwer die Struktur aufzuspalten. Eine einfache Explosion reicht dazu allerdings nicht, aber mit Hilfe von Lohenruten kann der Vorgang erleichtert werden.",
+  "Crafting:",
+  {
+    "link": "fp:lang/part/crafting_space.fuel.json"
+  }
 ]

@@ -1,0 +1,29 @@
+[
+  {
+    "type": "crafting",
+    "slots": {
+      "1": {},
+      "2": {
+        "OreDict": "dustRedstone"
+      },
+      "3": {},
+      "4": {},
+      "5": {
+        "name": "fp:chip",
+        "meta": "\u003cchip.LogicChip\u003e"
+      },
+      "6": {},
+      "7": {},
+      "8": {
+        "name": "fp:spaceship",
+        "meta": "\u003cspaceship.IronStick\u003e"
+      },
+      "9": {},
+      "out": {
+        "name": "fp:claime",
+        "meta": 0,
+        "size": 1
+      }
+    }
+  }
+]

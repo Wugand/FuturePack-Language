@@ -1,23 +1,9 @@
 [
-	"Au fil du temps, cela devient très ennuyeux d'insérer et de retirer les mémoires Flash encore et encore... J'ai crée un câble qui permet de transporter des points Supports entre 2 machines.",
-	"C'est un câble normal auquel on a ajouté un revêtement de Glowtite, qui permet une transmission des points Support.",
-	
-	"Craft :",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {},
-			"2": {"OreDict":"ingotGlowtite"},
-			"3": {},
-			"4": {"name":"fp:wire", "meta":0},
-			"5": {"name":"fp:wire", "meta":0},
-			"6": {"name":"fp:wire", "meta":0},
-			"7": {},
-			"8": {},
-			"9": {},
-			"out": {"name":"fp:wire", "meta":3, "size":3}
-		}
-	},
-	
-	"Le câble en lui même ne peut pas stocker des informations, il faut donc prévoir une destination pour ne pas perdre des données."
+  "Au fil du temps, cela devient très ennuyeux d\u0027insérer et de retirer les mémoires Flash encore et encore... J\u0027ai crée un câble qui permet de transporter des points Supports entre 2 machines.",
+  "C\u0027est un câble normal auquel on a ajouté un revêtement de Glowtite, qui permet une transmission des points Support.",
+  "Craft :",
+  {
+    "link": "fp:lang/part/crafting_log.supportcable.json"
+  },
+  "Le câble en lui même ne peut pas stocker des informations, il faut donc prévoir une destination pour ne pas perdre des données."
 ]

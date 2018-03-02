@@ -1,0 +1,32 @@
+[
+  {
+    "type": "crafting",
+    "slots": {
+      "1": {},
+      "2": "OreDict:ingotAluminum",
+      "3": {},
+      "4": {
+        "name": "fp:spaceship",
+        "meta": "\u003cspaceship.CompositeMetall\u003e"
+      },
+      "5": "OreDict:ingotAluminum",
+      "6": {
+        "name": "fp:spaceship",
+        "meta": "\u003cspaceship.CompositeMetall\u003e"
+      },
+      "7": {
+        "name": "fp:spaceship",
+        "meta": "\u003cspaceship.NeonCoil\u003e"
+      },
+      "8": {
+        "name": "sticky_piston",
+        "meta": 0
+      },
+      "9": "OreDict:ingotMagnetite",
+      "out": {
+        "name": "fp:spacedoor",
+        "meta": 0
+      }
+    }
+  }
+]

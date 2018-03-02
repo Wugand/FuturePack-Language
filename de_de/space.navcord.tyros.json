@@ -1,26 +1,11 @@
 [
-	"Für mein Raumschiff benötige ich noch ein neues Ziel, ich werde mir ein neues Teleskop bauen um den Himmel von Menelaus nach Planeten abzusuchen.",
-	"Wenn ich etwas finde werde ich einen entsprechenden Datensatz anfertigen, den ich in den Bordcomputer einlegen kann.",
-    
-	"Crafting:",
-    {
-        "type": "crafting",
-        "slots": {
-            "1": {},
-            "2": {},
-            "3": {"name":"minecraft:glass_pane", "meta":0},
-            "4": {},
-            "5": {"OreDict":"ingotAluminum"},
-            "6": {},
-            "7": {"OreDict":"ingotCopper"},
-            "8": {},
-            "9": {},
-            "out": {"name":"fp:telescope", "meta":0}
-        }
-    },
-	
-	"Benutzung mit \"Rechtsklick\".",
-	"Diese ist ein Platzhalter.",
-	"Muss auf Menelaus benutzt werden!"
-	
+  "Für mein Raumschiff benötige ich noch ein neues Ziel, ich werde mir ein neues Teleskop bauen um den Himmel von Menelaus nach Planeten abzusuchen.",
+  "Wenn ich etwas finde werde ich einen entsprechenden Datensatz anfertigen, den ich in den Bordcomputer einlegen kann.",
+  "Crafting:",
+  {
+    "link": "fp:lang/part/crafting_space.navcord.tyros.json"
+  },
+  "Benutzung mit \"Rechtsklick\".",
+  "Diese ist ein Platzhalter.",
+  "Muss auf Menelaus benutzt werden!"
 ]

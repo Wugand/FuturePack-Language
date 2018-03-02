@@ -1,27 +1,15 @@
 [
-	"Ich habe eine Art Werkbank entwickelt an der ich Experimente durchführen und meine Ideen ausarbeiten kann, bevor ich die Ergebnisse in meine Datenbank eintrage.",
-	"Crafting:",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {"name":"fp:cristall","meta":0},
-			"2": {"name":"minecraft:glass_pane","meta":0},
-			"3": {"name":"fp:cristall","meta":0},
-			"4": {"name":"minecraft:paper","meta":0},
-			"5": [{"name":"fp:color_iron","meta":0},{"name":"fp:color_iron","meta":8},{"name":"fp:color_iron","meta":15}],
-			"6": {"name":"minecraft:piston","meta":0},
-			"7": {"OreDict":"ingotZinc"},
-			"8": {"name":"fp:spaceship","meta":"<spaceship.IronParts>"},
-			"9": {"OreDict":"ingotZinc"},
-			"out": [{"name":"fp:forscher","meta":2},{"name":"fp:forscher","meta":6},{"name":"fp:forscher","meta":10}]
-		}
-	},
-	"Tipp: Lies vorher die Informationen zu \"Das Forschungssytem\"!",
-	"Benutzung im Detail:",
-	"Anmerkung: Im Folgenden werden die Begriffe Energie, Support, Erfahrung und Netzwerk genannt, diese Funktionalitäten werden erst im späteren Spielverlauf verfügbar.",
-	"Mit dem grünen Pfeil kann eine Blaupause aus dem nächstgelegenen Scanner geholt werden, alternativ  kann diese per Hand in den rechten Slot gelegt werden. Durch Klick auf den \"Forschen\"-Button (unten rechts) wird die Forschung gestartet.",
-	"Daraufhin erscheinen in ein oder mehreren der Slots Hologramme von Items, inklusive einer Anzahl oben links im Slot. Alle Slots müssen mit den entsprechenden Items bestückt werden, dabei zeigt ein roter Rahmen, dass der Itemtyp oder  die Anzahl nicht korrekt sind. Die Items werden mit Abschluss der Forschung verbraucht.",
-	"Die Balken unter den Slots zeigen den Fortschritt des Ressourcenverbrauchs aus dem Forschungsnetzwerk, die Ressourcen sind (links nach rechts): Zeit (immer vorhanden), Energie, Support, Erfahrung. Wird die Umrandung einer der Balken grau, so heißt dies das entsprechende Ressource nicht ausreichend im Netzwerk vorhanden ist.",
-	"Wenn alles breitgestellt wurde beginnen sich die Balken zu füllen, bis die Forschung abgeschlossen ist. Die Anwesenheit des Spielers ist dabei nicht erforderlich.",
-	"Es kann sinnvoll sein mehrere Forscher zu betreiben, da manche Forschungen viel Zeit in Anspruch nehmen."
+  "Ich habe eine Art Werkbank entwickelt an der ich Experimente durchführen und meine Ideen ausarbeiten kann, bevor ich die Ergebnisse in meine Datenbank eintrage.",
+  "Crafting:",
+  {
+    "link": "fp:lang/part/crafting_forscher.json"
+  },
+  "Tipp: Lies vorher die Informationen zu \"Das Forschungssytem\"!",
+  "Benutzung im Detail:",
+  "Anmerkung: Im Folgenden werden die Begriffe Energie, Support, Erfahrung und Netzwerk genannt, diese Funktionalitäten werden erst im späteren Spielverlauf verfügbar.",
+  "Mit dem grünen Pfeil kann eine Blaupause aus dem nächstgelegenen Scanner geholt werden, alternativ  kann diese per Hand in den rechten Slot gelegt werden. Durch Klick auf den \"Forschen\"-Button (unten rechts) wird die Forschung gestartet.",
+  "Daraufhin erscheinen in ein oder mehreren der Slots Hologramme von Items, inklusive einer Anzahl oben links im Slot. Alle Slots müssen mit den entsprechenden Items bestückt werden, dabei zeigt ein roter Rahmen, dass der Itemtyp oder  die Anzahl nicht korrekt sind. Die Items werden mit Abschluss der Forschung verbraucht.",
+  "Die Balken unter den Slots zeigen den Fortschritt des Ressourcenverbrauchs aus dem Forschungsnetzwerk, die Ressourcen sind (links nach rechts): Zeit (immer vorhanden), Energie, Support, Erfahrung. Wird die Umrandung einer der Balken grau, so heißt dies das entsprechende Ressource nicht ausreichend im Netzwerk vorhanden ist.",
+  "Wenn alles breitgestellt wurde beginnen sich die Balken zu füllen, bis die Forschung abgeschlossen ist. Die Anwesenheit des Spielers ist dabei nicht erforderlich.",
+  "Es kann sinnvoll sein mehrere Forscher zu betreiben, da manche Forschungen viel Zeit in Anspruch nehmen."
 ]

@@ -422,6 +422,7 @@ tile.dungeon_core.name=Dungeonherz
 tile.composite_chest.name=Verbundmetalltruhe
 tile.syncronizer.name=Synchronisierer
 tile.deep_core_miner.name=Tiefen Miner
+tile.rf_ne_converter.name=Flux Transformator
 
 fluid.liquid.neon=Neonflüssigkeit
 fluid.saltwater=Salzwasser

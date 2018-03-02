@@ -1,18 +1,6 @@
 [
-    "我能够更好地理解先祖们的安全系统。所以我能够重构一个安全等级高的钥匙卡。",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {},
-			"2": {"name":"fp:cristall", "meta":9, "size":1},
-			"3": {},
-			"4": {"name":"fp:spaceship", "meta":15, "size":1},
-			"5": {"name":"fp:core", "meta":4},
-			"6": {"name":"fp:spaceship", "meta":15, "size":1},
-			"7": {},
-			"8": {"name":"fp:compactenergycell", "meta":0, "size":1},
-			"9": {},
-			"out": {"name":"fp:spaceship", "meta":23, "size":1}
-		}
-	}
+  "我能够更好地理解先祖们的安全系统。所以我能够重构一个安全等级高的钥匙卡。",
+  {
+    "link": "fp:lang/part/crafting_story.dungeon_3.json"
+  }
 ]

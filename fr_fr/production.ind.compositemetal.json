@@ -1,15 +1,7 @@
 [
-	"J'ai découvert un alliage de métaux de ce monde très résistant et léger, que j'ai nommé Métal Composite.",
-	"Ça devrait être très utile pour beaucoup de tâches, mais par dessus tout, c'est un très bon matériau pour les structures.",
-	{
-		"type": "industrialfurnace",
-		"slots": {
-			"in1":  {"OreDict":"ingotIron"},
-			"in2":  {"OreDict":"ingotCopper"},
-			"in3":  [{"OreDict":"ingotTin"}, {"OreDict":"ingotZinc"}],
-			"out1": {"name":"fp:spaceship",  "meta":"<spaceship.CompositeMetall>", "size":6},
-			"out2": {},
-			"out3": {}
-		}
-	}	
+  "J\u0027ai découvert un alliage de métaux de ce monde très résistant et léger, que j\u0027ai nommé Métal Composite.",
+  "Ça devrait être très utile pour beaucoup de tâches, mais par dessus tout, c\u0027est un très bon matériau pour les structures.",
+  {
+    "link": "fp:lang/part/industrialfurnace_production.ind.compositemetal.json"
+  }
 ]

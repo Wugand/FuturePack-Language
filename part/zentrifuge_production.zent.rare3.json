@@ -1,0 +1,25 @@
+[
+  {
+    "type": "zentrifuge",
+    "slots": {
+      "in": {
+        "OreDict": "ingotRareEarthMetal",
+        "size": 4
+      },
+      "out1": {
+        "OreDict": "ingotLithium",
+        "size": 2
+      },
+      "out2": {
+        "OreDict": "ingotGadolinium",
+        "size": 1
+      },
+      "out3": {
+        "OreDict": "ingotNeodymium",
+        "size": 1
+      }
+    },
+    "support": 0,
+    "time": 240
+  }
+]

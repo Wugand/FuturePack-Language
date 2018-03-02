@@ -1,56 +1,43 @@
 [
-	"Eine Forschung besteht prinzipiell aus 3 Schritten: Idee, Erforschung, Umsetzung.",
-	"Die Idee wird mit dem Scanner erzeugt, dabei wird ein Item weiterentwickelt (siehe Scanner). Dieses Item kann jedes beliebige sein, dessen Umsetzung durch die im Technologiebaum davor liegende Forschung ermöglicht wurde.",
-	"Ein Sonderfall ist es wenn der/alle Vorgänger \"Erkenntnis\"* sind. In diesem Fall ist in der entsprechenden Beschreibung (schwarz/am Ende) das Item genannt, das stellvertretend genutzt werden muss.",
-	"Die Erforschung findet im Forscher statt, dabei werden Ressourcen und Zeit verbraucht um die Idee zu vervollständigen. (d.h. der entsprechende Eintrag im Forschungsbaum wird freigeschalten)",
-	"Die Umsetzung ist im typischen Fall das Herstellen des gerade freigehaltenen Items/Blocks, dies ist unter anderem notwendig um dieses zur Erforschung seiner Nachfolger in den Scanner zu legen.",
-	"",
-	"Der Forschungsbaum:",
-	"Der Forschungsbaum erstreckt sich über mehrere Seiten (am Rand des Fensters anwählbar). Auf jeder Seite sind Forschungsicons, welche in 3 Varianten existieren:",
-	"Forschung - Kann erforscht werden, schaltet Items frei",
-	{
-		"type":"image",
-		"width":16,
-		"height":16,
-		"resource":"fp:textures/gui/slot_bg.png"
-	},
-	"Erkenntnis* - Kann erforscht werden, schaltet (selbst) keine Items frei",
-	{
-		"type":"image",
-		"width":16,
-		"height":16,
-		"resource":"fp:textures/gui/slot_erk_bg.png"
-	},
-	"Erfahrung - Kann nicht erforscht werden, kann Items freischalten, wird durch Achievements freigeschalten",
-	{
-		"type":"image",
-		"width":16,
-		"height":16,
-		"resource":"fp:textures/gui/slot_so_bg.png"
-	},
-	"Je nach Forschungstand treten diese wiederum in 3 Varianten auf:",
-	"Solide und farbig: Ist erforscht und kann durch Anklicken gelesen werden.",
-	"Blinkend und farbig: Erforschung ist möglich und kann nach oben genannten Prinzip durchgeführt werden.",
-	"Schwarz: Es sind nicht alle Vorbedingungen erfüllt, die Erforschung ist noch nicht möglich.",
-	"(automatische) Freischaltungen und Vorbedingungen erstrecken sich teilweise über verschiedene Seiten, es lohnt sich damit gelegentlich auf verschiedenen Seiten vorbeizuschauen ob neue Forschungen verfügbar sind.",
-	"Auf einer Seite sind die Forschungen entsprechend mit Linien verbunden, Leserichtung ist typischerweise von links nach rechts. Es müssen grundsätzlich alle Vorbedingungen erfüllt werden.",
-	"Tipp: Es kann/wird passieren das in der Umsetzung oder Forschung Items gefordert werden die du noch nicht herstellen kannst, in diesem Fall musst du an anderen Stellen im Forschungsbaum fortsetzten, bis sich dabei entsprechendes freischaltet.",
-	"Tipp: Durch klicken auf Itemicons in Beschreibungen wird zu entsprechenden Forschung des Items gesprungen.",
-	"",
-	"Ein Beispiel (kann als Spoiler empfunden werden):",
-	"Crafte zunächst einen Scanner und einen Forscher in der Technikwerkbank, entsprechende Anleitungen stehen dazu entsprechend im Forschungsbaum, hierzu benötigst du auch eine Teilestanze (\"Produktion\"-Tab).",
-	"Die einzige momentan verfügbare Forschung ist \"Produktion 1\":",
-	{
-		"type":"image",
-		"width":16,
-		"height":16,
-		"resource":"fp:textures/aspects/production1.png"
-	},
-	"Im Forschungsbaum ist der Vorgänger die Forschung \"Technikwerkbank\", die gleichnamigen Block freischaltet. Das heißt wir nehmen eine Technikwerkbank und legen ihn in den Scanner. Durch kombinieren oder probieren finden wir jetzt die richtigen Aspekte (hier Thermodynamik) und klicken abschließend auf Scannen. Dadurch erhalten wir eine entsprechende Blaupause.",
-	"Im zweiten Schritt transportieren wir diese Blaupause nun in den Forscher und klicken auf Forschen. Die Maschine sagt uns daraufhin, dass 3 Öfen in den linken Slot müssen, dies tun wir nun. Daraufhin füllt sich der graue Balken darunter. Wenn er voll ist erhalten wir noch eine entsprechende Chatmeldung und können im E-Scanner (Forschungsbaum) die Resultate ansehen.",
-	"In diesem Fall ist dies die Erkenntnis \"Produktion 1\", der wir neben ein paar speziellen Informationen entnehmen können, das wir zu den nächsten Forschungen einen Industrieofen benutzen müssen, sowie das auf der Seite \"Produktion\" neue Forschungen verfügbar sind. Logischerweise ist dies die Forschung für den Industrieofen, welche automatisch freigeschaltet wurde.",
-	"Nun haben wir verschiedene Möglichkeiten mit Forschungen in einem der beiden Tabs Fortzusetzen.",
-	"",
-	"Viel Spaß beim Forschen :)"
+  "Eine Forschung besteht prinzipiell aus 3 Schritten: Idee, Erforschung, Umsetzung.",
+  "Die Idee wird mit dem Scanner erzeugt, dabei wird ein Item weiterentwickelt (siehe Scanner). Dieses Item kann jedes beliebige sein, dessen Umsetzung durch die im Technologiebaum davor liegende Forschung ermöglicht wurde.",
+  "Ein Sonderfall ist es wenn der/alle Vorgänger \"Erkenntnis\"* sind. In diesem Fall ist in der entsprechenden Beschreibung (schwarz/am Ende) das Item genannt, das stellvertretend genutzt werden muss.",
+  "Die Erforschung findet im Forscher statt, dabei werden Ressourcen und Zeit verbraucht um die Idee zu vervollständigen. (d.h. der entsprechende Eintrag im Forschungsbaum wird freigeschalten)",
+  "Die Umsetzung ist im typischen Fall das Herstellen des gerade freigehaltenen Items/Blocks, dies ist unter anderem notwendig um dieses zur Erforschung seiner Nachfolger in den Scanner zu legen.",
+  "",
+  "Der Forschungsbaum:",
+  "Der Forschungsbaum erstreckt sich über mehrere Seiten (am Rand des Fensters anwählbar). Auf jeder Seite sind Forschungsicons, welche in 3 Varianten existieren:",
+  "Forschung - Kann erforscht werden, schaltet Items frei",
+  {
+    "link": "fp:lang/part/image_forschung.json"
+  },
+  "Erkenntnis* - Kann erforscht werden, schaltet (selbst) keine Items frei",
+  {
+    "link": "fp:lang/part/image_forschung2.json"
+  },
+  "Erfahrung - Kann nicht erforscht werden, kann Items freischalten, wird durch Achievements freigeschalten",
+  {
+    "link": "fp:lang/part/image_forschung3.json"
+  },
+  "Je nach Forschungstand treten diese wiederum in 3 Varianten auf:",
+  "Solide und farbig: Ist erforscht und kann durch Anklicken gelesen werden.",
+  "Blinkend und farbig: Erforschung ist möglich und kann nach oben genannten Prinzip durchgeführt werden.",
+  "Schwarz: Es sind nicht alle Vorbedingungen erfüllt, die Erforschung ist noch nicht möglich.",
+  "(automatische) Freischaltungen und Vorbedingungen erstrecken sich teilweise über verschiedene Seiten, es lohnt sich damit gelegentlich auf verschiedenen Seiten vorbeizuschauen ob neue Forschungen verfügbar sind.",
+  "Auf einer Seite sind die Forschungen entsprechend mit Linien verbunden, Leserichtung ist typischerweise von links nach rechts. Es müssen grundsätzlich alle Vorbedingungen erfüllt werden.",
+  "Tipp: Es kann/wird passieren das in der Umsetzung oder Forschung Items gefordert werden die du noch nicht herstellen kannst, in diesem Fall musst du an anderen Stellen im Forschungsbaum fortsetzten, bis sich dabei entsprechendes freischaltet.",
+  "Tipp: Durch klicken auf Itemicons in Beschreibungen wird zu entsprechenden Forschung des Items gesprungen.",
+  "",
+  "Ein Beispiel (kann als Spoiler empfunden werden):",
+  "Crafte zunächst einen Scanner und einen Forscher in der Technikwerkbank, entsprechende Anleitungen stehen dazu entsprechend im Forschungsbaum, hierzu benötigst du auch eine Teilestanze (\"Produktion\"-Tab).",
+  "Die einzige momentan verfügbare Forschung ist \"Produktion 1\":",
+  {
+    "link": "fp:lang/part/image_forschung4.json"
+  },
+  "Im Forschungsbaum ist der Vorgänger die Forschung \"Technikwerkbank\", die gleichnamigen Block freischaltet. Das heißt wir nehmen eine Technikwerkbank und legen ihn in den Scanner. Durch kombinieren oder probieren finden wir jetzt die richtigen Aspekte (hier Thermodynamik) und klicken abschließend auf Scannen. Dadurch erhalten wir eine entsprechende Blaupause.",
+  "Im zweiten Schritt transportieren wir diese Blaupause nun in den Forscher und klicken auf Forschen. Die Maschine sagt uns daraufhin, dass 3 Öfen in den linken Slot müssen, dies tun wir nun. Daraufhin füllt sich der graue Balken darunter. Wenn er voll ist erhalten wir noch eine entsprechende Chatmeldung und können im E-Scanner (Forschungsbaum) die Resultate ansehen.",
+  "In diesem Fall ist dies die Erkenntnis \"Produktion 1\", der wir neben ein paar speziellen Informationen entnehmen können, das wir zu den nächsten Forschungen einen Industrieofen benutzen müssen, sowie das auf der Seite \"Produktion\" neue Forschungen verfügbar sind. Logischerweise ist dies die Forschung für den Industrieofen, welche automatisch freigeschaltet wurde.",
+  "Nun haben wir verschiedene Möglichkeiten mit Forschungen in einem der beiden Tabs Fortzusetzen.",
+  "",
+  "Viel Spaß beim Forschen :)"
 ]
-   

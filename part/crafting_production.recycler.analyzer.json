@@ -1,0 +1,44 @@
+[
+  {
+    "type": "crafting",
+    "slots": {
+      "1": {
+        "OreDict": "ingotAluminum"
+      },
+      "2": {
+        "name": "fp:spaceship",
+        "meta": "\u003cspaceship.Silizium\u003e"
+      },
+      "3": {
+        "name": "fp:spaceship",
+        "meta": "\u003cspaceship.NeonParts\u003e"
+      },
+      "4": {
+        "name": "fp:spaceship",
+        "meta": "\u003cspaceship.NeonCoil\u003e"
+      },
+      "5": {
+        "name": "fp:chip",
+        "meta": 0
+      },
+      "6": {},
+      "7": {
+        "OreDict": "ingotAluminum"
+      },
+      "8": {
+        "name": "fp:spaceship",
+        "meta": "\u003cspaceship.Silizium\u003e"
+      },
+      "9": {
+        "name": "fp:spaceship",
+        "meta": "\u003cspaceship.NeonParts\u003e"
+      },
+      "out": [
+        {
+          "name": "fp:analyzer",
+          "meta": 0
+        }
+      ]
+    }
+  }
+]

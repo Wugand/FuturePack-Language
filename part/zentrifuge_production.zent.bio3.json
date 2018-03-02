@@ -1,0 +1,25 @@
+[
+  {
+    "type": "zentrifuge",
+    "slots": {
+      "in": {
+        "name": "minecraft:reeds",
+        "meta": 0,
+        "size": 6
+      },
+      "out1": {
+        "name": "fp:spaceship",
+        "size": 6,
+        "meta": "\u003cspaceship.Fibers\u003e"
+      },
+      "out2": {
+        "name": "minecraft:sugar",
+        "meta": 0,
+        "size": 8
+      },
+      "out3": {}
+    },
+    "support": 0,
+    "time": 200
+  }
+]

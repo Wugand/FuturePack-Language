@@ -1,55 +1,18 @@
 [
-	"J'ai vraiment trop de composte, je dois m'en débarrasser d'une façon ou d'une autre.",
-	"Quand je remplis une grenade avec du composte, ça le disperse à l'impact et fertilise la zone.",
-	"Je peux utiliser jusqu'à 3 compostes pour augmenter la zone impactée.",
-	
-	"Craft :",
-	"Force 1:",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {"name":"fp:grenade", "meta":0},
-			"2": {"name":"fp:spaceship", "meta":"<spaceship.Kompost>"},
-			"3": {},
-			"4": {},
-			"5": {},
-			"6": {},
-			"7": {},
-			"8": {},
-			"9": {},
-			"out": {"name":"fp:grenade", "meta":5, "size":1}
-		}
-	},
-	"Force 2:",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {"name":"fp:grenade", "meta":0},
-			"2": {"name":"fp:spaceship", "meta":"<spaceship.Kompost>"},
-			"3": {},
-			"4": {"name":"fp:spaceship", "meta":"<spaceship.Kompost>"},
-			"5": {},
-			"6": {},
-			"7": {},
-			"8": {},
-			"9": {},
-			"out": {"name":"fp:grenade", "meta":5, "size":1}
-		}
-	},
-	"Force 3:",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {"name":"fp:grenade", "meta":0},
-			"2": {"name":"fp:spaceship", "meta":"<spaceship.Kompost>"},
-			"3": {"name":"fp:spaceship", "meta":"<spaceship.Kompost>"},
-			"4": {"name":"fp:spaceship", "meta":"<spaceship.Kompost>"},
-			"5": {},
-			"6": {},
-			"7": {},
-			"8": {},
-			"9": {},
-			"out": {"name":"fp:grenade", "meta":5, "size":1}
-		}
-	}
+  "J\u0027ai vraiment trop de composte, je dois m\u0027en débarrasser d\u0027une façon ou d\u0027une autre.",
+  "Quand je remplis une grenade avec du composte, ça le disperse à l\u0027impact et fertilise la zone.",
+  "Je peux utiliser jusqu\u0027à 3 compostes pour augmenter la zone impactée.",
+  "Craft :",
+  "Force 1:",
+  {
+    "link": "fp:lang/part/crafting_tools.grenade.compost.json"
+  },
+  "Force 2:",
+  {
+    "link": "fp:lang/part/crafting_tools.grenade.compost2.json"
+  },
+  "Force 3:",
+  {
+    "link": "fp:lang/part/crafting_tools.grenade.compost3.json"
+  }
 ]

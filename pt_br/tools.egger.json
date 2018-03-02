@@ -3,12 +3,7 @@
 	"Montagem:",
 	{
 		"type": "assembly",
-		"slots": {
-			"in1": {"name":"minecraft:slime_ball", "meta":0, "size":1},
-			"in2": {"name":"minecraft:egg", "meta":0, "size":1},
-			"in3": {"name":"fp:chip", "meta":"<chip.LogicChip>", "size":1},
-			"out": {"name":"fp:entityEgger", "meta":0, "size":1}
-		}
+		"load": "entity_egger"
 	},
 	"O \"Ovo Armadilha\" pode ser jogado. Se acertar um organismo, ele será absorvido. O organismo pode ser liberado na mesma forma."
 ]

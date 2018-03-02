@@ -1,25 +1,11 @@
 [
-    "I need a new target for my spaceship, so I will create a new telescope to scan the sky from Menelaus for new planets.",
-    "If I find something, then I will note down the data and put it into the board computer.",
-    
-    "Crafting:",
-    {
-        "type": "crafting",
-        "slots": {
-            "1": {},
-            "2": {},
-            "3": {"name":"minecraft:glass_pane", "meta":0},
-            "4": {},
-            "5": {"OreDict":"ingotAluminum"},
-            "6": {},
-            "7": {"OreDict":"ingotCopper"},
-            "8": {},
-            "9": {},
-            "out": {"name":"fp:telescope", "meta":0}
-        }
-    },
-    
-    "Use with \"Right Click\".",
-    "(This is not final and may be changed in the future).",
-    "You need to use it on Menelaus!"	
+  "I need a new target for my spaceship, so I will create a new telescope to scan the sky from Menelaus for new planets.",
+  "If I find something, then I will note down the data and put it into the board computer.",
+  "Crafting:",
+  {
+    "link": "fp:lang/part/crafting_space.navcord.tyros.json"
+  },
+  "Use with \"Right Click\".",
+  "(This is not final and may be changed in the future).",
+  "You need to use it on Menelaus!"
 ]

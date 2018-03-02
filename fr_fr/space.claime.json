@@ -1,22 +1,10 @@
 [
-	"Pour donner l'ordre à mes drones de travailler, j'ai créé un transmetteur. Je peux les placer n'importe où et le configurer plus tard (ouvrir en §lCliquant droit§r).",
-	"Sur le côté gauche de l'interface, je peux redimensionner la taille de la zone [Important: un changement de 1 sur X ou Z provoque un augmentation de 2 blocs]. Sur le côté droit, je peux déplacement cette zone.",
-	"En bas, je peux désactiver l'affichage de la zone délimitée en jaune (\"Render:false\"). Je peux aussi renommer cette zone.",
-	"La zone est délimitée par un contour jaune. Si les bords clignotent, c'est qu'il n'est pas possible de la voir, par exemple, cela peut arriver quand on sélectionne du sous-sol.",
-	"Craft :",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {},
-			"2": {"OreDict":"dustRedstone"},
-			"3": {},
-			"4": {},
-			"5": {"name":"fp:chip", "meta":"<chip.LogicChip>"},
-			"6": {},
-			"7": {},
-			"8": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
-			"9": {},
-			"out": {"name":"fp:claime", "meta":0, "size":1}
-		}
-	}
+  "Pour donner l\u0027ordre à mes drones de travailler, j\u0027ai créé un transmetteur. Je peux les placer n\u0027importe où et le configurer plus tard (ouvrir en §lCliquant droit§r).",
+  "Sur le côté gauche de l\u0027interface, je peux redimensionner la taille de la zone [Important: un changement de 1 sur X ou Z provoque un augmentation de 2 blocs]. Sur le côté droit, je peux déplacement cette zone.",
+  "En bas, je peux désactiver l\u0027affichage de la zone délimitée en jaune (\"Render:false\"). Je peux aussi renommer cette zone.",
+  "La zone est délimitée par un contour jaune. Si les bords clignotent, c\u0027est qu\u0027il n\u0027est pas possible de la voir, par exemple, cela peut arriver quand on sélectionne du sous-sol.",
+  "Craft :",
+  {
+    "link": "fp:lang/part/crafting_space.claime.json"
+  }
 ]

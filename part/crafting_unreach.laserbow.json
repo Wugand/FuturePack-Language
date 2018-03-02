@@ -1,0 +1,39 @@
+[
+  {
+    "type": "crafting",
+    "slots": {
+      "1": {},
+      "2": {
+        "name": "fp:spaceship",
+        "meta": "\u003cspaceship.IronStick\u003e"
+      },
+      "3": {
+        "OreDict": "ingotRetium"
+      },
+      "4": {
+        "name": "fp:spaceship",
+        "meta": "\u003cspaceship.IronStick\u003e"
+      },
+      "5": {
+        "name": "minecraft:bow",
+        "meta": 0
+      },
+      "6": {
+        "OreDict": "ingotGlowtite"
+      },
+      "7": {},
+      "8": {
+        "name": "fp:spaceship",
+        "meta": "\u003cspaceship.IronStick\u003e"
+      },
+      "9": {
+        "OreDict": "ingotRetium"
+      },
+      "out": {
+        "name": "fp:laserBow",
+        "meta": 0,
+        "size": 1
+      }
+    }
+  }
+]

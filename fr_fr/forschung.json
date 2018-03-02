@@ -1,55 +1,43 @@
 [
-	"La Recherche comprends 3 étapes : Conceptualisation, Recherche et Implémentations.",
-	"Un concept est découvert grâce au Scanner, qui conduit en général au développement d'un Objet (voir la page du Scanner). Le résultat de cet Objet peut être très varié ; mais son utilisation est toujours débloquée par la découverte de la précédente Technologie (dans l'Arbre des Technologies).",
-	"Il y a un cas spécial si la technologie précédente est une \"Connaissance\". Dans ce cas, vous pouvez avoir le nom de l'Objet que vous devez utiliser dans la page de description des Connaissances (en noir / à la fin).",
-	"La recherche est faite dans le Module de Recherches, grâce à des ressources physiques et du temps (une fois la recherche complétée, l'entrée dans l'Arbre des Technologies devient active).",
-	"L'étape d'implémentation est typiquement l'étape de production de l'Objet ou du Bloc qui était en cours de recherche. En plus de l'utiliser à ses propres fins, il est également nécessaire pour faire des recherches futures sur des technologies connexes.",
-	"",
-	"L'Arbre des Technologies :",
-	"L'Arbre des Technologies est représenté sur plusieurs onglets (sélectionnable sur le côté gauche de l'écran). Au centre, il y a des icônes de Recherche qui peuvent être de 3 types:",
-	"Recherche - Peut être recherché, Production et Utilisation de l'objet possible",
-	{
-		"type":"image",
-		"width":16,
-		"height":16,
-		"resource":"fp:textures/gui/slot_bg.png"
-	},
-	"Connaissance - Peut être recherché, Pas d'utilisation de l'Objet, mais favorise la compréhension",
-	{
-		"type":"image",
-		"width":16,
-		"height":16,
-		"resource":"fp:textures/gui/slot_erk_bg.png"
-	},
-	"Expérience - Ne peut pas être recherché, mais est autorisé par les accomplissements. Utilisation possible de l'Objet",
-	{
-		"type":"image",
-		"width":16,
-		"height":16,
-		"resource":"fp:textures/gui/slot_so_bg.png"
-	},
-	"En fonction de l'avancée des recherches, il y a là aussi 3 cas possibles :",
-	"Solide et coloré ; le concept est complété et il est possible de cliquer dessus, ce qui ouvre une page d'information.",
-	"Clignotant et coloré : la recherche est possible en utilisant les explications décrites avant.",
-	"Noir : des conditions pour cette recherche ne sont pas encore réunies - La recherche n'est pas encore possible.",
-	"(automatique) Des conditions et des validations de concept peuvent s'afficher sur plusieurs onglets, il est donc conseiller de revoir régulièrement les onglets pour trouver des nouvelles recherches possibles." ,
-	"Dans un onglet, chaque concept est relié à un autre avec une ligne (en général de gauche à droite). Vous devez toujours compléter les conditions précédentes pour débloquer une nouvelle recherche.",
-	"Conseil : Il peut arriver que certaines implémentations nécessites un objet que vous n'êtes pas encore capable de produire. Dans ce cas, vous devez d'abord compléter d'autres recherches puis retourner à celle-ci.",
-	"Conseil : En cliquant sur l'icône d'un Objet dans la Descriptions d'une recherche, vous irez directement à la recherche correspondante à cet objet.",
-	"",
-	"Un exemple (Attention : possible spoiler):",
-	"Tout d'abord, crafter un Scanner et un Module de Recherches dans une Table Technique. Vous pourrez trouver les instructions nécessaires dans l'Arbre des Technologies. Vous aurez aussi besoin d'une Presse Industrielle (se référer à l'onglet \"Production\") pour cette tâche.",
-	"Au début, la seule Recherche possible est \"Production 1\" :",
-	{
-		"type":"image",
-		"width":16,
-		"height":16,
-		"resource":"fp:textures/aspects/production1.png"
-	},
-	"Dans l'Arbre des Technologies, vous pouvez voir que le parent de cette \"Table Technique\" autorise le bloc du même nom. Cela veut dire que vous devrez mettre le Table Technique dans le Scanner. En jouant sur les aspects, vous pouvez trouver le(s) bon(s) (dans cet exemple, Thermodynamiques). Et enfin, cliquez encore sur \"Scan\". Le Blueprint est maintenant disponible.",
-	"Dans une seconde étape, insérez ce Blueprint dans le Module de Recherches et cliquez sur le bouton \"Recherche\". La machine vous indique qu'il faut ajouter 3 fours dans les emplacements de gauche pour compléter la recherche. Après cela, la barre grise en dessous de l'emplacement commence à se remplir, indiquant que le process de recherche est en cours. Une fois que la barre est pleine, vous verrez un message dans le chat vous informant que vous pouvez consulter le résultat dans l'Arbre des Technologies (accessible via le Scanner ou l'E-Scanner).",
-	"Dans cet exemple, vous aurez la Connaissance \"Production 1\". En le sélectionnant dans l'Arbre des Technologie, sa page d'informations s'ouvre et vous apprendrez, entre autres choses, que vous devez développer et utiliser un Four Industriel pour compléter la recherche suivante. Vous aurez ainsi le message \"De nouvelles recherches sont disponibles dans l'onglet \"Production\" \".",
-	"Désormais, avec ces astuces, vous pouvez continuer les recherches dans tous les onglets.",
-	"",
-	"Et maintenant, amusez vous à étendre vos connaissances ! :)"
+  "La Recherche comprends 3 étapes : Conceptualisation, Recherche et Implémentations.",
+  "Un concept est découvert grâce au Scanner, qui conduit en général au développement d\u0027un Objet (voir la page du Scanner). Le résultat de cet Objet peut être très varié ; mais son utilisation est toujours débloquée par la découverte de la précédente Technologie (dans l\u0027Arbre des Technologies).",
+  "Il y a un cas spécial si la technologie précédente est une \"Connaissance\". Dans ce cas, vous pouvez avoir le nom de l\u0027Objet que vous devez utiliser dans la page de description des Connaissances (en noir / à la fin).",
+  "La recherche est faite dans le Module de Recherches, grâce à des ressources physiques et du temps (une fois la recherche complétée, l\u0027entrée dans l\u0027Arbre des Technologies devient active).",
+  "L\u0027étape d\u0027implémentation est typiquement l\u0027étape de production de l\u0027Objet ou du Bloc qui était en cours de recherche. En plus de l\u0027utiliser à ses propres fins, il est également nécessaire pour faire des recherches futures sur des technologies connexes.",
+  "",
+  "L\u0027Arbre des Technologies :",
+  "L\u0027Arbre des Technologies est représenté sur plusieurs onglets (sélectionnable sur le côté gauche de l\u0027écran). Au centre, il y a des icônes de Recherche qui peuvent être de 3 types:",
+  "Recherche - Peut être recherché, Production et Utilisation de l\u0027objet possible",
+  {
+    "link": "fp:lang/part/image_forschung.json"
+  },
+  "Connaissance - Peut être recherché, Pas d\u0027utilisation de l\u0027Objet, mais favorise la compréhension",
+  {
+    "link": "fp:lang/part/image_forschung2.json"
+  },
+  "Expérience - Ne peut pas être recherché, mais est autorisé par les accomplissements. Utilisation possible de l\u0027Objet",
+  {
+    "link": "fp:lang/part/image_forschung3.json"
+  },
+  "En fonction de l\u0027avancée des recherches, il y a là aussi 3 cas possibles :",
+  "Solide et coloré ; le concept est complété et il est possible de cliquer dessus, ce qui ouvre une page d\u0027information.",
+  "Clignotant et coloré : la recherche est possible en utilisant les explications décrites avant.",
+  "Noir : des conditions pour cette recherche ne sont pas encore réunies - La recherche n\u0027est pas encore possible.",
+  "(automatique) Des conditions et des validations de concept peuvent s\u0027afficher sur plusieurs onglets, il est donc conseiller de revoir régulièrement les onglets pour trouver des nouvelles recherches possibles.",
+  "Dans un onglet, chaque concept est relié à un autre avec une ligne (en général de gauche à droite). Vous devez toujours compléter les conditions précédentes pour débloquer une nouvelle recherche.",
+  "Conseil : Il peut arriver que certaines implémentations nécessites un objet que vous n\u0027êtes pas encore capable de produire. Dans ce cas, vous devez d\u0027abord compléter d\u0027autres recherches puis retourner à celle-ci.",
+  "Conseil : En cliquant sur l\u0027icône d\u0027un Objet dans la Descriptions d\u0027une recherche, vous irez directement à la recherche correspondante à cet objet.",
+  "",
+  "Un exemple (Attention : possible spoiler):",
+  "Tout d\u0027abord, crafter un Scanner et un Module de Recherches dans une Table Technique. Vous pourrez trouver les instructions nécessaires dans l\u0027Arbre des Technologies. Vous aurez aussi besoin d\u0027une Presse Industrielle (se référer à l\u0027onglet \"Production\") pour cette tâche.",
+  "Au début, la seule Recherche possible est \"Production 1\" :",
+  {
+    "link": "fp:lang/part/image_forschung4.json"
+  },
+  "Dans l\u0027Arbre des Technologies, vous pouvez voir que le parent de cette \"Table Technique\" autorise le bloc du même nom. Cela veut dire que vous devrez mettre le Table Technique dans le Scanner. En jouant sur les aspects, vous pouvez trouver le(s) bon(s) (dans cet exemple, Thermodynamiques). Et enfin, cliquez encore sur \"Scan\". Le Blueprint est maintenant disponible.",
+  "Dans une seconde étape, insérez ce Blueprint dans le Module de Recherches et cliquez sur le bouton \"Recherche\". La machine vous indique qu\u0027il faut ajouter 3 fours dans les emplacements de gauche pour compléter la recherche. Après cela, la barre grise en dessous de l\u0027emplacement commence à se remplir, indiquant que le process de recherche est en cours. Une fois que la barre est pleine, vous verrez un message dans le chat vous informant que vous pouvez consulter le résultat dans l\u0027Arbre des Technologies (accessible via le Scanner ou l\u0027E-Scanner).",
+  "Dans cet exemple, vous aurez la Connaissance \"Production 1\". En le sélectionnant dans l\u0027Arbre des Technologie, sa page d\u0027informations s\u0027ouvre et vous apprendrez, entre autres choses, que vous devez développer et utiliser un Four Industriel pour compléter la recherche suivante. Vous aurez ainsi le message \"De nouvelles recherches sont disponibles dans l\u0027onglet \"Production\" \".",
+  "Désormais, avec ces astuces, vous pouvez continuer les recherches dans tous les onglets.",
+  "",
+  "Et maintenant, amusez vous à étendre vos connaissances ! :)"
 ]

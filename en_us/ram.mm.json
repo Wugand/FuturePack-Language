@@ -3,13 +3,5 @@
 	"The individual units can also assume dynamic values, meaning that they contain concrete states, each with a certain probability.",
 	"Data can also be accessed via conventional forms, Glowtite being especially suitable for this.",
 	"Assembly:",
-	{
-		"type": "assembly",
-		"slots": {
-			"in1": {"OreDict":"ingotQuantanium", "size":1},
-			"in2": {"name":"fp:spaceship", "meta":"<spaceship.NeonParts>", "size":1},
-			"in3": {"OreDict":"ingotGlowtite"},
-			"out": {"name":"fp:ram", "meta":4, "size":1}
-		}
-	}
+	{"link":"fp:lang/part/as_ram.mm.json"}
 ]

@@ -1,0 +1,27 @@
+[
+  {
+    "type": "zentrifuge",
+    "slots": {
+      "in": {
+        "name": "minecraft:gravel",
+        "meta": 0,
+        "size": 16
+      },
+      "out1": {
+        "name": "minecraft:sand",
+        "size": 4,
+        "meta": 0
+      },
+      "out2": {
+        "OreDict": "dustTin",
+        "size": 1
+      },
+      "out3": {
+        "OreDict": "dustCopper",
+        "size": 1
+      }
+    },
+    "support": 0,
+    "time": 300
+  }
+]
