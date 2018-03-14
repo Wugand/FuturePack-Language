@@ -5,5 +5,8 @@
   "合成:",
   {
     "link": "fp:lang/part/crafting_lasertechnik.json"
+  },
+  {
+    "link": "fp:lang/part/industrialneonfurnace_production.nind.linse.w.json"
   }
 ]

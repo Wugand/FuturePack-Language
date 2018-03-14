@@ -1,17 +1,6 @@
 [
 	{
 		"type": "crafting",
-		"slots": {
-			"1": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"2": {"name":"fp:spaceship", "meta":"<spaceship.Polymer>"},
-			"3": {},
-			"4": {"name":"fp:largebattery","meta":0},
-			"5": {"name":"fp:spaceship", "meta":"<spaceship.Laserdiode>"},
-			"6": {"name":"fp:spaceship", "meta":"<spaceship.LinseR>"},
-			"7": {"name":"fp:chip", "meta":"<chip.TacticChip>"},
-			"8": {"name":"fp:spaceship", "meta":"<spaceship.Polymer>"},
-			"9": {},
-			"out": {"name":"fp:laser_riffle", "meta":0, "size":1}
-		}
+		"load": "fp:laser_riffle_0"
 	}
 ]

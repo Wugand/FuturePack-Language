@@ -1,6 +1,10 @@
 [
   {
     "type": "industrialneonfurnace",
-    "load": "silicon_sand"
+    "load": ["silicon_sand"]
+  },
+  {
+    "type": "industrialneonfurnace",
+    "load": ["silicon_quartz"]
   }
 ]

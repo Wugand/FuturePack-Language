@@ -1,37 +1,6 @@
 [
   {
     "type": "crafting",
-    "slots": {
-      "1": {
-        "OreDict": "ingotAluminum"
-      },
-      "2": {
-        "name": "fp:chip",
-        "meta": 0
-      },
-      "3": {
-        "OreDict": "ingotAluminum"
-      },
-      "4": {
-        "name": "fp:spaceship",
-        "meta": "\u003cspaceship.Tank\u003e"
-      },
-      "5": {
-        "OreDict": "ingotMagnetite"
-      },
-      "6": {
-        "name": "fp:spaceship",
-        "meta": "\u003cspaceship.Tank\u003e"
-      },
-      "7": {},
-      "8": {
-        "name": "fp:spaceship",
-        "meta": "\u003cspaceship.CopperCoil\u003e"
-      },
-      "9": {},
-      "out": {
-        "name": "fp:sauerstofftank"
-      }
-    }
+    "load": "fp:sauerstofftank_0"
   }
 ]

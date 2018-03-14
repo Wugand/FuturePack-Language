@@ -1,25 +1,6 @@
 [
   {
     "type": "crafting",
-    "slots": {
-      "1": "OreDict:ingotIron",
-      "2": {},
-      "3": "OreDict:ingotIron",
-      "4": {},
-      "5": {
-        "name": "fp:spaceship",
-        "meta": "\u003cspaceship.CompositeMetall\u003e"
-      },
-      "6": {},
-      "7": {},
-      "8": {
-        "name": "fp:spaceship",
-        "meta": "\u003cspaceship.IronStick\u003e"
-      },
-      "9": {},
-      "out": {
-        "name": "fp:scrench"
-      }
-    }
+    "load": "fp:scrench_0"
   }
 ]

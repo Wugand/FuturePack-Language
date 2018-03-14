@@ -1,0 +1,28 @@
+[
+  {
+    "type": "building",
+    "blocks": [
+      [
+        [
+          "fp:composite_chest",
+          "fp:color_luftung",
+          "fp:color_iron_fence"
+        ]
+      ],
+      [
+        [
+          "fp:composite_chest",
+          "fp:entity_eater",
+          "fp:color_iron_fence"
+        ]
+      ],
+      [
+        [
+          "fp:composite_chest",
+          "minecraft:air",
+          "fp:deep_core_miner"
+        ]
+      ]
+    ]
+  }
+]

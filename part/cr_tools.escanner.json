@@ -2,18 +2,6 @@
     "Crafting:",
     {
         "type":"crafting",
-        "slots":
-        {
-            "1": "minecraft:redstone",
-            "2": "minecraft:redstone",
-            "3": "minecraft:redstone",
-            "4": {"name":"fp:spaceship", "meta":"<spaceship.Aluminum>"},
-            "5": {"name":"fp:chip", "meta":"<chip.NavigationChip>"},
-            "6": "minecraft:glass_pane",
-            "7": "OreDict:ingotZinc",
-            "8": {"name":"fp:chip", "meta":"<chip.LogicChip>"},
-            "9": "OreDict:ingotNeon",
-            "out": "fp:escenner"
-        }
+        "load": "fp:escenner_0"
     }
 ]

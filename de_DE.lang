@@ -389,7 +389,7 @@ tile.dirt_M.name=Menelaus Erde
 tile.ftl_drive.name=FTL Block
 tile.advanced_boardcomputer.name=Erweiterter Bordcomputer
 tile.rs_timer.name=Redstone Schaltuhr
-tile.bedrock_rift.name=Bedrockriss
+tile.bedrock_rift.name=Grundsteinriss
 
 tile.modular_door.name=Modulares Tor
 item.composite_door.name=Verbundmetalltür
@@ -423,6 +423,7 @@ tile.composite_chest.name=Verbundmetalltruhe
 tile.syncronizer.name=Synchronisierer
 tile.deep_core_miner.name=Tiefen Miner
 tile.rf_ne_converter.name=Flux Transformator
+tile.fluid_intake.name=Flüssigkeitseinlass
 
 fluid.liquid.neon=Neonflüssigkeit
 fluid.saltwater=Salzwasser
@@ -640,6 +641,11 @@ item.astrofood2.name=Nahrungstube - Curry mit Beeren
 item.astrofood3.name=Nahrungstube - Vegetarisches Fruchtgelee
 item.ersemarmelade.name=Ersemarmelade
 item.ersebrot.name=Brot mit Ersemarmelade
+item.glowshroom_raw.name=Rohe Glutsuppe
+item.glowshroom_stew.name=Glutsuppe
+item.salad.name=Gemischter Salat
+item.hufsteak.name=Hufsteak
+item.grillhufsteak.name=Gegrilltes Hufsteak
 
 item.sword_handle.name=Schwertgriff
 item.EnergyCell_full.name=Energiezelle
@@ -946,6 +952,8 @@ research.production.recycler.shredder=Zerkleinerer
 research.production.recycler.lasercutter=Laserschneider
 research.production.recycler.analyzer=Analysator
 research.production.recycler.timemanipulator=Nanostruktur-Reparatureinheit
+research.production.deep_core=Tiefen Miner
+research.production.deep_core.processing=Tiefen Miner Bedienung
 
 research.energy.generator=Generator
 research.energy.neonmotor=Neonmotor
@@ -953,6 +961,7 @@ research.energy.infusion=Infusionsgenerator
 research.energy.solar=Solarzelle
 research.energy.wasser_turbine=Wasserturbine
 research.energy.ionen=Ionenkollektor
+research.energy.fluxtransformer=Flux Transformator
 
 research.log.itempipe=Normales Rohr
 research.log.cable=Kabel
@@ -1018,7 +1027,7 @@ research.chip.redstone=Redstonesteuerungschipsatz
 research.chip.network=Netzwerkchipsatz
 research.chip.support=Unterstützungschipsatz
 research.chip.ultimate=Ultimativer Chipsatz
-research.chip.combinations=Kombinationseffekte
+research.chips.combinations=Kombinationseffekte
 
 research.chips.cooler=Kühler
 research.chips.watercooler=Wasserkühler

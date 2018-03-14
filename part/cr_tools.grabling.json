@@ -1,17 +1,6 @@
 [
 	{
 		"type": "crafting",
-		"slots": {
-			"1": {},
-			"2": "OreDict:ingotAluminum",
-			"3": "slime_ball",
-			"4": "OreDict:ingotAluminum",
-			"5": "fishing_rod",
-			"6": "OreDict:ingotAluminum",
-			"7": {"name":"fp:normalbattery","meta":0},
-			"8": "OreDict:ingotAluminum",
-			"9": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
-			"out": {"name":"fp:hook", "meta":0, "size":1}
-		}
+		"load": "fp:hook_0"
 	}
 ]

@@ -18,5 +18,8 @@
 			"9": {},
 			"out": [{"name":"fp:spaceship", "meta":"<spaceship.Laserdiode>"}]
 		}
-	}
+	},
+  {
+    "link": "fp:lang/part/industrialneonfurnace_production.nind.linse.w.json"
+  }
 ]

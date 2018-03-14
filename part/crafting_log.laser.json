@@ -2,35 +2,16 @@
   {
     "type": "crafting",
     "slots": {
-      "1": "OreDict:ingotAluminum",
-      "2": {
-        "name": "fp:spaceship",
-        "meta": "\u003cspaceship.Polymer\u003e"
-      },
-      "3": "",
-      "4": {
-        "name": "fp:chip",
-        "meta": "\u003cchip.NetworkChip\u003e"
-      },
-      "5": {
-        "name": "fp:spaceship",
-        "meta": "\u003cspaceship.Laserdiode\u003e"
-      },
-      "6": {
-        "name": "fp:spaceship",
-        "meta": "\u003cspaceship.LinseR\u003e"
-      },
-      "7": "OreDict:ingotAluminum",
-      "8": {
-        "name": "fp:spaceship",
-        "meta": "\u003cspaceship.Polymer\u003e"
-      },
-      "9": "",
-      "out": {
-        "name": "fp:laser_transmitter",
-        "meta": 0,
-        "size": 1
-      }
+        "1": {"name":"fp:spaceship", "meta":"<spaceship.CopperCoil>"},
+        "2": {"name":"fp:metal_fence"},
+        "3": {"name":"fp:spaceship", "meta":"<spaceship.CopperCoil>"},
+        "4": {"name":"fp:spaceship", "meta":"<spaceship.NeonCoil>"},
+        "5": {"name":"fp:metal_fence"},
+        "6": {"name":"fp:spaceship", "meta":"<spaceship.NeonCoil>"},
+        "7": {"name":"fp:chip", "meta":"<chip.LogicChip>"},
+        "8": [{"name":"fp:color_iron", "meta":0},{"name":"fp:color_iron", "meta":8},{"name":"fp:color_iron", "meta":15}],
+        "9": {"name":"fp:chip", "meta":"<chip.LogicChip>"},
+        "out": [{"name":"fp:antenne", "meta":0, "size":1},{"name":"fp:antenne", "meta":1, "size":1},{"name":"fp:antenne", "meta":2, "size":1}]
     }
   }
 ]

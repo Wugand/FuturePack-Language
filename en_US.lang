@@ -423,6 +423,7 @@ tile.composite_chest.name=Composite Chest
 tile.syncronizer.name=Synchronizer
 tile.deep_core_miner.name=Deep Core Miner
 tile.rf_ne_converter.name=Flux Transformer
+tile.fluid_intake.name=Fluid Intake
 
 fluid.liquid.neon=Neon Liquid
 fluid.saltwater=Salt Water
@@ -640,6 +641,11 @@ item.astrofood2.name=Foodtube - Curry with berries
 item.astrofood3.name=Foodtube - Vegetarian fruit jelly
 item.ersemarmelade.name=Erse jam
 item.ersebrot.name=Bread with erse jam
+item.glowshroom_raw.name=Raw Glowstew
+item.glowshroom_stew.name=Glowstew
+item.salad.name=Mixed Salad
+item.hufsteak.name=Hoofsteak
+item.grillhufsteak.name=Grilled Hoofsteak
 
 item.sword_handle.name=Sword Handle
 item.EnergyCell_full.name=Energy Cell
@@ -665,7 +671,7 @@ itemGroup.fpTab.items=Future Pack Items
 container.opticrafting=Opti Bench
 container.collector=Ion Collector
 
-entity.FP-Gehuf.name=Gehuf
+entity.FP-Gehuf.name=Gehoof
 entity.FP-Crawler.name=Crawler
 entity.FP-EvilRobot.name=Technocratic unit
 entity.FP-Forstmaster.name=Forestmaster
@@ -946,6 +952,8 @@ research.production.recycler.shredder=Shredder
 research.production.recycler.lasercutter=Lasercutter
 research.production.recycler.analyzer=Analyzer
 research.production.recycler.timemanipulator=Nanostructure Repair Unit
+research.production.deep_core=Deep Core Miner
+research.production.deep_core.processing=Deep Core Miner Operation
 
 research.energy.generator=Generator
 research.energy.neonmotor=Neon Engine
@@ -953,6 +961,7 @@ research.energy.infusion=Infusion Generator
 research.energy.solar=Solar Panel
 research.energy.wasser_turbine=Water Turbine
 research.energy.ionen=Ion Collector
+research.energy.fluxtransformer=Flux Transformator
 
 research.log.itempipe=Normal Pipe
 research.log.cable=Cable
@@ -1018,7 +1027,7 @@ research.chip.redstone=Redstone Control Chipset
 research.chip.network=Network Chipset
 research.chip.support=Support Chipset
 research.chip.ultimate=Ultimate Chipset
-research.chip.combinations=Combination Effects
+research.chips.combinations=Combination Effects
 
 research.chips.cooler=Cooler
 research.chips.watercooler=Water Cooler

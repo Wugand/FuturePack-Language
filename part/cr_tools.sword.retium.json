@@ -2,18 +2,6 @@
     "Crafting:",
     {
         "type":"crafting",
-        "slots":
-        {
-            "1": {},
-            "2": "OreDict:ingotRetium",
-            "3": {},
-            "4": {},
-            "5": "OreDict:ingotRetium",
-            "6": {},
-            "7": {},
-            "8": {"name":"fp:spaceship", "meta":"<spaceship.swordHandle>"},
-            "9": {},
-            "out": "fp:sword_retium"
-        }
+        "load": "fp:sword_retium_0"
     }
 ]

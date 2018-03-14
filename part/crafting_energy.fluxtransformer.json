@@ -1,0 +1,6 @@
+[
+  {
+    "type": "crafting",
+    "load": ["fp:rf_ne_converter_2","fp:rf_ne_converter_6","fp:rf_ne_converter_10"]
+  }
+]
