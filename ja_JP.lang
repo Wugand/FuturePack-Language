@@ -1,4 +1,4 @@
-#Futurepack-1.12.2-26.3.48
+#Futurepack-1.12.2-26.3.203
 #ice_ink
 
 tile.colorIron_white.name=金属体(白色)
@@ -423,6 +423,11 @@ tile.menelaus_mushroom_blauling.name=ブルーシュルーム
 tile.menelaus_mushroom_rotkappe.name=ピークヘッド
 tile.force_field.name=フォースフィールド
 tile.dungeon_core.name=ダンジョン中枢コア
+tile.composite_chest.name=複合材のチェスト
+tile.syncronizer.name=シンクロナイザー
+tile.deep_core_miner.name=ディープコアマイナー
+tile.rf_ne_converter.name=フラックス変換機
+tile.fluid_intake.name=液体吸入器
 
 fluid.liquid.neon=液体ネオン
 fluid.saltwater=塩水
@@ -545,7 +550,7 @@ item.aiflash1.name=改良型レッドストーン・フラッシュメモリ
 item.aiflash2.name=グロウストーン・フラッシュメモリ
 item.aiflash3.name=クリスタル・フラッシュメモリ
 item.aiflash4.name=アイソトープ・フラッシュメモリ
-item.aiflash5.name=キュービット・フラッシュメモリ
+item.aiflash5.name=量子ビット・フラッシュメモリ
 item.drone_engine.name=ドローンエンジン
 
 item.entityegger.name=エンティティ エッグ
@@ -641,6 +646,11 @@ item.astrofood2.name=糧食チューブ - ベリー入りのカレー
 item.astrofood3.name=糧食チューブ - 野菜と果実のジュース
 item.ersemarmelade.name=イーリスジャム
 item.ersebrot.name=イーリスサンド
+item.glowshroom_raw.name=輝く生のシチュー
+item.glowshroom_stew.name=輝くシチュー
+item.salad.name=ミックスサラダ
+item.hufsteak.name=生の脚肉
+item.grillhufsteak.name=脚肉のステーキ
 
 item.sword_handle.name=ソードハンドル
 item.EnergyCell_full.name=ネオンエネルギーセル
@@ -757,7 +767,7 @@ advancements.futurepack.composite.description=塵も積もれば山となる
 advancements.futurepack.menelaus.title=メネラーオス
 advancements.futurepack.menelaus.description=メネラーオスへ旅に出る
 advancements.futurepack.metalhaltig.title=金属を含んでいるようだ
-advancements.futurepack.metalhaltig.description=メネラーオスで、砂利や土を採取する
+advancements.futurepack.metalhaltig.description=メネラーオスで砂利や土を採取する
 advancements.futurepack.tyros.title=テュロス
 advancements.futurepack.tyros.description=テュロスへ旅に出る
 advancements.futurepack.glowmelow.title=グロウ・メロン
@@ -802,7 +812,6 @@ info.note.read=右クリックで閲覧します!
 key.categories.futurepack=Futurepack
 key.fp.gleiter=パラグライダーの開閉
 
-research.need.advancements.futurepack=%s が必要です。
 research.need.achievement=%s が必要です。
 
 research.page.base.name=基礎
@@ -827,6 +836,7 @@ research.werkzeug=ツール類
 research.decoration=装飾の基礎
 research.energieerzeugung=エネルギー生成 I
 research.energielogistik=動力の分配
+research.partpress=塑性加工機
 
 research.upgradeT1=研究周辺機器 - エネルギー
 research.assembly=チップの組み立て
@@ -916,7 +926,6 @@ research.hs.menelaus.entity=異星の生命体
 
 research.production.blockbreaker=ブロックブレイカー
 research.production.blockplacer=ブロックプレイサー
-research.partpress=塑性加工機
 research.production.industrieofen=溶岩熱製錬炉
 research.production.ind.compositemetal=複合金属
 research.production.ind.aluminium=アルミニウム
@@ -949,6 +958,8 @@ research.production.recycler.shredder=シュレッダー
 research.production.recycler.lasercutter=レーザーカッター
 research.production.recycler.analyzer=アナライザー
 research.production.recycler.timemanipulator=ナノ構造修復ユニット
+research.production.deep_core=ディープコアマイナー
+research.production.deep_core.processing=ディープコアマイナー オペレーション
 
 research.energy.generator=ジェネレーター
 research.energy.neonmotor=ネオンエンジン
@@ -956,6 +967,7 @@ research.energy.infusion=合成ジェネレーター
 research.energy.solar=ソーラーパネル
 research.energy.wasser_turbine=ウォータータービン
 research.energy.ionen=イオン コレクター
+research.energy.fluxtransformer=フラックス変換機
 
 research.log.itempipe=ノーマルパイプ
 research.log.cable=NEケーブル
@@ -968,22 +980,23 @@ research.log.redstonecable=レッドストーンケーブル
 research.log.supportcable=サポートケーブル
 research.log.batbox=バッテリーボックス
 research.log.networkcable=ネットワークケーブル
+research.log.supercable=スーパーケーブル
 research.log.laser=ネットワークトランスミッター
 research.log.flashserver=フラッシュサーバー
 
-research.log.battery.normal=バッテリー
-research.log.battery.large=大型のバッテリー
+research.log.battery.normal=NEバッテリー
+research.log.battery.large=大型NEバッテリー
 research.log.battery.neon=ネオンバッテリー
-research.log.battery.cell=エネルギーセル
-research.log.battery.compact=高密度のエネルギーセル
-research.log.battery.crystal=結晶体のエネルギーセル
+research.log.battery.cell=ネオンエネルギーセル
+research.log.battery.compact=高密度のネオンエネルギーセル
+research.log.battery.crystal=結晶体のネオンエネルギーセル
 
 research.log.flash.1=レッドストーンのメモリ
 research.log.flash.2=改良型のメモリ
 research.log.flash.3=グロウストーンメモリ
 research.log.flash.4=クリスタルメモリ
 research.log.flash.5=アイソトープメモリ
-research.log.flash.6=キュービットメモリ
+research.log.flash.6=量子ビットメモリ
 
 research.assembly_chip=アセンブリテーブル
 research.motherboard=メインボード
@@ -1020,28 +1033,24 @@ research.chip.redstone=レッドストーンチップセット
 research.chip.network=ネットワークチップセット
 research.chip.support=サポートチップセット
 research.chip.ultimate=アルティメットチップセット
+research.chips.combinations=コンビネーション・エフェクト
 
 research.chips.cooler=空冷式クーラー
 research.chips.watercooler=水冷式クーラー
 
 research.deco.metall=金属体のブロック
-research.deco.metallslab=金属体のハーフブロック
-research.deco.metalltreppe=金属体の階段
 research.deco.metallzaun=金属体のフェンス
 research.deco.gitter=金網状のブロック
-research.deco.gitterslab=金網状のハーフブロック
-research.deco.gittertreppe=金網状の階段
-research.deco.gitterpane=金網
 research.deco.eisenleiter=金属製の梯子
 research.deco.vent=通気口
-research.deco.ventslab=通気口のハーフブロック
 research.deco.glass=色枠つきのガラス
 research.deco.plasmalamp=プラズマランプ
 research.deco.neonlamp=ネオンランプ
 research.deco.monitor=モニター
 research.deco.wardrobe=保管容器
 research.deco.cdoor=複合材のドア
-research.deco.metallgate=金属体のフェンスゲート
+research.deco.rs_utils=レッドストーン技術
+research.deco.composite_chest=複合材のチェスト
 
 research.space.magnetblock=マグネットブロック
 research.space.emagnet=磁力発生装置
@@ -1069,6 +1078,7 @@ research.space.drone.mono.waypoint=ウェイポイントモノレール
 research.space.drone.mono.station=ステーションモノレール
 research.space.drone.mono.detector=ディテクターモノレール
 research.space.drone.mono.booster=ブースターモノレール
+research.space.drone.mono.oneway=一方通行モノレール
 research.space.drone.mono.charger=チャージモノレール
 research.space.forstmaster=フォレストマスター
 research.space.plantmarker=プラントマスター
@@ -1106,7 +1116,7 @@ research.tools.sword.bioterium=バイオテリウムの剣
 research.tools.laserrifle=レーザーライフル
 
 futurepack.zentrifuge.name=遠心分離レシピ
-futurepack.jei.neededsupport= %s SP
+futurepack.jei.neededsupport=%s SP
 futurepack.crafting.name=リサーチクラフティング
 futurepack.jei.notresearched=この研究はまだ完了させていません！
 futurepack.assembly.name=アセンブリレシピ
