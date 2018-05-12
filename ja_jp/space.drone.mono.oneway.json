@@ -1,0 +1,8 @@
+[
+"モノレール機能の再考を行った結果、モノカートを一方向にのみ通過させるレールができあがりました。",
+"モノカートはこれらのルールに則って経路を探し出します。",
+  "Crafting:",
+  {
+    "link": "fp:lang/part/crafting_space.drone.mono.oneway.json"
+  }
+]

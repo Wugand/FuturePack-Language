@@ -1,0 +1,9 @@
+[
+"遠心分離機を活用して、鉱石から希少な素材を取り出す処理を行うことができます。",
+"サポートポイントを使用することで、鉱石から1:2.5の比率で粉末の素材を取り出すことができます。加えて、少量の追加素材を得られることもあります。",
+  "実例:",
+  {"link": "fp:lang/part/zentrifuge_production.zent.extraction2.json"},
+  {"link": "fp:lang/part/zentrifuge_production.zent.extraction22.json"},
+  {"link": "fp:lang/part/zentrifuge_production.zent.extraction23.json"},
+  "-通知:\n遠心分離機には多くのレシピがあり、ここに掲載されているものが全てではありません！"
+]
