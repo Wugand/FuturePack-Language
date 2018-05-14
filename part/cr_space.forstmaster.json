@@ -1,17 +1,6 @@
 [
 	{
 		"type": "crafting",
-		"slots": {
-			"1": {"name":"fp:spaceship", "meta":"<spaceship.DroneEngine>"},
-			"2": {"OreDict":"ingotAluminum"},
-			"3": {"name":"fp:composite_axe", "meta":0},
-			"4": {"name":"fp:chip", "meta":"<chip.KIChip>"},
-			"5": {"name":"fp:core", "meta":2},
-			"6": {"OreDict":"treeSapling"},
-			"7": {"name":"fp:spaceship", "meta":"<spaceship.DroneEngine>"},
-			"8": {"OreDict":"ingotAluminum"},
-			"9": {"name":"fp:composite_axe", "meta":0},
-			"out": {"name":"fp:entityEgger", "meta":5, "size":1}
-		}
+		"load": "fp:entityegger_5"
 	}
 ]

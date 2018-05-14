@@ -1,36 +1,6 @@
 [
   {
     "type": "crafting",
-    "slots": {
-      "1": {},
-      "2": {
-        "OreDict": "ingotAluminum"
-      },
-      "3": {},
-      "4": {
-        "OreDict": "ingotAluminum"
-      },
-      "5": {
-        "name": "fp:spaceship",
-        "meta": "\u003cspaceship.Tank\u003e"
-      },
-      "6": {
-        "OreDict": "ingotAluminum"
-      },
-      "7": {
-        "OreDict": "ingotAluminum"
-      },
-      "8": {
-        "name": "minecraft:gunpowder"
-      },
-      "9": {
-        "OreDict": "ingotAluminum"
-      },
-      "out": {
-        "name": "fp:grenade",
-        "meta": 0,
-        "size": 6
-      }
-    }
+    "load": "fp:grenade_0"
   }
 ]

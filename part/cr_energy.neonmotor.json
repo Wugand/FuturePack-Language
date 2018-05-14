@@ -1,34 +1,6 @@
 [
     {
         "type": "crafting",
-        "slots": {
-            "1": {"name":"fp:spaceship","meta":"<spaceship.CompositeMetall>"},
-            "2": {"name":"fp:spaceship","meta":"<spaceship.IronStick>"},
-            "3": {"name":"fp:spaceship","meta":"<spaceship.CompositeMetall>"},
-            "4": {"name":"fp:spaceship","meta":"<spaceship.CopperCoil>"},
-            "5": "OreDict:ingotMagnetite",
-            "6": {"name":"fp:spaceship","meta":"<spaceship.CopperCoil>"},
-            "7": "OreDict:ingotNeon",
-            "8": [
-                    {"name":"fp:color_luftung_step_half_0","meta":0},
-                    {"name":"fp:color_luftung_step_half_0","meta":1},
-                    {"name":"fp:color_luftung_step_half_0","meta":2},
-                    {"name":"fp:color_luftung_step_half_0","meta":3},
-                    {"name":"fp:color_luftung_step_half_0","meta":4},
-                    {"name":"fp:color_luftung_step_half_0","meta":5},
-                    {"name":"fp:color_luftung_step_half_0","meta":6},
-                    {"name":"fp:color_luftung_step_half_0","meta":7},
-                    {"name":"fp:color_luftung_step_half_0","meta":8},
-                    {"name":"fp:color_luftung_step_half_0","meta":9},
-                    {"name":"fp:color_luftung_step_half_0","meta":10},
-                    {"name":"fp:color_luftung_step_half_0","meta":11},
-                    {"name":"fp:color_luftung_step_half_0","meta":12},
-                    {"name":"fp:color_luftung_step_half_0","meta":13},
-                    {"name":"fp:color_luftung_step_half_0","meta":14},
-                    {"name":"fp:color_luftung_step_half_0","meta":15}
-                 ],
-            "9": "OreDict:ingotNeon",
-            "out": {"name":"fp:neon_engine","meta":0}
-        }
+        "load": "fp:neon_engine_0"
     }
 ]

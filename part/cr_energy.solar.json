@@ -1,17 +1,6 @@
 [
 	{
 		"type": "crafting",
-		"slots": {
-			"1": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>"},
-			"2": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>"},
-			"3": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>"},
-			"4": {"OreDict":"ingotNeon"},
-			"5": [{"name":"fp:color_iron","meta":0},{"name":"fp:color_iron","meta":8},{"name":"fp:color_iron","meta":15}],
-			"6": {"OreDict":"ingotNeon"},
-			"7": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"8": {"name":"fp:spaceship", "meta":"<spaceship.Maschinboard>"},
-			"9": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"out": [{"name":"fp:solarpanel","meta":0},{"name":"fp:solarpanel","meta":1},{"name":"fp:solarpanel","meta":2}]
-		}
+		"load": ["fp:solarpanel_0", "fp:solarpanel_1", "fp:solarpanel_2"]
 	}
 ]

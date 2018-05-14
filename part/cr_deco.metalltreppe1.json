@@ -1,17 +1,6 @@
 [
 	{
 		"type": "crafting",
-		"slots": {
-			"1": {},
-			"2": {},
-			"3": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"4": {},
-			"5": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"6": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"7": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"8": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"9": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"out": {"name":"fp:metal_treppe", "meta":0, "size":1}
-		}
+		"load": "fp:metal_treppe_0"
 	}
 ]

@@ -1,58 +1,6 @@
 [
   {
     "type": "crafting",
-    "slots": {
-      "1": [
-        "OreDict:ingotNeon",
-        "OreDict:ingotGlowtite",
-        "OreDict:ingotRetium",
-        "OreDict:ingotBioterium"
-      ],
-      "2": [
-        "OreDict:ingotNeon",
-        "OreDict:ingotGlowtite",
-        "OreDict:ingotRetium",
-        "OreDict:ingotBioterium"
-      ],
-      "3": {},
-      "4": [
-        "OreDict:ingotNeon",
-        "OreDict:ingotGlowtite",
-        "OreDict:ingotRetium",
-        "OreDict:ingotBioterium"
-      ],
-      "5": [
-        "OreDict:ingotNeon",
-        "OreDict:ingotGlowtite",
-        "OreDict:ingotRetium",
-        "OreDict:ingotBioterium"
-      ],
-      "6": {},
-      "7": {},
-      "8": {},
-      "9": {},
-      "out": [
-        {
-          "name": "fp:neon_bricks",
-          "meta": 0,
-          "size": 1
-        },
-        {
-          "name": "fp:neon_bricks",
-          "meta": 2,
-          "size": 1
-        },
-        {
-          "name": "fp:neon_bricks",
-          "meta": 1,
-          "size": 1
-        },
-        {
-          "name": "fp:neon_bricks",
-          "meta": 3,
-          "size": 1
-        }
-      ]
-    }
+    "load": ["fp:neon_bricks_0", "fp:neon_bricks_1", "fp:neon_bricks_2", "fp:neon_bricks_3"]
   }
 ]

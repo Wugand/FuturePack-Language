@@ -1,34 +1,6 @@
 [
   {
     "type": "crafting",
-    "slots": {
-      "1": {
-        "name": "fp:spaceship",
-        "meta": "\u003cspaceship.CompositeMetall\u003e"
-      },
-      "2": {
-        "name": "fp:spaceship",
-        "meta": "\u003cspaceship.CompositeMetall\u003e"
-      },
-      "3": {
-        "name": "fp:spaceship",
-        "meta": "\u003cspaceship.IronParts\u003e"
-      },
-      "4": {
-        "name": "fp:spaceship",
-        "meta": "\u003cspaceship.IronStick\u003e"
-      },
-      "5": {
-        "name": "minecraft:stone_button",
-        "meta": 0
-      },
-      "6": {},
-      "7": {},
-      "8": {},
-      "9": {},
-      "out": {
-        "name": "fp:airBrush"
-      }
-    }
+    "load": "fp:airbrush_0"
   }
 ]

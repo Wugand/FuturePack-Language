@@ -1,29 +1,6 @@
 [
   {
     "type": "crafting",
-    "slots": {
-      "1": "OreDict:ingotIron",
-      "2": {
-        "name": "minecraft:piston",
-        "meta": 0
-      },
-      "3": "OreDict:ingotIron",
-      "4": "OreDict:ingotIron",
-      "5": {
-        "name": "minecraft:iron_bars",
-        "meta": 0
-      },
-      "6": "OreDict:ingotIron",
-      "7": "OreDict:ingotIron",
-      "8": {
-        "name": "minecraft:piston",
-        "meta": 0
-      },
-      "9": "OreDict:ingotIron",
-      "out": {
-        "name": "fp:partpress",
-        "meta": 0
-      }
-    }
+    "load": "fp:partpress_0"
   }
 ]

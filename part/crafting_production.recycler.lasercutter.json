@@ -1,48 +1,6 @@
 [
   {
     "type": "crafting",
-    "slots": {
-      "1": {
-        "name": "fp:chip",
-        "meta": 0
-      },
-      "2": {
-        "OreDict": "ingotAluminum"
-      },
-      "3": {
-        "name": "fp:chip",
-        "meta": 0
-      },
-      "4": {
-        "name": "fp:spaceship",
-        "meta": "\u003cspaceship.Silizium\u003e"
-      },
-      "5": {
-        "name": "fp:spaceship",
-        "meta": "\u003cspaceship.Laserdiode\u003e"
-      },
-      "6": {
-        "name": "fp:spaceship",
-        "meta": "\u003cspaceship.Silizium\u003e"
-      },
-      "7": {
-        "name": "minecraft:glass_pane",
-        "meta": 0
-      },
-      "8": {
-        "name": "fp:spaceship",
-        "meta": "\u003cspaceship.LinseR\u003e"
-      },
-      "9": {
-        "name": "minecraft:glass_pane",
-        "meta": 0
-      },
-      "out": [
-        {
-          "name": "fp:lasercutter",
-          "meta": 0
-        }
-      ]
-    }
+    "load": "fp:lasercutter_0"
   }
 ]

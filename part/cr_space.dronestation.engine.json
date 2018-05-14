@@ -1,17 +1,6 @@
 [
 	{
 		"type": "crafting",
-		"slots": {
-			"1": {},
-			"2": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"3": {},
-			"4": {},
-			"5": {"OreDict":"dustNeon"},
-			"6": {"name":"fp:spaceship", "meta":"<spaceship.NeonCoil>"},
-			"7": {},
-			"8": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"9": {},
-			"out": {"name":"fp:spaceship", "meta":"<spaceship.DroneEngine>", "size":1}
-		}
+		"load": "fp:spaceship_18"
 	}
 ]

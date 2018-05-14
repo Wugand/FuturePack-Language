@@ -1,62 +1,6 @@
 [
   {
     "type": "crafting",
-    "slots": {
-      "1": {
-        "name": "minecraft:crafting_table"
-      },
-      "2": {
-        "name": "minecraft:piston"
-      },
-      "3": {
-        "name": "minecraft:crafting_table"
-      },
-      "4": {
-        "OreDict": "ingotNeon"
-      },
-      "5": [
-        {
-          "name": "fp:color_iron",
-          "meta": 0
-        },
-        {
-          "name": "fp:color_iron",
-          "meta": 8
-        },
-        {
-          "name": "fp:color_iron",
-          "meta": 15
-        }
-      ],
-      "6": {
-        "OreDict": "ingotNeon"
-      },
-      "7": {
-        "name": "fp:spaceship",
-        "meta": "\u003cspaceship.CompositeMetall\u003e"
-      },
-      "8": {
-        "name": "fp:spaceship",
-        "meta": "\u003cspaceship.Maschinboard\u003e"
-      },
-      "9": {
-        "name": "fp:spaceship",
-        "meta": "\u003cspaceship.CompositeMetall\u003e"
-      },
-      "out": [
-        {
-          "name": "fp:opti_bench",
-          "meta": 2
-        },
-        {
-          "name": "fp:opti_bench",
-          "meta": 6
-        },
-        {
-          "name": "fp:opti_bench",
-          "meta": 10
-        }
-      ]
-    }
+    "load": ["fp:opti_bench_2", "fp:opti_bench_6", "fp:opti_bench_10"]
   }
 ]

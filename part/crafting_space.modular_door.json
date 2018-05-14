@@ -1,48 +1,6 @@
 [
   {
     "type": "crafting",
-    "slots": {
-      "1": {
-        "name": "fp:spaceship",
-        "meta": "\u003cspaceship.keramik\u003e"
-      },
-      "2": {
-        "name": "fp:spaceship",
-        "meta": "\u003cspaceship.IronParts\u003e"
-      },
-      "3": {
-        "name": "fp:spaceship",
-        "meta": "\u003cspaceship.keramik\u003e"
-      },
-      "4": {
-        "name": "fp:spaceship",
-        "meta": "\u003cspaceship.CompositeMetall\u003e"
-      },
-      "5": {
-        "name": "fp:spaceship",
-        "meta": "\u003cspaceship.Polymer\u003e"
-      },
-      "6": {
-        "name": "fp:spaceship",
-        "meta": "\u003cspaceship.CompositeMetall\u003e"
-      },
-      "7": {
-        "name": "fp:spaceship",
-        "meta": "\u003cspaceship.keramik\u003e"
-      },
-      "8": {
-        "name": "fp:spaceship",
-        "meta": "\u003cspaceship.IronParts\u003e"
-      },
-      "9": {
-        "name": "fp:spaceship",
-        "meta": "\u003cspaceship.keramik\u003e"
-      },
-      "out": {
-        "name": "fp:modular_door",
-        "meta": 0,
-        "size": 2
-      }
-    }
+    "load": "fp:modular_door_0"
   }
 ]

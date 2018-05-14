@@ -1,44 +1,6 @@
 [
   {
     "type": "crafting",
-    "slots": {
-      "1": {
-        "name": "fp:ItemErze",
-        "meta": 4
-      },
-      "2": {
-        "name": "fp:ItemErze",
-        "meta": 4
-      },
-      "3": {
-        "name": "fp:ItemErze",
-        "meta": 4
-      },
-      "4": {
-        "name": "fp:ItemErze",
-        "meta": 4
-      },
-      "5": "OreDict:ingotMagnetite",
-      "6": {
-        "name": "fp:ItemErze",
-        "meta": 4
-      },
-      "7": {
-        "name": "fp:ItemErze",
-        "meta": 4
-      },
-      "8": {
-        "name": "fp:ItemErze",
-        "meta": 4
-      },
-      "9": {
-        "name": "fp:ItemErze",
-        "meta": 4
-      },
-      "out": {
-        "name": "fp:magnet",
-        "meta": 0
-      }
-    }
+    "load": "fp:magnet_0"
   }
 ]

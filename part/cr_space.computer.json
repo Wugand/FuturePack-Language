@@ -1,17 +1,6 @@
 [
 	{
         "type": "crafting",
-        "slots": {
-            "1": {"name":"fp:largebattery","meta":0},
-            "2": {"name":"fp:spaceship","meta":"<spaceship.Display>"},
-            "3": {"name":"fp:largebattery","meta":0},
-            "4": {"name":"fp:chip","meta":"<chip.NavigationChip>"},
-            "5": [{"name":"fp:modul_1","meta":2},{"name":"fp:modul_1","meta":6},{"name":"fp:modul_1","meta":10}],
-            "6": {"name":"fp:chip","meta":"<chip.NavigationChip>"},
-            "7": "map",
-            "8": {"name":"fp:core","meta":2},
-            "9": "map",
-            "out": [{"name":"fp:board_computer","meta":2},{"name":"fp:board_computer","meta":6},{"name":"fp:board_computer","meta":10}]
-        }
+        "load": ["fp:board_computer_2", "fp:board_computer_6", "fp:board_computer_10"]
     }
 ]

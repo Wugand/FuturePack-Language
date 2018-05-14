@@ -1,64 +1,6 @@
 [
   {
     "type": "crafting",
-    "slots": {
-      "1": {
-        "name": "fp:spaceship",
-        "meta": "\u003cspaceship.GoldParts\u003e"
-      },
-      "2": {
-        "name": "fp:scrench"
-      },
-      "3": {
-        "name": "fp:spaceship",
-        "meta": "\u003cspaceship.GoldParts\u003e"
-      },
-      "4": {
-        "name": "fp:spaceship",
-        "meta": "\u003cspaceship.Silizium\u003e"
-      },
-      "5": [
-        {
-          "name": "fp:color_iron",
-          "meta": 0
-        },
-        {
-          "name": "fp:color_iron",
-          "meta": 8
-        },
-        {
-          "name": "fp:color_iron",
-          "meta": 15
-        }
-      ],
-      "6": {
-        "name": "fp:spaceship",
-        "meta": "\u003cspaceship.Silizium\u003e"
-      },
-      "7": {
-        "OreDict": "ingotNeodymium"
-      },
-      "8": {
-        "name": "minecraft:enchanting_table",
-        "meta": 0
-      },
-      "9": {
-        "OreDict": "ingotNeodymium"
-      },
-      "out": [
-        {
-          "name": "fp:modul_3",
-          "meta": 2
-        },
-        {
-          "name": "fp:modul_3",
-          "meta": 6
-        },
-        {
-          "name": "fp:modul_3",
-          "meta": 10
-        }
-      ]
-    }
+    "load": ["fp:modul_3_2", "fp:modul_3_6", "fp:modul_3_10"]
   }
 ]

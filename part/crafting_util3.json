@@ -1,54 +1,6 @@
 [
   {
     "type": "crafting",
-    "slots": {
-      "1": "OreDict:ingotIron",
-      "2": {},
-      "3": "OreDict:ingotIron",
-      "4": [
-        {
-          "name": "fp:itemerze",
-          "meta": 2
-        },
-        "OreDict:ingotIron",
-        "OreDict:ingotNeon",
-        "OreDict:ingotGold"
-      ],
-      "5": {
-        "name": "fp:spaceship",
-        "meta": "\u003cspaceship.IronParts\u003e"
-      },
-      "6": [
-        "OreDict:ingotCopper",
-        "OreDict:ingotIron",
-        "OreDict:ingotNeon",
-        "OreDict:ingotGold"
-      ],
-      "7": "OreDict:ingotIron",
-      "8": {},
-      "9": "OreDict:ingotIron",
-      "out": [
-        {
-          "name": "fp:spaceship",
-          "meta": "\u003cspaceship.CopperCoil\u003e",
-          "size": 2
-        },
-        {
-          "name": "fp:spaceship",
-          "meta": "\u003cspaceship.IronCoil\u003e",
-          "size": 2
-        },
-        {
-          "name": "fp:spaceship",
-          "meta": "\u003cspaceship.NeonCoil\u003e",
-          "size": 2
-        },
-        {
-          "name": "fp:spaceship",
-          "meta": "\u003cspaceship.GoldCoil\u003e",
-          "size": 2
-        }
-      ]
-    }
+    "load": ["fp:spaceship_3", "fp:spaceship_4", "fp:spaceship_5", "fp:spaceship_6"]
   }
 ]

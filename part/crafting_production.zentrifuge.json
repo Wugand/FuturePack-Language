@@ -1,66 +1,6 @@
 [
   {
     "type": "crafting",
-    "slots": {
-      "1": {
-        "name": "fp:spaceship",
-        "meta": "\u003cspaceship.Tank\u003e"
-      },
-      "2": {
-        "OreDict": "ingotMagnetite"
-      },
-      "3": {
-        "name": "fp:spaceship",
-        "meta": "\u003cspaceship.Tank\u003e"
-      },
-      "4": {
-        "name": "fp:spaceship",
-        "meta": "\u003cspaceship.GoldCoil\u003e"
-      },
-      "5": [
-        {
-          "name": "fp:color_iron",
-          "meta": 0
-        },
-        {
-          "name": "fp:color_iron",
-          "meta": 8
-        },
-        {
-          "name": "fp:color_iron",
-          "meta": 15
-        }
-      ],
-      "6": {
-        "name": "fp:spaceship",
-        "meta": "\u003cspaceship.GoldCoil\u003e"
-      },
-      "7": {
-        "name": "fp:metal_gitter_pane",
-        "meta": 0
-      },
-      "8": {
-        "name": "fp:spaceship",
-        "meta": "\u003cspaceship.Maschinboard\u003e"
-      },
-      "9": {
-        "name": "fp:metal_gitter_pane",
-        "meta": 0
-      },
-      "out": [
-        {
-          "name": "fp:zentrifuge",
-          "meta": 2
-        },
-        {
-          "name": "fp:zentrifuge",
-          "meta": 6
-        },
-        {
-          "name": "fp:zentrifuge",
-          "meta": 10
-        }
-      ]
-    }
+    "load": ["fp:zentrifuge_2", "fp:zentrifuge_6", "fp:zentrifuge_10"]
   }
 ]

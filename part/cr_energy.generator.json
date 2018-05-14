@@ -1,17 +1,6 @@
 [
 	{
 		"type": "crafting",
-		"slots": {
-			"1": {"OreDict":"ingotIron"},
-			"2": {"OreDict":"ingotIron"},
-			"3": {"OreDict":"ingotIron"},
-			"4": {"name":"fp:spaceship", "meta":"<spaceship.CopperCoil>"},
-			"5": {"name":"minecraft:piston"},
-			"6": {"OreDict":"ingotNeon"},
-			"7": {"OreDict":"ingotIron"},
-			"8": {"name":"minecraft:furnace"},
-			"9": {"OreDict":"ingotIron"},
-			"out": {"name":"fp:brennstoff_generator","meta":0}
-		}
+		"load": ["fp:brennstoff_generator_0"]
 	}
 ]

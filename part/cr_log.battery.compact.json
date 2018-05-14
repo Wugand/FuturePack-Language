@@ -1,17 +1,6 @@
 [
 	{
 		"type": "crafting",
-		"slots": {
-			"1": {},
-			"2": [{"name":"fp:spaceship","meta":"<spaceship.CopperParts>"}],
-			"3": {},
-			"4": {"name":"fp:energycell","meta":0},
-			"5": {"name":"fp:wire", "meta":0},
-			"6": {"name":"fp:energycell","meta":0},
-			"7": {"name":"fp:energycell","meta":0},
-			"8": {"OreDict":"dustObsidian"},
-			"9": {"name":"fp:energycell","meta":0},
-			"out": {"name":"fp:compactenergycell","meta":0}
-		}
+		"load": "fp:compactenergycell_0"  
 	}
 ]

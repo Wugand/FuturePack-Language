@@ -1,41 +1,6 @@
 [
   {
     "type": "crafting",
-    "slots": {
-      "1": {
-        "name": "minecraft:glass_pane"
-      },
-      "2": {
-        "OreDict": "ingotAluminum"
-      },
-      "3": {
-        "name": "fp:scrench"
-      },
-      "4": {
-        "name": "fp:spaceship",
-        "meta": "\u003cspaceship.NeonCoil\u003e"
-      },
-      "5": {
-        "name": "fp:wire",
-        "meta": 0
-      },
-      "6": {
-        "name": "fp:spaceship",
-        "meta": "\u003cspaceship.CopperParts\u003e"
-      },
-      "7": {
-        "name": "fp:chip",
-        "meta": 0
-      },
-      "8": {
-        "OreDict": "ingotAluminum"
-      },
-      "9": {
-        "name": "fp:scrench"
-      },
-      "out": {
-        "name": "fp:logisticEditor"
-      }
-    }
+    "load": "fp:logisticeditor_0"
   }
 ]

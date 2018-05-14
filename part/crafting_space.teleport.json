@@ -1,23 +1,6 @@
 [
   {
     "type": "crafting",
-    "slots": {
-      "1": {},
-      "2": "ender_pearl",
-      "3": {},
-      "4": {},
-      "5": {
-        "name": "fp:beam",
-        "meta": 3
-      },
-      "6": {},
-      "7": {},
-      "8": {},
-      "9": {},
-      "out": {
-        "name": "fp:beam",
-        "meta": 1
-      }
-    }
+    "load": "fp:beam_1"
   }
 ]

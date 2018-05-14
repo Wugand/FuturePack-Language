@@ -1,27 +1,6 @@
 [
   {
     "type": "crafting",
-    "slots": {
-      "1": {
-        "name": "fp:grenade",
-        "meta": 0
-      },
-      "2": {
-        "name": "fp:spaceship",
-        "meta": "\u003cspaceship.Kompost\u003e"
-      },
-      "3": {},
-      "4": {},
-      "5": {},
-      "6": {},
-      "7": {},
-      "8": {},
-      "9": {},
-      "out": {
-        "name": "fp:grenade",
-        "meta": 5,
-        "size": 1
-      }
-    }
+    "load": "fp:grenade_5_1"
   }
 ]

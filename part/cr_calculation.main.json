@@ -1,17 +1,6 @@
 [
 	{
 		"type": "crafting",
-		"slots": {
-			"1": {"OreDict":"ingotAluminum"},
-			"2": {"name":"fp:extern_cooler", "meta":0},
-			"3": {"OreDict":"ingotAluminum"},
-			"4": {"name":"fp:wire", "meta":0},
-			"5": [{"name":"fp:color_iron","meta":0},{"name":"fp:color_iron","meta":8},{"name":"fp:color_iron","meta":15}],
-			"6": {"name":"fp:wire", "meta":0},
-			"7": {"OreDict":"ingotAluminum"},
-			"8": {"name":"fp:spaceship","meta":"<spaceship.DoubleMaschinboard>"},
-			"9": {"OreDict":"ingotAluminum"},
-			"out": [{"name":"fp:modul1calc","meta":2},{"name":"fp:modul1calc","meta":6},{"name":"fp:modul1calc","meta":10}]
-		}
+		"load": ["fp:modul1calc_2", "fp:modul1calc_6", "fp:modul1calc_10"]
 	}
 ]

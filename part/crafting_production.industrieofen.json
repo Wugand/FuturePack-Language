@@ -1,44 +1,6 @@
 [
   {
     "type": "crafting",
-    "slots": {
-      "1": {
-        "name": "fp:spaceship",
-        "meta": "\u003cspaceship.Tank\u003e"
-      },
-      "2": {
-        "OreDict": "ingotIron"
-      },
-      "3": {
-        "name": "fp:spaceship",
-        "meta": "\u003cspaceship.Tank\u003e"
-      },
-      "4": {
-        "name": "minecraft:furnace",
-        "meta": 0
-      },
-      "5": {
-        "name": "minecraft:furnace",
-        "meta": 0
-      },
-      "6": {
-        "name": "minecraft:furnace",
-        "meta": 0
-      },
-      "7": {
-        "OreDict": "ingotIron"
-      },
-      "8": {
-        "name": "fp:spaceship",
-        "meta": "\u003cspaceship.Tank\u003e"
-      },
-      "9": {
-        "OreDict": "ingotIron"
-      },
-      "out": {
-        "name": "fp:industrie_ofen",
-        "meta": 0
-      }
-    }
+    "load": "fp:industrie_ofen_0"
   }
 ]

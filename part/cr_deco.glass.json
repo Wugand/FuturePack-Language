@@ -1,17 +1,23 @@
 [
 	{
 		"type": "crafting",
-		"slots": {
-			"1": [{"name":"fp:color_iron", "meta":0},{"name":"fp:color_iron", "meta":1},{"name":"fp:color_iron", "meta":2},{"name":"fp:color_iron", "meta":3},{"name":"fp:color_iron", "meta":4},{"name":"fp:color_iron", "meta":5},{"name":"fp:color_iron", "meta":6},{"name":"fp:color_iron", "meta":7},{"name":"fp:color_iron", "meta":8},{"name":"fp:color_iron", "meta":9},{"name":"fp:color_iron", "meta":10},{"name":"fp:color_iron", "meta":11},{"name":"fp:color_iron", "meta":12},{"name":"fp:color_iron", "meta":13},{"name":"fp:color_iron", "meta":14},{"name":"fp:color_iron", "meta":15}],
-			"2": {"OreDict":"blockGlassColorless"},
-			"3": [{"name":"fp:color_iron", "meta":0},{"name":"fp:color_iron", "meta":1},{"name":"fp:color_iron", "meta":2},{"name":"fp:color_iron", "meta":3},{"name":"fp:color_iron", "meta":4},{"name":"fp:color_iron", "meta":5},{"name":"fp:color_iron", "meta":6},{"name":"fp:color_iron", "meta":7},{"name":"fp:color_iron", "meta":8},{"name":"fp:color_iron", "meta":9},{"name":"fp:color_iron", "meta":10},{"name":"fp:color_iron", "meta":11},{"name":"fp:color_iron", "meta":12},{"name":"fp:color_iron", "meta":13},{"name":"fp:color_iron", "meta":14},{"name":"fp:color_iron", "meta":15}],
-			"4": {"OreDict":"blockGlassColorless"},
-			"5": {"OreDict":"blockGlassColorless"},
-			"6": {"OreDict":"blockGlassColorless"},
-			"7": [{"name":"fp:color_iron", "meta":0},{"name":"fp:color_iron", "meta":1},{"name":"fp:color_iron", "meta":2},{"name":"fp:color_iron", "meta":3},{"name":"fp:color_iron", "meta":4},{"name":"fp:color_iron", "meta":5},{"name":"fp:color_iron", "meta":6},{"name":"fp:color_iron", "meta":7},{"name":"fp:color_iron", "meta":8},{"name":"fp:color_iron", "meta":9},{"name":"fp:color_iron", "meta":10},{"name":"fp:color_iron", "meta":11},{"name":"fp:color_iron", "meta":12},{"name":"fp:color_iron", "meta":13},{"name":"fp:color_iron", "meta":14},{"name":"fp:color_iron", "meta":15}],
-			"8": {"OreDict":"blockGlassColorless"},
-			"9": [{"name":"fp:color_iron", "meta":0},{"name":"fp:color_iron", "meta":1},{"name":"fp:color_iron", "meta":2},{"name":"fp:color_iron", "meta":3},{"name":"fp:color_iron", "meta":4},{"name":"fp:color_iron", "meta":5},{"name":"fp:color_iron", "meta":6},{"name":"fp:color_iron", "meta":7},{"name":"fp:color_iron", "meta":8},{"name":"fp:color_iron", "meta":9},{"name":"fp:color_iron", "meta":10},{"name":"fp:color_iron", "meta":11},{"name":"fp:color_iron", "meta":12},{"name":"fp:color_iron", "meta":13},{"name":"fp:color_iron", "meta":14},{"name":"fp:color_iron", "meta":15}],
-			"out": [{"name":"fp:color_glas", "meta":0, "size":8},{"name":"fp:color_glas", "meta":1, "size":8},{"name":"fp:color_glas", "meta":2, "size":8},{"name":"fp:color_glas", "meta":3, "size":8},{"name":"fp:color_glas", "meta":4, "size":8},{"name":"fp:color_glas", "meta":5, "size":8},{"name":"fp:color_glas", "meta":6, "size":8},{"name":"fp:color_glas", "meta":7, "size":8},{"name":"fp:color_glas", "meta":8, "size":8},{"name":"fp:color_glas", "meta":9, "size":8},{"name":"fp:color_glas", "meta":10, "size":8},{"name":"fp:color_glas", "meta":11, "size":8},{"name":"fp:color_glas", "meta":12, "size":8},{"name":"fp:color_glas", "meta":13, "size":8},{"name":"fp:color_glas", "meta":14, "size":8},{"name":"fp:color_glas", "meta":15, "size":8}]
-		}
+		"load": [
+		    "fp:color_glas_0",
+		    "fp:color_glas_1",
+		    "fp:color_glas_2",
+		    "fp:color_glas_3",
+		    "fp:color_glas_4",
+		    "fp:color_glas_5",
+		    "fp:color_glas_6",
+		    "fp:color_glas_7",
+		    "fp:color_glas_8",
+		    "fp:color_glas_9",
+		    "fp:color_glas_10",
+		    "fp:color_glas_11",
+		    "fp:color_glas_12",
+		    "fp:color_glas_13",
+		    "fp:color_glas_14",
+		    "fp:color_glas_15"
+		]
 	}
 ]

@@ -1,28 +1,6 @@
 [
   {
     "type": "crafting",
-    "slots": {
-      "1": "OreDict:dustGlowstone",
-      "2": {
-        "name": "fp:scrench",
-        "meta": 0
-      },
-      "3": "OreDict:dustGlowstone",
-      "4": "OreDict:ingotAluminum",
-      "5": {
-        "name": "fp:spaceship",
-        "meta": "\u003cspaceship.Display\u003e"
-      },
-      "6": "OreDict:ingotAluminum",
-      "7": "OreDict:ingotAluminum",
-      "8": {
-        "name": "fp:chip",
-        "meta": "\u003cchip.LogicChip\u003e"
-      },
-      "9": "OreDict:ingotAluminum",
-      "out": {
-        "name": "fp:hologramcontroler"
-      }
-    }
+    "load": "fp:hologramcontroler_0"
   }
 ]

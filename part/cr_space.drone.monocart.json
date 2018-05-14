@@ -1,17 +1,6 @@
 [
 	{
 		"type": "crafting",
-		"slots": {
-			"1": {},
-			"2": [{"name":"fp:wandrope", "meta":0},{"name":"fp:wandrope", "meta":1},{"name":"fp:wandrope", "meta":2},{"name":"fp:wandrope", "meta":3},{"name":"fp:wandrope", "meta":4},{"name":"fp:wandrope", "meta":5},{"name":"fp:wandrope", "meta":6},{"name":"fp:wandrope", "meta":7},{"name":"fp:wandrope", "meta":8},{"name":"fp:wandrope", "meta":9},{"name":"fp:wandrope", "meta":10},{"name":"fp:wandrope", "meta":11}],
-			"3": {},
-			"4": {"OreDict":"ingotAluminum"},
-			"5": {"name":"fp:ram", "meta":1},
-			"6": {"OreDict":"ingotAluminum"},
-			"7": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
-			"8": {"name":"fp:elektro_magnet", "meta":0},
-			"9": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
-			"out": {"name":"fp:entityegger", "meta":8, "size":1}
-		}
+		"load": "fp:entityegger_8"
 	}
 ]

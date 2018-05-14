@@ -1,17 +1,6 @@
 [
 	{
 		"type": "crafting",
-		"slots": {
-			"1": {},
-			"2": {"name":"minecraft:comparator", "meta":0},
-			"3": {},
-			"4": {"name":"minecraft:hopper", "meta":0},
-			"5": {"name":"fp:monorail_waypoint", "meta":0},
-			"6": {"name":"minecraft:chest", "meta":0},
-			"7": {},
-			"8": {"name":"fp:chip", "meta":"<chip.LogicChip>"},
-			"9": {},
-			"out": {"name":"fp:monorail_station", "meta":0, "size":1}
-		}
+		"load": "fp:monorail_station_0"
 	}
 ]

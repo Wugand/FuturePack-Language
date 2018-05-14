@@ -1,17 +1,6 @@
 [
 	{
 		"type": "crafting",
-		"slots": {
-			"1": {"name":"fp:spaceship","meta":"<spaceship.QuantaniumCoil>"},
-			"2": {"name":"fp:chip","meta":"<chip.UltimateChip>"},
-			"3": {"name":"fp:spaceship","meta":"<spaceship.QuantaniumCoil>"},
-			"4": {"name":"fp:compactenergycell"},
-			"5": {"name":"fp:core","meta":4},
-			"6": {"name":"fp:compactenergycell"},
-			"7": {"name":"fp:spaceship","meta":"<spaceship.CompositeMetall>"},
-			"8": {"name":"fp:chip","meta":"<chip.NavigationChip>"},
-			"9": {"name":"fp:spaceship","meta":"<spaceship.CompositeMetall>"},
-			"out": {"name":"fp:ftl_drive","meta":0,"size":1}
-		}
-	},
+		"load": "fp:ftl_drive_0"
+	}
 ]

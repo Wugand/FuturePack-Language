@@ -1,17 +1,6 @@
 [
 	{
 		"type": "crafting",
-		"slots": {
-			"1": {},
-			"2": [{"name":"fp:spaceship","meta":"<spaceship.CopperParts>"}],
-			"3": {},
-			"4": {"name":"fp:spaceship","meta":"<spaceship.Polymer>"},
-			"5": {"name":"fp:spaceship","meta":"<spaceship.Chemicals>"},
-			"6": {"name":"fp:spaceship","meta":"<spaceship.Polymer>"},
-			"7": {"OreDict":"ingotLithium"},
-			"8": {"name":"minecraft:coal","meta":0},
-			"9": {"OreDict":"ingotLithium"},
-			"out": {"name":"fp:energycell","meta":0}
-		}
+		"load": "fp:energycell_0"
 	}
 ]

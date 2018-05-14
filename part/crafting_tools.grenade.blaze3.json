@@ -1,30 +1,6 @@
 [
   {
     "type": "crafting",
-    "slots": {
-      "1": {
-        "name": "fp:grenade",
-        "meta": 0
-      },
-      "2": {
-        "name": "minecraft:blaze_powder"
-      },
-      "3": {
-        "name": "minecraft:blaze_powder"
-      },
-      "4": {
-        "name": "minecraft:blaze_powder"
-      },
-      "5": {},
-      "6": {},
-      "7": {},
-      "8": {},
-      "9": {},
-      "out": {
-        "name": "fp:grenade",
-        "meta": 1,
-        "size": 1
-      }
-    }
+    "load": "fp:grenade_1_3"
   }
 ]

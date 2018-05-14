@@ -1,41 +1,6 @@
 [
   {
     "type": "crafting",
-    "slots": {
-      "1": {
-        "OreDict": "gemBitripentium"
-      },
-      "2": {
-        "name": "minecraft:gunpowder",
-        "meta": 0
-      },
-      "3": {
-        "OreDict": "gemBitripentium"
-      },
-      "4": {
-        "OreDict": "gemBitripentium"
-      },
-      "5": {
-        "name": "minecraft:blaze_rod",
-        "meta": 0
-      },
-      "6": {
-        "OreDict": "gemBitripentium"
-      },
-      "7": {
-        "OreDict": "gemBitripentium"
-      },
-      "8": {
-        "name": "minecraft:gunpowder",
-        "meta": 0
-      },
-      "9": {
-        "OreDict": "gemBitripentium"
-      },
-      "out": {
-        "name": "fp:spaceship",
-        "meta": "\u003cspaceship.fuelCell\u003e"
-      }
-    }
+    "load": "fp:spaceship_36"
   }
 ]

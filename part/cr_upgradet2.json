@@ -1,17 +1,6 @@
 [
 	{
 		"type": "crafting",
-		"slots": {
-			"1": {"name":"fp:spaceship", "meta":"<spaceship.GoldParts>"},
-			"2": {"name":"fp:scrench"},
-			"3": {"name":"fp:spaceship", "meta":"<spaceship.GoldParts>"},
-			"4": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>"},
-			"5": [{"name":"fp:color_iron","meta":0},{"name":"fp:color_iron","meta":8},{"name":"fp:color_iron","meta":15}],
-			"6": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>"},
-			"7": {"name":"fp:aiFlash0", "meta":0},
-			"8": {"name":"fp:spaceship", "meta":"<spaceship.GoldCoil>"},
-			"9": {"name":"fp:aiFlash0", "meta":0},
-			"out": [{"name":"fp:modul_2","meta":2},{"name":"fp:modul_2","meta":6},{"name":"fp:modul_2","meta":10}]
-		}
+		"load": ["fp:modul_2_2", "fp:modul_2_6", "fp:modul_2_10"]
 	}
 ]
