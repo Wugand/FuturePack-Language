@@ -1,0 +1,9 @@
+[
+  "Um Flüssigkeiten in der Natur einzusammeln habe ich einen Einlass entwickelt. Dieser kann in einer Flüssigkeit platziert werden und wird dann angrenzende Flüssigkeitsblöcke in einem Radius von bis zu 32 Blöcken einsammeln. Es werden nur Blöcke berücksichtigt die sich auf gleicher Höhe oder oberhalb des Einlasses befinden.",
+  "Um an die gesammelte Flüssigkeit zu gelangen muss sie aus dem Einlass abgepumpt werden, dazu kann er mit Rohrleitungen an eine Pumpe angeschlossen werden.",
+
+  "Crafting:",
+  {
+    "link": "fp:lang/part/crafting_log.intake.json"
+  }
+]

@@ -1,0 +1,8 @@
+[
+  "Ich habe einen stabilen Tank aus Glas und Metall entwickelt, der bis zu 8 Eimer einer Flüssigkeit aufnehmen kann. Die Tanks können in beliebiger Anordnung nebeneinander und übereinander platziert werden um einen größeren Tank zu bilden.",
+  "Zum Befüllen kann einer Rohrleitung an jeder beliebigen Seite angeschlossen werden. Der Tank kann auch ohne Pumpe geleert werden, indem eine Rohrleitung an der Unterseite angeschlossen wird.",
+  "Crafting:",
+  {
+    "link": "fp:lang/part/crafting_log.tank.json"
+  }
+]

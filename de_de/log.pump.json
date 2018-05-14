@@ -1,0 +1,13 @@
+[
+  "Ich habe eine Pumpe entwickelt um Flüssigkeiten besser zu transportieren. Die Pumpe verfügt über ein Computersystem und kann verbessert werden um den Durchsatz zu erhöhen. Neben der vom RAM bestimmten Arbeitsgeschwindigkeit ist dies auch von der Leistung der Transportchipsätze abhängig.",
+  "Die Pumpe kann von jeder Seite aus mit Neonenergie versorgt werden. An den Seiten sind Rohranschlüsse verbaut, dabei ist der grüne der Eingang und der rote der Ausgang. Die Pumpe wird Flüssigkeit aus allen über Rohrleitungen verbundenen Quellen ansaugen und im internen Tank zwischenlagern. An der Ausgangsseite versucht die Pumpe die Flüssigkeit in ein gültiges Ziel zu übertragen.",
+  "Über die GUI können Eimer geleert und gefüllt werden. In den oberen, mittigen Slot kann ein Filter eingestellt werden, um die Pumpe auf eine bestimmte Flüssigkeit zu begrenzen.",
+  
+  "Crafting:",
+  {
+    "link": "fp:lang/part/crafting_log.pump.json"
+  },
+  
+  "Unterstützte Chipsätze:",
+  "Logikchipsatz\nTransportchipsatz (Durchsatz)\nRedstonesteuerungschipsatz\nSchadenskontrollchipsatz"	
+]

@@ -658,6 +658,9 @@ item.polymer.name=Biopolymer
 item.quantanium_coil.name=Quantaniumspule
 item.modul_battery.name=Batteriemodul
 item.modul_shield.name=Schildgenerator
+item.modul_oxygen_mask.name=Atemmaske
+item.modul_oxygen_tank.name=Sauerstofftank
+item.modul_paraglider.name=High-Tech Gleitschirm
 item.dungeon_key_0.name=Dungeon Schlüssel 1
 item.dungeon_key_1.name=Dungeon Schlüssel 2
 item.dungeon_key_2.name=Dungeon Schlüssel 3
@@ -831,6 +834,7 @@ research.decoration=Dekoration
 research.energieerzeugung=Energieerzeugung 1
 research.energielogistik=Energielogistik
 research.partpress=Teilstanze
+research.fluidlogistik=Flüssigkeitslogistik
 
 research.upgradeT1=Forschungsmodul - Energie
 research.assembly=Chipherstellung
@@ -991,6 +995,11 @@ research.log.flash.3=Glowstone-Flashspeicher
 research.log.flash.4=Kistall-Flashspeicher
 research.log.flash.5=Isotop-Flashspeicher
 research.log.flash.6=Qubit-Flashspeicher
+
+research.log.tube=Rohrleitung
+research.log.tank=Flüssigkeitstank
+research.log.pump=Pumpe
+research.log.intake=Flüssigkeitseinlass
 
 research.assembly_chip=Montagetisch
 research.motherboard=Mainboard
