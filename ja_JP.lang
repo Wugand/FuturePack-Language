@@ -395,7 +395,7 @@ tile.dirt_M.name=メネラーオスの土
 tile.ftl_drive.name=FTLブロック
 tile.advanced_boardcomputer.name=上位ボードコンピュータ
 tile.rs_timer.name=レッドストーンタイマー
-tile.bedrock_rift.name=ベッドロックリフト
+tile.bedrock_rift.name=亀裂の入った岩盤
 
 tile.modular_door.name=モジュラーゲート
 item.composite_door.name=複合材のドア
