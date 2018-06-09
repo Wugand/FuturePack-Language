@@ -246,9 +246,9 @@ tile.microbox.name=微电脑
 tile.ionCollector.name=离子收集器
 tile.wire_0.name=电缆
 tile.wire_1.name=红石电缆
-tile.wire_2.name=网络电缆
+tile.wire_2.name=超级电缆
 tile.wire_3.name=SP电缆
-tile.wire_4.name=AI电缆
+tile.wire_4.name=网络电缆
 tile.spacedoor.name= 气闸
 tile.spaceship.name=全息投影仪
 
