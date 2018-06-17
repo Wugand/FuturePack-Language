@@ -1,0 +1,8 @@
+[
+  "O arrasto aerodinâmico, a radiação, a luz solar, e outros fatores influenciais criam uma certa quantidade de íons no ar. Eu posso usar um grade de metal para coletar essas partículas e convertê-las à energia de néon usando um tipo de painel solar modificado.",
+  "Um número bem significante de íons é produzido em tempesdades e períodos com muita radiação solar. O coletor de íons pode converter íons com muita eficiência, e com este aparelho eu posso até produzir energia durante a noite.",
+  "Crafting:",
+  {
+    "link": "fp:lang/part/crafting_energy.ionen.json"
+  }
+]
