@@ -406,8 +406,8 @@ tile.planks_menelaus_mushroom.name=メネラーオスの木材
 tile.planks_tyros.name=テュロスの木材
 
 tile.fluid_tube.name=液体チューブ
-tile.fluid_pump.name=ポンプ装置
-tile.fluid_tank.name=液体用タンク
+tile.fluid_pump.name=液体ポンプ
+tile.fluid_tank.name=液体タンク
 tile.fluid.saltwater.name=塩水
 tile.fluid.liquid.neon.name=液体ネオン
 tile.wr_receiver.name=レシーバー - レッドストーンの粉がありません
@@ -427,7 +427,7 @@ tile.composite_chest.name=複合材のチェスト
 tile.syncronizer.name=シンクロナイザー
 tile.deep_core_miner.name=ディープコアマイナー
 tile.rf_ne_converter.name=フラックス変換機
-tile.fluid_intake.name=液体吸入器
+tile.fluid_intake.name=液体インテーク
 
 fluid.liquid.neon=液体ネオン
 fluid.saltwater=塩水
@@ -663,6 +663,9 @@ item.polymer.name=バイオポリマー
 item.quantanium_coil.name=クァンタニウムのコイルパーツ
 item.modul_battery.name=エネルギーモジュール
 item.modul_shield.name=シールドジェネレータ
+item.modul_oxygen_mask.name=酸素マスク
+item.modul_oxygen_tank.name=酸素タンク
+item.modul_paraglider.name=ハイテックパラグライダー
 item.dungeon_key_0.name=ダンジョンキー I
 item.dungeon_key_1.name=ダンジョンキー II
 item.dungeon_key_2.name=ダンジョンキー III
@@ -837,6 +840,7 @@ research.decoration=装飾の基礎
 research.energieerzeugung=エネルギー生成 I
 research.energielogistik=動力の分配
 research.partpress=塑性加工機
+research.fluidlogistik=液体における物流
 
 research.upgradeT1=研究周辺機器 - エネルギー
 research.assembly=チップの組み立て
@@ -997,6 +1001,11 @@ research.log.flash.3=グロウストーンメモリ
 research.log.flash.4=クリスタルメモリ
 research.log.flash.5=アイソトープメモリ
 research.log.flash.6=量子ビットメモリ
+
+research.log.tube=液体チューブ
+research.log.tank=液体タンク
+research.log.pump=液体ポンプ
+research.log.intake=液体インテーク
 
 research.assembly_chip=アセンブリテーブル
 research.motherboard=メインボード

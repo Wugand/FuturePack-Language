@@ -10,7 +10,8 @@ Please update this table if you add a translation.
 | core.dungeon                        | OK     | OK +            | a22brad22 | ...    | gloomybanana |
 | core.univers                        | OK     | OK +            | a22brad22 | ...    | gloomybanana |
 | deco.metallgate                     | Wugi   | Wugi +          | a22brad22 | ...    | gloomybanana |
-| energy.ionen                        | ...    | ...             | ...       | ...    | ...          |
+| energy.ionen                        | OK     | OK +            | a22brad22 | ...    | ...          |
+| fluidlogistik                       | OK     | OK              | a22brad22 | ...    | ...          |
 | hs.menelaus.caves                   | OK     | OK +            | a22brad22 | ...    | gloomybanana |
 | hs.menelaus.crystals                | OK     | OK +            | a22brad22 | ...    | gloomybanana |
 | hs.menelaus.entity                  | OK     | OK +            | a22brad22 | ...    | gloomybanana |
@@ -19,11 +20,15 @@ Please update this table if you add a translation.
 | hs.menelaus.mycel                   | OK     | OK +            | a22brad22 | ...    | gloomybanana |
 | hs.menelaus.surface                 | OK     | OK +            | a22brad22 | ...    | gloomybanana |
 | hs.menelaus.tree                    | OK     | OK +            | a22brad22 | ...    | gloomybanana |
-| ionentechnik                        | ...    | ...             | ...       | ...    | ...          |
+| ionentechnik                        | OK     | OK +            | a22brad22 | ...    | ...          |
 | log.battery.cell                    | Wugi   | MCenderdragon + | a22brad22 | ...    | gloomybanana |
 | log.battery.compact                 | Wugi   | MCenderdragon + | a22brad22 | ...    | gloomybanana |
-| log.battery.crystal                 | ...    | ...             | ...       | ...    | ...          |
-| log.flash.6                         | ...    | ...             | ...       | ...    | ...          |
+| log.battery.crystal                 | N/A    | .               | .         | .      | .            |
+| log.flash.6                         | OK     | OK +            | ...       | ...    | ...          |
+| log.intake                          | OK     | OK              | ...       | ...    | ...          |
+| log.pump                            | OK     | OK              | ...       | ...    | ...          |
+| log.tank                            | OK     | OK              | ...       | ...    | ...          |
+| log.tube                            | OK     | OK              | ...       | ...    | ...          |
 | nanomanip                           | OK     | a22brad22       | a22brad22 | ...    | gloomybanana |
 | production.nind.linse.g             | OK     | OK +            | a22brad22 | ...    | gloomybanana |
 | production.recycler.analyzer        | OK     | OK +            | a22brad22 | ...    | gloomybanana |
