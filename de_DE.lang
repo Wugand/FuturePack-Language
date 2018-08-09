@@ -661,11 +661,16 @@ item.modul_shield.name=Schildgenerator
 item.modul_oxygen_mask.name=Atemmaske
 item.modul_oxygen_tank.name=Sauerstofftank
 item.modul_paraglider.name=High-Tech Gleitschirm
+item.modul_magnet.name=Magnetmodul
+modular_armor.module.magnet.on=Das Magnetmodul der Leichtbaurüstung ist jetzt aktiviert.
+modular_armor.module.magnet.off=Das Magnetmodul der Leichtbaurüstung ist jetzt deaktiviert.
+item.modul_dynamo.name=Dynamomodul
 item.dungeon_key_0.name=Dungeon Schlüssel 1
 item.dungeon_key_1.name=Dungeon Schlüssel 2
 item.dungeon_key_2.name=Dungeon Schlüssel 3
 item.dungeon_key_3.name=Dungeon Schlüssel 4
 item.composite_fishing_rod.name=Verbundangel
+item.recipe_assembly.name=Montier Recipe
 
 itemGroup.fpTab.deco=Future Pack-Materialien
 itemGroup.fpTab.maschiens=Future Pack-Maschinen
@@ -673,6 +678,7 @@ itemGroup.fpTab.items=Future Pack-Gegenstände
 
 container.opticrafting=Optibench
 container.collector=Ionenkollektor
+container.assembly=Montieren
 
 entity.FP-Gehuf.name=Gehuf
 entity.FP-Crawler.name=Crawler
@@ -808,6 +814,8 @@ info.note.read=§2Rechtsklick zum Ansehen!
 
 key.categories.futurepack=Futurepack
 key.fp.gleiter=Gleitschirm öffnen/schließen
+key.fp.compositearmor=Leichtbaurüstung öffnen
+key.fp.modul_magnet=Magnetmodul aktivieren/deaktivieren
 
 research.need.achievement=Benötigt %s
 
@@ -839,6 +847,7 @@ research.fluidlogistik=Flüssigkeitslogistik
 research.upgradeT1=Forschungsmodul - Energie
 research.assembly=Chipherstellung
 research.calculation=Berechnungssmodul
+research.armor=Rüstungsbau
 research.optik=Optik
 research.energiespeicher=Energiespeicher
 research.energieerzeugung2=Energieerzeugung 2
@@ -1117,6 +1126,13 @@ research.tools.sword.retium=Retiumschwert
 research.tools.sword.glowtite=Glowtitschwert
 research.tools.sword.bioterium=Bioteriumschwert
 research.tools.laserrifle=Lasergewehr
+research.tools.modular_armor=Leichtbaurüstung
+research.tools.modul.oxygenmask=Sauerstoffversorgung
+research.tools.modul.paraglider=High-Tech Gleitschirm
+research.tools.modul.battery=Batteriemodul
+research.tools.modul.magnet=Magnetmodul
+research.tools.modul.dynamo=Dynamomodul
+research.tools.modul.shield=Schildgenerator
 
 futurepack.zentrifuge.name=Zentrifugen Rezepte
 futurepack.jei.neededsupport= %s SP

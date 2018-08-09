@@ -1,0 +1,7 @@
+[
+    "Crafting:",
+    {
+        "type": "crafting",
+        "load":["fp:modul_battery_0"]
+    }
+]

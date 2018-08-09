@@ -661,11 +661,16 @@ item.modul_shield.name=Shield Generator
 item.modul_oxygen_mask.name=Oxygen Mask
 item.modul_oxygen_tank.name=Oxygen Tank
 item.modul_paraglider.name=High-Tech Paraglider
+item.modul_magnet.name=Magnet Module
+modular_armor.module.magnet.on=The Magnet Module of the Composite Armor is now active
+modular_armor.module.magnet.off=The Magnet Module of the Composite Armor is now inactive
+item.modul_dynamo.name=Dynamo Module
 item.dungeon_key_0.name=Dungeon Key 1
 item.dungeon_key_1.name=Dungeon Key 2
 item.dungeon_key_2.name=Dungeon Key 3
 item.dungeon_key_3.name=Dungeon Key 4
 item.composite_fishing_rod.name=Composite Fishing Rod
+item.recipe_assembly.name=Assembler Recipe
 
 itemGroup.fpTab.deco=Future Pack Materials
 itemGroup.fpTab.maschiens=Future Pack Machinery
@@ -673,6 +678,7 @@ itemGroup.fpTab.items=Future Pack Items
 
 container.opticrafting=Opti Bench
 container.collector=Ion Collector
+container.assembly=Assembling
 
 entity.FP-Gehuf.name=Gehoof
 entity.FP-Crawler.name=Crawler
@@ -808,6 +814,8 @@ info.note.read=Right click to view!
 
 key.categories.futurepack=Futurepack
 key.fp.gleiter=Paraglider open/close
+key.fp.compositearmor=Open Composite Armor
+key.fp.modul_magnet=Magnet Module on/off
 
 research.need.achievement=Needs %s
 
@@ -839,6 +847,7 @@ research.fluidlogistik=Fluid Logistics
 research.upgradeT1=Research Module - Energy
 research.assembly=Chip Assembly
 research.calculation=Calculation Module
+research.armor=Armor Construction
 research.optik=Optics
 research.energiespeicher=Energy Storage
 research.energieerzeugung2=Energy Generation 2
@@ -1117,6 +1126,13 @@ research.tools.sword.retium=Retium Sword
 research.tools.sword.glowtite=Glowtite Sword
 research.tools.sword.bioterium=Bioterium Sword
 research.tools.laserrifle=Laser Rifle
+research.tools.modular_armor=Composite Armor
+research.tools.modul.oxygenmask=Oxygen Supply
+research.tools.modul.paraglider=High-Tech Paraglider
+research.tools.modul.battery=Energy Module
+research.tools.modul.magnet=Magnet Module 
+research.tools.modul.dynamo=Dynamo Module
+research.tools.modul.shield=Shield Generator
 
 futurepack.zentrifuge.name=Centrifuge Recipes
 futurepack.jei.neededsupport= %s SP

@@ -1,0 +1,18 @@
+[
+    {
+        "type": "crafting",
+        "load":["fp:composite_helmet"]
+    },
+    {
+        "type": "crafting",
+        "load":["fp:composite_chestplate"]
+    },
+    {
+        "type": "crafting",
+        "load":["fp:composite_leggings"]
+    },
+    {
+        "type": "crafting",
+        "load":["fp:composite_boots"]
+    }
+]
