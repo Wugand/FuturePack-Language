@@ -1,4 +1,4 @@
-#Futurepack-1.12.2-26.3.203
+#Futurepack-1.12.2-26.3.203～
 #ice_ink
 
 tile.colorIron_white.name=金属体(白色)
@@ -666,19 +666,24 @@ item.modul_shield.name=シールドジェネレータ
 item.modul_oxygen_mask.name=酸素マスク
 item.modul_oxygen_tank.name=酸素タンク
 item.modul_paraglider.name=ハイテックパラグライダー
+item.modul_magnet.name=マグネットモジュール
+modular_armor.module.magnet.on=複合材装備のマグネットモジュールが有効状態です
+modular_armor.module.magnet.off=複合材装備のマグネットモジュールが無効状態です
+item.modul_dynamo.name=ダイナモモジュール
 item.dungeon_key_0.name=ダンジョンキー I
 item.dungeon_key_1.name=ダンジョンキー II
 item.dungeon_key_2.name=ダンジョンキー III
 item.dungeon_key_3.name=ダンジョンキー IV
 item.composite_fishing_rod.name=複合材の釣り竿
-
+item.recipe_assembly.name=組み立てレシピ
 
 itemGroup.fpTab.deco=Future Pack 素材
 itemGroup.fpTab.maschiens=Future Pack 機械
 itemGroup.fpTab.items=Future Pack アイテム
 
 container.opticrafting=光学作業台
-container.collector=イオン コレクター
+container.collector=イオンコレクター
+container.assembly=組み立て
 
 entity.FP-Gehuf.name=ゲフ・フ
 entity.FP-Crawler.name=クロウラー
@@ -814,6 +819,8 @@ info.note.read=右クリックで閲覧します!
 
 key.categories.futurepack=Futurepack
 key.fp.gleiter=パラグライダーの開閉
+key.fp.compositearmor=複合材装備のGUIを開く
+key.fp.modul_magnet=マグネットモジュールの有効化/無効化
 
 research.need.achievement=%s が必要です。
 
@@ -845,6 +852,7 @@ research.fluidlogistik=液体における物流
 research.upgradeT1=研究周辺機器 - エネルギー
 research.assembly=チップの組み立て
 research.calculation=演算補助装置
+research.armor=アーマー装備の構築
 research.optik=光学
 research.energiespeicher=動力の保管
 research.energieerzeugung2=エネルギー生成 II
@@ -1123,6 +1131,13 @@ research.tools.sword.retium=レッチウムの剣
 research.tools.sword.glowtite=グロウタイトの剣
 research.tools.sword.bioterium=バイオテリウムの剣
 research.tools.laserrifle=レーザーライフル
+research.tools.modular_armor=複合材の防具
+research.tools.modul.oxygenmask=酸素の供給
+research.tools.modul.paraglider=ハイテック・パラグライダー
+research.tools.modul.battery=エネルギーモジュール
+research.tools.modul.magnet=マグネットモジュール
+research.tools.modul.dynamo=ダイナモモジュール
+research.tools.modul.shield=シールドジェネレイター
 
 futurepack.zentrifuge.name=遠心分離レシピ
 futurepack.jei.neededsupport=%s SP
