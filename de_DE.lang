@@ -424,6 +424,7 @@ tile.syncronizer.name=Synchronisierer
 tile.deep_core_miner.name=Tiefen Miner
 tile.rf_ne_converter.name=Flux Transformator
 tile.fluid_intake.name=Flüssigkeitseinlass
+tile.insert_node.name=The Stöpsel
 
 fluid.liquid.neon=Neonflüssigkeit
 fluid.saltwater=Salzwasser

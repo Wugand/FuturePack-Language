@@ -424,6 +424,7 @@ tile.syncronizer.name=Synchronizer
 tile.deep_core_miner.name=Deep Core Miner
 tile.rf_ne_converter.name=Flux Transformer
 tile.fluid_intake.name=Fluid Intake
+tile.insert_node.name=The Stöpsel
 
 fluid.liquid.neon=Neon Liquid
 fluid.saltwater=Salt Water
@@ -664,6 +665,7 @@ item.modul_paraglider.name=High-Tech Paraglider
 item.modul_magnet.name=Magnet Module
 modular_armor.module.magnet.on=The Magnet Module of the Composite Armor is now active
 modular_armor.module.magnet.off=The Magnet Module of the Composite Armor is now inactive
+modular_armor.module.magnet.notinstalled=The Magnet Module in not installed in the Composite Armor
 item.modul_dynamo.name=Dynamo Module
 item.dungeon_key_0.name=Dungeon Key 1
 item.dungeon_key_1.name=Dungeon Key 2
