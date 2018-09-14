@@ -1,4 +1,4 @@
-Last Update at Fr, 10. Aug 2018 13:53:54
+Last Update at Sa, 15. Sep 2018 01:36:08
 
 
 Parent Dir de_de , Sub Dir zh_cn
@@ -12,6 +12,7 @@ Parent Dir de_de , Sub Dir zh_cn
 | zh_cn/erneuerbare.json | 68 days | Wugi:update |
 | zh_cn/optik.json | 197 days | Wugi:update |
 | zh_cn/production.decoration.json | 197 days | Wugi:update |
+| zh_cn/space.drone.mono.station.json | 396 days | mcenderdragon:added blacklist to monorailstation de_de |
 | zh_cn/tools.plasma.json | 203 days | Wugi:Now using Part files |
 | zh_cn/tuning.json | 72 days | Wugi:Fix |
 | zh_cn/upgradeT3.json | 200 days | Wugi:Now using Part files |
@@ -22,6 +23,7 @@ Parent Dir de_de , Sub Dir en_us
 | File | Time diff | Commit |
 | --- | --- | --- |
 | en_us/forscher.json | 293 days | Wugi:Now using Part files |
+| en_us/space.drone.mono.station.json | 4 min | mcenderdragon:added blacklist to monorailstation de_de |
 | en_us/tuning.json | 72 days | Wugi:Fix |
 
 
@@ -189,6 +191,7 @@ Parent Dir de_de , Sub Dir pt_br
 | pt_br/space.computer.json | 293 days | Wugi:Now using Part files |
 | pt_br/space.drive.ftl.json | 90 days | Wugi:Now using Part files |
 | pt_br/space.drone.mono.oneway.json | *does not exists* | - |
+| pt_br/space.drone.mono.station.json | 459 days | mcenderdragon:added blacklist to monorailstation de_de |
 | pt_br/space.fuel.json | 293 days | Wugi:Now using Part files |
 | pt_br/space.gravity.json | 293 days | Wugi:Now using Part files |
 | pt_br/space.magnetblock.json | 293 days | Wugi:Now using Part files |
@@ -233,7 +236,6 @@ Parent Dir de_de , Sub Dir ja_jp
 
 | File | Time diff | Commit |
 | --- | --- | --- |
-| ja_jp/armor.json | *does not exists* | - |
 | ja_jp/core.entronium.json | *does not exists* | - |
 | ja_jp/core.non.json | *does not exists* | - |
 | ja_jp/energieerzeugung.json | 47 days | Wugi:update |
@@ -245,6 +247,7 @@ Parent Dir de_de , Sub Dir ja_jp
 | ja_jp/production.decoration.json | 47 days | Wugi:update |
 | ja_jp/ram.entronium.json | *does not exists* | - |
 | ja_jp/ram.non.json | *does not exists* | - |
+| ja_jp/space.drone.mono.station.json | 249 days | mcenderdragon:added blacklist to monorailstation de_de |
 | ja_jp/story.dungeon_4.json | *does not exists* | - |
 | ja_jp/tuning.json | 72 days | Wugi:Fix |
 | ja_jp/tyros.json | *does not exists* | - |
