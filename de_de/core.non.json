@@ -1,3 +1,6 @@
 [
-	"THIS FEATURE IS CURRENTLY NOT IMPLEMENTED !"
+	"Unter Verwendung der neuen Rohstoffe die ich auf Tyros gefunden habe, konnte ich meine Prozessoren erneut verbessern. Mit Hilfe der organischen Komponenten des Bioteriums habe ich die Quantenprozessoren um natürliche Nervenzellen erweitert, welche manche Berechnungen intelligenter durchführen.",
+	"Assembly:",
+	{"link":"fp:lang/part/as_core.non.json"},
+	"Info: Für allgemeine Informationen siehe Standartprozessor."
 ]

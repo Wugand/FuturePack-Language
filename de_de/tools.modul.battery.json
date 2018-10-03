@@ -1,0 +1,7 @@
+[
+	"Wenn ich anfange, mehr mit Neon-Energie betriebene Werkzeuge zu bauen, wird das Laden mühsam. Ich könnte entweder jedes Werkzeug so umbauen, dass eine große Batterie hineinpasst oder einfach nur eine große, aber eine effizientere, ... Da ich vor kurzem meine eigene Rüstung erfunden habe, habe ich beschlossen sie darin zu integrieren.",
+    "Sie passt in jede Position des Anzugs und lädt die Gegenstände auf. Die Batterie braucht die Rüstung um die Komponenten zu verbinden, also wird es nicht funktionieren wenn ich nur den Akku herumzutragen.",
+    {
+        "link":"fp:lang/part/cr_tools.modul.battery.json"
+    }
+]

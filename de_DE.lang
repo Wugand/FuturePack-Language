@@ -414,7 +414,7 @@ tile.dungeon_spawner.tooltip=Automatic Defense System for Protecting the Technoc
 tile.quantanium.name=Quantanium
 tile.huge_mycel.name=Großes Myzel
 tile.menelaus_mushroom_hyticus.name=Hyticus
-tile.menelaus_mushroom_blasenpilz.name=Blasenpilz™
+tile.menelaus_mushroom_blasenpilz.name=Blasenpilz
 tile.menelaus_mushroom_blauling.name=Blauling
 tile.menelaus_mushroom_rotkappe.name=Spitzkappe
 tile.force_field.name=Kraftfeld
@@ -425,6 +425,12 @@ tile.deep_core_miner.name=Tiefen Miner
 tile.rf_ne_converter.name=Flux Transformator
 tile.fluid_intake.name=Flüssigkeitseinlass
 tile.insert_node.name=The Stöpsel
+tile.opti_assembler.name=Optisembler
+
+tile.prismid.name=Prismid
+tile.prismid_stone.name=Prismidader
+tile.topinambur.name=Topinambur
+tile.oxades.name=Oxades
 
 fluid.liquid.neon=Neonflüssigkeit
 fluid.saltwater=Salzwasser
@@ -632,6 +638,8 @@ item.record_fp_entros.name=Schallplatte
 item.record.fp_entros.desc=Mantes - Stimme von Entros
 item.record_fp_unknown.name=Unbekannte Schallplatte
 item.record.fp_unknown.desc=Martin 1
+item.record_fp_envia.name=Schallplatte
+item.record.fp_envia.desc=Mantes - Stimme von Envia
 
 item.mendel_berry.name=Mendelbeere
 item.mendel_seed.name=Mendelbeersamen
@@ -647,6 +655,7 @@ item.glowshroom_stew.name=Glutsuppe
 item.salad.name=Gemischter Salat
 item.hufsteak.name=Hufsteak
 item.grillhufsteak.name=Gegrilltes Hufsteak
+item.astrofood4.name=Nahrungstube - Alienschmiere
 
 item.sword_handle.name=Schwertgriff
 item.EnergyCell_full.name=Energiezelle
@@ -665,13 +674,18 @@ item.modul_paraglider.name=High-Tech Gleitschirm
 item.modul_magnet.name=Magnetmodul
 modular_armor.module.magnet.on=Das Magnetmodul der Leichtbaurüstung ist jetzt aktiviert.
 modular_armor.module.magnet.off=Das Magnetmodul der Leichtbaurüstung ist jetzt deaktiviert.
+modular_armor.module.magnet.notinstalled=Das Magnetmodul der Leichtbaurüstung ist nicht eingebaut.
 item.modul_dynamo.name=Dynamomodul
 item.dungeon_key_0.name=Dungeon Schlüssel 1
 item.dungeon_key_1.name=Dungeon Schlüssel 2
 item.dungeon_key_2.name=Dungeon Schlüssel 3
 item.dungeon_key_3.name=Dungeon Schlüssel 4
-item.composite_fishing_rod.name=Verbundangel
+item.composite_fishing_rod.name=Leichtbau-Angel
 item.recipe_assembly.name=Montier Recipe
+
+item.topinambur_potato.name=Topinambur Knolle
+item.topinambur_flower.name=Topinambur Blüte
+item.oxades_seed.name=Oxades
 
 itemGroup.fpTab.deco=Future Pack-Materialien
 itemGroup.fpTab.maschiens=Future Pack-Maschinen
@@ -680,6 +694,7 @@ itemGroup.fpTab.items=Future Pack-Gegenstände
 container.opticrafting=Optibench
 container.collector=Ionenkollektor
 container.assembly=Montieren
+container.blockplacer=Blockplatzierer
 
 entity.FP-Gehuf.name=Gehuf
 entity.FP-Crawler.name=Crawler
@@ -723,6 +738,10 @@ chat.spaceship.missingBeam=Das Raumschiff hat keinen Teleporter!
 chat.spaceship.missingFuel=Es ist nicht genug Treibstoff für die Triebwerke vorhanden! Es müssen %s Triebwerke versorgt werden.
 
 chat.research.add=Die Forschung(%s) wurde beendet. 
+
+chat.escanner.athmosphere.breathable=Diese Athmosphere ist atembar und hat Sauerstoff.
+chat.escanner.athmosphere.filled=Diese Athmosphere ist night atembar und hat keinen Sauerstoff. Der jetzige Ruam ist zu %s.%s %% gefüllt und hat ausreichend Sauerstoff für %s (bei einer Person).
+
 research.useblock.missing=Du weißt nicht, wie man dieses Objekt benutzt!
 
 hologram.error.set.notsupported=Für diesen Block kann kein Hologramm gesetzt werden!
@@ -730,6 +749,18 @@ hologram.error.set.notileentity=Für diesen Block kann kein Hologramm gesetzt we
 hologram.error.select.tileentity=Dieser Block kann nicht als Hologramm genutzt werden!
 
 laser.attack.warn.time=Sicherheitsbereich! Du hast %s Sekunden.
+
+laser.attack.player.name=Spieler angreifen
+laser.attack.neutral.name=Neutrale angreifen
+laser.attack.mobs.name=Monster angreifen
+laser.kill.not.name=Nicht töten
+laser.player.warn.name=Ziele warnen
+laser.player.distance.name=Position verteidigen (10 Blöcke)
+laser.wait.10.name=Warnzeit 10 Sekunden
+laser.wait.15.name=Warnzeit 15 Sekunden
+laser.wait.30.name=Warnzeit 30 Sekunden
+laser.wait.60.name=Warnzeit 60 Sekunden
+laser.ballista.name=Nur markierte Ziele
 
 dungeon.message.double_power=Doppelte Kraft!
 dungeon.message.much_damage=Zu viel Schaden!
@@ -872,7 +903,9 @@ research.raumfahrt=Raumfahrt
 research.menelaus=Menelaus
 research.surveyscan.menelaus=Menelaus Planetenanalyse
 research.upgradeT3=Forschungsmodul - Erfahrung
+research.bergbau2=Bergbau 2
 research.tyros=Tyros
+research.surveyscan.tyros=Tyros Planetenanalyse
 
 research.nanomanip=Nanostrukturmanipulation
 research.quantentechnik=Quantentechnik
@@ -881,10 +914,8 @@ research.lasertechnik2=Lasertechnik 2
 research.astronomie1=Astronomie 1
 
 research.drones=Drohnentechnik
-
-
-
 research.itempipe=Normales Rohr
+
 
 
 
@@ -932,6 +963,16 @@ research.hs.menelaus.mycel=Mycel und Pilze
 research.hs.menelaus.mendel=Mendelberry
 research.hs.menelaus.entity=Alienwesen
 
+research.story.tyros=Tyros Planetenanalyse
+research.hs.tyros.surface=Jungleplanet
+research.hs.tyros.prismid=Prismid
+research.hs.tyros.crystals=Bioteriumkristalle
+research.hs.tyros.caves=Geothermale Aktivität
+research.hs.tyros.tree=Tyrosbäume
+research.hs.tyros.deadlands=Totes Land
+research.hs.tyros.topinambur=Topinambur
+research.hs.tyros.entity=Alienwesen
+
 research.production.blockbreaker=Blockbrecher
 research.production.blockplacer=Blockplatzierer
 research.production.industrieofen=Industrieofen
@@ -968,6 +1009,7 @@ research.production.recycler.analyzer=Analysator
 research.production.recycler.timemanipulator=Nanostruktur-Reparatureinheit
 research.production.deep_core=Tiefen Miner
 research.production.deep_core.processing=Tiefen Miner Bedienung
+research.production.opti_assembler=Optisembler
 
 research.energy.generator=Generator
 research.energy.neonmotor=Neonmotor
@@ -1134,6 +1176,7 @@ research.tools.modul.battery=Batteriemodul
 research.tools.modul.magnet=Magnetmodul
 research.tools.modul.dynamo=Dynamomodul
 research.tools.modul.shield=Schildgenerator
+research.tools.composite_fishingrod=Leichtbau-Angel
 
 futurepack.zentrifuge.name=Zentrifugen Rezepte
 futurepack.jei.neededsupport= %s SP

@@ -1,0 +1,6 @@
+[
+	{
+		"type": "assembly",
+		"load": "core_non"
+	}
+]

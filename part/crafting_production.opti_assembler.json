@@ -1,0 +1,6 @@
+[
+  {
+    "type": "crafting",
+    "load": ["fp:opti_assembler_2", "fp:opti_assembler_6", "fp:opti_assembler_10"]
+  }
+]

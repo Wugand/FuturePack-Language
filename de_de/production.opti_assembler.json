@@ -1,0 +1,13 @@
+[
+  "Es ist mühsam alle Prozessoren, Speicher und Chips von Hand herzustellen. Deshalb habe ich eine Maschine ähnlich der Optibench entwickelt, mit der ich die Prozesse des Montagetischs automatisieren kann.",
+  "Sofern die Maschine versort und das Computersystem funktionsfähig ist, kann sie drei verschiedene Montageaufträge bearbeiten (Reihen in der GUI). Falls ein Produkt entsteht, dass in einem anderen Auftrag gebraucht wird, so wird in diesem direkt verwendet. Wird das Produkt nicht weiter benötigt, so kommt dieses in den Ausgangsslot (rechts).",
+  "Die linken 3 Slots einer Reihe sind der jeweilige Wareneingang für den Auftrag. Der vierte Slot beinhaltet das Rezept, welches vorgibt was produziert werden soll. Die Maschine kann nicht ohne Rezept arbeiten!",
+  "Durch klicken auf den Button(oben rechts) kann zur Rezepterstellung gewechselt werden. Hier werden wie im Montagetisch 3 Slots angeboten. Sind diese entsprechend eines gültigen Herstellungsrezepts befüllt, so wird auch das Produkt angezeit. Ist im oberen Slot zusätzlich ein Kristall eingelegt, kann unten ein Rezept entnommen werden.",
+  "Wie beim Montagetisch kann durch Zuführung von Supportpunkten die maximale Qualität der Produkte gesteigert werden. Für eine automatische Weiterverarbeitung ist zu beachten, dass alle Produkte dem Zufall unterliegen und somit schwankende Werte aufweisen können.",
+  "Crafting:",
+  {
+    "link": "fp:lang/part/crafting_production.opti_assembler.json"
+  },
+  "Unterstützte Chipsätze:",
+  "Logikchipsatz\nTransportchipsatz\nRedstonesteuerungschipsatz\nUnterstützungschipsatz\nUltimativer Chipsatz\nSchadenskontrollchipsatz"
+]

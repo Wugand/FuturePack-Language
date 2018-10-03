@@ -1,0 +1,9 @@
+[
+    "Der Schutzwert der Rüstung ist hoch, aber da ich jetzt Energiemodule habe, habe ich Möglichkeiten sie weiter zu verbessern.",
+	"Ich entdeckte einen seltenen Fall, in dem jene Substanz als Ferrofluid wirken kann, aber nur für eine kurze Zeit. Um es zu kontrollieren, habe ich Quantenspulen verwendet, da sie aufgrund ihres geringen elektrischen Widerstandes starke Magnetfelder erzeugen können.",
+    "Ich verstehe den Prozess nicht vollständig, aber wenn ein Funke auf Bitripentium trifft, beginnen die Atome herum ihre Elektronpaare zu verlieren, was in Kurzzeitmagnetismus aller Atome resultiert. Kombiniert mit dem starken Magnetfeld der Spulen ist alles ein Ferrofluid.",
+    "In der Theorie wird nur Energie benötigt und dieses Gerät würde meinen Körper in ein Ferrofluid verwandeln, aber wegen der unbekannten Nebenwirkungen wird es in der Rüstung als Schutzschild verwendet, um die Wirkung auf meinen eigenen Körpers zu verringern.",
+    "Crafting:",
+    {"link":"fp:lang/part/cr_tools.modul.shield.json"},
+	"Derzeit reicht ein Schild aus um ein Zehntel meines Lebens zu schützen. Es benötigt aber eine Sekunde um sich zu regenerieren. Dies ist nicht viel gegen große Mengen an Schaden, aber es wird gegen kleinere Schäden helfen."
+]

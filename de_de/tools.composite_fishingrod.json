@@ -1,0 +1,7 @@
+[
+  "Ich habe eine Angel aus Verbundmetall entwickelt, sie ist wesentlich stabiler und langlebiger als eine Holzangel. Zudem habe ich einen Federmechnaismus eingebaut, um die Angel automatisch einzuholen bevor der Fisch sich wieder losreißt.",
+  "Crafting:",
+  {
+    "link": "fp:lang/part/crafting_tools.composite_rod.json"
+  }
+]

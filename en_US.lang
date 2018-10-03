@@ -425,6 +425,12 @@ tile.deep_core_miner.name=Deep Core Miner
 tile.rf_ne_converter.name=Flux Transformer
 tile.fluid_intake.name=Fluid Intake
 tile.insert_node.name=The Stöpsel
+tile.opti_assembler.name=Optiassembler
+
+tile.prismid.name=Prismid
+tile.prismid_stone.name=Prismid Vein
+tile.topinambur.name=Jerusalem Artichoke
+tile.oxades.name=Oxades
 
 fluid.liquid.neon=Neon Liquid
 fluid.saltwater=Salt Water
@@ -632,6 +638,8 @@ item.record_fp_entros.name=Music Disc
 item.record.fp_entros.desc=Mantes - Voice of Entros
 item.record_fp_unknown.name=Unknown Disc
 item.record.fp_unknown.desc=Martin 1
+item.record_fp_envia.name=Music Disc
+item.record.fp_envia.desc=Mantes - Voice of Envia
 
 item.mendel_berry.name=Mendelberry
 item.mendel_seed.name=Mendelberry Seed
@@ -647,6 +655,7 @@ item.glowshroom_stew.name=Glowstew
 item.salad.name=Mixed Salad
 item.hufsteak.name=Hoofsteak
 item.grillhufsteak.name=Grilled Hoofsteak
+item.astrofood4.name=Foodtube - Alien Goo
 
 item.sword_handle.name=Sword Handle
 item.EnergyCell_full.name=Energy Cell
@@ -674,6 +683,10 @@ item.dungeon_key_3.name=Dungeon Key 4
 item.composite_fishing_rod.name=Composite Fishing Rod
 item.recipe_assembly.name=Assembler Recipe
 
+item.topinambur_potato.name=Jerusalem Artichoke Potato
+item.topinambur_flower.name=Jerusalem Artichoke Flower
+item.oxades_seed.name=Oxades
+
 itemGroup.fpTab.deco=Future Pack Materials
 itemGroup.fpTab.maschiens=Future Pack Machinery
 itemGroup.fpTab.items=Future Pack Items
@@ -681,6 +694,7 @@ itemGroup.fpTab.items=Future Pack Items
 container.opticrafting=Opti Bench
 container.collector=Ion Collector
 container.assembly=Assembling
+container.blockplacer=Block Placer
 
 entity.FP-Gehuf.name=Gehoof
 entity.FP-Crawler.name=Crawler
@@ -724,6 +738,10 @@ chat.spaceship.missingBeam=Your spaceship has no teleporter.
 chat.spaceship.missingFuel=The thrusters don't have enough fuel. You still have %s thrusters that need to be powered.
 
 chat.research.add=Your research(%s) finished. 
+
+chat.escanner.athmosphere.breathable=This atmosphere is breathable and has oxygen.
+chat.escanner.athmosphere.filled=This atmohsphere is not breathable and has no oxygen. This room is filled %s.%s %% and has enough air for %s (for one person).
+
 research.useblock.missing=You don't know how to use this object!
 
 hologram.error.set.notsupported=You can't set an hologram for this block!
@@ -731,6 +749,18 @@ hologram.error.set.notileentity=You can't set an hologram for this block!
 hologram.error.select.tileentity=You can't use this block for an hologram!
 
 laser.attack.warn.time=Restricted Area. You have %s seconds.
+
+laser.attack.player.name=Attack Players
+laser.attack.neutral.name=Attack Neutrals
+laser.attack.mobs.name=Attack Mobs
+laser.kill.not.name=Don't kill
+laser.player.warn.name=Warn targets
+laser.player.distance.name=Defend position (10 Blocks)
+laser.wait.10.name=Warn Time 10 Seconds
+laser.wait.15.name=Warn Time 15 Seconds
+laser.wait.30.name=Warn Time 30 Seconds
+laser.wait.60.name=Warn Time 60 Seconds
+laser.ballista.name=Only marked targets
 
 dungeon.message.double_power=Double Power!
 dungeon.message.much_damage=Too much damage!
@@ -873,7 +903,9 @@ research.raumfahrt=Space Travel
 research.menelaus=Menelaus
 research.surveyscan.menelaus=Menelaus Surveyscan
 research.upgradeT3=Research Module - Experience
+research.bergbau2=Mining 2
 research.tyros=Tyros
+research.surveyscan.tyros=Tyros Surveyscan
 
 research.nanomanip=Nanostructure Manipulation
 research.quantentechnik=Quantum Tech
@@ -882,10 +914,8 @@ research.lasertechnik2=Laser Tech 2
 research.astronomie1=Astronomy 1
 
 research.drones=Drone Technology
-
-
-
 research.itempipe=Normal Pipe
+
 
 
 
@@ -933,6 +963,16 @@ research.hs.menelaus.mycel=Mycel and Mushroom
 research.hs.menelaus.mendel=Mendelberry
 research.hs.menelaus.entity=Alien Creatures
 
+research.story.tyros=Tyros Surveyscan
+research.hs.tyros.surface=Jungle Planet
+research.hs.tyros.prismid=Prismid
+research.hs.tyros.crystals=Bioterium Crystals
+research.hs.tyros.caves=Geothermal activity
+research.hs.tyros.tree=Tyros Tree
+research.hs.tyros.deadlands=Deadlands
+research.hs.tyros.topinambur=Jerusalem Artichoke
+research.hs.tyros.entity=Alien Creatures
+
 research.production.blockbreaker=Block Breaker
 research.production.blockplacer=Block Placer
 research.production.industrieofen=Industrial Furnace
@@ -969,6 +1009,7 @@ research.production.recycler.analyzer=Analyzer
 research.production.recycler.timemanipulator=Nanostructure Repair Unit
 research.production.deep_core=Deep Core Miner
 research.production.deep_core.processing=Deep Core Miner Operation
+research.production.opti_assembler=Optiassembler
 
 research.energy.generator=Generator
 research.energy.neonmotor=Neon Engine
@@ -1135,6 +1176,7 @@ research.tools.modul.battery=Energy Module
 research.tools.modul.magnet=Magnet Module 
 research.tools.modul.dynamo=Dynamo Module
 research.tools.modul.shield=Shield Generator
+research.tools.composite_fishingrod=Composite Fishing Rod
 
 futurepack.zentrifuge.name=Centrifuge Recipes
 futurepack.jei.neededsupport= %s SP

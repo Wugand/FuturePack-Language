@@ -1,0 +1,7 @@
+[
+	"Die Magnetrüstung ist nützlich wenn ich ständig Gegenstände vom Boden aufnehmen möchten. Aber sobald ich versuche Dinge wegzuwerfen, wird es nervig.",
+    "Ich habe dies mit einem Elektromagneten behoben, der ein- und ausgeschaltet werden kann. Dies wird mir hoffentlich helfen, große Mengen von Gegenständen aufzunehmen. Energie wird nur verwendet, wenn sich Gegenstände in der Nähe befinden, da er automatisch in einen Energiesparmodus wechselt.",
+    "Crafting:",
+    {"link":"fp:lang/part/cr_tools.modul.magnet.json"},
+	"Standardmäßig ist die Umschalttaste G, dies kann aber im Steuerungsmenü geändert werden."
+]
