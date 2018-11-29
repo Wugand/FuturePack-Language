@@ -1188,6 +1188,7 @@ futurepack.furnace.industrial.neon.name=Neonindustrieofen Rezepte
 futurepack.crusher.name=Superbrecher Rezepte
 futurepack.airbrush.name=Farbpistolen Rezepte
 futurepack.watercooler.name=Wasserkühler Rezepte
+futurepack.partpress.name=Teilstanze Rezepte
 
 jei.recycler.analyser.makesupport=Erzeugt SP
 jei.recycler.lasercutter.needpower=4x mehr NE
