@@ -658,11 +658,20 @@ item.polymer.name=有机聚合物
 item.quantanium_coil.name=量子线圈
 item.modul_battery.name=能源模块
 item.modul_shield.name=屏障发生器
+item.modul_oxygen_mask.name=氧气面罩
+item.modul_oxygen_tank.name=氧气罐
+item.modul_paraglider.name=高科技滑翔伞
+item.modul_magnet.name=磁力模块
+modular_armor.module.magnet.on=复合盔甲的磁力模块已启动
+modular_armor.module.magnet.off=复合盔甲的磁力模块已关闭
+modular_armor.module.magnet.notinstalled=磁力模块没有安装在复合盔甲内
+item.modul_dynamo.name=发电模块
 item.dungeon_key_0.name=地牢钥匙1
 item.dungeon_key_1.name=地牢钥匙2
 item.dungeon_key_2.name=地牢钥匙3
 item.dungeon_key_3.name=地牢钥匙4
 item.composite_fishing_rod.name=复合钓竿
+item.recipe_assembly.name=装配台配方
 
 itemGroup.fpTab.deco=Future Pack材料
 itemGroup.fpTab.maschiens=Future Pack机器
@@ -670,6 +679,7 @@ itemGroup.fpTab.items=Future Pack物品
 
 container.opticrafting=自动合成台
 container.collector=离子收集器
+container.assembly=装配台
 
 entity.FP-Gehuf.name=泽夫兽
 entity.FP-Crawler.name=外星蜘蛛
@@ -805,6 +815,8 @@ info.note.read=右键点击查看
 
 key.categories.futurepack=Futurepack
 key.fp.gleiter=降落伞 开/关
+key.fp.compositearmor=打开复合盔甲
+key.fp.modul_magnet=磁力模块开启/关闭
 
 research.need.achievement=需要 %s
 
@@ -831,10 +843,12 @@ research.decoration=装饰
 research.energieerzeugung=产能 1
 research.energielogistik=能量物流
 research.partpress=零件压制机
+research.fluidlogistik=液体管道
 
 research.upgradeT1=研究模块 - 能量
 research.assembly=芯片组
 research.calculation=计算模块
+research.armor=制造盔甲
 research.optik=光学
 research.energiespeicher=能源存储
 research.energieerzeugung2=产能2
