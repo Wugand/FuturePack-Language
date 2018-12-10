@@ -424,6 +424,7 @@ tile.syncronizer.name=同步器
 tile.deep_core_miner.name=深度矿机核心
 tile.rf_ne_converter.name=能量转换器
 tile.fluid_intake.name=流体吸收器
+tile.insert_node.name=塞子
 
 fluid.liquid.neon=液化氖
 fluid.saltwater=盐水
@@ -843,7 +844,7 @@ research.decoration=装饰
 research.energieerzeugung=产能 1
 research.energielogistik=能量物流
 research.partpress=零件压制机
-research.fluidlogistik=液体管道
+research.fluidlogistik=液体物流
 
 research.upgradeT1=研究模块 - 能量
 research.assembly=芯片组
@@ -1006,6 +1007,11 @@ research.log.flash.4=水晶闪存
 research.log.flash.5=同位素闪存
 research.log.flash.6=量子闪存
 
+research.log.tube=液体管道
+research.log.tank=液体储罐
+research.log.pump=液泵
+research.log.intake=液体吸收器
+
 research.assembly_chip=装配台
 research.motherboard=主板
 research.tuning=过载
@@ -1122,6 +1128,13 @@ research.tools.sword.retium=红石水晶剑
 research.tools.sword.glowtite=荧石水晶剑
 research.tools.sword.bioterium=有机水晶剑
 research.tools.laserrifle=镭射枪
+research.tools.modular_armor=复合盔甲
+research.tools.modul.oxygenmask=氧气供应
+research.tools.modul.paraglider=高科技滑翔伞
+research.tools.modul.battery=能量模块
+research.tools.modul.magnet=磁力模块
+research.tools.modul.dynamo=发电模块
+research.tools.modul.shield=护盾发生器
 
 futurepack.zentrifuge.name=离心配方
 futurepack.jei.neededsupport= %s SP
