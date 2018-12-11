@@ -1,7 +1,7 @@
 jobs:
   valid_json:
     docker:
-    - image: circleci/gradle:4.10.+
+    - image: circleci/openjdk:8-jdk-browsers
     steps:
       - checkout
       - run: apt-get install -y sudo
