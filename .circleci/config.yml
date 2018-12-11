@@ -6,6 +6,7 @@ jobs:
       - checkout
       - run:
           name: Checking JSON syntax
+          shell: /bin/bash
           command: |
             apt-get update
             apt-get install jsonlint
