@@ -4,8 +4,6 @@ jobs:
     - image: circleci/openjdk:8-jdk-browsers
     steps:
       - checkout
-      - run: apt-get install -y sudo
-      - run: ls -al /bin/sh && sudo rm /bin/sh && sudo ln -s /bin/bash /bin/sh && ls -al /bin/sh
       - run:
           name: Setup
           shell: /bin/bash
