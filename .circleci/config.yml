@@ -14,7 +14,7 @@ jobs:
           name: Checking JSON syntax
           shell: /bin/bash
           command: |
-            find |grep "\.json$" |jsonlint-php
+            find |grep "\.json$" |jsonlint-php --input-encoding=utf8
 workflows:
   version: 2
   test:
