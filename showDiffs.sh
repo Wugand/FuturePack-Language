@@ -13,7 +13,7 @@ list()
 		export sub="$(git log -1 --format="%at" -- $2/$fname)"
 		export base="$(git log -1 --format="%at" -- $1/$fname)"
 		if [ -z "$sub" ]; then		
-			echo "| $2/$fname | *does not exists* | - |"
+			echo "| $2/$fname | *does not exist* | - |"
 		else
 			if (( $base > $sub )); then
 				export timediff="$(expr $base - $sub)"
