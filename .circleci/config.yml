@@ -5,10 +5,10 @@ jobs:
     steps:
       - checkout
       - run:
-        name: Checking JSON syntax
-        command: |
-          apt install jsonlint
-          ls -R |grep "\.json$" |jsonlint
+          name: Checking JSON syntax
+          command: |
+            apt install jsonlint
+            ls -R |grep "\.json$" |jsonlint
 workflows:
   version: 2
   test:
