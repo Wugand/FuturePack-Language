@@ -4,8 +4,11 @@ jobs:
     - image: bash:4.4.19
     steps:
     - checkout
-    - run:apt install jsonlint
-    - run:ls -R |grep "\.json$" |jsonlint
+    - run:
+      name:Checking JSON syntax
+      command: |
+        apt install jsonlint
+        ls -R |grep "\.json$" |jsonlint
 workflows:
   version: 2
   test:
