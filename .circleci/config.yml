@@ -8,8 +8,8 @@ jobs:
           name: Setup
           shell: /bin/bash
           command: |
-            apt-get update
-            apt-get install jsonlint
+            sudo apt-get update
+            sudo apt-get install jsonlint
       - run:
           name: Checking JSON syntax
           shell: /bin/bash
