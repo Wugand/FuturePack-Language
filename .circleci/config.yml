@@ -18,11 +18,11 @@ jobs:
             (find |grep "\.json$"|while read fn;do
               jsonlint-php "$fn" -q
               if [ $? != "0" ]
-                error=1
+                then error=1
               fi
             done)
             if [ $error != "0" ]
-              exit 100
+              then exit 100
             fi
 workflows:
   version: 2
