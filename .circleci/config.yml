@@ -14,7 +14,7 @@ jobs:
           name: Checking JSON syntax
           shell: /bin/bash
           command: |
-            (find |grep "\.json$"|while read fn;do var1=$(jsonlint-php< <(cat "$fn")) if ![$var1=="Valid JSON"] then echo "$fn:$var1" fi;done)
+            (find |grep "\.json$"|while read fn;do var1=$(jsonlint-php< <(cat "$fn")) if ![ $var1=="Valid JSON" ] then echo "$fn:$var1" fi;done)
 workflows:
   version: 2
   test:
