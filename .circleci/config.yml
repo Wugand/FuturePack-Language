@@ -15,15 +15,16 @@ jobs:
           shell: /bin/bash
           command: |
             error=0
-            (find |grep "\.json$"|while read fn;do
+            while read fn;do
               jsonlint-php "$fn" -q
               if [ $? != "0" ]
                 then error=1
               fi
-            done)
+            done< <(find |grep "\.json$")
             if [ $error != "0" ]
               then
                 echo "Found errors in JSONs"
+                exit 1
                 BREAK!!!!
             fi
 workflows:
