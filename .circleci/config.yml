@@ -24,9 +24,10 @@ jobs:
             if [ $error != "0" ]
               then
                 echo "Found errors in JSONs"
-                exit 1
+                exit 13
                 BREAK!!!!
             fi
+            echo "No Syntax Errors found!"
 workflows:
   version: 2
   test:
