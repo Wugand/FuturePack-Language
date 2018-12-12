@@ -1,0 +1,36 @@
+jobs:
+  valid_json:
+    docker:
+    - image: circleci/openjdk:8-jdk-browsers
+    steps:
+      - checkout
+      - run:
+          name: Setup
+          shell: /bin/bash
+          command: |
+            sudo apt-get update
+            sudo apt-get install jsonlint
+      - run:
+          name: Checking JSON syntax #//jsonlint-php -q < <(cat "$fn")
+          shell: /bin/bash
+          command: |
+            error=0
+            while read fn;do
+              jsonlint-php "$fn" -q
+              if [ $? != "0" ]
+                then error=1
+              fi
+            done< <(find |grep "\.json$")
+            if [ $error != "0" ]
+              then
+                echo "Found errors in JSONs"
+                exit 13
+                BREAK!!!!
+            fi
+            echo "No Syntax Errors found!"
+workflows:
+  version: 2
+  test:
+    jobs:
+    - valid_json
+version: 2

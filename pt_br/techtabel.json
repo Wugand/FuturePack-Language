@@ -1,23 +1,10 @@
 [
 	"Eu desenvolvei uma bancada especial que tem armazenamento internal para itens. Isso me ajudará construir coisas com mais eficiência",
 	"Somente esta bancada tem as instalações para realizar as novas receitas que eu descobrirei logo.",
-
 	"Criando:",
 	{
-		"type": "crafting",
-		"slots": {
-			"1": "OreDict:ingotIron",
-			"2": "OreDict:ingotIron",
-			"3": "OreDict:ingotIron",
-			"4": "OreDict:ingotIron",
-			"5": {"name":"minecraft:crafting_table"},
-			"6": "OreDict:ingotIron",
-			"7": "OreDict:ingotIron",
-			"8": {"name":"minecraft:chest"},
-			"9": "OreDict:ingotIron",
-			"out": {"name":"fp:techtable","meta":0}
-		}
+		"link": "fp:lang/part/crafting_techtabel.json"
 	},
-	"IMPORTANTE: Todas as receitas habilitadas por este mod são SOMENTE possíveis nesta bancada!"
+	"IMPORTANTE: Todas as receitas habilitadas por este mod são SOMENTE possíveis nesta bancada!",
 	"Desde versão 1.12, a bancada normal (Vanilla) pode também ser usada."
 ]

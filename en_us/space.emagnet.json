@@ -5,5 +5,5 @@
 		"link":"fp:lang/part/cr_space.emagnet.json"
 	},
 	"This magnetic block is controlled by a computer system to prevent the coil from overheating and to fine tune the magnetic field and intensity. It should be noted that the speed of the RAM determines the frequency of the magnetic field, frequencies which can cause a lot of interference, stronger than normal magnetic sources could produce.",
-	"Supported chipsets:\nIndustrial chipset",
+	"Supported chipsets:\nIndustrial chipset"
 ]

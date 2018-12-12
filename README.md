@@ -1,3 +1,5 @@
+Build: [![CircleCI](https://circleci.com/gh/mcenderdragon/FuturePack-Language.svg?style=svg)](https://circleci.com/gh/mcenderdragon/FuturePack-Language)
+
 # FuturePack-Language
 Language-Files form FuturePack (Minecraft Mod)
 
