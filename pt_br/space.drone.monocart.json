@@ -5,8 +5,8 @@
 	"O monocarrinho pode ser posto com uma caixa de construção em cima de um monotrilho, e a caixa pode ser removida usando um scrench.",
 	"Com o botão no canto superior direito, eu posso mudar entre os interfaces: caminho e inventário. Ao lado do botão há a barra de energia.",
 	"Interface de Caminho:",
-	"Na área superior, todo ponto disponível é mostrado e pode ser adicionado ao caminho atual com o símbolo verde (+). É possível adicionar o mesmo ponto várias vezes."
-	"O caminho atual é mostrado na área inferior. Com o símbolo vermelho (-), eu posso remover pontos. Com as setas eu posso mudar a ordem."
+	"Na área superior, todo ponto disponível é mostrado e pode ser adicionado ao caminho atual com o símbolo verde (+). É possível adicionar o mesmo ponto várias vezes.",
+	"O caminho atual é mostrado na área inferior. Com o símbolo vermelho (-), eu posso remover pontos. Com as setas eu posso mudar a ordem.",
 	"Se houver mais pontos do quê pode ser mostrado em uma página só, uma barrinha amarela aparecerá à direita.",
 	"Interface de Inventário:",
 	"Para aumentar o alcance e armazenamento de energia, eu adicionei os lugares na área superior para baterias e células de energia, deixando um monocarrinho ser carregado se seu estoque internal de energia cair demais.",
