@@ -1,17 +1,8 @@
 [
-	"Manipular nano-estruturas exige um laser ajustável com alta precisão."
+	"Manipular nano-estruturas exige um laser ajustável com alta precisão.",
 	"Por isso, eu desenvolvei um novo lente baseado em uma esmerelda, que pode ser ajustada por correntes elétricas. Para atingir precisão tão alta, criação usa bastante pontos de apoio.",
 	"Criando:",
 	{
-		"type": "industrialneonfurnace",
-		"slots": {
-			"in1":  {"OreDict":"ingotAluminum", "size":1},
-			"in2":  {"name":"minecraft:stained_glass_pane", "meta":5, "size":1},
-			"in3":  {"OreDict":"gemEmerald", "size":1},
-			"out1": {"name":"fp:spaceship", "meta":"<spaceship.LinseG>", "size":1},
-			"out2": {},
-			"out3": {}
-		},
-		"support":30
+		"link": "fp:lang/part/industrialneonfurnace_production.nind.linse.g.json"
 	}
 ]

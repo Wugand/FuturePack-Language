@@ -1,23 +1,10 @@
 [
-    "Meu computador da nave antigo infelizmente não consegue calcular os caminhos para o Drive FTL. Porque, apesar de ter um processador no próprio drive, dados ainda mais precisos são necessários para controlar e corregir o curso. Ainda mais porque eu preciso compensar para o lógico espaço-tempo (ou falta do mesmo) e efeitos da mechânica quântica. É por isto que eu desenvolvei um upgrade e usei um computador quântico poderoso para o núcleo.",
-    "Eu também consertei alguns problemas que havia na primeira versão do computador da nave. Por exemplo, a mensagem 'Sua nave espacial está aberta.' também aponta onde está aberta."
-    
+    "Meu computador da nave antigo infelizmente não consegue calcular os caminhos para o Drive FTL. Porque, apesar de ter um processador no próprio drive, dados ainda mais precisos são necessários para controlar e corregir o curso. Ainda mais porque eu preciso compensar para o lógico espaço-tempo (ou falta do mesmo) e efeitos da mechânica quântica. É por isto que eu desenvolvei um upgrade e usei um computador quântico poderoso para o núcleo.",
+    "Eu também consertei alguns problemas que havia na primeira versão do computador da nave. Por exemplo, a mensagem 'Sua nave espacial está aberta.' também aponta onde está aberta.",
     "Criando:",
     {
-        "type": "crafting",
-        "slots": {
-            "1": {"name":"fp:spaceship","meta":"<spaceship.IronCoil>"},
-            "2": {"name":"fp:erz_blocke","meta":9},
-            "3": {"name":"fp:spaceship","meta":"<spaceship.IronCoil>"},
-            "4": {"name":"fp:spaceship","meta":"<spaceship.Polymer>"},
-            "5": [{"name":"fp:board_computer","meta":2},{"name":"fp:board_computer","meta":6},{"name":"fp:board_computer","meta":10}],
-            "6": {"name":"fp:spaceship","meta":"<spaceship.Polymer>"},
-            "7": {"name":"fp:ram","meta":4},
-            "8": {"name":"fp:core","meta":4},
-            "9": {"name":"fp:ram","meta":4},
-            "out": [{"name":"fp:advanced_boardcomputer","meta":2},{"name":"fp:advanced_boardcomputer","meta":6},{"name":"fp:advanced_boardcomputer","meta":10}]
-        }
+        "link": "fp:lang/part/crafting_space.advanced.json"
     },
-    "Mais informações são disponíveis na página do computador da nave.",
-    "Dependendo na cor do encaixe, cada computador da nave tem uma interface gráfica diferente."
+    "Mais informações são disponíveis na página do computador da nave.",
+    "Dependendo na cor do encaixe, cada computador da nave tem uma interface gráfica diferente."
 ]
