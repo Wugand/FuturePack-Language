@@ -22,7 +22,9 @@ jobs:
               fi
             done)
             if [ $error != "0" ]
-              then exit 100
+              then
+                echo "Found errors in JSONs"
+                BREAK!!!!
             fi
 workflows:
   version: 2
