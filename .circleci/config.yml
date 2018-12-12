@@ -11,12 +11,12 @@ jobs:
             sudo apt-get update
             sudo apt-get install jsonlint
       - run:
-          name: Checking JSON syntax
+          name: Checking JSON syntax #//jsonlint-php -q < <(cat "$fn")
           shell: /bin/bash
           command: |
             (find |grep "\.json$"|while read fn;do
               echo $fn
-          #    #jsonlint-php -q < <(cat "$fn")
+             
               jsonlint-php "$fn" -q
             ;done)
 workflows:
