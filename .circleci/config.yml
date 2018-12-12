@@ -14,9 +14,16 @@ jobs:
           name: Checking JSON syntax #//jsonlint-php -q < <(cat "$fn")
           shell: /bin/bash
           command: |
+            error=0
             (find |grep "\.json$"|while read fn;do
               jsonlint-php "$fn" -q
+              if [ $? != "0" ]
+                error=1
+              fi
             done)
+            if [ $error != "0" ]
+              exit 100
+            fi
 workflows:
   version: 2
   test:
