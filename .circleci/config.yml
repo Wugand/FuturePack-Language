@@ -16,9 +16,8 @@ jobs:
           command: |
             (find |grep "\.json$"|while read fn;do
               echo $fn
-             
               jsonlint-php "$fn" -q
-            ;done)
+            done)
 workflows:
   version: 2
   test:
