@@ -14,7 +14,11 @@ jobs:
           name: Checking JSON syntax
           shell: /bin/bash
           command: |
-            (find |grep "\.json$"|while read fn;do var1=$(jsonlint-php -q < <(cat "$fn")) ;done)
+            (find |grep "\.json$"|while read fn;do
+              echo $fn
+          #    #jsonlint-php -q < <(cat "$fn")
+              jsonlint-php "$fn" -q
+            ;done)
 workflows:
   version: 2
   test:
