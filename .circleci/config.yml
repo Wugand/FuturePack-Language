@@ -15,8 +15,10 @@ jobs:
           shell: /bin/bash
           command: |
             (find |grep "\.json$"|while read fn;do
-              echo $fn
               jsonlint-php "$fn" -q
+              if [ $? != "0" ]
+                then echo "in $fn"
+              fi
             done)
 workflows:
   version: 2
