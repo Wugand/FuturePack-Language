@@ -1,4 +1,4 @@
-#Futurepack-1.12.2-26.3.203～
+#Futurepack-1.12.2-26.3.488
 #ice_ink
 
 tile.colorIron_white.name=金属体(白色)
@@ -10,7 +10,7 @@ tile.colorIron_lime.name=金属体(黄緑色)
 tile.colorIron_pink.name=金属体(桃色)
 tile.colorIron_gray.name=金属体(灰色)
 tile.colorIron_silver.name=金属体(薄灰色)
-tile.colorIron_cyan.name=金属体(水色)
+tile.colorIron_cyan.name=金属体(青緑色)
 tile.colorIron_purple.name=金属体(紫色)
 tile.colorIron_blue.name=金属体(青色)
 tile.colorIron_brown.name=金属体(茶色)
@@ -27,7 +27,7 @@ tile.colorLuftung_lime.name=通気口(黄緑色)
 tile.colorLuftung_pink.name=通気口(桃色)
 tile.colorLuftung_gray.name=通気口(灰色)
 tile.colorLuftung_silver.name=通気口(薄灰色)
-tile.colorLuftung_cyan.name=通気口(水色)
+tile.colorLuftung_cyan.name=通気口(青緑色)
 tile.colorLuftung_purple.name=通気口(紫色)
 tile.colorLuftung_blue.name=通気口(青色)
 tile.colorLuftung_brown.name=通気口(茶色)
@@ -44,7 +44,7 @@ tile.colorGitter_lime.name=メッシュブロック(黄緑色)
 tile.colorGitter_pink.name=メッシュブロック(桃色)
 tile.colorGitter_gray.name=メッシュブロック(灰色)
 tile.colorGitter_silver.name=メッシュブロック(薄灰色)
-tile.colorGitter_cyan.name=メッシュブロック(水色)
+tile.colorGitter_cyan.name=メッシュブロック(青緑色)
 tile.colorGitter_purple.name=メッシュブロック(紫色)
 tile.colorGitter_blue.name=メッシュブロック(青色)
 tile.colorGitter_brown.name=メッシュブロック(茶色)
@@ -61,7 +61,7 @@ tile.colorGlas_lime.name=防護ガラスブロック(黄緑色)
 tile.colorGlas_pink.name=防護ガラスブロック(桃色)
 tile.colorGlas_gray.name=防護ガラスブロック(灰色)
 tile.colorGlas_silver.name=防護ガラスブロック(薄灰色)
-tile.colorGlas_cyan.name=防護ガラスブロック(水色)
+tile.colorGlas_cyan.name=防護ガラスブロック(青緑色)
 tile.colorGlas_purple.name=防護ガラスブロック(紫色)
 tile.colorGlas_blue.name=防護ガラスブロック(青色)
 tile.colorGlas_brown.name=防護ガラスブロック(茶色)
@@ -78,7 +78,7 @@ tile.colorIronTreppe_lime.name=金属体の階段(黄緑色)
 tile.colorIronTreppe_pink.name=金属体の階段(桃色)
 tile.colorIronTreppe_gray.name=金属体の階段(灰色)
 tile.colorIronTreppe_silver.name=金属体の階段(薄灰色)
-tile.colorIronTreppe_cyan.name=金属体の階段(水色)
+tile.colorIronTreppe_cyan.name=金属体の階段(青緑色)
 tile.colorIronTreppe_purple.name=金属体の階段(紫色)
 tile.colorIronTreppe_blue.name=金属体の階段(青色)
 tile.colorIronTreppe_brown.name=金属体の階段(茶色)
@@ -95,7 +95,7 @@ tile.colorGitterTreppe_lime.name=メッシュの階段(黄緑色)
 tile.colorGitterTreppe_pink.name=メッシュの階段(桃色)
 tile.colorGitterTreppe_gray.name=メッシュの階段(灰色)
 tile.colorGitterTreppe_silver.name=メッシュの階段(薄灰色)
-tile.colorGitterTreppe_cyan.name=メッシュの階段(水色)
+tile.colorGitterTreppe_cyan.name=メッシュの階段(青緑色)
 tile.colorGitterTreppe_purple.name=メッシュの階段(紫色)
 tile.colorGitterTreppe_blue.name=メッシュの階段(青色)
 tile.colorGitterTreppe_brown.name=メッシュの階段(茶色)
@@ -112,7 +112,7 @@ tile.colorIronStep_lime.name=金属体のハーフブロック(黄緑色)
 tile.colorIronStep_pink.name=金属体のハーフブロック(桃色)
 tile.colorIronStep_gray.name=金属体のハーフブロック(灰色)
 tile.colorIronStep_silver.name=金属体のハーフブロック(薄灰色)
-tile.colorIronStep_cyan.name=金属体のハーフブロック(水色)
+tile.colorIronStep_cyan.name=金属体のハーフブロック(青緑色)
 tile.colorIronStep_purple.name=金属体のハーフブロック(紫色)
 tile.colorIronStep_blue.name=金属体のハーフブロック(青色)
 tile.colorIronStep_brown.name=金属体のハーフブロック(茶色)
@@ -129,7 +129,7 @@ tile.colorGitterStep_lime.name=メッシュハーフブロック(黄緑色)
 tile.colorGitterStep_pink.name=メッシュハーフブロック(桃色)
 tile.colorGitterStep_gray.name=メッシュハーフブロック(灰色)
 tile.colorGitterStep_silver.name=メッシュハーフブロック(薄灰色)
-tile.colorGitterStep_cyan.name=メッシュハーフブロック(水色)
+tile.colorGitterStep_cyan.name=メッシュハーフブロック(青緑色)
 tile.colorGitterStep_purple.name=メッシュハーフブロック(紫色)
 tile.colorGitterStep_blue.name=メッシュハーフブロック(青色)
 tile.colorGitterStep_brown.name=メッシュハーフブロック(茶色)
@@ -146,7 +146,7 @@ tile.colorLuftungStep_lime.name=通気口ハーフブロック(黄緑色)
 tile.colorLuftungStep_pink.name=通気口ハーフブロック(桃色)
 tile.colorLuftungStep_gray.name=通気口ハーフブロック(灰色)
 tile.colorLuftungStep_silver.name=通気口ハーフブロック(薄灰色)
-tile.colorLuftungStep_cyan.name=通気口ハーフブロック(水色)
+tile.colorLuftungStep_cyan.name=通気口ハーフブロック(青緑色)
 tile.colorLuftungStep_purple.name=通気口ハーフブロック(紫色)
 tile.colorLuftungStep_blue.name=通気口ハーフブロック(青色)
 tile.colorLuftungStep_brown.name=通気口ハーフブロック(茶色)
@@ -166,7 +166,7 @@ tile.colorFence_lime.name=金属体のフェンス(黄緑色)
 tile.colorFence_pink.name=金属体のフェンス(桃色)
 tile.colorFence_gray.name=金属体のフェンス(灰色)
 tile.colorFence_silver.name=金属体のフェンス(薄灰色)
-tile.colorFence_cyan.name=金属体のフェンス(水色)
+tile.colorFence_cyan.name=金属体のフェンス(青緑色)
 tile.colorFence_purple.name=金属体のフェンス(紫色)
 tile.colorFence_blue.name=金属体のフェンス(青色)
 tile.colorFence_brown.name=金属体のフェンス(茶色)
@@ -183,7 +183,7 @@ tile.color_gate_5.name=金属体のフェンスゲート(黄緑色)
 tile.color_gate_6.name=金属体のフェンスゲート(桃色)
 tile.color_gate_7.name=金属体のフェンスゲート(灰色)
 tile.color_gate_8.name=金属体のフェンスゲート(薄灰色)
-tile.color_gate_9.name=金属体のフェンスゲート(水色)
+tile.color_gate_9.name=金属体のフェンスゲート(青緑色)
 tile.color_gate_10.name=金属体のフェンスゲート(紫色)
 tile.color_gate_11.name=金属体のフェンスゲート(青色)
 tile.color_gate_12.name=金属体のフェンスゲート(茶色)
@@ -201,7 +201,7 @@ tile.colorPane_lime.name=メッシュボード(黄緑色)
 tile.colorPane_pink.name=メッシュボード(桃色)
 tile.colorPane_gray.name=メッシュボード(灰色)
 tile.colorPane_silver.name=メッシュボード(薄灰色)
-tile.colorPane_cyan.name=メッシュボード(水色)
+tile.colorPane_cyan.name=メッシュボード(青緑色)
 tile.colorPane_purple.name=メッシュボード(紫色)
 tile.colorPane_blue.name=メッシュボード(青色)
 tile.colorPane_brown.name=メッシュボード(茶色)
@@ -220,7 +220,7 @@ tile.colorNeonLamp_lime.name=ネオンランプ(黄緑色)
 tile.colorNeonLamp_pink.name=ネオンランプ(桃色)
 tile.colorNeonLamp_gray.name=ネオンランプ(灰色)
 tile.colorNeonLamp_silver.name=ネオンランプ(薄灰色)
-tile.colorNeonLamp_cyan.name=ネオンランプ(水色)
+tile.colorNeonLamp_cyan.name=ネオンランプ(青緑色)
 tile.colorNeonLamp_purple.name=ネオンランプ(紫色)
 tile.colorNeonLamp_blue.name=ネオンランプ(青色)
 tile.colorNeonLamp_brown.name=ネオンランプ(茶色)
@@ -237,7 +237,7 @@ tile.colorPlasmaLamp_lime.name=プラズマランプ(黄緑色)
 tile.colorPlasmaLamp_pink.name=プラズマランプ(桃色)
 tile.colorPlasmaLamp_gray.name=プラズマランプ(灰色)
 tile.colorPlasmaLamp_silver.name=プラズマランプ(薄灰色)
-tile.colorPlasmaLamp_cyan.name=プラズマランプ(水色)
+tile.colorPlasmaLamp_cyan.name=プラズマランプ(青緑色)
 tile.colorPlasmaLamp_purple.name=プラズマランプ(紫色)
 tile.colorPlasmaLamp_blue.name=プラズマランプ(青色)
 tile.colorPlasmaLamp_brown.name=プラズマランプ(茶色)
@@ -319,6 +319,7 @@ tile.crusher.name=特殊粉砕機
 tile.entityeater_eater.name=吸引レーザータレット
 tile.entityeater_killer.name=レーザータレット
 tile.entityeater_healer.name=再生レーザータレット
+tile.entityeater_rocket.name=ロケットランチャー
 tile.brennstoff_generator.name=ネオンジェネレータ
 
 tile.bateriebox.name=NEバッテリーボックス
@@ -406,10 +407,12 @@ tile.planks_menelaus_mushroom.name=メネラーオスの木材
 tile.planks_tyros.name=テュロスの木材
 
 tile.fluid_tube.name=液体チューブ
-tile.fluid_pump.name=液体ポンプ
+tile.fp_fluid_pump.name=液体ポンプ
 tile.fluid_tank.name=液体タンク
 tile.fluid.saltwater.name=塩水
 tile.fluid.liquid.neon.name=液体ネオン
+tile.fluid.liquid.biogas.name=バイオガス
+
 tile.wr_receiver.name=レシーバー - レッドストーンの粉がありません
 tile.wr_transmitter.name=トランスミッター - レッドストーンの粉がありません
 tile.wr_transmitter_i.name=インベントリトランスミッター - レッドストーンの粉がありません
@@ -428,10 +431,21 @@ tile.syncronizer.name=シンクロナイザー
 tile.deep_core_miner.name=ディープコアマイナー
 tile.rf_ne_converter.name=フラックス変換機
 tile.fluid_intake.name=液体インテーク
+tile.insert_node.name=液体弁
+tile.opti_assembler.name=光学アセンブラー
+
+tile.prismid.name=プリズマイド
+tile.prismid_stone.name=プリズマイド・ヴェイン
+tile.topinambur.name=エルサレム・アーティチョーク
+tile.oxades.name=オキサディーズ
+
+tile.fermentationBarrel.name=発酵槽バレル
+tile.gasturbine.name=NEガスタービン
 
 fluid.liquid.neon=液体ネオン
 fluid.saltwater=塩水
 fluid.liquid.bitripentium=ビテリペンティウム燃料
+fluid.liquid.biogas=バイオガス
 
 item.scrench.name=スクレンチ
 item.NeonBattery_full.name=ネオンバッテリー
@@ -553,7 +567,7 @@ item.aiflash4.name=アイソトープ・フラッシュメモリ
 item.aiflash5.name=量子ビット・フラッシュメモリ
 item.drone_engine.name=ドローンエンジン
 
-item.entityegger.name=エンティティ エッグ
+item.entityegger.name=エンティティ-エッグ
 item.spawnerchest.name=スポナーチェスト
 item.spawnerchest_full.name=スポナーチェスト(保持)
 item.minerbox.name=格納ボックス - マイナードローン
@@ -629,13 +643,15 @@ item.pearlegger_empty.name=空のパールエッガー
 item.record_futurepack.name=音楽レコード
 item.record.futurepack.desc=マンティス - Futurepackサウンドトラック
 item.record_fp_menelaus.name=音楽レコード
-item.record.fp_menelaus.desc=マンティス - Voice of Menelaus
+item.record.fp_menelaus.desc=マンティス - Voice of Menelaus/ﾒﾈﾗｰｵｽからの声
 item.record_fp_tyros.name=音楽レコード
-item.record.fp_tyros.desc=マンティス - Voice of Tyros
+item.record.fp_tyros.desc=マンティス - Voice of Tyros/ﾃｭﾛｽからの声
 item.record_fp_entros.name=音楽レコード
-item.record.fp_entros.desc=マンティス - Voice of Entros
+item.record.fp_entros.desc=マンティス - Voice of Entros/門からの声
 item.record_fp_unknown.name=不明なレコード
-item.record.fp_unknown.desc=マンティス 1
+item.record.fp_unknown.desc=マーティン 1
+item.record_fp_envia.name=音楽レコード
+item.record.fp_envia.desc=マンティス - Voice of Envia/送信元からの声
 
 item.mendel_berry.name=メンデルベリー
 item.mendel_seed.name=メンデルベリーの種
@@ -651,6 +667,7 @@ item.glowshroom_stew.name=輝くシチュー
 item.salad.name=ミックスサラダ
 item.hufsteak.name=生の脚肉
 item.grillhufsteak.name=脚肉のステーキ
+item.astrofood4.name=糧食チューブ - Alien Goo/エイリアングー
 
 item.sword_handle.name=ソードハンドル
 item.EnergyCell_full.name=ネオンエネルギーセル
@@ -676,6 +693,16 @@ item.dungeon_key_2.name=ダンジョンキー III
 item.dungeon_key_3.name=ダンジョンキー IV
 item.composite_fishing_rod.name=複合材の釣り竿
 item.recipe_assembly.name=組み立てレシピ
+item.recipe_assembly.name=光学アセンブラー
+
+item.topinambur_potato.name=エルサレム・アーティチョークの塊茎
+item.topinambur_flower.name=エルサレム・アーティチョークの花
+item.oxades_seed.name=オキサディーズ
+
+item.rocket.name=ロケット弾
+item.rocket_blaze.name=焼夷ロケット弾
+item.rocket_plasma.name=プラズマロケット
+item.rocket_bioterium.name=猛毒ロケット
 
 itemGroup.fpTab.deco=Future Pack 素材
 itemGroup.fpTab.maschiens=Future Pack 機械
@@ -684,6 +711,7 @@ itemGroup.fpTab.items=Future Pack アイテム
 container.opticrafting=光学作業台
 container.collector=イオンコレクター
 container.assembly=組み立て
+container.blockplacer=ブロックプレイサー
 
 entity.FP-Gehuf.name=ゲフ・フ
 entity.FP-Crawler.name=クロウラー
@@ -727,6 +755,10 @@ chat.spaceship.missingBeam=宇宙船: 転送装置がありません。
 chat.spaceship.missingFuel=宇宙船: スラスターへの燃料が足りていません。動力が必要なスラスターが %s 基あります。
 
 chat.research.add=[ %s ]の研究が完了しました。
+
+chat.escanner.athmosphere.breathable=ここの大気は酸素を含み、呼吸することができます。
+chat.escanner.athmosphere.filled=ここの大気には酸素が無く、呼吸ができません。 この部屋は%sで満たされています。 %s%%と%sの空気があります。(一人用) 
+
 research.useblock.missing=あなたはこのオブジェクトの使い方を知りません！
 
 hologram.error.set.notsupported=このブロックへホログラムを設定することはできません!
@@ -734,6 +766,18 @@ hologram.error.set.notileentity=このブロックへホログラムを設定す
 hologram.error.select.tileentity=このブロックを、ホログラムに使用することはできません!
 
 laser.attack.warn.time=警告: 立ち入り禁止区域です。%s 秒の猶予を与えます。
+
+laser.attack.player.name=プレイヤーを攻撃
+laser.attack.neutral.name=中立mobを攻撃
+laser.attack.mobs.name=mobを攻撃
+laser.kill.not.name=殺さない
+laser.player.warn.name=対象に警告を発する
+laser.player.distance.name=特定範囲を防衛(10ブロック)
+laser.wait.10.name=警告時間 10秒
+laser.wait.15.name=警告時間 15秒
+laser.wait.30.name=警告時間 30秒
+laser.wait.60.name=警告時間 60秒
+laser.ballista.name=マークされた対象にのみ
 
 dungeon.message.double_power=ダブルパワー！
 dungeon.message.much_damage=大きな損傷です！
@@ -867,8 +911,9 @@ research.erneuerbare=再生可能エネルギー
 research.aispeicher=人工知能の進歩
 research.energietools=エネルギーツール
 research.lasertechnik=レーザー工学 I
-research.bergbau=採掘計画
-research.waffentechnik=兵器類
+research.bergbau=採掘計画 I
+research.waffentechnik1=兵器類 I
+research.waffentechnik2=兵器類 II
 research.production3=製造 III
 research.netzwerke=ネットワーク
 research.hologrammtechnik=ホログラム技術
@@ -876,7 +921,9 @@ research.raumfahrt=スペーストラベル
 research.menelaus=メネラーオス
 research.surveyscan.menelaus=メネラーオスの探検と調査
 research.upgradeT3=研究周辺機器 - 経験値
+research.bergbau2=採掘計画 II
 research.tyros=テュロス
+research.surveyscan.tyros=テュロスの探検と調査
 
 research.nanomanip=ナノ構造操作技術
 research.quantentechnik=量子工学
@@ -885,10 +932,8 @@ research.lasertechnik2=レーザー工学 II
 research.astronomie1=アストロノミー I
 
 research.drones=ドローン技術
-
-
-
 research.itempipe=ノーマルパイプ
+
 
 
 
@@ -936,6 +981,16 @@ research.hs.menelaus.mycel=菌糸とキノコ
 research.hs.menelaus.mendel=メンデルベリー
 research.hs.menelaus.entity=異星の生命体
 
+research.story.tyros=テュロスの探検と調査
+research.hs.tyros.surface=密林の植生
+research.hs.tyros.prismid=プリズマイド
+research.hs.tyros.crystals=バイオテリウムの結晶群
+research.hs.tyros.caves=地熱活動
+research.hs.tyros.tree=テュロスの樹木
+research.hs.tyros.deadlands=デッド・アイランド
+research.hs.tyros.topinambur=エルサレム・アーティチョーク
+research.hs.tyros.entity=異星の生命体
+
 research.production.blockbreaker=ブロックブレイカー
 research.production.blockplacer=ブロックプレイサー
 research.production.industrieofen=溶岩熱製錬炉
@@ -972,6 +1027,7 @@ research.production.recycler.analyzer=アナライザー
 research.production.recycler.timemanipulator=ナノ構造修復ユニット
 research.production.deep_core=ディープコアマイナー
 research.production.deep_core.processing=ディープコアマイナー オペレーション
+research.production.opti_assembler=光学アセンブラー
 
 research.energy.generator=ジェネレーター
 research.energy.neonmotor=ネオンエンジン
@@ -980,6 +1036,8 @@ research.energy.solar=ソーラーパネル
 research.energy.wasser_turbine=ウォータータービン
 research.energy.ionen=イオン コレクター
 research.energy.fluxtransformer=フラックス変換機
+research.energy.fermentation=バイオ発酵槽
+research.energy.gasturbine=NEガスタービン
 
 research.log.itempipe=ノーマルパイプ
 research.log.cable=NEケーブル
@@ -1085,6 +1143,7 @@ research.space.navcord.tyros=テュロスの座標
 research.space.dronestation=ドローンステーション
 research.space.claime=ゾーントランスミッター
 research.space.miner=マイニングドローン
+research.space.turret.rocket=ロケットランチャー
 research.space.turret.killer=レーザータレット
 research.space.turret.heal=医療レーザー
 research.space.turret.absorb=吸引レーザー
@@ -1138,6 +1197,7 @@ research.tools.modul.battery=エネルギーモジュール
 research.tools.modul.magnet=マグネットモジュール
 research.tools.modul.dynamo=ダイナモモジュール
 research.tools.modul.shield=シールドジェネレイター
+research.tools.composite_fishingrod=複合材の釣り竿
 
 futurepack.zentrifuge.name=遠心分離レシピ
 futurepack.jei.neededsupport=%s SP
@@ -1149,6 +1209,7 @@ futurepack.furnace.industrial.neon.name=ネオン工業製錬炉
 futurepack.crusher.name=特殊粉砕レシピ
 futurepack.airbrush.name=エアブラシレシピ
 futurepack.watercooler.name=水冷クーラーレシピ
+futurepack.partpress.name=塑性加工機レシピ
 
 jei.recycler.analyser.makesupport=SPを創出します。
 jei.recycler.lasercutter.needpower=4倍のNEが必要です。
