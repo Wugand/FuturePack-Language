@@ -401,7 +401,7 @@ tile.planks_menelaus_mushroom.name=Доски Менелая
 tile.planks_tyros.name=Доски Тироса
 
 tile.fluid_tube.name=Жидкостная труба
-tile.fluid_pump.name=Насос
+tile.fp_fluid_pump.name=Насос
 tile.fluid_tank.name=Жидкостный резервуар
 tile.fluid.saltwater.name=Соленая вода
 tile.fluid.liquid.neon.name=Жидкий Неон
@@ -615,7 +615,7 @@ item.saatgranate.name=Семенная граната
 
 item.shredder.name=Измельчитель
 item.lasercutter.name=Лазерный резак
-item.analyzer.name=Анализатор
+item.fp_analyzer.name=Анализатор
 item.timemanipulator.name=Блок восстановления наноструктуры
 
 item.pearlegger.name=Активированная Жемчужина эггерс

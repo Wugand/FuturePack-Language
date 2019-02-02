@@ -401,7 +401,7 @@ tile.planks_menelaus_mushroom.name=门勒兰木板
 tile.planks_tyros.name=泰瑞木板
 
 tile.fluid_tube.name=流体管道
-tile.fluid_pump.name=液泵
+tile.fp_fluid_pump.name=液泵
 tile.fluid_tank.name=流体储罐
 tile.fluid.saltwater.name=盐水
 tile.fluid.liquid.neon.name=液化氖
@@ -616,7 +616,7 @@ item.saatgranate.name=种子榴弹
 
 item.shredder.name=碎纸机
 item.lasercutter.name=激光切割器
-item.analyzer.name=分析仪
+item.fp_analyzer.name=分析仪
 item.timemanipulator.name=时间机械臂
 
 item.pearlegger.name=激活的珍珠发生器

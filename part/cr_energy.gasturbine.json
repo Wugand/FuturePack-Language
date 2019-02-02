@@ -1,0 +1,6 @@
+[
+	{
+		"type": "crafting",
+		"load": ["fp:gasturbine_2", "fp:gasturbine_6", "fp:gasturbine_10"]
+	}
+]

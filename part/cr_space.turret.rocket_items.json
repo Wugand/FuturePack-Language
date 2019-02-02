@@ -1,0 +1,18 @@
+[
+    {
+        "type":"crafting",
+        "load":"fp:rocket"
+    },
+    {
+        "type":"crafting",
+        "load":"fp:rocket_bioterium"
+    },
+    {
+        "type":"crafting",
+        "load":"fp:rocket_blaze"
+    },
+    {
+        "type":"crafting",
+        "load":"fp:rocket_plasma"
+    }
+]

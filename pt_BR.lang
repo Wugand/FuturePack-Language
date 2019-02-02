@@ -401,7 +401,7 @@ tile.planks_menelaus_mushroom.name=Pranchas de Menelaus
 tile.planks_tyros.name=Pranchas de Tyros
 
 tile.fluid_tube.name=Tubo para Fluidos
-tile.fluid_pump.name=Bomba
+tile.fp_fluid_pump.name=Bomba
 tile.fluid_tank.name=Tanque
 tile.fluid.saltwater.name=Água Salgada
 tile.fluid.liquid.neon.name=Néon Líquido
@@ -612,7 +612,7 @@ item.saatgranate.name=Grenada de Sementes
 
 item.shredder.name=Triturador
 item.lasercutter.name=Cortador de Laser
-item.analyzer.name=Analisador
+item.fp_analyzer.name=Analisador
 item.timemanipulator.name=Unidade de Reparo de Nanoestruturas
 
 item.pearlegger.name=Peraperna Ativada

@@ -1,0 +1,12 @@
+[
+   "Ich habe einen automatischen Raketenwerfer entwickelt. Er zielt auf Kreaturen in Reichweite und schießt solange Raketen auf sie, bis sie tot sind. Das Computersystem hilft bei der Zielverfolgung, wenn sich die Kreaturen bewegen.",
+    "Crafting:",
+    {"link":"fp:lang/part/cr_space.turret.rocket.json"},
+    "Die Raketen selbst haben Zielverfolgung durch einen Logik Chipsatz. Das bedeutet selbst fliegende Kreaturen können getroffen werden. Verschiedenen Typen von Raketen werden unterstützt. Während die normalen Raketen auch Blöcke zerstören, machen dies die Plasmaraketen nicht, dass wird sicherlich hilfreich um Gebäude zu schützen.",
+    {"link":"fp:lang/part/cr_space.turret.rocket_items.json"},
+    "Unterstützte Chipsätze:",
+    "Taktikkontrollchipsatz: Erhöht den Radius in dem Ziele gesucht werden",
+    "KI-Chipsatz: Erweiterte Konfiguration mittels GUI !",
+    "Transport Chipsatz: Die fallen gelassenen Items werden zum Laser hintransportiert.",
+    "Ultimativer Chipsatz: Die Kreaturen lassen Erfahrung fallen."
+]

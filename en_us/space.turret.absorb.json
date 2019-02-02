@@ -7,5 +7,7 @@
 	"Supported Chipsets",
 	"Industrial Chipset: Increases the created energy per healthpoint.",
 	"Tactical Control Chipset: Increases the target search radius.",
-	"AI Chipset: Advanced configuration with GUI !"
+	"AI Chipset: Advanced configuration with GUI !",
+	"Ultimate Chipset: The killed entities will drop XP.",
+    "Logistic Chipset: The dropped items will get transported to the laser."
 ]

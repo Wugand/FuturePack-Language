@@ -7,6 +7,8 @@
 	"Unterstützte Chipsätze:",
 	"Industriechipsatz: Verringert die benötigte Energie zum töten einer Kreatur",
 	"Taktikkontrollcipsatz: Erhöht den Radius in dem Ziele gesucht werden",
-	"KI-Chipsatz: Erweiterte Konfiguration mittels GUI !"
+	"KI-Chipsatz: Erweiterte Konfiguration mittels GUI !",
+	"Transport Chipsatz: Die fallen gelassenen Items werden zum Laser hin transportiert.",
+	"Ultimativer Chipsatz: Die Kreaturen lassen Erfahrung fallen."
 	
 ]

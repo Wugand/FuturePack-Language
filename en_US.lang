@@ -314,6 +314,7 @@ tile.crusher.name=Super Crusher
 tile.entityeater_eater.name=Absorption Laser
 tile.entityeater_killer.name=Laser Turret
 tile.entityeater_healer.name=Regeneration Laser
+tile.entityeater_rocket.name=Rocket Launcher
 tile.brennstoff_generator.name=Generator
 
 tile.bateriebox.name=Battery Box
@@ -401,10 +402,11 @@ tile.planks_menelaus_mushroom.name=Menelaus Planks
 tile.planks_tyros.name=Tyros Planks
 
 tile.fluid_tube.name=Fluid Tube
-tile.fluid_pump.name=Pump
+tile.fp_fluid_pump.name=Pump
 tile.fluid_tank.name=Fluid Tank
 tile.fluid.saltwater.name=Salt Water
 tile.fluid.liquid.neon.name=Liquid Neon
+tile.fluid.liquid.biogas.name=Biogas
 
 tile.wr_receiver.name=Receiver - Powderless Redstone
 tile.wr_transmitter.name=Transmitter - Powderless Redstone
@@ -432,9 +434,13 @@ tile.prismid_stone.name=Prismid Vein
 tile.topinambur.name=Jerusalem Artichoke
 tile.oxades.name=Oxades
 
+tile.fermentationBarrel.name=Fermentation Barrel
+tile.gasturbine.name=Gas Turbine
+
 fluid.liquid.neon=Neon Liquid
 fluid.saltwater=Salt Water
 fluid.liquid.bitripentium=Bitripentium-Fuel
+fluid.liquid.biogas=Biogas
 
 item.scrench.name=Scrench
 item.NeonBattery_full.name=Neon Battery
@@ -622,7 +628,7 @@ item.saatgranate.name=Seed Grenade
 
 item.shredder.name=Shredder
 item.lasercutter.name=Lasercutter
-item.analyzer.name=Analyzer
+item.fp_analyzer.name=Analyzer
 item.timemanipulator.name=Nanostructure Repair Unit
 
 item.pearlegger.name=Activated Pearlegger
@@ -686,6 +692,11 @@ item.recipe_assembly.name=Assembler Recipe
 item.topinambur_potato.name=Jerusalem Artichoke Potato
 item.topinambur_flower.name=Jerusalem Artichoke Flower
 item.oxades_seed.name=Oxades
+
+item.rocket.name=Rockets
+item.rocket_blaze.name=Incendiary Rockets
+item.rocket_plasma.name=Plasma Rockets
+item.rocket_bioterium.name=Toxic Rockets
 
 itemGroup.fpTab.deco=Future Pack Materials
 itemGroup.fpTab.maschiens=Future Pack Machinery
@@ -895,7 +906,8 @@ research.aispeicher=Upgraded AI-Memory
 research.energietools=Energy Tools
 research.lasertechnik=Laser Tech 1
 research.bergbau=Mining
-research.waffentechnik=Weaponry
+research.waffentechnik1=Weaponry 1
+research.waffentechnik2=Weaponry 2
 research.production3=Production 3
 research.netzwerke=Networks
 research.hologrammtechnik=Hologram Tech
@@ -1018,6 +1030,8 @@ research.energy.solar=Solar Panel
 research.energy.wasser_turbine=Water Turbine
 research.energy.ionen=Ion Collector
 research.energy.fluxtransformer=Flux Transformator
+research.energy.fermentation=Fermentation
+research.energy.gasturbine=Gas Turbine
 
 research.log.itempipe=Normal Pipe
 research.log.cable=Cable
@@ -1123,6 +1137,7 @@ research.space.navcord.tyros=Tyros Coordinates
 research.space.dronestation=Drone Station
 research.space.claime=Zone Transmitter
 research.space.miner=Mining Drone
+research.space.turret.rocket=Rocket Launcher
 research.space.turret.killer=Laser Turret
 research.space.turret.heal=Regeneration Laser
 research.space.turret.absorb=Absorption Laser

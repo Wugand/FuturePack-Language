@@ -406,7 +406,7 @@ tile.planks_menelaus_mushroom.name=メネラーオスの木材
 tile.planks_tyros.name=テュロスの木材
 
 tile.fluid_tube.name=液体チューブ
-tile.fluid_pump.name=液体ポンプ
+tile.fp_fluid_pump.name=液体ポンプ
 tile.fluid_tank.name=液体タンク
 tile.fluid.saltwater.name=塩水
 tile.fluid.liquid.neon.name=液体ネオン
@@ -620,7 +620,7 @@ item.saatgranate.name=グレネード弾 (種)
 
 item.shredder.name=シュレッダーブレード
 item.lasercutter.name=レーザーカッター
-item.analyzer.name=アナライザー
+item.fp_analyzer.name=アナライザー
 item.timemanipulator.name=ナノ構造修復ユニット
 
 item.pearlegger.name=起動したパールエッガー

@@ -1,0 +1,10 @@
+[
+	"Das Biogas kann am effektivsten mittels einer Turbine in nutzbare Neonenergie umgewandelt werden.",
+	"Die Gasturbine nimmt brennbare Gase an. Es benötigt einige Zeit bis die Turbine ihre maximale Leistung erreicht, in dieser Zeit muss die Turbine dauerhaft mit Gas versorgt werden, sowie Engerie abgeben können. Bei der Verbrennung fallen keine Abfallprodukte an.",
+	"Crafting:",
+	{"link":"fp:lang/part/cr_energy.gasturbine.json"},
+	"Durch die Erhöhung des \"Ram\"-Wertes wird diese Energie entsprechend schneller erzeugt und abgegeben.",
+	
+	"Unterstützte Chipsätze:",
+	"Logikchipsatz\nIndustriechipsatz (Energieausbeute!)\nRedstonesteuerungschipsatz\nSchadenskontrollchipsatz"	
+]
