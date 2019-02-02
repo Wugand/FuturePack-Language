@@ -1,7 +1,6 @@
 [
   "ナノレベルの構造を操作するためには、高精度での調整が行えるレーザーが必要です。",
   "今回は、エメラルドを元にしたレンズを開発し、電気による調整を行えるよう設計しました。\nこうした精密な加工と組み立てには多くのサポートポイントを使用します。",
-  {
-    "link": "fp:lang/part/industrialneonfurnace_production.nind.linse.g.json"
-  }
+  "作成図:",
+  {"link": "fp:lang/part/industrialneonfurnace_production.nind.linse.g.json"}
 ]
