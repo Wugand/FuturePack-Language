@@ -314,6 +314,7 @@ tile.crusher.name=Super-Triturador
 tile.entityeater_eater.name=Laser de Absorção
 tile.entityeater_killer.name=Torreta de Laser
 tile.entityeater_healer.name=Laser para Regeneração
+tile.entityeater_rocket.name=Lança-Foguetes
 tile.brennstoff_generator.name=Gerador
 
 tile.bateriebox.name=Caixa de Baterias
@@ -420,11 +421,26 @@ tile.menelaus_mushroom_rotkappe.name=Coguquente
 tile.force_field.name=Campo de Força
 tile.dungeon_core.name=Núcleo de Masmorra
 tile.composite_chest.name=Baú Composto
+tile.syncronizer.name=Sincronizador
+tile.deep_core_miner.name=Mineiro Núcleo-Profundo
+tile.rf_ne_converter.name=Transformador de Fluxo
+tile.fluid_intake.name=Entrada de Flúido
+tile.insert_node.name=Bujão
+tile.opti_assembler.name=Ótico-montador
+
+tile.prismid.name=Prísmido
+tile.prismid_stone.name=Filão de Prísmido
+tile.topinambur.name=Alcachofra de Belém
+tile.oxades.name=Oxades
+
+tile.fermentationBarrel.name=Barril de Fermentação
+tile.gasturbine.name=Turbina a Gás
 
 
 fluid.liquid.neon=Líquido de Néon 
 fluid.saltwater=Água Salgada
 fluid.liquid.bitripentium=Bitripéntio
+fluid.liquid.biogas=Bio-gás
 
 item.scrench.name=Scrench
 item.NeonBattery_full.name=Bateria de Néon
@@ -628,6 +644,8 @@ item.record_fp_entros.name=Disco de Música
 item.record.fp_entros.desc=Mantes - Voz de Entros
 item.record_fp_unknown.name=Disco Desconhecido
 item.record.fp_unknown.desc=Martin 1
+item.record_fp_envia.name=Disco de Música
+item.record.fp_envia.desc=Mantes - Voz da Énvia
 
 item.mendel_berry.name=Mendelberry
 item.mendel_seed.name=Semente de Mendelberry
@@ -638,6 +656,12 @@ item.astrofood2.name=Marmita - Curry e frutas silvestres
 item.astrofood3.name=Marmita - Geléia de frutas vermelhas (vegetariano)
 item.ersemarmelade.name=Geléia de Erço
 item.ersebrot.name=Pão com geléia de erço
+item.glowshroom_raw.name=Brilhansopada Crua
+item.glowshroom_stew.name=Brilhansopada
+item.salad.name=Salada Mista
+item.hufsteak.name=Filé de Casco
+item.grillhufsteak.name=Filé de Casco Grelhado
+item.astrofood4.name=Tubo de Comida - Gosma Alienígena
 
 item.sword_handle.name=Punho de Espada
 item.EnergyCell_full.name=Célula de Energia
@@ -650,12 +674,29 @@ item.polymer.name=Biopolímero
 item.quantanium_coil.name=Bobina de Quántio
 item.modul_battery.name=Módulo de Energia
 item.modul_shield.name=Gerador de Campo de Proteção
+item.modul_oxygen_mask.name=Máscara de Oxigênio
+item.modul_oxygen_tank.name=Tanque de Oxigênio
+item.modul_paraglider.name=Parapente de Alta-Tecnologia
+item.modul_magnet.name=Módulo de Ímã
+modular_armor.module.magnet.on=O Módulo Magnético da Armadura Composta foi Ativado
+modular_armor.module.magnet.off=O Módulo Magnético da Armadura Composta foi Inativado
+modular_armor.module.magnet.notinstalled=O Módulo Magnético não está Instalado na Armadura Composta
+item.modul_dynamo.name=Módulo Dínamo
 item.dungeon_key_0.name=Chave de Masmorra 1
 item.dungeon_key_1.name=Chave de Masmorra 2
 item.dungeon_key_2.name=Chave de Masmorra 3
 item.dungeon_key_3.name=Chave de Masmorra 4
 item.composite_fishing_rod.name=Vara de Pesca Composta
+item.recipe_assembly.name=Receita de Montador
 
+item.topinambur_potato.name=Batata de Alchachofra-Belém
+item.topinambur_flower.name=Flor de Alcachofra-Belém
+item.oxades_seed.name=Oxades
+
+item.rocket.name=Foguetes
+item.rocket_blaze.name=Foguetes Incendiários
+item.rocket_plasma.name=Foguetes de Plasma
+item.rocket_bioterium.name=Foguetes Tóxicos
 
 itemGroup.fpTab.deco=Materiais Future Pack
 itemGroup.fpTab.maschiens=Maquinismo Future Pack
@@ -663,6 +704,8 @@ itemGroup.fpTab.items=Itens Future Pack
 
 container.opticrafting=Opti-Bancada
 container.collector=Coletor de Íons
+container.assembly=Montagem
+container.blockplacer=Colocador de Blocos
 
 entity.fp.FP-Gehuf.name=Guerrufe
 entity.fp.FP-Crawler.name=Crawler
@@ -706,13 +749,29 @@ chat.spaceship.missingBeam=Sua nave espacial não tem um teleportador.
 chat.spaceship.missingFuel=Os propulsores não têm combustível suficiente. Você ainda tem %s propulsor(es) que precisa(m) ser alimentado(s).
 
 chat.research.add=Sua pesquisa(%s) terminou. 
-research.useblock.missing=Você não sabe como usar este item!
+
+chat.escanner.athmosphere.breathable=Nesta atmosfera você pode respirar e contém oxigênio.
+chat.escanner.athmosphere.filled=Nesta atmosfera você não pode respirar e não contém oxigênio. Esta sala é cheia de %s.%s %% e tem ar suficiente para %s (para uma pessoa).
+
+research.useblock.missing=Você não sabe usar este bloco!
 
 hologram.error.set.notsupported=Você não pode estabelecer uma holograma para este bloco!
 hologram.error.set.notileentity=Você não pode estabelecer uma holograma para este bloco!
 hologram.error.select.tileentity=Você não pode usar este bloco para criam uma holograma!
 
 laser.attack.warn.time=Área Restrita. Você tem %s segundos.
+
+laser.attack.player.name=Atacar Jogadores
+laser.attack.neutral.name=Atacar Neutrais
+laser.attack.mobs.name=Atacar Mobs
+laser.kill.not.name=Não Matar
+laser.player.warn.name=Avisar Alvos
+laser.player.distance.name=Defender Posição (10 Blocos)
+laser.wait.10.name=Tempo de Aviso 10 Segundos
+laser.wait.15.name=Tempo de Aviso 15 Segundos
+laser.wait.30.name=Tempo de Aviso 30 Segundos
+laser.wait.60.name=Tempo de Aviso 60 Segundos
+laser.ballista.name=Somente Alvos Marcados
 
 dungeon.message.double_power=Poder Dobro!
 dungeon.message.much_damage=Dano Demais!
@@ -792,14 +851,15 @@ scanner.button.0.name=Árvore de Tecnologia
 scanner.button.1.name=Resultado do Scan
 scanner.button.2.name=Informação Tecnológica
 scanner.button.3.name=Calculador
-gui.scanner.start.name=Scan
+gui.scanner.start.name=Escanear
 
 info.note.read=Botão direito para visualizar!
 
 key.categories.futurepack=Futurepack
 key.fp.gleiter=Parapente abrir/fechar
+key.fp.compositearmor=Abrir Armadura Composta
+key.fp.modul_magnet=Módulo Magnético Ativo/Inativo
 
-research.need.advancements.futurepack=Precisa de %s
 research.need.achievement=Precisa de %s
 
 research.page.base.name=Básicos
@@ -824,11 +884,14 @@ research.werkzeug=Ferramentas
 research.decoration=Decoração
 research.energieerzeugung=Geração de Energia 1
 research.energielogistik=Logística de Energia
+research.partpress=Prensa de Peças
+research.fluidlogistik=Logística Fluídica
 
 research.upgradeT1=Módulo de Pesquisa - Energia
 research.assembly=Montagem de Chips
-research.optik=A Óptica
 research.calculation=Módulo de Calculação
+research.armor=Construção de Armadura
+research.optik=A Óptica
 research.energiespeicher=Armazenagem de Energia
 research.energieerzeugung2=Geração de Energia 2
 research.production2=Produção 2
@@ -842,8 +905,9 @@ research.erneuerbare=Energia Renovável
 research.aispeicher=Memória AI Melhorada
 research.energietools=Ferramentas de Energia
 research.lasertechnik=Tecnologia de Lasers 1
-research.bergbau=Mineração
-research.waffentechnik=Armamentos
+research.bergbau=Mineração 1
+research.waffentechnik1=Armamentos 1
+research.waffentechnik2=Armamentos 2
 research.production3=Produção 3
 research.netzwerke=Redes
 research.hologrammtechnik=Tecnologia de Hologramas
@@ -851,7 +915,9 @@ research.raumfahrt=Viagens Espaciais
 research.menelaus=Menelaus
 research.surveyscan.menelaus=Scan de Inspecção de Meneláus
 research.upgradeT3=Módulo de Pesquisa - Experiência
+research.bergbau2=Mineração 2
 research.tyros=Tyros
+research.surveyscan.tyros=Scan de Inspecção de Tyros
 
 research.nanomanip=Manipulação de Nanoestruturas
 research.quantentechnik=Tecnologia Quantum
@@ -860,10 +926,8 @@ research.lasertechnik2=Tecnologia de Lasers 2
 research.astronomie1=Astronomia 1
 
 research.drones=Tecnologia de Drones
-
-
-
 research.itempipe=Cano Normal
+
 
 
 
@@ -911,9 +975,18 @@ research.hs.menelaus.mycel=Micélio e Cogumelo
 research.hs.menelaus.mendel=Mendelberry
 research.hs.menelaus.entity=Criaturas Alienígenas
 
+research.story.tyros=Scan de Inspecção de Tyros
+research.hs.tyros.surface=Planeta Arborizado
+research.hs.tyros.prismid=Prísmids
+research.hs.tyros.crystals=Cristais de Biotério
+research.hs.tyros.caves=Atividade Geotérmica
+research.hs.tyros.tree=Árvore de Tyros
+research.hs.tyros.deadlands=Desertos
+research.hs.tyros.topinambur=Alcachofra-Belém
+research.hs.tyros.entity=Criaturas Alienígenas
+
 research.production.blockbreaker=Quebrador de Blocos
 research.production.blockplacer=Colocador de Blocos
-research.partpress=Prensa de Metais
 research.production.industrieofen=Fornalha Industrial
 research.production.ind.compositemetal=Metal Composto
 research.production.ind.aluminium=Alumínio
@@ -946,6 +1019,9 @@ research.production.recycler.shredder=Triturador
 research.production.recycler.lasercutter=Cortador de Laser
 research.production.recycler.analyzer=Analisador
 research.production.recycler.timemanipulator=Unidade de Reparo de Nanoestruturas
+research.production.deep_core=Mineiro de Núcleo-Profundo
+research.production.deep_core.processing=Operação de Mineiro de Núcleo-Profundo
+research.production.opti_assembler=Opti-Montador
 
 research.energy.generator=Gerador
 research.energy.neonmotor=Motor de Néon
@@ -953,6 +1029,9 @@ research.energy.infusion=Gerador por Infusão
 research.energy.solar=Painel Solar
 research.energy.wasser_turbine=Turbina de Ígua
 research.energy.ionen=Coletor de Íons
+research.energy.fluxtransformer=Transformador de Fluxo
+research.energy.fermentation=Fermentação
+research.energy.gasturbine=Turbina a Gás
 
 research.log.itempipe=Cano Normal
 research.log.cable=Cabo
@@ -965,6 +1044,7 @@ research.log.redstonecable=Cabo de Redstone
 research.log.supportcable=Cabo de Apoio
 research.log.batbox=Caixa de Baterias
 research.log.networkcable=Cabo para Rede
+research.log.supercable=Super-Cabo
 research.log.laser=Laser Transmissor
 research.log.flashserver=Servidor Flash
 
@@ -973,7 +1053,7 @@ research.log.battery.large=Bateria Grande
 research.log.battery.neon=Bateria Néon
 research.log.battery.cell=Célula de Energia
 research.log.battery.compact=Célula de Energia Compacta
-research.log.battery.crystal=Célula de Energia Cristalino
+research.log.battery.crystal=Célula de Energia Cristalina
 
 research.log.flash.1=Pendrive de Redstone Simples
 research.log.flash.2=Pendrive de Redstone Melhorado
@@ -981,6 +1061,11 @@ research.log.flash.3=Pendrive de Brilhatita
 research.log.flash.4=Pendrive de Cristal
 research.log.flash.5=Pendrive de Isótopos
 research.log.flash.6=Pendrive Qubit
+
+research.log.tube=Tubo de Flúidos
+research.log.tank=Tanque de Flúidos
+research.log.pump=Bomba de Flúidos
+research.log.intake=Entrada de Flúidos
 
 research.assembly_chip=Bancada de Montagem
 research.motherboard=Placa-Mãe
@@ -1017,28 +1102,24 @@ research.chip.redstone=Chipset Controle de Redstone
 research.chip.network=Chipset Rede
 research.chip.support=Chipset Apoio
 research.chip.ultimate=Chipset Ultimate
+research.chips.combinations=Efeitos Combinados
 
 research.chips.cooler=Esfriador
 research.chips.watercooler=Esfriador de Ígua
 
 research.deco.metall=Bloco de Metal
-research.deco.metallslab=Degrau de Metal
-research.deco.metalltreppe=Escada de Metal
-research.deco.metallzaun=Cercada de Metal
-research.deco.gitter=Bloco Grade
-research.deco.gitterslab=Degrau Grade
-research.deco.gittertreppe=Escada Grade
-research.deco.gitterpane=Grade
+research.deco.metallzaun=Cerca de Metal
+research.deco.gitter=Bloco de Grade
 research.deco.eisenleiter=Escada de Ferro
 research.deco.vent=Ventilação
-research.deco.ventslab=Degrau de Ventilação
 research.deco.glass=Vidro Lacado
-research.deco.plasmalamp=Lanterna de Plasma
-research.deco.neonlamp=Lanterna de Néon
+research.deco.plasmalamp=Lampa de Plasma
+research.deco.neonlamp=Lampa de Néon
 research.deco.monitor=Monitor
 research.deco.wardrobe=Armário
 research.deco.cdoor=Porta Composta
-research.deco.metallgate=Portão de Metal
+research.deco.rs_utils=Tecnologia de Redstone
+research.deco.composite_chest=Baú Composto
 
 research.space.magnetblock=Bloco de Ímã
 research.space.emagnet=Eletroímã
@@ -1056,6 +1137,7 @@ research.space.navcord.tyros=Coordenados Tyros
 research.space.dronestation=Estação de Drones
 research.space.claime=Traçador Sem Fio
 research.space.miner=Drone de Mineração
+research.space.turret.rocket=Lança-Foguetes
 research.space.turret.killer=Torreta de Laser
 research.space.turret.heal=Laser de Regeneração
 research.space.turret.absorb=Laser de Absorção
@@ -1066,6 +1148,7 @@ research.space.drone.mono.waypoint=Ponto de Monotrilho
 research.space.drone.mono.station=Estação de Monotrilho
 research.space.drone.mono.detector=Detector de Monotrilho
 research.space.drone.mono.booster=Intensificador de Monotrilho
+research.space.drone.mono.oneway=Monotrilho Sentido-Único
 research.space.drone.mono.charger=Carregador de Monotrilho
 research.space.forstmaster=Forestmaster
 research.space.plantmarker=Marcador de Plantas
@@ -1101,6 +1184,14 @@ research.tools.sword.retium=Espada de Rétio
 research.tools.sword.glowtite=Espada de Brilhatita
 research.tools.sword.bioterium=Espada de Biotério
 research.tools.laserrifle=Rifle de Plasma
+research.tools.modular_armor=Armadura Composta
+research.tools.modul.oxygenmask=Fonte de Oxigênio
+research.tools.modul.paraglider=Parapente de Alta Tecnologia
+research.tools.modul.battery=Módulo de Energia
+research.tools.modul.magnet=Módulo de Ímã 
+research.tools.modul.dynamo=Módulo de Dínamo
+research.tools.modul.shield=Gerador de Escudo
+research.tools.composite_fishingrod=Vara de Pesca Composta
 
 futurepack.zentrifuge.name=Receitas de Centrífuga
 futurepack.jei.neededsupport=%s SP
@@ -1112,6 +1203,7 @@ futurepack.furnace.industrial.neon.name=Receitas de Fornalha de Néon Industrial
 futurepack.crusher.name=Receitas do Super Esmagador
 futurepack.airbrush.name=Receitas do Aerógrafo
 futurepack.watercooler.name=Receitas de Esfriador por Água
+futurepack.partpress.name=Receitas de Prensa de Peças
 
 jei.recycler.analyser.makesupport=Gerar SP
 jei.recycler.lasercutter.needpower=4x mais NE
