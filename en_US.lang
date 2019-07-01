@@ -426,7 +426,7 @@ tile.syncronizer.name=Synchronizer
 tile.deep_core_miner.name=Deep Core Miner
 tile.rf_ne_converter.name=Flux Transformer
 tile.fluid_intake.name=Fluid Intake
-tile.insert_node.name=The Stöpsel
+tile.insert_node.name=The Plug
 tile.opti_assembler.name=Optiassembler
 
 tile.prismid.name=Prismid
