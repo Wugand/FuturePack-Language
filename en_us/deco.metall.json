@@ -5,10 +5,10 @@
 	{"link":"fp:lang/part/cr_deco.metallslab1.json"},
 	{"link":"fp:lang/part/cr_deco.metalltreppe1.json"},
 	
-	"Alternativ:",
+	"Alternative:",
 	{"link":"fp:lang/part/cr_deco.metallslab2.json"},
 	{"link":"fp:lang/part/cr_deco.metalltreppe2.json"},
 	
-	"Information: This blocks can be (un)colored using the air brush.",
+	"Information: These blocks can be (un)colored using the air brush.",
 	"Info: Two slabs placed on top of another will drop a full-sized block when broken."
 ]
