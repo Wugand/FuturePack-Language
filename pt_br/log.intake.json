@@ -1,0 +1,9 @@
+[
+  "Para coletar líquidos na natureza, eu desenvolvei uma espécie de bomba. Ela pode ser colocada dentro de um líquido e coletará blocos adjacentes de líquido até um raio de 32 blocos. Somente blocos no mesmo nível ou abaixo serão coletados.",
+  "Para conseguir o líquido coletado, ele precisará ser bombeado. Ele pode ser conetado a tubos até uma bomba externa.",
+  
+  "Montagem:",
+  {
+    "link": "fp:lang/part/crafting_log.intake.json"
+  }
+]
