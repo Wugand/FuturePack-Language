@@ -5,7 +5,7 @@ Note: "German" will only be created by the mod developers (Wugi, McEnderdragon),
 Please update this table if you add a translation.
 
 | Research                            | German | English         | Portugese | French | Chinese      | Japanese  |
-| ----------------------------------- | ------ | --------------- | --------- | ------ | ------------ |           |
+| ----------------------------------- | ------ | --------------- | --------- | ------ | ------------ | --------- |
 | armor                               | OK     | OK              | a22brad22 | ...    | ...          | OK        |
 | chips.externalcore                  | OK     | OK              | a22brad22 | ...    | ...          | OK        |
 | calculation                         | OK     | OK +            | a22brad22 | ...    | gloomybanana | OK        |
