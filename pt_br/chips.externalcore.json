@@ -1,7 +1,7 @@
 [
-  "The possibilities of \"Overclocking\" are limited and only applicable to blocks with a computer system. With the help of nanostructure manipulation, I can manipulate every working block (ticking tileEntity) to add additional work steps.",
-  "For this, I have developed a machine that can be placed upon other blocks. It has a computer system and needs neon energy. A single external processing unit at a clock rate of 100% doubles the block\u0027s speed.",
-  "Crafting:",
+  "As possibilidades de \"Overclocking\" são limitadas e somente aplicam-se quando o bloco tem um computador. Com a ajuda de manipulação de nano-estruturas, agora eu consigo manipular todo bloco que trabalha (tileEntity com ticks) para adicionar etapas de trabalho.",
+  "Para isto, eu desenvolvei uma máquina que pode ser colocada em cima de outros blocos. Ela tem um computador interno e precisa de energia de néon. Uma única unidade externa de processamento com uma velocidade de relógio de 100% dobra a velocidade do bloco.",
+  "Montagem:",
   {
     "link": "fp:lang/part/crafting_chips.externalcore.json"
   }
