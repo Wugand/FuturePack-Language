@@ -11,11 +11,11 @@
   {
     "link": "fp:lang/part/image_forschung.json"
   },
-  "Knowledge - Can be researched, doesn\u0027t enable an Item itself, but furthers understanding",
+  "Knowledge - Can be researched, doesn't enable an Item itself, but furthers understanding",
   {
     "link": "fp:lang/part/image_forschung2.json"
   },
-  "Experience - Can\u0027t be researched, but is instead enabled by achievements. Can enable Items",
+  "Experience - Can't be researched, but is instead enabled by achievements. Can enable Items",
   {
     "link": "fp:lang/part/image_forschung3.json"
   },
