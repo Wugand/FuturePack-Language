@@ -2,21 +2,9 @@
 	"O redstone que ocorre naturalmente pode transmitir sinais simples. Integrando pó de redstone no invólucro de cabos de néon, eu criei um cabo que transmite sinais de redstone também.",
 	"Além disso, os novos cabos não tem uma perda de sinal e podem ser conectado ao pó de redstone tradicional.",
 	
-	"Criando:",
+	"Montagem:",
 	{
-		"type": "crafting",
-		"slots": {
-			"1": {},
-			"2": {"OreDict":"dustRedstone"},
-			"3": {},
-			"4": {"name":"fp:wire", "meta":0},
-			"5": {"name":"fp:wire", "meta":0},
-			"6": {"name":"fp:wire", "meta":0},
-			"7": {},
-			"8": {},
-			"9": {},
-			"out": {"name":"fp:wire", "meta":1, "size":3}
-		}
+    "link": "fp:lang/part/crafting_log.redstonecable.json"
 	},
 	
 	"Esses cabos são muito úteis para transmitir sinais para máquinas e lanternas que precisam energia de néon e um sinal de redstone."
