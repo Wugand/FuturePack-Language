@@ -1,0 +1,16 @@
+[
+  "Eu desenvolvei uns componentes de redstone úteis.",
+  "Alavanca:",
+  {
+    "link": "fp:lang/part/crafting_deco.rs_utils.json"
+  },
+  "Botão:",
+  {
+    "link": "fp:lang/part/crafting_deco.rs_utils2.json"
+  },
+  "Timer de Redstone (Relógio):",
+  {
+    "link": "fp:lang/part/crafting_deco.rs_utils3.json"
+  },
+  "O intervalo do relógio pode ser escolhido pela interface visual."
+]
