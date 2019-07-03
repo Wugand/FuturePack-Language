@@ -1,0 +1,8 @@
+[
+	"Eu descobri como criar um transformador que converte a energia desconhecida para energia de néon. Porém, isso pode ter efeitos indesejáveis com fluxos altos de energia, então eu também incluí um limitador integrado para a corrente de energia.",
+	"Montagem:",
+	{
+    "link":"fp:lang/part/crafting_energy.fluxtransformer.json"
+  },
+	"O lado vermelho é a entrada para energia RF. O transformador tem uma interface na qual a entrada pode ser ligada/desligada (botão direito). Adicionalmente, o limitador pode ser adjustado com a ajuda dos botões \"OK\" and caveira. Valores abaixo de 400 RF/t não produzem efeitos perigosos."
+]
