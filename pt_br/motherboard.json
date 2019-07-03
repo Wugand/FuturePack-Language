@@ -1,24 +1,12 @@
 [
-	"Para conectar núcleos, memoria, e chips, eu criei uma grande placa isolada, feita de quartzo, cheio de pontos para conexões e energia.",
-	"Criando:",
+	"Para conectar núcleos, memoria, e chipsets, eu criei uma placa grande isolada, feita de quartzo, e cheia de pontos para conexões e energia.",
+	"Montagem:",
 	{
-		"type": "crafting",
-		"slots": {
-			"1": {"name":"fp:spaceship", "meta":"<spaceship.QuartzParts>"},
-			"2": [{"name":"fp:ram","meta":0}],
-			"3": {"name":"fp:spaceship", "meta":"<spaceship.QuartzParts>"},
-			"4": {"name":"fp:spaceship", "meta":"<spaceship.CopperCoil>"},
-			"5": [{"name":"fp:core","meta":0}],
-			"6": {"name":"fp:spaceship", "meta":"<spaceship.CopperCoil>"},
-			"7": {"name":"fp:spaceship", "meta":"<spaceship.QuartzParts>"},
-			"8": [{"name":"fp:chip","meta":0}],
-			"9": {"name":"fp:spaceship", "meta":"<spaceship.QuartzParts>"},
-			"out": {"name":"fp:spaceship","meta":"<spaceship.Maschinboard>"}
-		}
+		"link": "fp:lang/part/crafting_motherboard.json"
 	},
 	
 	"Informação:",
-	"Durante o processo de criação, eu posso combinar qualquer combinação de núcleo e memoria. Todos os componentes podem ser trocadas mais tarde (refere a \"Overclocking\").",
+	"Durante o processo de montagem, eu posso combinar qualquer combinação de núcleo e memoria. Todos os componentes podem ser trocados mais tarde (veja a página \"Overclocking\").",
   "Obs: É possível que uma configuração criada (ou trocada) não funcione imediatamente ou possa superaquecer."
 	
 ]
