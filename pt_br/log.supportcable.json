@@ -1,11 +1,11 @@
 [
-	"Está começando ficar um pouco irritante para retirar e inserir memória flash uma e outra vez. Então eu desenvolvei um cabo que pode transmitir sinais de apoio entre máquinas.",
-	"É um cabo normal, complementado com um invólucro de brilhatita que habilita a transmissão de pontos de apoio.",
+	"Retirar e inserir memória flash constantemente está começando a ficar um pouco cansativo. Então eu desenvolvei um cabo que pode transmitir sinais de apoio entre máquinas.",
+	"É um cabo normal com um camada extra de brilhatita que habilita a transmissão de pontos de apoio.",
 	
 	"Montagem:",
 	{
     		"link": "fp:lang/part/crafting_log.supportcable.json"
 	},
 	
-	"O cabo não pode armazenar informação sozinho; precisa de um destionário para evitar perda de dados."
+	"O cabo não pode armazenar informação sozinho; precisa de um destino para evitar perda de dados."
 ]
