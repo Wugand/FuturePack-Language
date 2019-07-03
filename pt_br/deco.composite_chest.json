@@ -1,0 +1,7 @@
+[
+  "Eu criei um baú de metal composto. Ele tem um pouco mais espaço para armazenar minhas coisas comparado a um baú normal.",
+  "Montagem:",
+  {
+    "link": "fp:lang/part/crafting_deco.composite_chest.json"
+  }
+]
