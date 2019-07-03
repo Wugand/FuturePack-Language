@@ -1,21 +1,9 @@
 [
 	"Eu criei uma bancada especial para realizar experimentos e melhorar minhas idéias. Assim eu posso terminar meus projetos e adicioná-los a meu base de dados.",
-	"Criando:",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {"name":"fp:cristall","meta":0},
-			"2": {"name":"minecraft:glass_pane","meta":0},
-			"3": {"name":"fp:cristall","meta":0},
-			"4": {"name":"minecraft:paper","meta":0},
-			"5": [{"name":"fp:color_iron","meta":0},{"name":"fp:color_iron","meta":8},{"name":"fp:color_iron","meta":15}],
-			"6": {"name":"minecraft:piston","meta":0},
-			"7": {"OreDict":"ingotZinc"},
-			"8": {"name":"fp:spaceship","meta":"<spaceship.IronParts>"},
-			"9": {"OreDict":"ingotZinc"},
-			"out": [{"name":"fp:forscher","meta":2},{"name":"fp:forscher","meta":6},{"name":"fp:forscher","meta":10}]
-		}
-	},
+	"Montagem:",
+        {
+             "link": "fp:lang/part/crafting_forscher.json"
+        },
 	"Dica: Leia a informação em \"O Sistema de Pesquisa\" primeiro.",
 	"Uso detalhado:",
 	"(Neste texto, tem os conceitos Energia, Apoio, Experiência, e Rede; estes conceito serão somente disponíveis mais tarde no jogo.)",
