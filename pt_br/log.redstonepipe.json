@@ -2,21 +2,9 @@
 	"O redstone que ocorre naturalmente pode transmitir sinais simples. Integrando pó de redstone no invólucro de alumínio dos canos, eu criei um cano que também transmite sinais de redstone.",
 	"Além disso, os novos canos não tem uma perda de sinal e podem ser conectado ao pó de redstone tradicional.",
 	
-	"Criando:",
+	"Montagem:",
 	{
-		"type": "crafting",
-		"slots": {
-			"1": {},
-			"2": {"OreDict":"dustRedstone"},
-			"3": {},
-			"4": {"name":"fp:pipe", "meta":0},
-			"5": {"name":"fp:pipe", "meta":0},
-			"6": {"name":"fp:pipe", "meta":0},
-			"7": {},
-			"8": {},
-			"9": {},
-			"out": {"name":"fp:pipe", "meta":1, "size":3}
-		}
+   		 "link": "fp:lang/part/crafting_log.redstonepipe.json"
 	},
 	
 	"Esses canos são especialmente úteis para fornecer máquinas e lanternas com sinais de redstone.",
