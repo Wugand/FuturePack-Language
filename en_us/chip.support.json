@@ -1,8 +1,8 @@
 [
-    "It's bothersome using flash drives to take support points from machines and then bring them somewhere else. Therefore I developed a chipset that enables a machine to transfer stored points to nearby receivers by itself.",
+    "Constantly using flash drives to bring support points from one machine to another is frustrating and time-consuming. To help with this problem, I developed a chipset that allows a machine to transport its support to other machines nearby without my express intervention.",
     "Assembly:",
 	{"link":"fp:lang/part/as_chip.support.json"},
     "A high quality chipset (high chip power) has no advantages over a normal one!",
-    "Info: Any possible differing effect is mentioned at the corresponding machine.",
-    "Info: For general information, refer to logic chipset."
+    "Info: The actual effect of this chipset will be determined by the machine in which this chipset is installed.",
+    "Hint: Refer to \"Logic Chipset\" for general information on chipsets."
 ]
