@@ -1,11 +1,11 @@
 [
-	"I developed a specialized chipset to enhance a few machines' interactions with their environment.",
-	"It is especially useful in machines that kill creatures, for this chip enhances their reach.",
+	"I developed a specialized chipset that can enhance the ability of few machines' to interact with their environment.",
+	"It is especially useful in machines that kill creatures, since this chip enhances their reach.",
 
 	"Assembly:",
 	{"link":"fp:lang/part/as_chip.tactic.json"},
 	
-	"A high quality tactics chipset (high chip power), as well as mounting multiple chipsets, enhances the effect accordingly.",
-	"Info: The specific effect is mentioned at the corresponding machine.",
-	"Info: For general information refer to logic chipset."
+	"A high quality tactical control chipset (high chip power), as well as mounting multiple chipsets, increases their effects accordingly.",
+	"Info: The actual effect of this chipset will be determined by the machine in which this chipset is installed.",
+        "Hint: Refer to \"Logic Chipset\" for general information on chipsets."
 ]
