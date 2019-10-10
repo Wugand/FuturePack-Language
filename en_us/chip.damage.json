@@ -1,8 +1,8 @@
 [
-	"I have developed a special chipset which deactivates the whole machine if it starts to overheat. This prevents component failure and destruction.",
+	"I have developed a special chipset that is able to deactivate the whole machine if it begins to overheat. This prevents component failure and destruction.",
 	"Assembly:",
 	{"link":"fp:lang/part/as_chip.damage.json"},
 	
-	"A damage chipset of high quality (high chip power) has no additional benefits compared to a normal one!",
-	"Hint: Refer to \"Logic Chipset\" for general information."
+	"A damage control chipset of high quality (high chip power) has no additional benefits compared to a normal one!",
+	"Hint: Refer to \"Logic Chipset\" for general information on chipsets."
 ]
