@@ -1,6 +1,7 @@
 [
-    "I developed a chip set which helps machines to communicate in a network.",
+    "I developed a chipset that allows machines to communicate amongst themselves within a network.",
     "Assembly:",
 	{"link":"fp:lang/part/as_chip.network.json"},
-    "I don't have a concrete use for this chip yet but maybe I'll be able to use it someday."
+    "As of yet, I don't have a concrete use for this chip. Maybe someday I'll need it though...",
+    "Hint: Refer to \"Logic Chipset\" for general information on chipsets."
 ]
