@@ -1,5 +1,5 @@
 [
-	"I created simple structures out of compound metal, ordinary and solid blocks.",
+	"I created simple structures out of compound metal: ordinary, solid blocks.",
 	"Crafting:",
 	{"link":"fp:lang/part/cr_deco.metall.json"},
 	{"link":"fp:lang/part/cr_deco.metallslab1.json"},
@@ -9,6 +9,6 @@
 	{"link":"fp:lang/part/cr_deco.metallslab2.json"},
 	{"link":"fp:lang/part/cr_deco.metalltreppe2.json"},
 	
-	"Information: These blocks can be (un)colored using the air brush.",
+	"Info: These blocks can be (un)colored using the air brush.",
 	"Info: Two slabs placed on top of another will drop a full-sized block when broken."
 ]
