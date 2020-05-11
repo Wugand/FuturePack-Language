@@ -2,6 +2,6 @@
 	"Com a brilhatita eu achei em Menelaus, eu consegui developar mais a lanterna de néon. O interior que gastava muita energia foi trocado com uma nova mistura. Eu uso brilhatita como fonte de energia, onde combinada com glowstone (e uma fonte única de energia), plasma será criada que eu escondo dentro da lanterna usando um campo magnético, onde emite luz permanentemente.",
 	"Essa reação não é muito podersa, mas basta como fonte de luz. Adicionalmente esta lanterna não precisa de nem energia de néon nem sinais de redstone para funcionar.",
 	"Criando:",
-	{"link":"fp:lang/part/cr_deco.plasmalamp.json"},
+	{"link":"futurepack:lang/part/cr_deco.plasmalamp.json"},
 	"Usando um sinal de redstone, eu posso regular a reação suficientemente para parar a lanterna de emitir luz."
 ]

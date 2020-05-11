@@ -3,9 +3,9 @@
   "パルプ状の植物繊維を均一に成形することで、混成有機物の化学製品であるバイオポリマーにすることができます。\nこのプロセスは、各加工工程において、理想的な環境を提供することのできるネオン工業製錬炉で行うことができます。",
   "作成図:",
   {
-    "link": "fp:lang/part/crafting_production.nind.polymer.json"
+    "link": "futurepack:lang/part/crafting_production.nind.polymer.json"
   },
   {
-    "link": "fp:lang/part/industrialneonfurnace_production.nind.polymer2.json"
+    "link": "futurepack:lang/part/industrialneonfurnace_production.nind.polymer2.json"
   }
 ]

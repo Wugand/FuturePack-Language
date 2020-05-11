@@ -2,6 +2,6 @@
 "複合金属素材を使用したチェストを作成しました。\nこれは標準的なチェストよりも、少しだけ広い収納スペースをもっています。",
 "作成図:",
   {
-    "link": "fp:lang/part/crafting_deco.composite_chest.json"
+    "link": "futurepack:lang/part/crafting_deco.composite_chest.json"
   }
 ]

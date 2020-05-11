@@ -3,7 +3,7 @@
 	"Essa forma de memória é muito rápida, mas a informação precisa ser salvado de novo periodicamente. (Isso é causado por um tipo de vazamento de energia dos aparelhos.)",	
 
 	"Montagem:",
-	{"link":"fp:lang/part/as_ram.standart.json"},
+	{"link":"futurepack:lang/part/as_ram.standart.json"},
 		
 	"Informação:",
 	"Módulos de RAM possuem 2 características principais: a velocidade (§lRAM§r), que informa a velocidade geral do sistema (refere a Placa-Mãe), e o gasto (§lPoder do Núcleo§r), que informa o desempenho do processador."	

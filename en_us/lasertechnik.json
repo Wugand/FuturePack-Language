@@ -4,9 +4,9 @@
   "I achieved this through the feeding of energy into a gem that is located between two semitransparent mirrors. This way the gem is being stimulated to emit light at the right moment which creates a perfectly synchron beam of light.",
   "Crafting:",
   {
-    "link": "fp:lang/part/crafting_lasertechnik.json"
+    "link": "futurepack:lang/part/crafting_lasertechnik.json"
   },
   {
-    "link": "fp:lang/part/industrialneonfurnace_production.nind.linse.w.json"
+    "link": "futurepack:lang/part/industrialneonfurnace_production.nind.linse.w.json"
   }
 ]

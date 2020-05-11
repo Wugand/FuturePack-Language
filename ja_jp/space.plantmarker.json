@@ -4,5 +4,5 @@
 	"緑色の点は、その種類の設定がなされているかどうかを示しています。設定後は同じ種類の苗木を手で植えることができます。",
 	"利用可能な各種類の苗木がドローンステーションに置かれていれば、フォレストマスターは範囲内のマーカーに対応する苗木を植え付けます。",
 	"作成図:",
-	{"link":"fp:lang/part/cr_space.plantmarker.json"}
+	{"link":"futurepack:lang/part/cr_space.plantmarker.json"}
 ]

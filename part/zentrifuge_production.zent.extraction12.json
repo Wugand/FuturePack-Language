@@ -3,7 +3,7 @@
     "type": "zentrifuge",
     "slots": {
       "in": {
-        "name": "minecraft:stone",
+        "name": "minecraft:cobblestone",
         "meta": 3,
         "size": 8
       },
@@ -13,11 +13,11 @@
         "meta": 0
       },
       "out2": {
-        "OreDict": "gemQuartz",
+        "tag": "forge:gems/quartz",
         "size": 4
       },
       "out3": {
-        "OreDict": "dustIron",
+        "tag": "forge:dusts/iron",
         "size": 1
       }
     },

@@ -16,7 +16,7 @@
 			"7": {"name":"minecraft:obsidian","meta":0},
 			"8": {"name":"minecraft:iron_pickaxe","meta":0},
 			"9": {"name":"minecraft:obsidian","meta":0},
-			"out": {"name":"fp:block_breaker","meta":0}
+			"out": {"name":"futurepack:block_breaker","meta":0}
 		}
 	},
 	

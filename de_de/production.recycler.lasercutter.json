@@ -3,7 +3,7 @@
   "Es besteht aus Kameras und einem Laser, mit dem das Werkstück präzise zerteilt wird. Dieses Verfahren ist vielseitig, erhöht aber den Energieverbrauch um das vierfache.",
   "Crafting:",
   {
-    "link": "fp:lang/part/crafting_production.recycler.lasercutter.json"
+    "link": "futurepack:lang/part/crafting_production.recycler.lasercutter.json"
   },
   "Dieses Werkzeug verfügt über sehr viele Rezepte, unter anderem: \n -Alle Produkte des Montagetisches \n -Pferderüstungen \n -Produkte von der Seite \"Raumfahrt\" (falls möglich unlackiert) \n - Eisengitter, Loren, Eimer \n -Weiteres"
 ]

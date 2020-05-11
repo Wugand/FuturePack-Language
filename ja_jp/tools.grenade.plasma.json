@@ -5,14 +5,14 @@
   "作成図 (不定形):",
   "威力_I:",
   {
-    "link": "fp:lang/part/crafting_tools.grenade.plasma.json"
+    "link": "futurepack:lang/part/crafting_tools.grenade.plasma.json"
   },
   "威力_II:",
   {
-    "link": "fp:lang/part/crafting_tools.grenade.plasma2.json"
+    "link": "futurepack:lang/part/crafting_tools.grenade.plasma2.json"
   },
   "威力_III:",
   {
-    "link": "fp:lang/part/crafting_tools.grenade.plasma3.json"
+    "link": "futurepack:lang/part/crafting_tools.grenade.plasma3.json"
   }
 ]

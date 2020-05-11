@@ -3,7 +3,7 @@
 	"Ich habe dabei einen Wechselwirkung zwischen Siliziumwafern und Sonnenlicht entdeckt, dabei entsteht an der Siliziumschicht eine Spannung, die von der Stärke der Strahlung abhängig ist.",
 
 	"Crafting:",
-	{"link":"fp:lang/part/cr_energy.solar.json"},
+	{"link":"futurepack:lang/part/cr_energy.solar.json"},
 	"Mit Hilfe eines Computersystems kann ich,  durch Ausrichtung der Solarmodule und effizientere Umwandlung der Energie die Gesamtproduktion deutlich erhöhen.",
 	"Durch die Erhöhung des \"Ram\"-Wertes wird diese Energie entsprechend schneller erzeugt und abgegeben.",
 	

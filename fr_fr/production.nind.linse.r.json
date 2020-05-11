@@ -3,6 +3,6 @@
   "La lentille Rouge de mise au point modifie le laser de telle sorte qu\u0027il génère une quantité importante de chaleur sur la cible. Cette lentille est idéale pour tuer ou pour couper des objets.",
   "La lentille de mise au point nécessite un processus de fabrication très précis, qui peut être réalisé uniquement grâce au four industriel au Néon.",
   {
-    "link": "fp:lang/part/industrialneonfurnace_production.nind.linse.r.json"
+    "link": "futurepack:lang/part/industrialneonfurnace_production.nind.linse.r.json"
   }
 ]

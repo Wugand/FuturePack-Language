@@ -12,7 +12,7 @@
 			"7": {},
 			"8": {},
 			"9": {},
-			"out": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>", "size":8}
+			"out": {"name":"futurepack:spaceship", "meta":"<spaceship.IronStick>", "size":8}
 		}
 	},
 	
@@ -29,7 +29,7 @@
 			"7": {"name":"minecraft:glass_pane"},
 			"8": {"name":"minecraft:glass_pane"},
 			"9": {"name":"minecraft:glass_pane"},
-			"out": {"name":"fp:spaceship", "meta":"<spaceship.Tank>", "size":2}
+			"out": {"name":"futurepack:spaceship", "meta":"<spaceship.Tank>", "size":2}
 		}
 	},
 	
@@ -40,13 +40,13 @@
 			"1": "OreDict:ingotIron",
 			"2": {},
 			"3": "OreDict:ingotIron",
-			"4": [{"name":"fp:itemerze", "meta":2}, "OreDict:ingotIron", "OreDict:ingotNeon", "OreDict:ingotGold"],
-			"5": {"name":"fp:spaceship", "meta":"<spaceship.IronParts>"},
+			"4": [{"name":"futurepack:itemerze", "meta":2}, "OreDict:ingotIron", "OreDict:ingotNeon", "OreDict:ingotGold"],
+			"5": {"name":"futurepack:spaceship", "meta":"<spaceship.IronParts>"},
 			"6": ["OreDict:ingotCopper", "OreDict:ingotIron", "OreDict:ingotNeon", "OreDict:ingotGold"],
 			"7": "OreDict:ingotIron",
 			"8": {},
 			"9": "OreDict:ingotIron",
-			"out": [{"name":"fp:spaceship", "meta":"<spaceship.CopperCoil>", "size":2},{"name":"fp:spaceship", "meta":"<spaceship.IronCoil>", "size":2},{"name":"fp:spaceship", "meta":"<spaceship.NeonCoil>", "size":2},{"name":"fp:spaceship", "meta":"<spaceship.GoldCoil>", "size":2}]
+			"out": [{"name":"futurepack:spaceship", "meta":"<spaceship.CopperCoil>", "size":2},{"name":"futurepack:spaceship", "meta":"<spaceship.IronCoil>", "size":2},{"name":"futurepack:spaceship", "meta":"<spaceship.NeonCoil>", "size":2},{"name":"futurepack:spaceship", "meta":"<spaceship.GoldCoil>", "size":2}]
 		}
 	},
 	
@@ -63,7 +63,7 @@
 			"7": [{"name":"minecraft:fish", "meta":0},{"name":"minecraft:fish", "meta":1},{"name":"minecraft:fish", "meta":2},{"name":"minecraft:fish", "meta":3}],
 			"8": [{"name":"minecraft:fish", "meta":0},{"name":"minecraft:fish", "meta":1},{"name":"minecraft:fish", "meta":2},{"name":"minecraft:fish", "meta":3}],
 			"9": [{"name":"minecraft:fish", "meta":0},{"name":"minecraft:fish", "meta":1},{"name":"minecraft:fish", "meta":2},{"name":"minecraft:fish", "meta":3}],
-			"out": {"name":"fp:fish_block", "meta":0, "size":1}
+			"out": {"name":"futurepack:fish_block", "meta":0, "size":1}
 		}
 	},
 	
@@ -80,7 +80,7 @@
 			"7": {},
 			"8": {},
 			"9": {},
-			"out": [{"name":"fp:neon_bricks", "meta":0, "size":1},{"name":"fp:neon_bricks", "meta":2, "size":1},{"name":"fp:neon_bricks", "meta":1, "size":1},{"name":"fp:neon_bricks", "meta":3, "size":1}]
+			"out": [{"name":"futurepack:neon_bricks", "meta":0, "size":1},{"name":"futurepack:neon_bricks", "meta":2, "size":1},{"name":"futurepack:neon_bricks", "meta":1, "size":1},{"name":"futurepack:neon_bricks", "meta":3, "size":1}]
 		}
 	}
 ]

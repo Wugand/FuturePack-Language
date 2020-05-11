@@ -3,7 +3,7 @@
   "Mes futures recettes de craft, que je trouverais bientôt, ne pourront être faites que dans cet établi.",
   "Craft :",
   {
-    "link": "fp:lang/part/crafting_techtabel.json"
+    "link": "futurepack:lang/part/crafting_techtabel.json"
   },
   "IMPORTANT: Toutes les recettes de Craft liées à ce mod ne pourront être faites QUE dans cet établi !"
 ]

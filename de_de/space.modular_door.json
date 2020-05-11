@@ -4,10 +4,10 @@
   "Zum Tor zählen dann alle Blöcke die miteinander Kontakt haben. Mit einem §lRechtsklick§r auf einen beliebigen Block des Tores kann dieses geöffnet/geschlossen werden.",
   "Crafting:",
   {
-    "link": "fp:lang/part/crafting_space.modular_door.json"
+    "link": "futurepack:lang/part/crafting_space.modular_door.json"
   },
   "Beispiel:",
   {
-    "link": "fp:lang/part/image_space.modular_door2.json"
+    "link": "futurepack:lang/part/image_space.modular_door2.json"
   }
 ]

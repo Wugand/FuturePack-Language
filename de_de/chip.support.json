@@ -1,7 +1,7 @@
 [
     "Es ist lästig mit Flashspeichern die Supportpunkte aus Maschinen zu holen und dann irgendwo anders hin zu bringen. Also habe ich einen Chip entwickelt der dafür sorgt, dass die Maschine von selbst die gespeicherten Punkte an umliegende Empfänger abgibt.",
     "Assembly:",
-	{"link":"fp:lang/part/as_chip.support.json"},
+	{"link":"futurepack:lang/part/as_chip.support.json"},
     "Ein qualitativ hochwertiger Supportchipsatz (hohe Chippower) erbringt gegenüber eines normalen keinerlei Vorteile!",
     "Info: Ein abweichender Effekt ist ggf. bei der entsprechenden Maschine vermerkt.",
     "Info: Für allgemeine Informationen siehe Logikchipsatz."

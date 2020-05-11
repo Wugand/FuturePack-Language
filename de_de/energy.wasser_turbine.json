@@ -2,7 +2,7 @@
 	"Ich habe weiter die erneuerbaren Energien erforscht und die Wasserkraft für mich entdeckt. Sie ist überall verfügbar und man kann sie an einigen Stellen mit geringem aufwand gut nutzen.",
     "Ich muss nur die Wasserturbine an einen Ort stellen, sodass viel Wasser über ihr ist und unten muss Platz sein damit das Wasser durch die Turbine fließen kann.",
 	"Crafting:",
-	{"link":"fp:lang/part/cr_energy.wasser_turbine.json"},
+	{"link":"futurepack:lang/part/cr_energy.wasser_turbine.json"},
 	"Unterstützte Chipsätze:",
 	"Logikchipsatz\nIndustriechipsatz (Energiemenge)\nRedstonesteuerungschipsatz\nSchadenskontrollchipsatz"
 ]

@@ -1,6 +1,6 @@
 [
   {
     "type": "crafting",
-    "load": ["fp:crusher_2", "fp:crusher_6", "fp:crusher_10"]
+    "load": ["futurepack:crusher_2", "futurepack:crusher_6", "futurepack:crusher_10"]
   }
 ]

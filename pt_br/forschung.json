@@ -12,21 +12,21 @@
 		"type":"image",
 		"width":16,
 		"height":16,
-		"resource":"fp:textures/gui/SlotBg.png"
+		"resource":"futurepack:textures/gui/SlotBg.png"
 	},
 	"Conhecimento - Pode ser pesquisado, não habilita um item sozinho mas promove compreensão do mundo.",
 	{
 		"type":"image",
 		"width":16,
 		"height":16,
-		"resource":"fp:textures/gui/SlotErkBg.png"
+		"resource":"futurepack:textures/gui/SlotErkBg.png"
 	},
 	"Experiência - Não pode ser pesquisada. É ativado por conquistas. Pode habilitar itens.",
 	{
 		"type":"image",
 		"width":16,
 		"height":16,
-		"resource":"fp:textures/gui/SlotSoBg.png"
+		"resource":"futurepack:textures/gui/SlotSoBg.png"
 	},
 	"Dependendo no progresso de pesquisa, tem novamente 3 possibilidades para os ícons:",
 	"Sólido e colorido: O conceito foi completado e pode ser selecionado para mais informação (abra a página de informação).",
@@ -44,7 +44,7 @@
 		"type":"image",
 		"width":16,
 		"height":16,
-		"resource":"fp:textures/aspects/production1.png"
+		"resource":"futurepack:textures/aspects/production1.png"
 	},
 	"Na árvore de tecnologia, você pode ver que o parente disso é a \"Tech-bancada\" (bancada de tecnologia), que habilita o bloco do mesmo nome. Então precisa pegar uma tech-bancada e colocá-la no scanner. Ao experimentar com os aspetos, você achará os aspetos corretos. (Neste caso é termodinâmica.) Finalmente, clicamos em \"Scan\" novamente. Agora você tem o desenho técnico.",
 	"Para o segundo passo, insera o desenho técnico no pesquisador e clique o botão Research (Pesquisar). A máquina mostra 3 fornalhas no lugar esquerdo não necessárias para completar a pesquisa. Depois de fazer isso, a barra cinza abaixo do lugar começa de encher, indicando progresso está acontecendo. Quando a barra é completamente enchida, você vai ver uma mensagem de chat notificando você que o resultado pode ser visto na árvore de tecnologia (acessível pelo scanner e o e-scanner).",

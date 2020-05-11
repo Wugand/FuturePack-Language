@@ -2,10 +2,9 @@
   {
     "type": "partpress",
     "slots": {
-      "in": "OreDict:gemQuartz",
+      "in": "tag:forge:gems/quartz",
       "out": {
-        "name": "fp:spaceship",
-        "meta": "\u003cspaceship.QuartzParts\u003e",
+        "name": "futurepack:parts_quartz",
         "size": 4
       }
     }

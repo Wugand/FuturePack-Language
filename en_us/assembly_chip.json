@@ -2,7 +2,7 @@
 	"I have managed to create a simple machine with my basic knowledge of chip-crafting, which gives me ideal conditions for assembling these components.",
 	"The main unit is made up of a metal frame with various pieces of machinery for part assembly and testing. Additionally, the unit makes it possible to perform the crucial assembly steps in a sanitary environment, which has proven to be imperative for the continued functioning of the component.",
 	"Crafting:",
-	{"link":"fp:lang/part/cr_assembly_table.json"},
+	{"link":"futurepack:lang/part/cr_assembly_table.json"},
 	
 	"Usage:",
 	"Any item created here consists of 3 components, which are placed in the central 3 slots. Their order is of importance! The finished product can be taken from the big slot beneath.",

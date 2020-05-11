@@ -2,10 +2,10 @@
   "Mit Hilfe von Kohle kann ich im Industrieofen manchen Stoffen Sauerstoff und andere Fremdstoffe entziehen.",
   "Bei der Anwendung auf Sand habe ich so Silizium erhalten, ein bräunlich glänzender Feststoff. Vielleicht kann ich später daraus noch etwas herstellen ...",
   {
-    "link": "fp:lang/part/industrialfurnace_production.ind.reduktion.json"
+    "link": "futurepack:lang/part/industrialfurnace_production.ind.reduktion.json"
   },
   "Auch bei den hiesigen Kristallen hat das Verfahren Erfolg gezeigt, was es mir erlaubt, sie zu Barren zu verarbeiten.",
   {
-    "link": "fp:lang/part/industrialfurnace_production.ind.reduktion2.json"
+    "link": "futurepack:lang/part/industrialfurnace_production.ind.reduktion2.json"
   }
 ]

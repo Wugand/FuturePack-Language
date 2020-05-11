@@ -3,7 +3,7 @@
   "このスキャナ装置で製造部品を細かな層ごとに分析してゆき、これによりサポートポイントが生成されます。",
   "作成図:",
   {
-    "link": "fp:lang/part/crafting_production.recycler.analyzer.json"
+    "link": "futurepack:lang/part/crafting_production.recycler.analyzer.json"
   },
   "アセンブリテーブルで製造できるすべての製品を分析することができます。\nコア,チップ,RAMの場合、獲得できるサポートポイントはそれらの部品ごとの消費電力によって異なります。"
 ]

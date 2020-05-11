@@ -3,13 +3,13 @@
   "I can perform this method multiple times to various rock types to eventually get finely ground, clean sand..",
   "Example:",
   {
-    "link": "fp:lang/part/zentrifuge_production.zent.extraction1.json"
+    "link": "futurepack:lang/part/zentrifuge_production.zent.extraction1.json"
   },
   {
-    "link": "fp:lang/part/zentrifuge_production.zent.extraction12.json"
+    "link": "futurepack:lang/part/zentrifuge_production.zent.extraction12.json"
   },
   {
-    "link": "fp:lang/part/zentrifuge_production.zent.extraction13.json"
+    "link": "futurepack:lang/part/zentrifuge_production.zent.extraction13.json"
   },
   "Information: The centrifuge has many recipes, so not all listed here!"
 ]

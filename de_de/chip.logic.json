@@ -3,7 +3,7 @@
 	"In Kombination mit einiger Steuerlogik aus Silizium und einigen Energieleitern aus Kupfer habe ich einen universellen Chipsatz entwickelt, welcher vor allem als Brücke zwischen Prozessor und Außenwelt dient.",
 	"Allerdings enthält dieser Logikchipsatz auch grundlegenden Programmcode für den Prozessor, der das Starten des Systems ermöglicht. Damit wird jedes System vorerst einen dieser Chipsätze benötigen.",
 		"Assembly:",
-	{"link":"fp:lang/part/as_chip.logic.json"},
+	{"link":"futurepack:lang/part/as_chip.logic.json"},
 	
 	"Ein qualitativ hochwertiger Logikchipsatz (hohe Chippower) erbringt gegenüber eines normalen keinerlei Vorteile!",
 		

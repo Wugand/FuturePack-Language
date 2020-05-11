@@ -3,5 +3,5 @@
 	"Der Block wird anstelle von Erde im Boden platziert, dann kann ein Setzling darauf benutzt werden um einzustellen welche Baumsorte gepflanzt werden soll. Der grüne Punkt bedeutet das ein Setzling gesetzt ist, dann können Setzlinge der selben Art auch von Hand darauf gepflanzt werden.",
 	"Der Forstmaster wird dann alle Pflanzmarker in seiner Reichweite automatisch bepflanzen, sofern entsprechende Setzlinge in der Drohnenstation vorhanden sind.",
 	"Crafting:",
-	{"link":"fp:lang/part/cr_space.plantmarker.json"}
+	{"link":"futurepack:lang/part/cr_space.plantmarker.json"}
 ]

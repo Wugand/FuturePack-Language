@@ -5,7 +5,7 @@
   "Das Modul muss direkt oder per Netzwerk mit dem Forscher verknüpft werden um zu funktionieren, die eigentliche Arbeit weiterhin im Forscher ausgeführt.",
   "Crafting:",
   {
-    "link": "fp:lang/part/crafting_upgradet3.json"
+    "link": "futurepack:lang/part/crafting_upgradet3.json"
   },
   "Das Modul speichert bis zu 1500 XP (etwa Level 31), falls dies einmal nicht genügen sollte, kann ich mehrere dieser Module mit dem Forscher verbinden.",
   "Allerdings sollte ich auch mehr Berechnungsmodule an den Forscher anbinden. Aktuell sind vermutlich 8-16 Module angemessen."

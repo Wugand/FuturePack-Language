@@ -3,7 +3,7 @@
   "我还添加了一个控制器和一个压缩机，用于在水面上自动重新填充储罐。",
   "合成:",
   {
-    "link": "fp:lang/part/crafting_tools.sauerstofftank.json"
+    "link": "futurepack:lang/part/crafting_tools.sauerstofftank.json"
   },
   "容量: 2 min",
   "重装: 2 min",

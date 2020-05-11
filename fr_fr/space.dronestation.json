@@ -3,6 +3,6 @@
 	"La Station de Drone contient un grand inventaire (sur le haut) et des emplacements pour les batteries (en bas). Je dois ajouter au moins une batteries pour alimenter les drones.",
 	"L'inventaire peut être rempli et vider à l'aide d'entonnoir ou de tubes. En connectant un câble, les batteries peuvent se recharger automatiquement.",
 	"Craft :",
-	{"link":"fp:lang/part/cr_space.dronestation.json"},
-	{"link":"fp:lang/part/cr_space.dronestation.engine.json"}	
+	{"link":"futurepack:lang/part/cr_space.dronestation.json"},
+	{"link":"futurepack:lang/part/cr_space.dronestation.engine.json"}	
 ]

@@ -4,7 +4,7 @@
   "機械にはまだ改善の余地があり、さらなる機能を追加することができます。\n後に使用するためのサポートポイントを集積するシステムも搭載しました。",
   "作成図:",
   {
-    "link": "fp:lang/part/crafting_production.zentrifuge.json"
+    "link": "futurepack:lang/part/crafting_production.zentrifuge.json"
   },
   "-通知:\nこの機械ではサポートポイント(SP)をフラッシュメモリに書き込む機能がありません。\n対応する技術は、あとで開発ができる可能性があります。"
 ]

@@ -2,5 +2,5 @@
 	"La puce de contrôle Redstone fonctionne avec toutes les machines ayant une carte mère. Elle veille à ce que la machine s'arrête automatiquement si elle reçoit un signal de Redstone.",
 	"Cela permet d'arrêter de gros systèmes pour économiser de l'énergie.",
 	"Assemblage:",
-	{"link":"fp:lang/part/as_chip.redstone.json"}
+	{"link":"futurepack:lang/part/as_chip.redstone.json"}
 ]

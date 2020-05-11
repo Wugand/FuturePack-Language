@@ -2,6 +2,6 @@
 	"Grâce à des bobines traversées par de l'énergie, je peux catapulter des objets métalliques. Avec un baril pour viser et pour aligner la cible avec les  bobines, je peux tirer des projectiles sur de grandes distances.",
 	"En poussant encore mes expérimentations, j'ai pu développer une arme. Avec elle, je peux accélérer un projectile et atteindre avec précision une cible.",
 	"Craft :",
-	{"link":"fp:lang/part/cr_tools.grenadelauncher.json"},	
+	{"link":"futurepack:lang/part/cr_tools.grenadelauncher.json"},	
 	"De l'énergie Néon est nécessaire pour (re)charger. Quand l'énergie stockée est complètement vide, l'arme ne peut plus envoyer de missiles. Cela peut amener à des situations extrêmement dangereuses !"
 ]

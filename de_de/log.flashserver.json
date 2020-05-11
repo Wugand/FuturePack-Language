@@ -3,7 +3,7 @@
 	"Diese Speichereinheit kann ich je nach Einstellung als Sammler, Quelle oder Puffer benutzen. Zudem habe ich im inneren Anschlüsse zum Laden/Entladen von Hand und zur dauerhaften vergrößerung der Kapazität (4 Slots) vorgesehen.",
 	"Der Flashserver wird vor allem in meinen modernen Systemen wichtig sein, da ich nicht alle Maschinen mit einer Einheit zum Lesen von Flashspeichern versehen kann.",
 	"Crafting:",
-	{"link":"fp:lang/part/cr_log.flashserver.json"},	
+	{"link":"futurepack:lang/part/cr_log.flashserver.json"},	
 	"Eigenkapazität: 2048 SP",
 	"Einstellungen: Mit dem \"Logistikeditor\" können die Seiten des Blocks als Supportausgang oder Supporteingang eingestellt werden."
 ]

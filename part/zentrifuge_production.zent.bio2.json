@@ -3,18 +3,16 @@
     "type": "zentrifuge",
     "slots": {
       "in": {
-        "name": "minecraft:sapling",
+        "tag": "forge:tree_saplings",
         "size": 2
       },
       "out1": {
-        "name": "fp:spaceship",
-        "size": 1,
-        "meta": "\u003cspaceship.HackSchnitzel\u003e"
+        "name": "futurepack:wood_chips",
+        "size": 1
       },
       "out2": {
-        "name": "fp:spaceship",
-        "size": 1,
-        "meta": "\u003cspaceship.Kompost\u003e"
+        "name": "futurepack:kompost",
+        "size": 1
       },
       "out3": {}
     },

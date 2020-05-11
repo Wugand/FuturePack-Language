@@ -8,13 +8,13 @@
 			"1": {"name":"minecraft:stone_slab"},
 			"2": {"name":"minecraft:crafting_table"},
 			"3": {"name":"minecraft:stone_slab"},
-			"4": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"5": [{"name":"fp:color_iron","meta":0},{"name":"fp:color_iron","meta":8},{"name":"fp:color_iron","meta":15}],
-			"6": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"7": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"4": {"name":"futurepack:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"5": [{"name":"futurepack:color_iron","meta":0},{"name":"futurepack:color_iron","meta":8},{"name":"futurepack:color_iron","meta":15}],
+			"6": {"name":"futurepack:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"7": {"name":"futurepack:spaceship", "meta":"<spaceship.CompositeMetall>"},
 			"8": {"OreDict":"ingotNeon"},
-			"9": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"out": [{"name":"fp:assembly_table","meta":2},{"name":"fp:assembly_table","meta":6},{"name":"fp:assembly_table","meta":10}]
+			"9": {"name":"futurepack:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"out": [{"name":"futurepack:assembly_table","meta":2},{"name":"futurepack:assembly_table","meta":6},{"name":"futurepack:assembly_table","meta":10}]
 		}
 	},
 

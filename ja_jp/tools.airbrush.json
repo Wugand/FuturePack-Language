@@ -3,11 +3,11 @@
   "いわゆるエアブラシ。タンクに入れた染料を空気圧で飛ばし、均一に吹き付けることができます。この装置はブロックを塗装するだけでなく、サンドブラスト機能も備えおり、染料をはがすこともできます。それをするには砂や砂利が必要です。",
   "作成図:",
   {
-    "link": "fp:lang/part/crafting_tools.airbrush.json"
+    "link": "futurepack:lang/part/crafting_tools.airbrush.json"
   },
   "カラータンク (不定形):",
   {
-    "link": "fp:lang/part/crafting_tools.airbrush2.json"
+    "link": "futurepack:lang/part/crafting_tools.airbrush2.json"
   },
   "-使い方:",
   "§lShift-右クリック§rで、カラータンクや砂、砂利を挿入できるエアブラシのインベントリを開きます。",

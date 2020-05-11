@@ -1,7 +1,7 @@
 [
 	"Mithilfe von Elektromagneten kann ich auch Dinge schweben lassen, mit diesem Prinzip habe ich eine Logistikdrohne entwickelt. Sie soll dazu dienen Waren zu transportieren. Durch den Magnetismus schwebt die Drohne über einer Metallschiene und kann sich so selbstständig fortbewegen, um eingegebene Ziele anzusteuern.",
 	"Crafting:",
-	{"link":"fp:lang/part/cr_space.drone.monocart.json"},
+	{"link":"futurepack:lang/part/cr_space.drone.monocart.json"},
 	"Das Monocart kann mithilfe der Konstruktionsbox auf einer Monorail aufgebaut und mithilfe eines Schraubendrehschlüssels wieder abgerissen werden.",
 	"Mit dem Knopf oben rechts kann man zwischen Routen- und Inventaransicht umschalten. Daneben befindet sich die Energieanzeige.",
 	"Routenansicht:",

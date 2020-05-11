@@ -3,5 +3,5 @@
 	"As unidades individuais podem também assumir valores dinâmicas, significando que eles têm estados concretos, cada um com uma probabilidade específica.",
 	"Dados podem ser acessados por formas convencionais, a brilhatita especialmente adequada para isto.",
 	"Montagem:",
-	{"link":"fp:lang/part/as_ram.mm.json"}
+	{"link":"futurepack:lang/part/as_ram.mm.json"}
 ]

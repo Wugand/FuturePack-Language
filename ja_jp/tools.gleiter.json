@@ -3,7 +3,7 @@
   "広げたパラグライダーに吊られながら、地面へゆっくりと滑空することができます。",
   "作成図:",
   {
-    "link": "fp:lang/part/crafting_tools.gleiter.json"
+    "link": "futurepack:lang/part/crafting_tools.gleiter.json"
   },
   "自由落下中に\"Fキー\"を押すとパラグライダーを展開することができます(押し続けたままにしないでください)。\nキーをもう一度押すと、パラグライダーを仕舞うことができます。",
   "-情報:\nMinecraftのオプションメニューから、キー設定を変更することができます。"

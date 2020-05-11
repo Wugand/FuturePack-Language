@@ -2,7 +2,7 @@
   "Diese Antenne ist eine simple und sehr praktische Erweiterung des Netzwerkes. Ich kann kabellos mein Netzwerk selbst in tiefe Höhlen und sogar durch Wände hindurch erweitern.",
   "Crafting:",
   {
-    "link": "fp:lang/part/crafting_log.laser.json"
+    "link": "futurepack:lang/part/crafting_log.laser.json"
   },
   "Die Reichweite einer Antenne ergibt sich aus den verbundenen Metall Blöcken zusammen mit den Metall Blöcken der Empfangsantenne.",
   "",
@@ -11,7 +11,7 @@
   "Eigentlich wollte ich ultraviolettes Licht für die Datenübermittlung nutzen, jedoch war die Ablenkung durch die Atmosphäre zu groß deswegen musste ich infrarotes Licht verwenden.",
   "Crafting:",
   {
-    "link": "fp:lang/part/crafting_log.laser2.json"
+    "link": "futurepack:lang/part/crafting_log.laser2.json"
   },
   "Damit der Laser funktioniert, muss er mit dem anderen Laser (auch über große Distanzen) auf einer Liene stehen."
 ]

@@ -3,6 +3,6 @@
 	"Die Drohnenstation beinhaltet ein großes Inventar (oben) und einer Batterieleiste (unten). In der Batterieleiste muss mindestens eine Batterie eingelegt werden um Drohnen zu versorgen.",
 	"Die Station kann über Rohre/Trichter geleert und gefüllt werden. Durch anschließen eines Kabels können auch die Batterien automatisch aufgeladen werden.",
 	"Crafting:",
-	{"link":"fp:lang/part/cr_space.dronestation.json"},
-	{"link":"fp:lang/part/cr_space.dronestation.engine.json"}	
+	{"link":"futurepack:lang/part/cr_space.dronestation.json"},
+	{"link":"futurepack:lang/part/cr_space.dronestation.engine.json"}	
 ]

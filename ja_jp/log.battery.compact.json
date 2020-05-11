@@ -2,5 +2,5 @@
 	"コンパクト化を目指し、\n4つのリチウムエネルギー電池を1つの容器に凝縮することができました。",
 	"正しい配線を施し、通常のエネルギーセルの4倍の容量を持った新しいセルを製造しました。",
 	"作成図:",
-	{"link":"fp:lang/part/cr_log.battery.compact.json"}
+	{"link":"futurepack:lang/part/cr_log.battery.compact.json"}
 ]

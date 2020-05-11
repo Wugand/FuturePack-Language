@@ -4,9 +4,9 @@
   "Je l\u0027ai réalisé grâce à l\u0027alimentation d\u0027énergie dans une gemme qui se trouve entre deux miroirs semi-transparents. Cette fois, la gemme est stimulée pour émettre une lumière au moment exact où le faisceau de lumière sera parfaitement synchrone.",
   "Crafting:",
   {
-    "link": "fp:lang/part/crafting_lasertechnik.json"
+    "link": "futurepack:lang/part/crafting_lasertechnik.json"
   },
   {
-    "link": "fp:lang/part/industrialneonfurnace_production.nind.linse.w.json"
+    "link": "futurepack:lang/part/industrialneonfurnace_production.nind.linse.w.json"
   }
 ]

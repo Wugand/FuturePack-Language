@@ -1,6 +1,6 @@
 [
 	"Atualmente o maior problema com meus módulos de memória flash é que cada célula precisa de um sinal para ler e escrever informação. Então eu desenvolvei uma solução: agora eu uso um cristal de brilhatita como unidade de armazenamento. Este cristal muda a estrutura dele quando exposto a energia direcionada, assim mostrando comportamento refrativo. Para ler e escrever informação, eu uso um laser especial; rétio mostrou o espetro melhor para essa aplicação.",	
 	"Montagem:",
-	{"link":"fp:lang/part/as_log.flash.4.json"},
+	{"link":"futurepack:lang/part/as_log.flash.4.json"},
 	"Capacidade: 1024 SP"
 ]

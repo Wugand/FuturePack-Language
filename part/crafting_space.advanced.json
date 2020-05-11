@@ -1,6 +1,6 @@
 [
   {
     "type": "crafting",
-    "load": ["fp:advanced_boardcomputer_2", "fp:advanced_boardcomputer_6", "fp:advanced_boardcomputer_10"]
+    "load": ["futurepack:advanced_boardcomputer_2", "futurepack:advanced_boardcomputer_6", "futurepack:advanced_boardcomputer_10"]
   }
 ]

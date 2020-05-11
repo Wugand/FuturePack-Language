@@ -2,11 +2,7 @@
   "Dieser verbesserte Ofen wird mit Lava beheizt, welche mit Eimern oder Rohren eingefüllt werden kann. Er benutzt die Energie um Items zu schmelzen und kühlt dabei die Lava langsam ab, bis diese zu Obsidian erstarrt. Damit ist es möglich, bis zu 3 Items gleichzeitig zu schmelzen.",
   "Crafting:",
   {
-    "link": "fp:lang/part/crafting_production.industrieofen.json"
-  },
-  "Benutzung (GUI):",
-  {
-    "link": "fp:lang/part/industrialfurnace_production.industrieofen2.json"
+    "link": "futurepack:lang/part/crafting_production.industrieofen.json"
   },
   "Technische Daten:",
   "Lava-Verbrauch: 10 mB pro geschmolzenem Item; Das bedeutet, bei der Benutzung aller 3 Slots benötigt man 3 mal so viel Lava.",

@@ -1,6 +1,6 @@
 [
 	"I designed a special workbench to perform experiments and evolve my ideas. So I can finish up my researches to add them to my database.",
-	{"link":"fp:lang/part/cr_forscher.json"},
+	{"link":"futurepack:lang/part/cr_forscher.json"},
 	"Hint: Read the information’s at \"The Research System\" first.",
 	"Usage in detail:",
 	"In the following concepts like Energy, Support, Experience and Network are mentioned. These concepts are only available in later game progress.",

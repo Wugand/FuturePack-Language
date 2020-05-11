@@ -1,10 +1,10 @@
 [
   "Ich habe den Neonindustrieofen um eine Erweiterung ergänzt die es mir erlaubt Kohlenstoff zu extrahieren. Somit bin ich kaum noch auf Kohle angewiesen.",
   {
-    "link": "fp:lang/part/industrialneonfurnace_production.nind.reduktion.json"
+    "link": "futurepack:lang/part/industrialneonfurnace_production.nind.reduktion.json"
   },
   "Auch bei Kristallen funktioniert das neue Verfahren, um sie zu Barren zu verarbeiten.",
   {
-    "link": "fp:lang/part/industrialneonfurnace_production.nind.reduktion2.json"
+    "link": "futurepack:lang/part/industrialneonfurnace_production.nind.reduktion2.json"
   }
 ]

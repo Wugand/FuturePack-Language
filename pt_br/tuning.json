@@ -6,7 +6,7 @@
 		"type":"image",
 		"width":246,
 		"height":68,
-		"resource":"fp:textures/show_gui_tuning.png"
+		"resource":"futurepack:textures/show_gui_tuning.png"
 	},
 	"Informação: Você deve ler \"Núcleo Padrão\", \"Memória Padrão\" e \"Chipset Lógica\" primeira!",
 	

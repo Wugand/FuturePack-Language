@@ -4,7 +4,7 @@
   "Ich kann dieses Verfahren auf alle Kristalle anwenden, allerdings muss ich diese zuvor zu Staub zermahlen.",
   "Beispiele:",
   {
-    "link": "fp:lang/part/zentrifuge_production.zent.neon.json"
+    "link": "futurepack:lang/part/zentrifuge_production.zent.neon.json"
   },
   "Information: Die Zentrifuge hat sehr viele Rezepte, es werden hier nicht alle aufgelistet!"
 ]

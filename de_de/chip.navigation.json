@@ -3,7 +3,7 @@
 	"Nach dem ich die Funktion des Kompasses analysiert habe, konnte ich sein Funktionsprinzip in abgewandelter Form elektronisch nachbilden.",	
 
 	"Assembly:",
-	{"link":"fp:lang/part/as_chip.navigation.json"},
+	{"link":"futurepack:lang/part/as_chip.navigation.json"},
 	
 	"Ein qualitativ hochwertiger Transportchipsatz (hohe Chippower) erbringt gegenüber eines normalen keinerlei Vorteile!",
 	"Info: Ein abweichender Effekt ist ggf. bei der entsprechenden Maschine vermerkt.",

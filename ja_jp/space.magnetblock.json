@@ -2,7 +2,7 @@
   "単体の棒磁石は便利ですが、その作用は強くありません。\nそこで私は、大きな磁石のブロックを作るために複数の棒磁石をまとめてみることにしました。",
   "作成図:",
   {
-    "link": "fp:lang/part/crafting_space.magnetblock.json"
+    "link": "futurepack:lang/part/crafting_space.magnetblock.json"
   },
   "半径5ブロック内にある金属のオブジェクト、いくつかのアイテム、マインカートを引き寄せます。",
   "ほかの磁石がこの磁石の側に置かれた場合どうなるのだろうかと、私は考えました。"

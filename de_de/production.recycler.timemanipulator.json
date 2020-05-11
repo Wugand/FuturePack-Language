@@ -4,6 +4,6 @@
     "Als erstes scannt der Laser das Objekt, um alle Schäden zu dokumentieren, um dann mit Hilfe von Supportpunkten heraus zu finden wie das Werkzeug zu reparieren ist. Abschließend wird die Nanostruktur des Werkzeuges so umstrukturiert, dass es wieder dem neuwertigen Stand entspricht.",
     "Dies kann einige Durchläufe benötigen, bis das Werkzeug vollständig wiederhergestellt ist.",
     "Crafting:",
-    {"link":"fp:lang/part/cr_production.recycler.timemanipulator.json"},
+    {"link":"futurepack:lang/part/cr_production.recycler.timemanipulator.json"},
     "Dieses Werkzeug hat viele Rezepte und sollte jedes Werkzeug reparieren können."
 ]

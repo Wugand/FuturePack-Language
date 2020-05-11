@@ -4,7 +4,7 @@
   "Wenn ich so eine umsetzbare Idee entwickelt habe, kann ich mir die Ergebnisse als Blaupause drucken um sie weiter auszuarbeiten.",
   "Crafting:",
   {
-    "link": "fp:lang/part/crafting_scanner.json"
+    "link": "futurepack:lang/part/crafting_scanner.json"
   },
   "Tipp: Lies vorher die Informationen zu \"Das Forschungssytem\"!",
   "Benutzung im Detail:",

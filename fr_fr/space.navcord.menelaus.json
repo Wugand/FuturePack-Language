@@ -3,7 +3,7 @@
   "Lorsque j\u0027aurai trouvé quelques choses, je le noterai sur une carte que je pourrais insérer dans l\u0027ordinateur de bord.",
   "Craft :",
   {
-    "link": "fp:lang/part/crafting_space.navcord.menelaus.json"
+    "link": "futurepack:lang/part/crafting_space.navcord.menelaus.json"
   },
   "A utiliser par un \"§lClic Droit§r\"."
 ]

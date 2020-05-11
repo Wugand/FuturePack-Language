@@ -3,7 +3,7 @@
 	"Em combinação com um pouco de lógica, silício e uns condutores de cobre, eu desenvolvei um chipset universal, que funciona principalmente como ponte entre o processador e o mundo real.",
 	"Além disso, o chipset de lógica contém o código básico para o processador, que habilita o sistema ligar. Então por enquanto, cada sistema vai precisar um desses chipsets.",
 	"Montagem:",
-	{"link":"fp:lang/part/as_chip.logic.json"},
+	{"link":"futurepack:lang/part/as_chip.logic.json"},
 	
 	"Up chipset de lógica de alta qualidade (mais poder) não tem nenhum benefício comparando com um chipset normal!",
 		

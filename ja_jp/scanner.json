@@ -4,7 +4,7 @@
   "実現できそうな技術を発見できたら、その結果は設計図(ブループリント)となって印刷されます。こうして、関連する技術を発展させてゆくことができます。",
   "作成図:",
   {
-    "link": "fp:lang/part/crafting_scanner.json"
+    "link": "futurepack:lang/part/crafting_scanner.json"
   },
   "-ヒント:\n先に\"リサーチシステム\"の内容を読んでください。",
   "-詳しい使用方法:",

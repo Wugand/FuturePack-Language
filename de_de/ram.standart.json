@@ -2,7 +2,7 @@
 	"Aus einer Kombination von Neonteilen, welche hierbei als kurzzeitige Energiespeicher dienen und einer Steuereinheit aus mit Eisen verunreinigtem Silizium konnte ich eine Art Speicher entwickeln.",
 	"Diese Art von Speichereinheit ist relativ schnell, allerdings müssen alle Daten immer wieder neu geschrieben werden, bevor sich die Ladung der winzigen Energiespeicher vollständig abgebaut hat.",
 		"Assembly:",
-	{"link":"fp:lang/part/as_ram.standart.json"},
+	{"link":"futurepack:lang/part/as_ram.standart.json"},
 		
 	"Information:",
 	"Diese Arbeitsspeicher haben 2 entscheidende Werte: ihre Geschwindigkeit (§lRam§r), welche die allgemeine Geschwindigkeit des Systems angibt (siehe Mainboard) und ihre Kosten (§lCorepower§r), welche den Leistungsanspruch an den Prozessor angibt."

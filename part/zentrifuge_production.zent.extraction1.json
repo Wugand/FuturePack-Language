@@ -4,7 +4,6 @@
     "slots": {
       "in": {
         "name": "minecraft:cobblestone",
-        "meta": 0,
         "size": 32
       },
       "out1": {
@@ -13,14 +12,12 @@
         "meta": 0
       },
       "out2": {
-        "name": "minecraft:stone",
-        "size": 4,
-        "meta": 5
+        "name": "minecraft:andesite",
+        "size": 4
       },
       "out3": {
         "name": "minecraft:coal",
-        "size": 1,
-        "meta": 0
+        "size": 1
       }
     },
     "support": 0,

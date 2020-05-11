@@ -1,6 +1,6 @@
 [
   {
     "type": "crafting",
-    "load": ["fp:spaceship_3", "fp:spaceship_4", "fp:spaceship_5", "fp:spaceship_6"]
+    "load": ["futurepack:spaceship_3", "futurepack:spaceship_4", "futurepack:spaceship_5", "futurepack:spaceship_6"]
   }
 ]

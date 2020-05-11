@@ -1,18 +1,18 @@
 [
     {
         "type":"crafting",
-        "load":"fp:rocket"
+        "load":"futurepack:rocket"
     },
     {
         "type":"crafting",
-        "load":"fp:rocket_bioterium"
+        "load":"futurepack:rocket_bioterium"
     },
     {
         "type":"crafting",
-        "load":"fp:rocket_blaze"
+        "load":"futurepack:rocket_blaze"
     },
     {
         "type":"crafting",
-        "load":"fp:rocket_plasma"
+        "load":"futurepack:rocket_plasma"
     }
 ]

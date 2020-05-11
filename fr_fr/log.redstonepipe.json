@@ -3,7 +3,7 @@
   "De plus, ces nouveaux tubes n\u0027ont aucune perte de puissances de signal et peut être simplement connectés avec de la poudre de Redstone traditionnelle",
   "Craft:",
   {
-    "link": "fp:lang/part/crafting_log.redstonepipe.json"
+    "link": "futurepack:lang/part/crafting_log.redstonepipe.json"
   },
   "Ces tubes sont très pratique pour alimenter les machines et les lampes avec un signal de Redstone.",
   "",

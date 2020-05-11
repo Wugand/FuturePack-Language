@@ -3,7 +3,7 @@
   "J\u0027ai aussi ajouté un contrôleur et un compresseur pour les recharger dès que je sors de l\u0027eau.",
   "Craft :",
   {
-    "link": "fp:lang/part/crafting_tools.sauerstofftank.json"
+    "link": "futurepack:lang/part/crafting_tools.sauerstofftank.json"
   },
   "Capacité : 2 min",
   "Rechargement : 2 min",

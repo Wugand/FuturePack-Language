@@ -7,13 +7,13 @@
   "Je peux utiliser cette méthode avec de la terre et une grande variété de plantes ; mais pour les plantes contenant des colorants, je dois encore améliorer le process.",
   "Exemple :",
   {
-    "link": "fp:lang/part/zentrifuge_production.zent.bio.json"
+    "link": "futurepack:lang/part/zentrifuge_production.zent.bio.json"
   },
   {
-    "link": "fp:lang/part/zentrifuge_production.zent.bio2.json"
+    "link": "futurepack:lang/part/zentrifuge_production.zent.bio2.json"
   },
   {
-    "link": "fp:lang/part/zentrifuge_production.zent.bio3.json"
+    "link": "futurepack:lang/part/zentrifuge_production.zent.bio3.json"
   },
   "Information : La centrifugeuse a un grand nombre de recette, qui ne sont pas toutes listées ici !"
 ]

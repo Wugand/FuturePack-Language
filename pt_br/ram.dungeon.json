@@ -2,5 +2,5 @@
 	"Eu finalmente entendo os fragmentos de RAM. Eles são restos de unidades antigas de RAM quântica!",
 	"Usando algumas peças novas, eu consigo reconstrui-las e ganhar um chip funcional. A RAM reconstruída deve ser um pouco mais poderosas do quê as que eu já tenho.",
 	"Montagem:",
-	{"link":"fp:lang/part/as_ram.dungeon.json"}
+	{"link":"futurepack:lang/part/as_ram.dungeon.json"}
 ]

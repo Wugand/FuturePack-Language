@@ -3,7 +3,7 @@
 	"Ao analisar o modo de operação da bússola, eu consegui recriá-la em forma eletrônica.",	
 
 	"Montagem:",
-	{"link":"fp:lang/part/as_chip.navigation.json"},
+	{"link":"futurepack:lang/part/as_chip.navigation.json"},
 	
 	"Um chipset de navigação de alta qualidade (mais poder) não tem nenhum benefício comparando com um chipset normal!",
 	"Dica: O efeito exato é determinado pela máquina suportada.",

@@ -18,9 +18,8 @@
         "meta": 0
       },
       "out3": {
-        "name": "fp:spaceship",
-        "size": 1,
-        "meta": "\u003cspaceship.Kompost\u003e"
+        "name": "futurepack:kompost",
+        "size": 1
       }
     },
     "support": 0,

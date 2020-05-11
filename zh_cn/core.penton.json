@@ -4,7 +4,7 @@
 
 	"装配",
 	{
-		"link":"fp:lang/part/as_core.penton.json"
+		"link":"futurepack:lang/part/as_core.penton.json"
 	},
 
 	"提示:参考\"标准处理器\"的信息。"

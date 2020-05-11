@@ -1,7 +1,7 @@
 [
 	"With the help of electromagnets, I can make things levitate. And by using this technical principle, I developed a logistic drone, designed to transport goods. Through magnetism, the drone levitates above a metal rail and can move automatically to navigate to selected destinations.",
 	"Crafting:",
-	{"link":"fp:lang/part/cr_space.drone.monocart.json"},
+	{"link":"futurepack:lang/part/cr_space.drone.monocart.json"},
 	"The monocart can be placed with a contruction box on top of a monorail, and can be teared off with a scrench.",
 	"With the button at the top right corner I can switch between route and inventory view. Next to the button is an energy bar.",
 	"Route view:",

@@ -3,7 +3,7 @@
 	"Eu notei que uma interação entre wafers de silício e a luz do sol causa uma voltagem ser criada na camada de silício. A força dependa do nível da radiação.",
 
 	"Criando:",
-	{"link":"fp:lang/part/cr_energy.solar.json"},
+	{"link":"futurepack:lang/part/cr_energy.solar.json"},
 	"Usando o computador, su posso aumentar a produção total por mudar o alinhamento dos módulos, convertindo a energia mais eficientemente.",
 	"Aumentando o valor \"RAM\" aumenta a quantidade de energia produzida.",
 	

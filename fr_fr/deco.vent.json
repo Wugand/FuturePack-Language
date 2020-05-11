@@ -1,8 +1,8 @@
 [
 	"J'ai crée une structure complexe à partir de métal composite et de barres de fer : un bloc de ventilation.",
 	"Craft :",
-	{"link":"fp:lang/part/cr_deco.vent.json"},
-	{"link":"fp:lang/part/cr_deco.ventslab.json"},
+	{"link":"futurepack:lang/part/cr_deco.vent.json"},
+	{"link":"futurepack:lang/part/cr_deco.ventslab.json"},
 	"Information : Ce bloc peut être (dé)coloré avec le pistolet à peinture.",
 	"Info : Deux dalles placées l'une sur l'autre droppent un bloc de métal quand on le casse."
 

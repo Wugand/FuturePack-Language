@@ -1,6 +1,6 @@
 [
   {
     "type": "crafting",
-    "load": ["fp:opti_bench_2", "fp:opti_bench_6", "fp:opti_bench_10"]
+    "load": ["futurepack:opti_bench_2", "futurepack:opti_bench_6", "futurepack:opti_bench_10"]
   }
 ]

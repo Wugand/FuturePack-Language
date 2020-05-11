@@ -2,5 +2,5 @@
 	"O chipset para controle de redstone funciona no mesmo jeito em qualquer máquina, incluíndo uma placa-mãe. Isso garante que a máquina checa se está recebendo um sinal de redstone e vai desligar se para de receber um sinal.",
 	"Isso habilita você desligar sistemas grandes para economizar energia.",
 	"Montagem:",
-	{"link":"fp:lang/part/as_chip.redstone.json"}
+	{"link":"futurepack:lang/part/as_chip.redstone.json"}
 ]

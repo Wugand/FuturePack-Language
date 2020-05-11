@@ -2,6 +2,6 @@
   "Ich habe eine Spitzhacke aus Verbundmetall entwickelt, sie ist wesentlich stabiler und langlebiger als die herkömmlichen Werkzeuge. Vor allem der Eisenstiel trägt zur Haltbarkeit der Spitzhacke bei.",
   "Crafting:",
   {
-    "link": "fp:lang/part/crafting_tools.composite_pickaxe.json"
+    "link": "futurepack:lang/part/crafting_tools.composite_pickaxe.json"
   }
 ]

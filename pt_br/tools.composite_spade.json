@@ -5,15 +5,15 @@
 		"type": "crafting",
 		"slots": {
 			"1": {},
-			"2": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"2": {"name":"futurepack:spaceship", "meta":"<spaceship.CompositeMetall>"},
 			"3": {},
 			"4": {},
-			"5": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
+			"5": {"name":"futurepack:spaceship", "meta":"<spaceship.IronStick>"},
 			"6": {},
 			"7": {},
-			"8": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
+			"8": {"name":"futurepack:spaceship", "meta":"<spaceship.IronStick>"},
 			"9": {},
-			"out": {"name":"fp:composite_spade"}
+			"out": {"name":"futurepack:composite_spade"}
 		}
 	}
 ]

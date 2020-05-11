@@ -1,0 +1,7 @@
+[
+	"Ich habe einen Rossharnisch aus Verbundmetall entwickelt. Er ist leichter als eine herkömmliche Rüstung und schützt das Pferd deutlich besser.",
+	"Crafting:",
+	 {
+	    "link": "futurepack:lang/part/crafting_tools.composite_horse_armor.json"
+	 }
+]

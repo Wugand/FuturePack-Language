@@ -2,6 +2,6 @@
     "Crafting:",
     {
         "type": "crafting",
-        "load":["fp:modul_battery_0"]
+        "load":["futurepack:modul_battery_0"]
     }
 ]

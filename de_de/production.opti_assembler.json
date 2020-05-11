@@ -6,7 +6,7 @@
   "Wie beim Montagetisch kann durch Zuführung von Supportpunkten die maximale Qualität der Produkte gesteigert werden. Für eine automatische Weiterverarbeitung ist zu beachten, dass alle Produkte dem Zufall unterliegen und somit schwankende Werte aufweisen können.",
   "Crafting:",
   {
-    "link": "fp:lang/part/crafting_production.opti_assembler.json"
+    "link": "futurepack:lang/part/crafting_production.opti_assembler.json"
   },
   "Unterstützte Chipsätze:",
   "Logikchipsatz\nTransportchipsatz\nRedstonesteuerungschipsatz\nUnterstützungschipsatz\nUltimativer Chipsatz\nSchadenskontrollchipsatz"

@@ -1,6 +1,6 @@
 [
     "Eu desenvolvei um chip que aumenta a abilidade para fazer decisões em um sistema.",
     "Montagem:",
-	{"link":"fp:lang/part/as_chip.ai.json"},
+	{"link":"futurepack:lang/part/as_chip.ai.json"},
     "Por causa do chip de AI, um resultado é que o laser de absorção não mata mais as entidades, mas em vez deixa elas muito fracas."
 ]

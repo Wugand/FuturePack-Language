@@ -3,11 +3,11 @@
   "Es ist eine Sprühpistole, die das im Tank befindliche Material mittels Luftdruck beschleunigt und gleichmäßig ausstößt. Das Gerät ist sowohl zum Färben als auch zum Sandstrahlen geeignet. Für zweiteres kann ich jede Form von Sand oder Kies verwenden.",
   "Crafting:",
   {
-    "link": "fp:lang/part/crafting_tools.airbrush.json"
+    "link": "futurepack:lang/part/crafting_tools.airbrush.json"
   },
   "Farbtanks (Shapeless):",
   {
-    "link": "fp:lang/part/crafting_tools.airbrush2.json"
+    "link": "futurepack:lang/part/crafting_tools.airbrush2.json"
   },
   "Benutzung:",
   "§lShift + Rechtsklick§r öffnet das Inventar der Farbpistole, in den Slot kann dann ein Farbtank oder Sand/Kies eingelegt werden.",

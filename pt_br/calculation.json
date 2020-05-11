@@ -5,8 +5,8 @@
 	"É possível conectar qualquer número de módulos a um Pesquisador, através do qual um módulo com 100% RAM tem 4 vezes o poder de calculações do que um Pesquisador normal. O poder do módulo depende somente no poder de RAM.",
 	
 	"Criando:",
-	{"link":"fp:lang/part/cr_calculation.main.json"},
-	{"link":"fp:lang/part/cr_calculation.json"},
+	{"link":"futurepack:lang/part/cr_calculation.main.json"},
+	{"link":"futurepack:lang/part/cr_calculation.json"},
 	
 	"Atualmente, eu consigo ligar 1 a 2 módulos a um Pesquisador."
 ]

@@ -5,7 +5,7 @@
   "Ainsi, le Cutter à Plasma peut détruire extrêmement rapidement toutes sortes de blocs métalliques * (y compris presque tous les blocs décoratifs et toutes les machines du FuturePack). En revanche, il ne remplace pas un pioche, qui doit être utilisée sur des pierres par exemple.",
   "Craft :",
   {
-    "link": "fp:lang/part/crafting_tools.plasma.json"
+    "link": "futurepack:lang/part/crafting_tools.plasma.json"
   },
   "De l\u0027énergie Néon est nécessaire pour le (re)charger. Si la réserve d\u0027énergie est vide, le cutter à Plasma sera détruit.",
   "Pour le recharger, je peux, comme pour les piles, le placer dans les emplacements appropriés dans les générateurs d\u0027énergie, dans les boites à batteries ou dans le Module d\u0027Energie.",

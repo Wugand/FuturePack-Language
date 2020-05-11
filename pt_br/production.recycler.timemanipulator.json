@@ -5,6 +5,6 @@
     "Primeiro, o laser escanea o objeto para mapear onde tem dano e para achar quais materais serão necessários para consertar as ferramentas. Daí, as bobinas criam pequenos rasgos no tecido de espaço-tempo para adquerir os recursos precisos.",
     "O processo precisa de muita energia, e para prevenir a criação de buracos interdimensionais permanentes, pontos de apoio são usados para estabilizar os rasgos.",
     "Criando:",
-    {"link":"fp:lang/part/cr_production.recycler.timemanipulator.json"},
+    {"link":"futurepack:lang/part/cr_production.recycler.timemanipulator.json"},
     "Esta máquina apresenta várias receitas e deve ser capaz de consertar qualquer ferramenta."
 ]

@@ -8,12 +8,12 @@
 			"2": {"OreDict":"ingotAluminum"},
 			"3": {},
 			"4": {"OreDict":"ingotAluminum"},
-			"5": {"name":"fp:spaceship", "meta":"<spaceship.Tank>"},
+			"5": {"name":"futurepack:spaceship", "meta":"<spaceship.Tank>"},
 			"6": {"OreDict":"ingotAluminum"},
 			"7": {"OreDict":"ingotAluminum"},
 			"8": {"name":"minecraft:gunpowder"},
 			"9": {"OreDict":"ingotAluminum"},
-			"out": {"name":"fp:grenade", "meta":0, "size":6}
+			"out": {"name":"futurepack:grenade", "meta":0, "size":6}
 		}
 	},	
 	
@@ -25,7 +25,7 @@
 	{
 		"type": "crafting",
 		"slots": {
-			"1": {"name":"fp:grenade", "meta":0},
+			"1": {"name":"futurepack:grenade", "meta":0},
 			"2": {"name":"minecraft:gunpowder"},
 			"3": {},
 			"4": {},
@@ -34,14 +34,14 @@
 			"7": {},
 			"8": {},
 			"9": {},
-			"out": {"name":"fp:grenade", "meta":2, "size":1}
+			"out": {"name":"futurepack:grenade", "meta":2, "size":1}
 		}
 	},
 	"Poder 2:",
 	{
 		"type": "crafting",
 		"slots": {
-			"1": {"name":"fp:grenade", "meta":0},
+			"1": {"name":"futurepack:grenade", "meta":0},
 			"2": {"name":"minecraft:gunpowder"},
 			"3": {},
 			"4": {"name":"minecraft:gunpowder"},
@@ -50,14 +50,14 @@
 			"7": {},
 			"8": {},
 			"9": {},
-			"out": {"name":"fp:grenade", "meta":2, "size":1}
+			"out": {"name":"futurepack:grenade", "meta":2, "size":1}
 		}
 	},
 	"Poder 3:",
 	{
 		"type": "crafting",
 		"slots": {
-			"1": {"name":"fp:grenade", "meta":0},
+			"1": {"name":"futurepack:grenade", "meta":0},
 			"2": {"name":"minecraft:gunpowder"},
 			"3": {},
 			"4": {"name":"minecraft:gunpowder"},
@@ -66,7 +66,7 @@
 			"7": {},
 			"8": {},
 			"9": {},
-			"out": {"name":"fp:grenade", "meta":2, "size":1}
+			"out": {"name":"futurepack:grenade", "meta":2, "size":1}
 		}
 	}
 ]

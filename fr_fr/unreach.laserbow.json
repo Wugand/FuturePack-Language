@@ -3,7 +3,7 @@
   "C\u0027est une sorte d\u0027arc qui tire des faisceaux lasers solides à la place des flèches. Lorsqu\u0027elles sont assez chargées, elles peuvent même exploser à l\u0027impact.",
   "Craft :",
   {
-    "link": "fp:lang/part/crafting_unreach.laserbow.json"
+    "link": "futurepack:lang/part/crafting_unreach.laserbow.json"
   },
   "L\u0027arc se (re)charge grâce à de l\u0027Energie Néon.",
   "Il faut que je regarde également si l\u0027arc Laser peut être enchanté."

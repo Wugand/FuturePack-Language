@@ -3,6 +3,11 @@
 	"Dadurch kann ich jede Form von Informationen verlustfrei und schnell übertragen. Sicher lassen sich zahlreiche Anwendungen finden.",
 	"Der Forscher, Scanner und die Module können alle Über das Netzwerk verbunden werden, und müssen deswegen nicht mehr alle am selben Ort stehen. Das Ermöglicht mir große Speicher-Kammern zu bauen und sie trotzdem alle mit dem Forscher zu verbinden.",
 	"Mithilfe des Netzwerkes kann ich nun auch mehr Berechnungssmodule an den Forscher anbinden, zudem sollte ich die Berechnungssmodule selbst mit besseren Teilen aufrüsten. Aktuell sind vermutlich 2-4 Module angemessen.",
+	"Ebenso habe ich das Konzept eines Netzwerkforschers entwickelt, welcher alle meine neuen Erkenntnisse an alle anderen Netzwerkforschers im gleichen Netzwerk übermittelt. So kann ich andere Spieler kostenlos und automatisch an meinem Wissen teilhaben lassen.",
+	"Crafting:",
+	{
+		"link": "futurepack:lang/part/cr_shared_researcher.json"
+	},
 	"Notiz: Neue Forschungen sind bei \"Logistik\" verfügbar!",
 	"§0Forschungsitem: Netzwerkkabel§r"
 ]

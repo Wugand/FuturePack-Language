@@ -3,6 +3,6 @@
   "When liquid is released into the pipeline, it attempt to transport the fluid to a valid destination.",
   "Crafting:",
   {
-    "link": "fp:lang/part/crafting_log.tube.json"
+    "link": "futurepack:lang/part/crafting_log.tube.json"
   }
 ]

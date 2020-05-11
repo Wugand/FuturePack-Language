@@ -2,7 +2,7 @@
   "身の回りの装置の入出力の動作を調整するために、汎用ツールを作成しました。",
   "作成図:",
   {
-    "link": "fp:lang/part/crafting_tools.logistik_editor.json"
+    "link": "futurepack:lang/part/crafting_tools.logistik_editor.json"
   },
   "-使い方:",
   "§l右クリック§r(空中で)することでモードを切り替えることができます。",

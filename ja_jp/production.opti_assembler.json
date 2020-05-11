@@ -6,7 +6,7 @@
 "アセンブリテーブルと同様に、サポートポイントを供給して完成品の品質の最高値を高めることができます。 製造の自動化を導入するにあたっては、製品のできあがり具合の全てが不確定であり、品質の値は変動し続けていることに留意してください。",
   "作成図:",
   {
-    "link": "fp:lang/part/crafting_production.opti_assembler.json"
+    "link": "futurepack:lang/part/crafting_production.opti_assembler.json"
   },
   "Supported Chipsets:",
 "-対応しているチップセット:\n論理チップセット\n転送チップセット\nﾚｯﾄﾞｽﾄｰﾝ制御チップセット\nｻﾎﾟｰﾄﾁｯﾌﾟｾｯﾄ\nｱﾙﾃｨﾒｯﾄﾁｯﾌﾟｾｯﾄ\nﾀﾞﾒｰｼﾞ制御チップセット"

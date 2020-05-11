@@ -3,7 +3,7 @@
   "Wenn ich etwas finde werde ich einen entsprechenden Datensatz anfertigen, den ich in den Bordcomputer einlegen kann.",
   "Crafting:",
   {
-    "link": "fp:lang/part/crafting_space.navcord.tyros.json"
+    "link": "futurepack:lang/part/crafting_space.navcord.tyros.json"
   },
   "Benutzung mit \"Rechtsklick\".",
   "Diese ist ein Platzhalter.",

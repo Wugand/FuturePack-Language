@@ -3,7 +3,7 @@
   "J\u0027ai essayé de développer une gaine isolante à partir de ce matériau, et il fonctionne parfaitement. Quand je connecte ces câbles au réseau, les signaux sont bien transmis.",
   "Craft:",
   {
-    "link": "fp:lang/part/crafting_log.networkcable.json"
+    "link": "futurepack:lang/part/crafting_log.networkcable.json"
   },
   "Pour éviter d\u0027avoir des problèmes de réseau défaillant ou surchargé, j\u0027ai utilisé un design spécial de câble. Ils ont leurs propres splitter et amplificateurs ce qui me permet d\u0027attendre facilement le réseau sans perte de vitesse."
 ]

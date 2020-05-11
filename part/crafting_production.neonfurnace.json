@@ -1,6 +1,6 @@
 [
   {
     "type": "crafting",
-    "load": ["fp:e_furnace_2", "fp:e_furnace_6", "fp:e_furnace_10"]
+    "load": ["futurepack:e_furnace_2", "futurepack:e_furnace_6", "futurepack:e_furnace_10"]
   }
 ]

@@ -1,17 +1,17 @@
 [
   "J\u0027ai créé un outil multi-fonctions très utile. il me permet de faire tourner des blocs, et devrait être utile pour modifier les machines.",
   {
-    "link": "fp:lang/part/crafting_tools.scrench.json"
+    "link": "futurepack:lang/part/crafting_tools.scrench.json"
   },
   "Changement de Mode : §lClic Droit \"dans les airs\"§r",
   "Mode Rotation:",
   {
-    "link": "fp:lang/part/image_tools.scrench2.json"
+    "link": "futurepack:lang/part/image_tools.scrench2.json"
   },
   "§lClic Droit§r sur un bloc pour le faire tourner.",
   "Mode Modification:",
   {
-    "link": "fp:lang/part/image_tools.scrench3.json"
+    "link": "futurepack:lang/part/image_tools.scrench3.json"
   },
   "§lShift + Clic Droit§r sur la machine pour la modifier.",
   "Note: La première machine modifiable sera débloquée plus tard !"

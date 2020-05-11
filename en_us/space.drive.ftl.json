@@ -4,11 +4,11 @@
   "I have to install this drive in any spaceship I use if I wish to ever fly further than Menelaus.",
   "Crafting:",
   {
-    "link": "fp:lang/part/cr_space.drive.ftl.json"
+    "link": "futurepack:lang/part/cr_space.drive.ftl.json"
   },
   "Warning: Don\u0027t use the FTL-BLock for decoration!",
   "Building:",
   {
-    "link": "fp:lang/part/building_space.drive.ftl.json"
+    "link": "futurepack:lang/part/building_space.drive.ftl.json"
   }
 ]

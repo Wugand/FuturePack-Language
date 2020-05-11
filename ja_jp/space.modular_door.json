@@ -4,10 +4,10 @@
   "画期的な点は、接触しているゲート同士が連動することです。\nゲートに対し§l右クリック§rすることで開閉させることができます。",
   "作成図:",
   {
-    "link": "fp:lang/part/crafting_space.modular_door.json"
+    "link": "futurepack:lang/part/crafting_space.modular_door.json"
   },
   "実例:",
   {
-    "link": "fp:lang/part/image_space.modular_door2.json"
+    "link": "futurepack:lang/part/image_space.modular_door2.json"
   }
 ]

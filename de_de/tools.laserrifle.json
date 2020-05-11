@@ -2,6 +2,6 @@
 	"Wenn ich große Mengen Energie in kurzer Zeit einer Laserdiode zuführe, erzeugt diese einen extrem starken Laserimpuls. Zwischen zwei Aktivierungen entsteht allerdings eine gewisse Aufladezeit.",
 	"Es ist mir gelungen das System in eine tragbare Waffe zu integrieren. Sie feuert einen gerade fliegenden Impuls ab, der sehr viel Schaden verursachen kann.",
 	"Crafting:",
-	{"link":"fp:lang/part/cr_tools.laserrifle.json"},
+	{"link":"futurepack:lang/part/cr_tools.laserrifle.json"},
 	"Es wird Neonenergie für die (wieder-)Aufladung benötigt. Wenn die Ladung geringer als 18 NE ist, kann kein weiterer Schuss aufgeladen werden."
 ]

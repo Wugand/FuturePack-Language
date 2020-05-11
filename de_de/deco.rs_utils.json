@@ -2,15 +2,15 @@
   "Ich habe ein paar nützliche Redstone Bauelemente entwickelt.",
   "Hebel:",
   {
-    "link": "fp:lang/part/crafting_deco.rs_utils.json"
+    "link": "futurepack:lang/part/crafting_deco.rs_utils.json"
   },
   "Knopf:",
   {
-    "link": "fp:lang/part/crafting_deco.rs_utils2.json"
+    "link": "futurepack:lang/part/crafting_deco.rs_utils2.json"
   },
   "Redstone Schaltuhr (Clock):",
   {
-    "link": "fp:lang/part/crafting_deco.rs_utils3.json"
+    "link": "futurepack:lang/part/crafting_deco.rs_utils3.json"
   },
   "Das Intervall der Schaltuhr kann mittels GUI eingestellt werden."
 ]

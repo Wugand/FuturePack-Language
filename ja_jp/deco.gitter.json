@@ -1,10 +1,9 @@
 [
 	"複合金属素材と鉄の棒材を活用する研究を行い、格子状の構造を持ったブロックを作成しました。",
 	"作成図:",
-	{"link":"fp:lang/part/cr_deco.gitter.json"},
-	{"link":"fp:lang/part/cr_deco.gitterpane.json"},
-	{"link":"fp:lang/part/cr_deco.gitterslab.json"},	
-	{"link":"fp:lang/part/cr_deco.gittertreppe.json"},
-	"-Info:\nこのブロックは、エアブラシを使用して着色(脱色)することができます。",
-	"-Info:\nハーフブロックを重ねるとフルサイズのブロックになり、破壊した際もハーフブロックに戻りません。"
+	{"link":"futurepack:lang/part/cr_deco.gitter.json"},
+	{"link":"futurepack:lang/part/cr_deco.gitterpane.json"},
+	{"link":"futurepack:lang/part/cr_deco.gitterslab.json"},	
+	{"link":"futurepack:lang/part/cr_deco.gittertreppe.json"},
+	"-Info:\nこのブロックは、エアブラシを使用して着色(脱色)することができます。"
 ]

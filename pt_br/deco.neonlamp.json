@@ -2,6 +2,6 @@
 	"Eu desenvolvei uma fonte de luz muito brilhante. É feita por um invólucro de vidro temperado com o ar tirado. Dentro, energia de néon flui através de uma bobina para estimular poéira fina de néon. Combinando poéira de redstone, começa uma reação interessante, emetindo muita luz.",
 	"Por causa da construção, energia de néon e um sinal de redstone são precisos para energizá-la.",
 	"Criando:",
-	{"link":"fp:lang/part/cr_deco.neonlamp.json"},
+	{"link":"futurepack:lang/part/cr_deco.neonlamp.json"},
 	"Dica: Um cabo de néon com uma camada de redstone seria muito útil nesse caso."
 ]

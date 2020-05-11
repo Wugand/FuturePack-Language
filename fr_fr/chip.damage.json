@@ -1,7 +1,7 @@
 [
 	"J'ai développé une puce spéciale qui permet de désactiver complètement la machine si elle commence à surchauffer. Elle protège de la panne et de la destruction de composants.",
 	"Assemblage:",
-	{"link":"fp:lang/part/as_chip.damage.json"},
+	{"link":"futurepack:lang/part/as_chip.damage.json"},
 	
 	"Une puce Dommage de haute qualité (puce haute puissance) n'a pas de bénéfice supplémentaire par rapport à une puce normale !",
 	"Conseil : Se référer à \"Puce Logique\" pour les informations générales"

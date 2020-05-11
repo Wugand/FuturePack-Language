@@ -3,6 +3,6 @@
   "为此，我设计了一台可以放置在其他方块上的机器。 它有一个计算机系统，由氖能量供能。 时钟速率为100％的单个外部处理单元能使方块运作速度加倍。",
   "合成:",
   {
-    "link": "fp:lang/part/crafting_chips.externalcore.json"
+    "link": "futurepack:lang/part/crafting_chips.externalcore.json"
   }
 ]

@@ -4,6 +4,6 @@
 	"输入和输出通过光与系统通信，并且荧石晶体特别适合这个。单个运算单元受光亲和元素元件限制，我能用钻石做最好的。",
 	"装配",
 	{
-		"link":"fp:lang/part/as_core.mm.json"
+		"link":"futurepack:lang/part/as_core.mm.json"
 	}
 ]

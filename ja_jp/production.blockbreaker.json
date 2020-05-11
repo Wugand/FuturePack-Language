@@ -3,7 +3,7 @@
   "レッドストーンの信号によって動作します。機械を破壊可能なブロックの前に設置し、ブロックを破壊すると丸い穴から排出します。",
   "作成図:",
   {
-    "link": "fp:lang/part/crafting_production.blockbreaker.json"
+    "link": "futurepack:lang/part/crafting_production.blockbreaker.json"
   },
   "内部にエンチャントブックを置くことで、機械をアップグレードすることができます。"
 ]

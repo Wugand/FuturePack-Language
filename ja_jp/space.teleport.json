@@ -1,19 +1,19 @@
 [
   "最近、垂直方向への長距離移動手段はないものかという疑問が湧き、その結果、転送装置で自身をテレポートさせることにしました。",
   "作成図:",
-  {"link":"fp:lang/part/cr_space.teleport.json"},
+  {"link":"futurepack:lang/part/cr_space.teleport.json"},
   "黄色は基本型の転送装置です。転送装置の到着地点となることはできますが、ここからどこかへ行くことはできません。",
   "クラフトに使用されるエンダーパールの効果を利用してテレポートを行っています。\nネオンエネルギーが供給され、到着地点が用意されている場合、エンダーパールを失うことなくその能力を使用することができます。",
   "作成図:",
-  {"link": "fp:lang/part/crafting_space.teleport.json"},
+  {"link": "futurepack:lang/part/crafting_space.teleport.json"},
   "緑色は上昇型の転送装置。\n上方向にある転送装置に向けて移動することができます。",
   "作成図:",
-  {"link": "fp:lang/part/crafting_space.teleport2.json"},
+  {"link": "futurepack:lang/part/crafting_space.teleport2.json"},
   "赤色は下降型の転送装置。\n下方向にある転送装置に向けて移動することができます。",
   "これらの転送装置は、黄色、緑色、赤色のどの種類の転送装置も到着地点にすることができます。",
   "しかし、複数の階層の建物では上下に移動する必要性があることを思い出しました。",
   "作成図:",
- {"link": "fp:lang/part/crafting_space.teleport3.json"},
+ {"link": "futurepack:lang/part/crafting_space.teleport3.json"},
   "これはクリックする場所によって行く先を上か下か選択できます。",
   "Scレンチを持って上下一体の転送装置を右クリックすると、転送装置を分離させることができます。\n上昇型の転送装置が真下の方向へ落下してゆき、そうすることで2台の転送装置を簡単に配置することができます。"
 ]

@@ -3,7 +3,7 @@
   "動作はレッドストーン信号によって発揮されますが、これはおそらくレッチウムの性質によるものです。",
   "作成図:",
   {
-    "link": "fp:lang/part/crafting_space.gravity.json"
+    "link": "futurepack:lang/part/crafting_space.gravity.json"
   },
   "装置を作ることはできましたが、目指していたものとは違って、重力とは全く別のものを発見してしまいました。"
 ]

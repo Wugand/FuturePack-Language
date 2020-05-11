@@ -4,6 +4,6 @@
   "Mithilfe von Redstone kann ich sie ein- und ausfahren. Sie ist so konstruiert das man optimal zwischen zwei Schleusen 3 Blöcke Platz hat. Dank der Rotation Eigenschaften kann man so sowohl breit als auch hoch bauen.",
   "Crafting:",
   {
-    "link": "fp:lang/part/crafting_space.airlock.json"
+    "link": "futurepack:lang/part/crafting_space.airlock.json"
   }
 ]

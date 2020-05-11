@@ -3,7 +3,7 @@
   "Zudem leiten diese Kabel das Signal wesentlich weiter als der lose Redstonestaub, verbinden sich aber wie gewohnt mit normalenm Redstone.",
   "Crafting:",
   {
-    "link": "fp:lang/part/crafting_log.redstonecable.json"
+    "link": "futurepack:lang/part/crafting_log.redstonecable.json"
   },
   "Besonders praktisch sind diese Kabel um Maschinen und Lampen mit Signalen zu versorgen."
 ]

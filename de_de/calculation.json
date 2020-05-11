@@ -5,8 +5,8 @@
 	"Es können belibig viele solcher Module angeschlossen werden, ein Modul mit 100% RAM entspricht dabei jeweils der viefachen Leistung eines Forschers. Die Leistung eines Moduls ist dabei rein von seiner Ram-Power abhängig.",
 	
 	"Crafting:",
-	{"link":"fp:lang/part/cr_calculation.main.json"},
-	{"link":"fp:lang/part/cr_calculation.json"},
+	{"link":"futurepack:lang/part/cr_calculation.main.json"},
+	{"link":"futurepack:lang/part/cr_calculation.json"},
 	
 	"Aktuell sollte ich es schaffen 1-2 Module an den Forscher anzubinden."
 ]

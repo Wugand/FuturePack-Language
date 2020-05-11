@@ -4,9 +4,9 @@
   "我通过将能量馈送到位于两个半透明镜之间的宝石来实现。这样，宝石被激发，在正确的时刻发光，创造出完美同步的光束。",
   "合成:",
   {
-    "link": "fp:lang/part/crafting_lasertechnik.json"
+    "link": "futurepack:lang/part/crafting_lasertechnik.json"
   },
   {
-    "link": "fp:lang/part/industrialneonfurnace_production.nind.linse.w.json"
+    "link": "futurepack:lang/part/industrialneonfurnace_production.nind.linse.w.json"
   }
 ]

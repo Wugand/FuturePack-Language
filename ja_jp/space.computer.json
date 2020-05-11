@@ -2,7 +2,7 @@
   "広大な宇宙で大切なことは、進路を見失わないことです。\n虚空の空間を安全に導いてくれるコンピュータを作成しました。",
   "作成図:",
   {
-    "link": "fp:lang/part/cr_space.computer.json"
+    "link": "futurepack:lang/part/cr_space.computer.json"
   },
   "GUIには3つのタブがあります。",
   "最初のタブは[惑星Minecraft]\nを表示し、ここからいつもの我が家に帰ることができます。",
@@ -11,15 +11,15 @@
   "",
   "安全のためのさまざまなメッセージを確認できます。",
   {
-    "link": "fp:lang/part/translate_space.computer2.json"
+    "link": "futurepack:lang/part/translate_space.computer2.json"
   },
   "-コンピュータのエネルギーが足りていないことを意味しています。",
   {
-    "link": "fp:lang/part/translate_space.computer3.json"
+    "link": "futurepack:lang/part/translate_space.computer3.json"
   },
   "-船内のコンピュータルームが、100%密閉されていないことを意味しています。",
   {
-    "link": "fp:lang/part/translate_space.computer4.json"
+    "link": "futurepack:lang/part/translate_space.computer4.json"
   },
   "これは、船内にネオンエネルギーの生成装置が無いことを意味しています。"
 ]

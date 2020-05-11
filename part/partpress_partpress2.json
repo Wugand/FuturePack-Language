@@ -2,10 +2,9 @@
   {
     "type": "partpress",
     "slots": {
-      "in": "OreDict:ingotIron",
+      "in": "tag:forge:ingots/iron",
       "out": {
-        "name": "fp:spaceship",
-        "meta": "\u003cspaceship.IronParts\u003e",
+        "name": "futurepack:parts_iron",
         "size": 4
       }
     }

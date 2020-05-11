@@ -3,13 +3,13 @@
   "Ich kann dieses Verfahren mehrmals auf die verschiedensten Gesteine anwenden, um Schlussendlich feinen sauberen Sand zu erhalten.",
   "Beispiele:",
   {
-    "link": "fp:lang/part/zentrifuge_production.zent.extraction1.json"
+    "link": "futurepack:lang/part/zentrifuge_production.zent.extraction1.json"
   },
   {
-    "link": "fp:lang/part/zentrifuge_production.zent.extraction12.json"
+    "link": "futurepack:lang/part/zentrifuge_production.zent.extraction12.json"
   },
   {
-    "link": "fp:lang/part/zentrifuge_production.zent.extraction13.json"
+    "link": "futurepack:lang/part/zentrifuge_production.zent.extraction13.json"
   },
   "Information: Die Zentrifuge hat sehr viele Rezepte, es werden hier nicht alle aufgelistet!"
 ]

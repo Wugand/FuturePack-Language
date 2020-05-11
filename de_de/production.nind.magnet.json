@@ -2,6 +2,6 @@
   "Ich habe schon vor einiger Zeit ein Erz gefunden, welches eine Anziehung auf Eisen und eisenhaltige Stoffe auslöst. Allerdings ging dieser Effekt bei der Verarbeitung verloren und es wurde zu normalem Eisen.",
   "Durch eine langsame, gezielte Abkühlung nach dem schmelzen im Neonindustrieofen kann ich den Effekt jetzt erhalten und sogar verstärken. Somit kann ich Magnetit jetzt zu Stabmagneten verarbeiten.",
   {
-    "link": "fp:lang/part/industrialneonfurnace_production.nind.magnet.json"
+    "link": "futurepack:lang/part/industrialneonfurnace_production.nind.magnet.json"
   }
 ]

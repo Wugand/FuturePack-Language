@@ -8,16 +8,16 @@
 	{
 		"type": "crafting",
 		"slots": {
-			"1": {"name":"fp:spaceship", "meta":"<spaceship.GoldParts>"},
-			"2": {"name":"fp:scrench"},
-			"3": {"name":"fp:spaceship", "meta":"<spaceship.GoldParts>"},
-			"4": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>"},
-			"5": [{"name":"fp:color_iron","meta":0},{"name":"fp:color_iron","meta":8},{"name":"fp:color_iron","meta":15}],
-			"6": {"name":"fp:spaceship", "meta":"<spaceship.Silizium>"},
+			"1": {"name":"futurepack:spaceship", "meta":"<spaceship.GoldParts>"},
+			"2": {"name":"futurepack:scrench"},
+			"3": {"name":"futurepack:spaceship", "meta":"<spaceship.GoldParts>"},
+			"4": {"name":"futurepack:spaceship", "meta":"<spaceship.Silizium>"},
+			"5": [{"name":"futurepack:color_iron","meta":0},{"name":"futurepack:color_iron","meta":8},{"name":"futurepack:color_iron","meta":15}],
+			"6": {"name":"futurepack:spaceship", "meta":"<spaceship.Silizium>"},
 			"7": {"OreDict":"ingotNeodymium"},
 			"8": {"name":"minecraft:enchanting_table", "meta":0},
 			"9": {"OreDict":"ingotNeodymium"},
-			"out": [{"name":"fp:modul_3","meta":2},{"name":"fp:modul_3","meta":6},{"name":"fp:modul_3","meta":10}]
+			"out": [{"name":"futurepack:modul_3","meta":2},{"name":"futurepack:modul_3","meta":6},{"name":"futurepack:modul_3","meta":10}]
 		}
 	},	
 	"O módulo armazena até 1 500 XP (cerca de 31 níveis). Se não for suficiente, eu posso simplesmente ligar vários módulos com um Pesquisador.",

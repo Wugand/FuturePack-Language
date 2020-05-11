@@ -2,7 +2,7 @@
 	"Ich habe einen Elektromagnet entwickelt der deutlich stärker ist, als ein normaler Magnetblock. Im Gegensatz zu diesem braucht er allerdings Neonenergie. Außerdem kann man in mir Redstonesignalen ein- und ausschalten.",
 	"Crafting:",
 	{
-		"link":"fp:lang/part/cr_space.emagnet.json"
+		"link":"futurepack:lang/part/cr_space.emagnet.json"
 	},
 	"Dieser Magnetblock wird über ein Computersystem gesteuert, um die Spule von einer Überhitzung abzuhalten und um die magnetische Intensität besser steuern zu können. Es sollte beachtet werden, dass die Geschwindigkeit des Rams die Frequenz des Magnetfelds bestimmt. Dadurch kann durch Interferenzen das Magnetfeld um einiges stärker werden, als normale Elektromagneten es erzeugen könnten.",
 	"unterstützte Chipsätze:\nIndustriechipsatz"

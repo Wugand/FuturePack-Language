@@ -4,6 +4,6 @@
 	"Além disso, pode modificar a quantidade para cada lugar/item (clique esquerdo: +1; clique direito: -1; shift+clique esquerdo: +10; shift+clique direito: -10). Um número acima de 64 representaria tudo/infinidade.",
 	"A conta de carregamento configurada representa a quantidade total de itens daquele tipo colocados dentro do monocarrinho, pois a conta de descarregamento configurada representa a quantidade total de itens tirados do monocarrinho.",
 	"Criando:",
-	{"link":"fp:lang/part/cr_space.drone.mono.station.json"},
+	{"link":"futurepack:lang/part/cr_space.drone.mono.station.json"},
 	"A estação não tem seu próprio inventário; portanto a estação interage diretamente com inventários ao redor."
 ]

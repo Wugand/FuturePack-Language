@@ -2,7 +2,7 @@
   "Um Prozessor, Speicher und Chipsätze zu verbinden, habe ich eine große, nicht leitende Quarzplatte mit zahlreichen Verbindungen, Steckplätzen und Stromversorgungseinheiten versehen.",
   "Crafting:",
   {
-    "link": "fp:lang/part/crafting_motherboard.json"
+    "link": "futurepack:lang/part/crafting_motherboard.json"
   },
   "Information:",
   "Bei der Herstellung können beliebige Prozessoren, Speicher und Chipsätze kombiniert werden. Alle Komponenten sind später austauschbar (siehe \"Übertakten\")! Es kann allerdings passieren das eine unpassende Kombination beim der Inbetriebnahme nicht sofort funktioniert oder beginnt zu Überhitzen.",

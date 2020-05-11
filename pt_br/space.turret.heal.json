@@ -2,7 +2,7 @@
 	"Aplicando a tecnologia de nano-manipulação, eu desenvolvei um novo tipo de torre de laser. Com a ajuda de um computador embutido, o torre seleciona automaticamente todo criatura e jogador dentro do alcance. Com um laser focado, o torre cura os alvos.",
 	"Fazendo isso, o torre consome grandes quantidades de energia de néon, por quê eu deveria ligar a uma fonte mais permanente de energia. O sistema de monitoramento usa energia continuamente e curar uma entidade requer energia adicional (10 NE por ponto de vida).",
 	"Criando:",
-	{"link":"fp:lang/part/cr_space.turret.heal.json"},
+	{"link":"futurepack:lang/part/cr_space.turret.heal.json"},
 	"O torre de laser é controlado por um sistema que, entre outras coisas, regula a aquisição de alvos e o fluxo de energia.",
 	"Chipsets Compatíveis:",
 	"Chipset Industrial: Reduz a energia necessária para curar alvos.",

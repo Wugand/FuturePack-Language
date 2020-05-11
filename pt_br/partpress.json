@@ -14,7 +14,7 @@
 			"7": "OreDict:ingotIron",
 			"8": {"name":"minecraft:piston","meta":0},
 			"9": "OreDict:ingotIron",
-			"out": {"name":"fp:partpress","meta":0}
+			"out": {"name":"futurepack:partpress","meta":0}
 		}
 	},
 	"Receitas:",
@@ -22,7 +22,7 @@
         "type": "partpress",
         "slots": {
             "in": "OreDict:ingotIron",
-            "out": {"name":"fp:spaceship", "meta":"<spaceship.IronParts>", "size":4}
+            "out": {"name":"futurepack:spaceship", "meta":"<spaceship.IronParts>", "size":4}
         }
     },
 		
@@ -30,7 +30,7 @@
         "type": "partpress",
         "slots": {
             "in": "OreDict:ingotCopper",
-			"out": {"name":"fp:spaceship", "meta":"<spaceship.CopperParts>", "size":4}
+			"out": {"name":"futurepack:spaceship", "meta":"<spaceship.CopperParts>", "size":4}
 		}
 	},
 		
@@ -38,7 +38,7 @@
 		"type": "partpress",
 		"slots": {
 			"in": "OreDict:ingotNeon",
-			"out": {"name":"fp:spaceship", "meta":"<spaceship.NeonParts>", "size":4}
+			"out": {"name":"futurepack:spaceship", "meta":"<spaceship.NeonParts>", "size":4}
 		}
 	},
 		
@@ -46,7 +46,7 @@
 		"type": "partpress",
 		"slots": {
 			"in": "OreDict:gemQuartz",
-			"out": {"name":"fp:spaceship", "meta":"<spaceship.QuartzParts>", "size":4}
+			"out": {"name":"futurepack:spaceship", "meta":"<spaceship.QuartzParts>", "size":4}
 		}
 	},
 		
@@ -54,7 +54,7 @@
 		"type": "partpress",
 		"slots": {
 			"in": "OreDict:gemDiamond",
-			"out": {"name":"fp:spaceship", "meta":"<spaceship.DiaParts>", "size":4}
+			"out": {"name":"futurepack:spaceship", "meta":"<spaceship.DiaParts>", "size":4}
 		}
 	},
 		
@@ -62,7 +62,7 @@
 		"type": "partpress",
 		"slots": {
 			"in": "OreDict:ingotGold",
-			"out": {"name":"fp:spaceship", "meta":"<spaceship.GoldParts>", "size":4}
+			"out": {"name":"futurepack:spaceship", "meta":"<spaceship.GoldParts>", "size":4}
 		}
 	}	
 ]

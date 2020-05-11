@@ -2,7 +2,7 @@
   "Ich habe ein unviversal Werkzeug erfunden, das es mir erlaubt, das Ein-/Ausgangsverhalten von Machinen anzupassen.",
   "Crafting:",
   {
-    "link": "fp:lang/part/crafting_tools.logistik_editor.json"
+    "link": "futurepack:lang/part/crafting_tools.logistik_editor.json"
   },
   "Benutzung:",
   "Durch §lRechtsklick§r (in die Luft) kann der Modus gewechselt werden, zwischen:",

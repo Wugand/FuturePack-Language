@@ -2,11 +2,11 @@
 	"Si je met de l'étain et du zinc dans un fluide approprié, ces matériaux vont tout doucement être liquéfie et transféré sur l'autre borne. Ce qui crée un flux d'énergie constant dans le sens opposé.",
 	"A l'inverse, je peux lui fournir de l'énergie pour regnérer la batterie.",
 	"Crafting:",
-	{"link":"fp:lang/part/cr_log.battery.normal.json"},
+	{"link":"futurepack:lang/part/cr_log.battery.normal.json"},
 	"Les petites batteries rechargeables sont utiles pour transporter de l'énergie manuellement, mais pas pour faire du stockage automatique ou pour servir de buffer d'énergie. Pour cela, j'ai connecté plusieurs de ces batteries pour faire une boîte à batteries.",
 	"Cette unité de stockage peut, en fonction des paramétrages, être utilisée comme collecteur d'énergie, comme source ou comme buffer d'énergie. De plus, j'ai ajouté des emplacements dans la machine pour pouvoir la charger et décharger manuellement ainsi que pour permettre une évolution de la capacité (12 emplacements).",
 	"Craft :",
-	{"link":"fp:lang/part/cr_log.batbox.json"},
+	{"link":"futurepack:lang/part/cr_log.batbox.json"},
 	"Capacité propre : 6000 NE",
 	"Réglage : je peux paramétrer chaque côté comme une entrée ou une sortie d'énergie en utilisant l'\"Éditeur de Logistiques\". Par défaut, tous les côtés sont paramétrés en entrée et doivent être changés pour être utilisés en tant que sortie d'énergie."
 ]

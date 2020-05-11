@@ -14,7 +14,7 @@
             "7": {"OreDict":"gemBitripentium"},
             "8": {"name":"minecraft:gunpowder","meta":0},
             "9": {"OreDict":"gemBitripentium"},
-            "out": {"name":"fp:spaceship","meta":"<spaceship.fuelCell>"}
+            "out": {"name":"futurepack:spaceship","meta":"<spaceship.fuelCell>"}
         }
     }
 ]

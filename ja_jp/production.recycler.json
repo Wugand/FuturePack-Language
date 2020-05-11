@@ -4,7 +4,7 @@
   "このマシンの動作には、取り換え可能な専用部品とエネルギーが必要です。\n投入された不用品を粉々にし、最大9つの素材に分解します。その速度は、組み込まれたコンピュータシステムの能力に依存しています。",
   "作成図:",
   {
-    "link": "fp:lang/part/crafting_production.recycler.json"
+    "link": "futurepack:lang/part/crafting_production.recycler.json"
   },
   "-対応しているチップセット:\n論理チップセット\n転送チップセット\nﾚｯﾄﾞｽﾄｰﾝ制御ﾁｯﾌﾟｾｯﾄ\nサポートチップセット\nﾀﾞﾒｰｼﾞ制御ﾁｯﾌﾟｾｯﾄ"
 ]

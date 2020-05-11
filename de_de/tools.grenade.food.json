@@ -5,14 +5,14 @@
   "Crafting (shapeless):",
   "Stärke 1:",
   {
-    "link": "fp:lang/part/crafting_tools.grenade.food.json"
+    "link": "futurepack:lang/part/crafting_tools.grenade.food.json"
   },
   "Stärke 2:",
   {
-    "link": "fp:lang/part/crafting_tools.grenade.food2.json"
+    "link": "futurepack:lang/part/crafting_tools.grenade.food2.json"
   },
   "Stärke 3:",
   {
-    "link": "fp:lang/part/crafting_tools.grenade.food3.json"
+    "link": "futurepack:lang/part/crafting_tools.grenade.food3.json"
   }
 ]

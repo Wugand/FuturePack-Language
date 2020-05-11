@@ -2,5 +2,5 @@
 	"モノレールを再設計し、モノカートを検出できるようにしました。",
 	"モノカートがこのレールの上に来ると、レッドストーン信号が出力されます。",
 	"作成図:",
-	{"link":"fp:lang/part/cr_space.drone.mono.detector.json"}
+	{"link":"futurepack:lang/part/cr_space.drone.mono.detector.json"}
 ]

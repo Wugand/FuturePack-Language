@@ -4,7 +4,7 @@
   "I can certainly make some improvements on the machine and add more features. I have also installed a system to work with the collection of support points for later use.",
   "Crafting:",
   {
-    "link": "fp:lang/part/crafting_production.zentrifuge.json"
+    "link": "futurepack:lang/part/crafting_production.zentrifuge.json"
   },
   "Information: Support Points (SP) are not transferrable with flash memory. The corresponding technology may be developed later."
 ]

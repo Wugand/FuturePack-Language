@@ -4,11 +4,11 @@
   "内部構成と接続のため、全てのメモリパーツにはメモリ専用のプログラムを書き込むことのできるシンプルな論理チップセットが組み込まれます。",
   "組み立てレシピ:",
   {
-    "link": "fp:lang/part/as_log.flash.1.json"
+    "link": "futurepack:lang/part/as_log.flash.1.json"
   },
   "容量: 128 SP",
   "Info:\n以下のスロットは、フラッシュメモリの読み込み/書き込み用のものです。\n(一部の装置類に設けられています)",
   {
-    "link": "fp:lang/part/image_log.flash.1.json"
+    "link": "futurepack:lang/part/image_log.flash.1.json"
   }
 ]

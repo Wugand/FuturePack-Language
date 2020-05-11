@@ -3,7 +3,7 @@
 	"Somente esta bancada tem as instalações para realizar as novas receitas que eu descobrirei logo.",
 	"Criando:",
 	{
-		"link": "fp:lang/part/crafting_techtabel.json"
+		"link": "futurepack:lang/part/crafting_techtabel.json"
 	},
 	"IMPORTANTE: Todas as receitas habilitadas por este mod são SOMENTE possíveis nesta bancada!",
 	"Desde versão 1.12, a bancada normal (Vanilla) pode também ser usada."

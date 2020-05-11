@@ -4,12 +4,12 @@
   "Diese Seltenen Erden kann ich durch aufwendige Verfahren in Lithium, Gadolinium und Neodym trennen. Auch wenn es sicherlich noch weitere Materialien gegeben hätte, haben diese als einzige einen Anteil der die Extraktion sinnvoll macht.",
   "Zentrifuge:",
   {
-    "link": "fp:lang/part/zentrifuge_production.zent.rare.json"
+    "link": "futurepack:lang/part/zentrifuge_production.zent.rare.json"
   },
   {
-    "link": "fp:lang/part/zentrifuge_production.zent.rare2.json"
+    "link": "futurepack:lang/part/zentrifuge_production.zent.rare2.json"
   },
   {
-    "link": "fp:lang/part/zentrifuge_production.zent.rare3.json"
+    "link": "futurepack:lang/part/zentrifuge_production.zent.rare3.json"
   }
 ]

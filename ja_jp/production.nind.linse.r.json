@@ -3,6 +3,6 @@
   "赤色のフォーカスレンズは、照射時に多くの熱を発生させるようにレーザーを調整します。このレンズは物体を切断したり、生物を攻撃するのに有効です。",
   "フォーカスレンズには非常に精妙な製造プロセスが要求され、この品質はネオン工業製錬炉でのみ保証されます。",
   {
-    "link": "fp:lang/part/industrialneonfurnace_production.nind.linse.r.json"
+    "link": "futurepack:lang/part/industrialneonfurnace_production.nind.linse.r.json"
   }
 ]

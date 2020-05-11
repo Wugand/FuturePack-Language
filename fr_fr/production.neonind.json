@@ -5,7 +5,7 @@
   "Je suis sûr qu\u0027il y a bien d\u0027autres utilisations pour cette machine. J\u0027y ai aussi ajouté un système pour consommer des points Support, que je pourrais utiliser dans des recettes plus complexes.",
   "Craft :",
   {
-    "link": "fp:lang/part/crafting_production.neonind.json"
+    "link": "futurepack:lang/part/crafting_production.neonind.json"
   },
   "Important: la consommation de points Support (SP) ne peut pas être réalisée en utilisant une mémoire Flash. Les techniques nécessaires viendront par la suite !"
 ]

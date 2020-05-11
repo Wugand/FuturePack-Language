@@ -4,5 +4,5 @@
 	"绿色的点表示：如果类型已经设置，我可以在上面放置手中的同种树苗。",
 	"然后，如果无人机中有树苗，它将在每个种植标记的范围内种植相应树苗。",
 	"合成:",
-	{"link":"fp:lang/part/cr_space.plantmarker.json"}
+	{"link":"futurepack:lang/part/cr_space.plantmarker.json"}
 ]

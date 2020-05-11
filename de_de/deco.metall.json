@@ -1,14 +1,13 @@
 [
 	"Ich habe einfache Strukturen aus Verbundmetall geschaffen, normale und solide Blöcke.",
 	"Crafting:",
-	{"link":"fp:lang/part/cr_deco.metall.json"},
-	{"link":"fp:lang/part/cr_deco.metallslab1.json"},
-	{"link":"fp:lang/part/cr_deco.metalltreppe1.json"},
+	{"link":"futurepack:lang/part/cr_deco.metall.json"},
+	{"link":"futurepack:lang/part/cr_deco.metallslab1.json"},
+	{"link":"futurepack:lang/part/cr_deco.metalltreppe1.json"},
 	
 	"Alternativ:",
-	{"link":"fp:lang/part/cr_deco.metallslab2.json"},
-	{"link":"fp:lang/part/cr_deco.metalltreppe2.json"},
+	{"link":"futurepack:lang/part/cr_deco.metallslab2.json"},
+	{"link":"futurepack:lang/part/cr_deco.metalltreppe2.json"},
 	
-	"Information: Die Blöcke ist mit der Farbpistole färbbar/sandstrahlbar.",
-	"Information: Zwei übereinander platzierte Stufen ergeben beim Abreißen wieder einen Vollblock."
+	"Information: Die Blöcke ist mit der Farbpistole färbbar/sandstrahlbar."
 ]

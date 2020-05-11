@@ -2,7 +2,7 @@
   "J\u0027ai développé des moteurs pour lesquels j\u0027ai atteint le meilleur en termes de fonctionnalités et de design. Ils contiennent des céramiques et des métaux résistants aux hautes températures pour pouvoir transmettre le maximum de forces au vaisseau spatial.",
   "Craft :",
   {
-    "link": "fp:lang/part/crafting_space.thruster.json"
+    "link": "futurepack:lang/part/crafting_space.thruster.json"
   },
   "Note : vous pouvez les mettre en route ou les arrêter avec de la Redstone, mais cela n\u0027a aucun effet sur le vol."
 ]

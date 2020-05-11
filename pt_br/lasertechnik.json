@@ -8,18 +8,18 @@
 		"type": "crafting",
 		"slots": {
 			"1": {"OreDict":"ingotAluminum"},
-			"2": {"name":"fp:spaceship", "meta":"<spaceship.NeonCoil>"},
+			"2": {"name":"futurepack:spaceship", "meta":"<spaceship.NeonCoil>"},
 			"3": {},
 			"4": {"name":"minecraft:glass_pane"},
 			"5": {"OreDict":"gemDiamond"},
 			"6": {"name":"minecraft:glass_pane"},
 			"7": {"OreDict":"ingotAluminum"},
-			"8": {"name":"fp:spaceship", "meta":"<spaceship.NeonCoil>"},
+			"8": {"name":"futurepack:spaceship", "meta":"<spaceship.NeonCoil>"},
 			"9": {},
-			"out": [{"name":"fp:spaceship", "meta":"<spaceship.Laserdiode>"}]
+			"out": [{"name":"futurepack:spaceship", "meta":"<spaceship.Laserdiode>"}]
 		}
 	},
   {
-    "link": "fp:lang/part/industrialneonfurnace_production.nind.linse.w.json"
+    "link": "futurepack:lang/part/industrialneonfurnace_production.nind.linse.w.json"
   }
 ]

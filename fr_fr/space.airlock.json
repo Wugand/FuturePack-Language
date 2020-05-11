@@ -4,6 +4,6 @@
   "Avec l\u0027utilisation de Redstone, je peux changer entre ces deux états. La façon optimale de l\u0027utiliser est de mettre 2 sas à 3 blocs d\u0027écarts l\u0027un de l\u0027autre, et grâce à sa propriété de rotation, vous pouvez le construire verticalement ou horizontalement.",
   "Craft :",
   {
-    "link": "fp:lang/part/crafting_space.airlock.json"
+    "link": "futurepack:lang/part/crafting_space.airlock.json"
   }
 ]

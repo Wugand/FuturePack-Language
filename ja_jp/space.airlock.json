@@ -4,6 +4,6 @@
   "レッドストーン信号によって、開閉を行うことができます。\n2つのブロックを3ブロックの間隔を空けて配置するのが最適な配置になります。\n方向を回転させられるため、水平と垂直の扉を構築できます。",
   "作成図:",
   {
-    "link": "fp:lang/part/crafting_space.airlock.json"
+    "link": "futurepack:lang/part/crafting_space.airlock.json"
   }
 ]

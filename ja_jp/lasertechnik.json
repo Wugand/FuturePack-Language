@@ -4,9 +4,9 @@
   "二つの半透明ミラーの間に配置された宝石へエネルギーを注ぎ込むことで、その宝石は受けた光から完全なシンクロビームを生成します。",
   "作成図:",
   {
-    "link": "fp:lang/part/crafting_lasertechnik.json"
+    "link": "futurepack:lang/part/crafting_lasertechnik.json"
   },
   {
-    "link": "fp:lang/part/industrialneonfurnace_production.nind.linse.w.json"
+    "link": "futurepack:lang/part/industrialneonfurnace_production.nind.linse.w.json"
   }
 ]

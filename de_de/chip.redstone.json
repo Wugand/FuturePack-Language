@@ -3,5 +3,5 @@
 	"Das eröffnet mir die Möglichkeit größere System abzuschalten um Energie zu sparen",
 	
 	"Assembly:",
-	{"link":"fp:lang/part/as_chip.redstone.json"}
+	{"link":"futurepack:lang/part/as_chip.redstone.json"}
 ]

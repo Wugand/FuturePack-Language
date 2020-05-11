@@ -4,11 +4,11 @@
   "Ich werde diesen Antrieb zusätzlich in jedes Raumschiff einbauen müssen, mit dem ich weiter als bis nach Menelaus fliegen möchte.",
   "Crafting:",
   {
-    "link": "fp:lang/part/cr_space.drive.ftl.json"
+    "link": "futurepack:lang/part/cr_space.drive.ftl.json"
   },
   "Warnung: Benutzte den FTL-Block nicht als Dekoration.",
   "Konstruktion:",
   {
-    "link": "fp:lang/part/building_space.drive.ftl.json"
+    "link": "futurepack:lang/part/building_space.drive.ftl.json"
   }
 ]

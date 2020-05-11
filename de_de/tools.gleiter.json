@@ -3,7 +3,7 @@
   "Wenn ich den Gleitschirm öffne entfaltetet er sich selbstständig und lässt mich langsam zu Boden gleiten.",
   "Crafting:",
   {
-    "link": "fp:lang/part/crafting_tools.gleiter.json"
+    "link": "futurepack:lang/part/crafting_tools.gleiter.json"
   },
   "Im Fall kann der Gleiter mit drücken der \"F\"-Taste (einmal drücken, nicht halten) geöffnet werden. Durch erneutes drücken schließt sich der Fallschirm wieder.",
   "Info: Die Taste kann in den Einstellungen geändert werden."

@@ -4,9 +4,9 @@
   "Dies habe ich durch die Zuführung von Energie in einen Edelstein reicht, der sich zwischen zwei halbtransparenten Spiegel befindet. Dadurch wird der Stein im richtigen Moment zum Abgeben von Licht angeregt, was einen exakt synchronen Lichtstrahl erzeugt.",
   "Crafting:",
   {
-    "link": "fp:lang/part/crafting_lasertechnik.json"
+    "link": "futurepack:lang/part/crafting_lasertechnik.json"
   },
   {
-    "link": "fp:lang/part/industrialneonfurnace_production.nind.linse.w.json"
+    "link": "futurepack:lang/part/industrialneonfurnace_production.nind.linse.w.json"
   }
 ]

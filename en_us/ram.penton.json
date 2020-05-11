@@ -3,7 +3,7 @@
 	"I reached another improvement by adding a separate unit for the storage of Support data. This extremely relieved the unspecified part of the system.",
 
 	"Assembly:",
-	{"link":"fp:lang/part/as_ram.penton.json"},
+	{"link":"futurepack:lang/part/as_ram.penton.json"},
 	
 	"Hint: Refer to \"Standard Ram\" for general information."
 ]

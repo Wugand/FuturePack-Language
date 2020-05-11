@@ -2,7 +2,7 @@
   "Eine Drahtspule durch die man große Mengen Energie leitet wird sich erhitzen. Aus diesem Prinzip konnte ich einen energiebetriebenen Ofen entwickeln, das Computersystem ist dabei für die Temperaturregelung notwendig um die maximale Hitze zu erzeugen, ohne die Spulen zu zerstören. Durch entsprechendes Tuning des Computersystems kann dieser Ofen sehr effektiv werden.",
   "Crafting:",
   {
-    "link": "fp:lang/part/crafting_production.neonfurnace.json"
+    "link": "futurepack:lang/part/crafting_production.neonfurnace.json"
   },
   "Unterstützte Chipsätze:",
   "Logikchipsatz\nTransportchipsatz\nRedstonesteuerungschipsatz\nUnterstützungschipsatz\nUltimativer Chipsatz\nSchadenskontrollchipsatz"

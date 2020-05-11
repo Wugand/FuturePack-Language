@@ -3,7 +3,7 @@
   "Upon finding something I will make a corresponding data record, which I can insert into the onboard computer.",
   "Crafting:",
   {
-    "link": "fp:lang/part/crafting_space.navcord.menelaus.json"
+    "link": "futurepack:lang/part/crafting_space.navcord.menelaus.json"
   },
   "Use with \"§lRight Click§r\"."
 ]

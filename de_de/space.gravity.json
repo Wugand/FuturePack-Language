@@ -3,7 +3,7 @@
   "Der Puls wird über ein Redstonesignal aktiviert, was vermutlich durch das Retium kommt.",
   "Crafting:",
   {
-    "link": "fp:lang/part/crafting_space.gravity.json"
+    "link": "futurepack:lang/part/crafting_space.gravity.json"
   },
   "Vielleicht liege ich auch völlig falsch und es ist etwas ganz anderes als Gravitation."
 ]

@@ -1,6 +1,6 @@
 [
   {
     "type": "crafting",
-    "load": ["fp:forscher_2", "fp:forscher_6", "fp:forscher_10"]
+    "load": ["futurepack:forscher_2", "futurepack:forscher_6", "futurepack:forscher_10"]
   }
 ]

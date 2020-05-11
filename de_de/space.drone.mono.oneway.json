@@ -2,6 +2,6 @@
   "Diese speziell umgebaute Schiene kann von Monocarts nur in eine Richtung überquert werden. Die Wegsuche des Monocarts wird dies entsprechend berücksichtigen.",
   "Crafting:",
   {
-    "link": "fp:lang/part/crafting_space.drone.mono.oneway.json"
+    "link": "futurepack:lang/part/crafting_space.drone.mono.oneway.json"
   }
 ]

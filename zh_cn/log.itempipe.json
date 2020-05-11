@@ -4,7 +4,7 @@
   "如果物品堆叠限制不能被输送，将阻止管道段输入更多物品。\t",
   "合成:",
   {
-    "link": "fp:lang/part/crafting_log.itempipe.json"
+    "link": "futurepack:lang/part/crafting_log.itempipe.json"
   },
   "配置：使用扳手可以配置管段的每一面，防止它与不期望的一端连接。(§l右击§r想要调整的一端)"
 ]

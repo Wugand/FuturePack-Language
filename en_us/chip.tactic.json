@@ -3,7 +3,7 @@
 	"It is especially useful in machines that kill creatures, for this chip enhances their reach.",
 
 	"Assembly:",
-	{"link":"fp:lang/part/as_chip.tactic.json"},
+	{"link":"futurepack:lang/part/as_chip.tactic.json"},
 	
 	"A high quality tactics chipset (high chip power), as well as mounting multiple chipsets, enhances the effect accordingly.",
 	"Info: The specific effect is mentioned at the corresponding machine.",

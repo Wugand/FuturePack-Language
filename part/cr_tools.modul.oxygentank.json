@@ -1,6 +1,6 @@
 [
     {
         "type": "crafting",
-        "load":["fp:modul_oxygen_tank_0"]
+        "load":["futurepack:modul_oxygen_tank_0"]
     }
 ]

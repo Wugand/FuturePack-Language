@@ -1,18 +1,18 @@
 [
     {
         "type": "crafting",
-        "load":["fp:composite_helmet"]
+        "load":["futurepack:composite_helmet"]
     },
     {
         "type": "crafting",
-        "load":["fp:composite_chestplate"]
+        "load":["futurepack:composite_chestplate"]
     },
     {
         "type": "crafting",
-        "load":["fp:composite_leggings"]
+        "load":["futurepack:composite_leggings"]
     },
     {
         "type": "crafting",
-        "load":["fp:composite_boots"]
+        "load":["futurepack:composite_boots"]
     }
 ]

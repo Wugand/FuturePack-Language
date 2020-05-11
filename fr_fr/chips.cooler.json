@@ -4,5 +4,5 @@
 	"La puissance de refroidissement est signifiée par une lumière bleue (3), verte (2) or rouge (1) sur le dissipateur.",
 
 	"Craft :",
-	{"link":"fp:lang/part/cr_chips.cooler.json"}
+	{"link":"futurepack:lang/part/cr_chips.cooler.json"}
 ]

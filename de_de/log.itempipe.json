@@ -4,7 +4,7 @@
   "Falls das Item nicht abtransportiert werden kann blockiert es dieses Rohrsegement (dies gilt nur für das einfüllen neuer Items)",
   "Crafting:",
   {
-    "link": "fp:lang/part/crafting_log.itempipe.json"
+    "link": "futurepack:lang/part/crafting_log.itempipe.json"
   },
-  "Einstellungen: Mit dem Schraubendrehschlüssel kann ich einzelnen Seiten des Rohrs umstellen, damit sie sich nicht mehr mit anderen Rohren und Inventaren verbinden. (§lRechstklick§r auf die entsprechende Seite des Rohrs)"
+  "Einstellungen: Mit dem Schraubendrehschlüssel kann ich einzelnen Seiten des Rohrs umstellen, damit sie sich nicht mehr mit anderen Rohren und Inventaren verbinden. (§lRechtsklick§r auf die entsprechende Seite des Rohrs)"
 ]

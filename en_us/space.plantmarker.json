@@ -4,5 +4,5 @@
 	"The green point indicates if the type is set, and I can place a sapling of the same type with my hand after that.",
 	"The Forestmaster will then plant at each plant marker in range the fitting sapling, if that sapling is available in the drone station.",
 	"Crafting:",
-	{"link":"fp:lang/part/cr_space.plantmarker.json"}
+	{"link":"futurepack:lang/part/cr_space.plantmarker.json"}
 ]

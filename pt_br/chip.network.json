@@ -1,6 +1,6 @@
 [
     "Eu desenvolvei um chipset que habilita máquinas comunicarem entre eles.",
     "Montagem:",
-	{"link":"fp:lang/part/as_chip.network.json"},
+	{"link":"futurepack:lang/part/as_chip.network.json"},
     "Mesmo que eu não tenho um uso concreto para esse chipset agora, talvez eu posso achar um uso mais tarde..."
 ]

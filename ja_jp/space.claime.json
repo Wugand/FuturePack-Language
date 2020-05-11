@@ -5,6 +5,6 @@
   "選択された領域は黄色の枠線で示されますが、線が点滅している部分は、それが直接見えていない箇所であることを意味しています。\n例えば、選択範囲が地面より下にある場合などにみられます。",
   "作成図:",
   {
-    "link": "fp:lang/part/crafting_space.claime.json"
+    "link": "futurepack:lang/part/crafting_space.claime.json"
   }
 ]

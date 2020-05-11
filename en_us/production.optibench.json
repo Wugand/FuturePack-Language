@@ -2,7 +2,7 @@
   "I combined a special machine and a program for the integrated computer system. So I created a device to automatize crafting processes. The internal computer system can be upgraded in functionality and speed, like my prototypes (refer \"Overdrive\")",
   "Crafting:",
   {
-    "link": "fp:lang/part/crafting_production.optibench.json"
+    "link": "futurepack:lang/part/crafting_production.optibench.json"
   },
   "In its simple operation mode the machine crafts every recipe together, which is placed in the 3x3 grid. Under the conditions that the computer system is working and powered with enough neon energy. Because I didn\u0027t think this function is perfect, I added a recipe mode.",
   "To do this, I must switch to the recipe creation first. (By clicking the button above the progress bar) Here I can place any crafting recipe in the 3x3 crafting grid, which should be crafted later. In the upper slot I need to insert a crystal (any type is possible), which will be a memory for the recipe. In the output slot of the crafting grid the crafting result should be shown now. If everything looks OK, I can write the recipe to the crystal by taking out the recipe sheet from the lower slot. Now I have what I need, so I can clean up the crafting grid or simply execute the crafting.",

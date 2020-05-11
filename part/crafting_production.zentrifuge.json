@@ -1,6 +1,6 @@
 [
   {
     "type": "crafting",
-    "load": ["fp:zentrifuge_2", "fp:zentrifuge_6", "fp:zentrifuge_10"]
+    "load": ["futurepack:zentrifuge_2", "futurepack:zentrifuge_6", "futurepack:zentrifuge_10"]
   }
 ]

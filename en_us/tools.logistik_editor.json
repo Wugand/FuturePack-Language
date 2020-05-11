@@ -2,7 +2,7 @@
   "I created a multitool to adjust the input/output behavior of my machines.",
   "Crafting:",
   {
-    "link": "fp:lang/part/crafting_tools.logistik_editor.json"
+    "link": "futurepack:lang/part/crafting_tools.logistik_editor.json"
   },
   "Usage:",
   "By §lright click§r (in the air) the modes can be switched, among:",

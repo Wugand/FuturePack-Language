@@ -1,5 +1,5 @@
 [
 	"En remplaçant les matériaux actifs, j'ai trouvé une combinaison qui ne contient pas de fluide toxique. Du coup, ce design est beaucoup plus compact.",
 	"Craft :",
-	{"link":"fp:lang/part/cr_log.battery.neon.json"}
+	{"link":"futurepack:lang/part/cr_log.battery.neon.json"}
 ]

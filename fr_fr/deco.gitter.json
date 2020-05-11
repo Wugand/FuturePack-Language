@@ -1,11 +1,10 @@
 [
 	"J'ai travaillé sur une structure complexe, composée de métal composite et de barres de fer : un bloc grillagé.",
 	"Craft :",
-	{"link":"fp:lang/part/cr_deco.gitter.json"},
-	{"link":"fp:lang/part/cr_deco.gitterpane.json"},
-	{"link":"fp:lang/part/cr_deco.gitterslab.json"},	
-	{"link":"fp:lang/part/cr_deco.gittertreppe.json"},
+	{"link":"futurepack:lang/part/cr_deco.gitter.json"},
+	{"link":"futurepack:lang/part/cr_deco.gitterpane.json"},
+	{"link":"futurepack:lang/part/cr_deco.gitterslab.json"},	
+	{"link":"futurepack:lang/part/cr_deco.gittertreppe.json"},
 	
-	"Information: Ce bloc peut être (dé)coloré avec le pistolet à peinture.",
-	"Information: Lorsqu'on mine deux dalles l'une sur l'autre, on droppe un bloc complet."
+	"Information: Ce bloc peut être (dé)coloré avec le pistolet à peinture."
 ]

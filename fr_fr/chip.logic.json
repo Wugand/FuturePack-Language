@@ -3,7 +3,7 @@
 	"En combinant des contrôleurs logiques avec du silicium et des conducteurs d'énergie en cuivre, j'ai développé une puce universelle, qui a pour fonction principale d'être un lien être le processeur et le mode extérieur.",
 	"De plus, cette puce logique contient un code de base, qui permet au processeur de démarrer le système. Pour le moment, tous les systèmes auront donc besoin de ces puces.",
 	"Assemblage:",
-	{"link":"fp:lang/part/as_chip.logic.json"},
+	{"link":"futurepack:lang/part/as_chip.logic.json"},
 	
 	"Une puce logique de haute qualité (puce haute puissance) n'a pas de bénéfices par rapport à une puce normale !",
 		

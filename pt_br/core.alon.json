@@ -2,7 +2,7 @@
 	"Ao melhorar meus métodos de fabricação, eu dobrei a quantidade de unidades de computação possíveis em um processador. Além disso, eu melhorei o troco de calor usando materiais melhores.",
 	
 	"Montagem:",
-	{"link":"fp:lang/part/as_core.alon.json"},
+	{"link":"futurepack:lang/part/as_core.alon.json"},
 	
 	"Dica: Refere a \"Núcleo Padrão\" para informação geral."
 ]

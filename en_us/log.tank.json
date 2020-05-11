@@ -3,6 +3,6 @@
   "For filling, a pipe can be connected to any side. The tank can be emptied without a pump by connecting a pipe to the bottom.",
   "Crafting:",
   {
-    "link": "fp:lang/part/crafting_log.tank.json"
+    "link": "futurepack:lang/part/crafting_log.tank.json"
   }
 ]

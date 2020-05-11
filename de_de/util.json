@@ -1,22 +1,22 @@
 [
   "Eisenstock:",
   {
-    "link": "fp:lang/part/crafting_util.json"
+    "link": "futurepack:lang/part/crafting_util.json"
   },
   "Leerer Tank:",
   {
-    "link": "fp:lang/part/crafting_util2.json"
+    "link": "futurepack:lang/part/crafting_util2.json"
   },
   "Spulen:",
   {
-    "link": "fp:lang/part/crafting_util3.json"
+    "link": "futurepack:lang/part/crafting_util3.json"
   },
   "Fischblock (essbar wie Kuchen):",
   {
-    "link": "fp:lang/part/crafting_util4.json"
+    "link": "futurepack:lang/part/crafting_util4.json"
   },
   "Kristallbarren-Ziegel:",
   {
-    "link": "fp:lang/part/crafting_util5.json"
+    "link": "futurepack:lang/part/crafting_util5.json"
   }
 ]

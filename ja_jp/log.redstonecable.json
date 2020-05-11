@@ -3,7 +3,7 @@
   "この新しいケーブルは、信号強度の損失を起こすことがなく、通常のレッドストーンの粉にも信号伝達を行うことができます。",
   "作成図:",
   {
-    "link": "fp:lang/part/crafting_log.redstonecable.json"
+    "link": "futurepack:lang/part/crafting_log.redstonecable.json"
   },
   "このケーブルは、レッドストーン信号を機械装置や照明に送るときに便利です。"
 ]

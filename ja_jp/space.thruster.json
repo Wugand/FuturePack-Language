@@ -2,7 +2,7 @@
   "機能とデザインを最高の形で結びつけたエンジンを開発することができました。\n宇宙船を動かす規模の出力に合わせて、耐熱セラミックと複合金属によって構築されています。",
   "作成図:",
   {
-    "link": "fp:lang/part/crafting_space.thruster.json"
+    "link": "futurepack:lang/part/crafting_space.thruster.json"
   },
   "-情報:\nレッドストーン信号によって、ONとOFFを切り替えることができますが、これ自体が飛行などに影響を与えることはありません。"
 ]

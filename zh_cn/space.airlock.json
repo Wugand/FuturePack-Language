@@ -4,6 +4,6 @@
   "在红石的帮助下，我可以在两个状态之间切换它。它是最佳设计的两个气闸分开放置3个方块，您也可以水平和垂直地构建。",
   "合成:",
   {
-    "link": "fp:lang/part/crafting_space.airlock.json"
+    "link": "futurepack:lang/part/crafting_space.airlock.json"
   }
 ]

@@ -1,6 +1,6 @@
 [
 	"Bei Experimenten zur Verbesserung des einfachen Redstone-Speichers viel mir ein besonderes Material auf: Obsidian. Es ist nicht nur sehr robust, sondern auch ein hervorragender Isolator, wodurch ich die Speicherzellen in kleineren Abständen verbauen kann, wenn ich diese durch eine Obsidianschicht trenne. Damit kann ich nun einen Speicher mit deutlich höherer Kapazität konstruieren.",
 	"Assembly:",
-	{"link":"fp:lang/part/as_log.flash.2.json"},
+	{"link":"futurepack:lang/part/as_log.flash.2.json"},
 	"Kapazität: 256 SP"
 ]

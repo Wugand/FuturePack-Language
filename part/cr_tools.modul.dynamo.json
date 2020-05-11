@@ -1,6 +1,6 @@
 [
     {
         "type":"crafting",
-        "load":"fp:modul_dynamo"
+        "load":"futurepack:modul_dynamo"
     }
 ]

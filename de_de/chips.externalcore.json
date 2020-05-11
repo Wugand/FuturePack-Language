@@ -3,6 +3,6 @@
   "Dazu habe ich eine Maschine entwickelt, welche ich an andere Blöcke platzieren kann. Sie verfügt über ein Computersystem und benötigt Neonenergie. Eine einzelne Externe Verarbeitungseinheit mit einem Takt von 100% verdoppelt dabei die Geschwindigkeit des Blocks.",
   "Crafting:",
   {
-    "link": "fp:lang/part/crafting_chips.externalcore.json"
+    "link": "futurepack:lang/part/crafting_chips.externalcore.json"
   }
 ]

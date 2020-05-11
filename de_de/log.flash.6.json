@@ -1,6 +1,6 @@
 [
 	"Ein Qubits können deutlich mehr Daten speichern als konventionelle binär Bits, dies konnte ich Nutzen um die Kapazität der Flash-Speicher erneut zu verdoppeln.",
 	"Assembly:",
-	{"link":"fp:lang/part/as_log.flash.6.json"},
+	{"link":"futurepack:lang/part/as_log.flash.6.json"},
 	"Kapazität: 4096 SP"
 ]	

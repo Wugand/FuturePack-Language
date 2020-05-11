@@ -3,7 +3,7 @@
 	"Esta unidade de armazenamento pode ser um destinário, fonte, ou amortecedor, dependendo da configuração. Eu fornecei conexões internais para transferir manualmente se necessário e também 4 lugares para aumentar permanentemente a capacidade.",
 	"O servidor flash será muito útil nos sistemas mais modernos porque eu simplesmente não posso colocar um sistema para ler/escrever memória flash ao lado de cada máquina.",
 	"Criando:",
-	{"link":"fp:lang/part/cr_log.flashserver.json"},
+	{"link":"futurepack:lang/part/cr_log.flashserver.json"},
 	"Capacidade: 2048 SP (pontos de apoio)",
 	"Obs: O bloco pode ser configurado como entrada ou saída com o \"Editor de Logística\"."
 ]

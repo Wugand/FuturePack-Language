@@ -2,7 +2,7 @@
 	"Eu pesquisei mais sobre energia renovável e descobri que energia de água seria muito útil. É em todo lugar é pode ser usado com pouco trabalho em alguns lugares.",
         "Eu preciso colocar a turbina de água em um lugar para que há muita água em cima, e abaixo precisa haver espaço para a água fluir através da turbina.",
 	"Criando:",
-	{"link":"fp:lang/part/cr_energy.wasser_turbine.json"},
+	{"link":"futurepack:lang/part/cr_energy.wasser_turbine.json"},
 	"Chipsets compatíveis",
 	"Chipset de Lógica\nChipset Industrial (quantidade de energia)\nChipset para Controle de Redstone\nChipset para Controle de Dano"
 ]

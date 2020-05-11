@@ -3,7 +3,7 @@
   "Das Modul muss direkt mit dem Forscher verknüpft werden um zu funktionieren (daneben stehen), wodurch die eigentliche Arbeit weiter im Forscher ausgeführt wird.",
   "Crafting:",
   {
-    "link": "fp:lang/part/crafting_upgradet1.json"
+    "link": "futurepack:lang/part/crafting_upgradet1.json"
   },
   "Das Modul speichert bis zu 10000 NE, falls dies einmal nicht genügen sollte, kann ich mehere Module mit dem Forscher verbinden oder warten bis sich das Modul wieder gefüllt hat. Die Energie kann ich per Kabel oder mit Batterien in das Modul transportieren."
 ]

@@ -3,11 +3,11 @@
 	"もっとも重要な点は、このロッカーを動かしても中のものは安全なままであるということです。",
 	"-Info:\n(中身が入った)ロッカーは、内容物が失われることなく、壊しても再配置することができます!",
 	"-トビラ型 - ライト:",
-	{"link":"fp:lang/part/cr_deco.wardrobe1.json"},	
+	{"link":"futurepack:lang/part/cr_deco.wardrobe1.json"},	
 	"-トビラ型 - ダーク:",
-	{"link":"fp:lang/part/cr_deco.wardrobe2.json"},
+	{"link":"futurepack:lang/part/cr_deco.wardrobe2.json"},
 	"-引き出し型 - ライト:",
-	{"link":"fp:lang/part/cr_deco.wardrobe3.json"},
+	{"link":"futurepack:lang/part/cr_deco.wardrobe3.json"},
 	"-引き出し型 - ダーク:",
-	{"link":"fp:lang/part/cr_deco.wardrobe4.json"}	
+	{"link":"futurepack:lang/part/cr_deco.wardrobe4.json"}	
 ]

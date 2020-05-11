@@ -3,6 +3,6 @@
   "Ich kann in diese neue Maschine Blöcke hineinlegen, die dann bei einem Redstone-Signal direkt vor der Maschine platziert werden.",
   "Crafting:",
   {
-    "link": "fp:lang/part/crafting_production.blockplacer.json"
+    "link": "futurepack:lang/part/crafting_production.blockplacer.json"
   }
 ]

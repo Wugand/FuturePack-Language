@@ -8,12 +8,12 @@
 			"2": {"name":"minecraft:piston"},
 			"3": {"name":"minecraft:crafting_table"},
 			"4": {"OreDict":"ingotNeon"},
-			"5": [{"name":"fp:color_iron","meta":0},{"name":"fp:color_iron","meta":8},{"name":"fp:color_iron","meta":15}],
+			"5": [{"name":"futurepack:color_iron","meta":0},{"name":"futurepack:color_iron","meta":8},{"name":"futurepack:color_iron","meta":15}],
 			"6": {"OreDict":"ingotNeon"},
-			"7": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"8": {"name":"fp:spaceship", "meta":"<spaceship.Maschinboard>"},
-			"9": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"out": [{"name":"fp:opti_bench","meta":2},{"name":"fp:opti_bench","meta":6},{"name":"fp:opti_bench","meta":10}]
+			"7": {"name":"futurepack:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"8": {"name":"futurepack:spaceship", "meta":"<spaceship.Maschinboard>"},
+			"9": {"name":"futurepack:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"out": [{"name":"futurepack:opti_bench","meta":2},{"name":"futurepack:opti_bench","meta":6},{"name":"futurepack:opti_bench","meta":10}]
 		}
 	},
 	"No modo simples de operação, a máquina cria cada receita junta, colocada na grade 3x3 sob as condições que o sistema está ligado e tem energia de néon. Porque às vezes as receitas são difíceis, eu adicionei um modo de receitas.",

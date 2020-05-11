@@ -1,6 +1,6 @@
 [
   {
     "type": "crafting",
-    "load": ["fp:modul_3_2", "fp:modul_3_6", "fp:modul_3_10"]
+    "load": ["futurepack:modul_3_2", "futurepack:modul_3_6", "futurepack:modul_3_10"]
   }
 ]

@@ -3,6 +3,6 @@
   "红色对焦镜头修改激光，使其在撞击时产生大量的热量。 该镜头是杀死生物和切割物体的理想选择。",
   "聚焦镜片需要非常精确的制造过程，这只能由氖工业炉做到。",
   {
-    "link": "fp:lang/part/industrialneonfurnace_production.nind.linse.r.json"
+    "link": "futurepack:lang/part/industrialneonfurnace_production.nind.linse.r.json"
   }
 ]

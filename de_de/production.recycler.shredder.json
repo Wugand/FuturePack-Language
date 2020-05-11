@@ -3,7 +3,7 @@
   "Es besteht aus zwei gezackten Walzen die das Werkstück in kleine Teile reißen. Dieses Verfahren ist vielseitig, hat aber eine ziemlich geringe Ausbeute.",
   "Crafting:",
   {
-    "link": "fp:lang/part/crafting_production.recycler.shredder.json"
+    "link": "futurepack:lang/part/crafting_production.recycler.shredder.json"
   },
   "Dieses Werkzeug verfügt über sehr viele Rezepte, unter anderem: \n -Alle Produkte des Montagetisches \n -Gesteine \n -Pflanzen, Holz, Laub \n -Glas und Wolle \n -Knochen"
 ]

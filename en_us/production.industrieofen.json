@@ -2,11 +2,7 @@
   "This advanced furnace is powered by Lava, which can be inserted by buckets or pipes. It use this energy to smelt items that cool down the Lava slowly until they solidify to obsidian. This power allows to smelt up to 3 Items at the same time.",
   "Crafting:",
   {
-    "link": "fp:lang/part/crafting_production.industrieofen.json"
-  },
-  "Usage (GUI):",
-  {
-    "link": "fp:lang/part/industrialfurnace_production.industrieofen2.json"
+    "link": "futurepack:lang/part/crafting_production.industrieofen.json"
   },
   "Technical Data:",
   "Lava-Usage: 10 mB per molten Item",

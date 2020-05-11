@@ -6,7 +6,7 @@
   "As with the assembly table, the supply of support points can increase the maximum quality of the products. For automatic further processing, it should be noted that all products are subject to chance and therefore may have fluctuating values.",
   "Crafting:",
   {
-    "link": "fp:lang/part/crafting_production.opti_assembler.json"
+    "link": "futurepack:lang/part/crafting_production.opti_assembler.json"
   },
   "Supported Chipsets:",
   "Logic Chipset\nTransport Chipset\nRedstone Control Chipset\nSupport Chipset\nUltimate Chipset\nDamage Control Chipset"

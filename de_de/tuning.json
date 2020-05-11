@@ -2,7 +2,7 @@
   "Alle Computergestützten Systeme kann ich jederzeit Modifizieren, dazu: §lShift + Rechtsklick§r mit dem §5Schraubendrehschlüssel§r (Modification-Mode) auf eine entsprechende Maschine.",
   "Tuning-GUI:",
   {
-    "link": "fp:lang/part/image_tuning.json"
+    "link": "futurepack:lang/part/image_tuning.json"
   },
   "Info: Du solltest \"Standardprozessor\", \"Standardspeicher\" und \"Logikchipsatz\" gelesen haben!",
   "Komponenten:",

@@ -3,5 +3,5 @@
 	"Die Bergbaudrohne kann mit §lShift + Rechtsklick§r an eine Drohnenstation platziert werden. Danach kann die Drohne mit §lRechtsklick§r eingestellt werden. Um die Drone wieder zu demonktieren kann ein Schraubendrehschlüssel und §lShift + Rechtsklick§r genutzt werden.",
 	"In der GUI werden alle verfügbaren Claime-Überträger links aufgelistet. Diese können ausgewählt und mit Hilfe der Pfeile auf die rechte Seite geschoben werden. Alle rechts eingeordneten Gebiete werden von diesem bearbeitet. Mit aktiver \"Repeat\" Auswahl (true) werden die Gebiete nach einmaliger Beendigung kontinuierlich erneut überprüft und beratbeiten. Fertig eingestellt, kann die Bergbaudrohne mit der Option \"Working\" gestartet werden.",
 	"Crafting:",
-	{"link":"fp:lang/part/cr_space.miner.json"}
+	{"link":"futurepack:lang/part/cr_space.miner.json"}
 ]

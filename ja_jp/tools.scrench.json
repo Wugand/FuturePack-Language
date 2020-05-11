@@ -1,19 +1,19 @@
 [
   "有用な汎用ツールを作成しました。ブロックを回転させたり、装置類の位置を修正するのに便利です。",
   {
-    "link": "fp:lang/part/crafting_tools.scrench.json"
+    "link": "futurepack:lang/part/crafting_tools.scrench.json"
   },
   "モードの変更:\n§l\"空中に向かって\"右クリック§rします。",
   "",
   "-回転モード:",
   {
-    "link": "fp:lang/part/image_tools.scrench2.json"
+    "link": "futurepack:lang/part/image_tools.scrench2.json"
   },
   "ブロックに向かって§l右クリック§rします。",
   "",
   "-変形モード:",
   {
-    "link": "fp:lang/part/image_tools.scrench3.json"
+    "link": "futurepack:lang/part/image_tools.scrench3.json"
   },
   "変形させたい機械に向けて §lShift-右クリック§rします。",
   "-memo:\n変形が可能な最初の機械は後に解放されてゆきます!"

@@ -3,7 +3,7 @@
 	"Cette unité de stockage peut être utilisée comme destination, source ou buffer, en fonction du paramétrage. J'ai mis en place des emplacements internes pour charger/décharger manuellement des points Support ou pour augmenter la capacité de stockages (4 emplacements).",
 	"Le serveur Flash sera important pour les systèmes modernes parce que je ne pourrais simplement plus construire mes machines avec un emplacement pour lire les mémoires Flash.",
 	"Craft:",
-	{"link":"fp:lang/part/cr_log.flashserver.json"},
+	{"link":"futurepack:lang/part/cr_log.flashserver.json"},
 	"Capacité: 2048 SP",
 	"Note: Ce bloc peut être configurer en sortie ou en entrée pour les points Support grâce à l'\"Éditeur de Logistiques\"."
 ]

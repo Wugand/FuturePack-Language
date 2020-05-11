@@ -3,7 +3,7 @@
 	"Après avoir analyser le mode de fonctionnement de la boussole, j'ai réussi à la recréer sous forme électronique.",	
 
 	"Assemblage:",
-	{"link":"fp:lang/part/as_chip.navigation.json"},
+	{"link":"futurepack:lang/part/as_chip.navigation.json"},
 	
 	"Une puce de transport de plus haute qualité (puce haute puissance) n'apporte pas d'avantage pour rapport à une puce normale !",
 	"Information: Il est à noter que l'effet peut être différent en fonction des machines.",

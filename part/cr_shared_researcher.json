@@ -1,0 +1,6 @@
+[
+	{
+		"type": "crafting",
+		"load":["futurepack:shared_researcher_black","futurepack:shared_researcher_gray","futurepack:shared_researcher_white"]
+	}
+]

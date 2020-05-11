@@ -3,6 +3,6 @@
   "Wenn die Maschine vor einem Block steht und durch Redstone-Signale aktiviert wird, zerstört sie den Block und wirft seine Überreste nach hinten aus.",
   "Crafting:",
   {
-    "link": "fp:lang/part/crafting_production.blockbreaker.json"
+    "link": "futurepack:lang/part/crafting_production.blockbreaker.json"
   }
 ]

@@ -3,7 +3,7 @@
   "Außerdem habe ich einige Probleme behoben die mir nach längerer Benutzung der ersten Version aufgefallen sind, z.B. wird jetzt angezeigt wo das Raumschiff offen ist.",
   "Crafting:",
   {
-    "link": "fp:lang/part/crafting_space.advanced.json"
+    "link": "futurepack:lang/part/crafting_space.advanced.json"
   },
   "Weitere Hinweise zur Benutzung sind beim einfachen Bordcomputer zu finden.",
   "Je nach Farbe des Gehäuses hat der Bordcomputer ein anderes Design der Benutzeroberfläche."

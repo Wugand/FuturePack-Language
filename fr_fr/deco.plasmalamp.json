@@ -2,6 +2,6 @@
 	"Avec la Glowtite trouvée sur Menelaus, j'ai pu faire évoluer la lampe au Néon. L'énergie interne a été remplacée par un nouveau mélange. J'utilise la Glowtite comme source d'énergie, qui, en combinaison avec la Glowstone (et une seule source d'énergie) crée un plasma que je dissimule à l'intérieur de la lampe à l'aide d'un champ magnétique, où il émet de la lumière en permanence.",
 	"Cette réaction, bien que pas très puissante, est suffisante pour une source de lumière. De plus, cette lampe n'a besoin ni d'énergie Néon, ni de signal de Redstone pour fonctionner.",
 	"Craft :",
-	{"link":"fp:lang/part/cr_deco.plasmalamp.json"},
+	{"link":"futurepack:lang/part/cr_deco.plasmalamp.json"},
 	"En utilisant un signal de Redstone, je peux réguler la réaction pour que la lampe n'émette pas trop de lumière."
 ]

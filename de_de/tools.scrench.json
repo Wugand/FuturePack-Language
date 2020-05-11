@@ -2,17 +2,17 @@
   "Ich habe mir ein nützliches Multifunktionswerkzeug gebaut.",
   "Es ermöglicht mir, Dinge zu drehen, außerdem kann ich damit eventuell auch Maschinen umbauen.",
   {
-    "link": "fp:lang/part/crafting_tools.scrench.json"
+    "link": "futurepack:lang/part/crafting_tools.scrench.json"
   },
   "Moduswechsel: §lRechtsklick \"in die Luft\"§r",
   "Rotation-Mode:",
   {
-    "link": "fp:lang/part/image_tools.scrench2.json"
+    "link": "futurepack:lang/part/image_tools.scrench2.json"
   },
   "§lRechtsklick§r auf einen Block, um diesen zu drehen.",
   "Modification-Mode:",
   {
-    "link": "fp:lang/part/image_tools.scrench3.json"
+    "link": "futurepack:lang/part/image_tools.scrench3.json"
   },
   "§lShift + Rechtsklick§r auf eine Maschiene, um diese zu modifizieren.",
   "Notiz: Die erste modifizierbare Maschine wird erst später freigeschaltet!"

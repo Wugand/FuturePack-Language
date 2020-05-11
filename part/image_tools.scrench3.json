@@ -3,6 +3,6 @@
     "type": "image",
     "width": 32,
     "height": 32,
-    "resource": "fp:textures/items/tool.png"
+    "resource": "futurepack:textures/items/tools/scrench.png"
   }
 ]

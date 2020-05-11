@@ -3,7 +3,7 @@
   "これは通常のケーブルにグロウタイトを組み込んだもので、サポートポイントの送受信が行えます。",
   "作成図:",
   {
-    "link": "fp:lang/part/crafting_log.supportcable.json"
+    "link": "futurepack:lang/part/crafting_log.supportcable.json"
   },
   "ケーブル自体はデータ情報を保存しておくことができないため、データの消失を防ぐ手段が必要です。"
 ]

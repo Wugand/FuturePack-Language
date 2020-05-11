@@ -4,7 +4,7 @@
   "Je peux certainement faire plusieurs améliorations sur la machine et ajouter plus de fonctionnalité. J\u0027ai aussi installé un système qui fonctionne avec les points Support pour une utilisation future.",
   "Craft :",
   {
-    "link": "fp:lang/part/crafting_production.zentrifuge.json"
+    "link": "futurepack:lang/part/crafting_production.zentrifuge.json"
   },
   "Information: Les points Support (SP) ne sont pas transférables avec des mémoires Flash. La technologie correspondante sera développée plus tard."
 ]

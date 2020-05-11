@@ -2,6 +2,6 @@
   "J\u0027ai crée une pioche faite avec du métal composite, la rendant plus efficace et durable par rapport aux outils traditionnels. Le manche en fer est notablement plus résistant.",
   "Craft :",
   {
-    "link": "fp:lang/part/crafting_tools.composite_pickaxe.json"
+    "link": "futurepack:lang/part/crafting_tools.composite_pickaxe.json"
   }
 ]

@@ -1,6 +1,10 @@
 [
   {
     "type": "crafting",
-    "load": "fp:spaceship_53"
+    "load": ["futurepack:chemicals_a_0","futurepack:chemicals_a_1"]
+  },
+  {
+    "type": "crafting",
+    "load": ["futurepack:chemicals_b_0","futurepack:chemicals_b_1"]
   }
 ]

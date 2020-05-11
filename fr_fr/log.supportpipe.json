@@ -3,7 +3,7 @@
   "C\u0027est un tube normal auquel on a ajouté un revêtement de Glowtite, qui permet une transmission des points Support.",
   "Craft :",
   {
-    "link": "fp:lang/part/crafting_log.supportpipe.json"
+    "link": "futurepack:lang/part/crafting_log.supportpipe.json"
   },
   "Ces tubes sont particulièrement utiles pour alimenter des machines avec des points Support.",
   "Paramètres : en utilisant la clé à molette, je peux changer les côtés du tube pour qu\u0027ils ne soient pas connectés avec les autres tubes et inventaires. De plus, il y a un troisième mode qui est identifié par un point. Dans ce mode, seuls les points Supports sont transférés (aux machines notamment), mais pas les objets."

@@ -3,6 +3,6 @@
   "The red focus lens modifies the laser so that it generates a lot of heat upon impact. This lens is ideal for killing and cutting objects.",
   "Focus lenses require a very precise manufacturing process, which can only be ensured by the neon industrial furnace.",
   {
-    "link": "fp:lang/part/industrialneonfurnace_production.nind.linse.r.json"
+    "link": "futurepack:lang/part/industrialneonfurnace_production.nind.linse.r.json"
   }
 ]

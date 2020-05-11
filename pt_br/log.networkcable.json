@@ -9,13 +9,13 @@
 			"1": {},
 			"2": "OreDict:ingotWakurium",
 			"3": {},
-			"4": {"name":"fp:wire", "meta":0},
-			"5": {"name":"fp:wire", "meta":0},
-			"6": {"name":"fp:wire", "meta":0},
+			"4": {"name":"futurepack:wire", "meta":0},
+			"5": {"name":"futurepack:wire", "meta":0},
+			"6": {"name":"futurepack:wire", "meta":0},
 			"7": {},
 			"8": {},
 			"9": {},
-			"out": {"name":"fp:wire", "meta":4, "size":3}
+			"out": {"name":"futurepack:wire", "meta":4, "size":3}
 		}
 	},
 	

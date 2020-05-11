@@ -3,9 +3,9 @@
   "Zellstoffhaltige Pflanzenfasern kann ich mit einem organischen Chemikalienmix zu einem gleichmäßigem Biopolymer verarbeiten. Dieser Prozess ist am besten im Neonindustrieofen möglich, da dieser ideale Bedingungen für jeden Umwandlungsschritt bereitstellen kann.",
   "Crafting:",
   {
-    "link": "fp:lang/part/crafting_production.nind.polymer.json"
+    "link": "futurepack:lang/part/crafting_production.nind.polymer.json"
   },
   {
-    "link": "fp:lang/part/industrialneonfurnace_production.nind.polymer2.json"
+    "link": "futurepack:lang/part/industrialneonfurnace_production.nind.polymer2.json"
   }
 ]

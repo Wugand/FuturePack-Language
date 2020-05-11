@@ -5,7 +5,7 @@
 
   "合成:",
   {
-    "link": "fp:lang/part/crafting_log.pump.json"
+    "link": "futurepack:lang/part/crafting_log.pump.json"
   },
 
   "支持芯片:",

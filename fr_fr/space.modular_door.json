@@ -4,10 +4,10 @@
   "La porte comportera tous les blocs en contact avec elle. La porte peut s\u0027ouvrir et se fermer avec un §lClic Droit§r sur n\u0027importe quel bloc de la porte.",
   "Craft :",
   {
-    "link": "fp:lang/part/crafting_space.modular_door.json"
+    "link": "futurepack:lang/part/crafting_space.modular_door.json"
   },
   "Exemple :",
   {
-    "link": "fp:lang/part/image_space.modular_door2.json"
+    "link": "futurepack:lang/part/image_space.modular_door2.json"
   }
 ]

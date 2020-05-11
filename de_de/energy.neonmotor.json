@@ -3,6 +3,6 @@
 	"Dieser beruht auf einer Art Motor, der Neonenergie in die niedere Energieform umwandelt. Auf mich wirkt das ganze allerdings unberechenbar und gefährlich, ich traue dieser Technologie nicht wirklich.",
 	"Aber wer weis, vieleicht muss ich diese Technologie irgendwann benutzen.",
     "Crafting:",
-	{"link":"fp:lang/part/cr_energy.neonmotor.json"},
+	{"link":"futurepack:lang/part/cr_energy.neonmotor.json"},
     "Zur einfachen Handhabung habe ich den Neonmotor so konstruiert, dass man ihn mit Redstone beschalten kann. Außerdem braucht er eine Weile um hoch zu heizen, entsprechend der Temperatur steigert sich auch die RF Produktion."
 ]

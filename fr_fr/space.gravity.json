@@ -3,7 +3,7 @@
   "La pulsation, qui est probablement due au Retium, est activée par un signal de Redstone.",
   "Craft :",
   {
-    "link": "fp:lang/part/crafting_space.gravity.json"
+    "link": "futurepack:lang/part/crafting_space.gravity.json"
   },
   "Je me suis peut-être complètement trompé et j\u0027ai peut-être découvert quelques choses de totalement différent de la gravité."
 ]

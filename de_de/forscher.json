@@ -2,7 +2,7 @@
   "Ich habe eine Art Werkbank entwickelt an der ich Experimente durchführen und meine Ideen ausarbeiten kann, bevor ich die Ergebnisse in meine Datenbank eintrage.",
   "Crafting:",
   {
-    "link": "fp:lang/part/crafting_forscher.json"
+    "link": "futurepack:lang/part/crafting_forscher.json"
   },
   "Tipp: Lies vorher die Informationen zu \"Das Forschungssytem\"!",
   "Benutzung im Detail:",

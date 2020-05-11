@@ -1,6 +1,6 @@
 [
   "遠心分離機を活用して、余りものの植物や有機物を処理することで、より多くの染料や有機素材を取り出すことができます。",
   "実例:",
-  {"link": "fp:lang/part/zentrifuge_production.zent.color.json"},
+  {"link": "futurepack:lang/part/zentrifuge_production.zent.color.json"},
         "-通知:\n遠心分離機には多くのレシピがあり、ここに掲載されているものが全てではありません！"
 ]

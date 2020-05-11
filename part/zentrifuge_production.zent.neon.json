@@ -3,15 +3,15 @@
     "type": "zentrifuge",
     "slots": {
       "in": {
-        "OreDict": "dustNeon",
+        "tag": "forge:dusts/neon",
         "size": 32
       },
       "out1": {
-        "OreDict": "gemQuartz",
+        "tag": "forge:gems/quartz",
         "size": 32
       },
       "out2": {
-        "OreDict": "gemBitripentium",
+		"tag": "forge:gems/bitripentium",
         "size": 1
       },
       "out3": {}

@@ -3,7 +3,7 @@
 	"J'ai fait une autre amélioration en ajoutant une unité séparée pour le stockage de points Supports. Cela soulage énormément le système informatique.",
 
 	"Assemblage :",
-	{"link":"fp:lang/part/as_ram.penton.json"},
+	{"link":"futurepack:lang/part/as_ram.penton.json"},
 	
 	"Astuce : Se référer à \"RAM Standard\" pour des informations générales."
 ]

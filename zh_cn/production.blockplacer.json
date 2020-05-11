@@ -3,6 +3,6 @@
   "我可以在里面放入任何方块，如果机器被红石脉冲激活，它将会尝试放置一个方块（在机器前面）。",
   "合成:",
   {
-    "link": "fp:lang/part/crafting_production.blockplacer.json"
+    "link": "futurepack:lang/part/crafting_production.blockplacer.json"
   }
 ]

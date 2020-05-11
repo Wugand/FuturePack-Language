@@ -2,6 +2,6 @@
   "Le Bitripentium peut contenir énormément d\u0027énergie, mais il est très compliqué de diviser le noyau. Une simple explosion n\u0027est pas suffisante, mais le processus peut être réalisé avec des bâtons de Blaze.",
   "Craft :",
   {
-    "link": "fp:lang/part/crafting_space.fuel.json"
+    "link": "futurepack:lang/part/crafting_space.fuel.json"
   }
 ]

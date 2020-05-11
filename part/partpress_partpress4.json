@@ -2,10 +2,9 @@
   {
     "type": "partpress",
     "slots": {
-      "in": "OreDict:ingotNeon",
+      "in": "tag:forge:ingots/neon",
       "out": {
-        "name": "fp:spaceship",
-        "meta": "\u003cspaceship.NeonParts\u003e",
+        "name": "futurepack:parts_neon",
         "size": 4
       }
     }

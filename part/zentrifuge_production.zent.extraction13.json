@@ -13,11 +13,11 @@
         "meta": 0
       },
       "out2": {
-        "OreDict": "dustTin",
+        "tag": "forge:dusts/tin",
         "size": 1
       },
       "out3": {
-        "OreDict": "dustCopper",
+        "tag": "forge:dusts/copper",
         "size": 1
       }
     },

@@ -2,6 +2,6 @@
 "複合金属の釣り竿を開発しました。 木製の釣り竿よりもはるかに強力で丈夫です。 さらにスプリング機構を搭載して、魚が逃げてしまう前に自動で釣り上げる機能を付属させています。",
   "作成図:",
   {
-    "link": "fp:lang/part/crafting_tools.composite_rod.json"
+    "link": "futurepack:lang/part/crafting_tools.composite_rod.json"
   }
 ]

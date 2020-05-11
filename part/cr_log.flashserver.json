@@ -1,6 +1,6 @@
 [
 	{
 		"type": "crafting",
-		"load": ["fp:flash_server_2", "fp:flash_server_6", "fp:flash_server_10"]
+		"load": ["futurepack:flash_server_2", "futurepack:flash_server_6", "futurepack:flash_server_10"]
 	}
 ]

@@ -1,8 +1,8 @@
 [
 	"J'ai crée une structure en métal un peu plus complexe : une barrière en métal.",
 	"Craft :",
-	{"link":"fp:lang/part/cr_deco.metallzaun.json"},	
+	{"link":"futurepack:lang/part/cr_deco.metallzaun.json"},	
 	"Information: Ce bloc peut être (dé)coloré avec le pistolet à peinture.",
-	{"link":"fp:lang/part/cr_deco.metallgate.json"},
+	{"link":"futurepack:lang/part/cr_deco.metallgate.json"},
 	"Information: This block can NOT be (un)colored."
 ]

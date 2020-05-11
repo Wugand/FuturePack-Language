@@ -2,6 +2,6 @@
   "我开发了一种由复合金属制成的铲子，使其比传统工具更强大和更耐用。",
   "合成:",
   {
-    "link": "fp:lang/part/crafting_tools.composite_spade.json"
+    "link": "futurepack:lang/part/crafting_tools.composite_spade.json"
   }
 ]

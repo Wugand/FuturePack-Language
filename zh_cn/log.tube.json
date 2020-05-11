@@ -3,6 +3,6 @@
   "当液体被释放到管道中时，它会尝试输送到有效的目标容器。",
   "合成:",
   {
-    "link": "fp:lang/part/crafting_log.tube.json"
+    "link": "futurepack:lang/part/crafting_log.tube.json"
   }
 ]

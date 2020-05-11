@@ -5,7 +5,7 @@
 "この装置はコンピューターシステムを持っており、ネオンエネルギーを消費して動作します。1つの増設処理装置は、クロックレート100%につきブロックの動作速度を二倍にします。",
   "作成図:",
   {
-    "link": "fp:lang/part/crafting_chips.externalcore.json"
+    "link": "futurepack:lang/part/crafting_chips.externalcore.json"
   },
 "(増設処理装置の真下にあるブロックに効果が及びます。)"
 ]

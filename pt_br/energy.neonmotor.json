@@ -3,6 +3,6 @@
 	"É baseado em um tipo de motor que converte energia de néon para um tipo de energia inferior. Na minha opinião, parece imprevisível é talvez até perigoso. Eu não confio muito nesta tecnologia.",
 	"Mas quem sabe, talvez eu vou ser forçado a usar isso.",
     "Criando:",
-    {"link":"fp:lang/part/cr_energy.neonmotor.json"},
+    {"link":"futurepack:lang/part/cr_energy.neonmotor.json"},
 	"Para manipulação fácil, eu construí o motor de néon para utilizar redstone. Adicionalmente, precisa de um tempinho para aquecer; a produção de RF (fluxo de redstone) escala proporcionalmente à temperatura."
 ]

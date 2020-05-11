@@ -1,7 +1,7 @@
 [
 	"En utilisant les nouvelles ressources que j'ai trouvées sur Melelaus, j'ai pu de nouveau améliorer mes processeurs, notamment grâce aux caractéristiques particulières du Retium qui permettent la transmission de signaux.",
 	"Assemblage:",
-	{"link":"fp:lang/part/as_core.tct.json"},
+	{"link":"futurepack:lang/part/as_core.tct.json"},
 	"Même en améliorant un peu mes dernières innovations, je ne pense pas que mes processeurs au Silicium ont un avenir. Je dois trouver une alternative de toute urgence !",
 	"Info: Se référer au \"Processeur Standard\" pour des informations générales."
 ]

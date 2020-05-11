@@ -2,7 +2,7 @@
   "我设计了一个多功能工具来调整我的机器的输入/输出端。",
   "合成:",
   {
-    "link": "fp:lang/part/crafting_tools.logistik_editor.json"
+    "link": "futurepack:lang/part/crafting_tools.logistik_editor.json"
   },
   "用法:",
   "对着空气§l右击§r可在以下模式间切换:",

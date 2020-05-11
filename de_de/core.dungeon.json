@@ -2,5 +2,5 @@
 	"Endlich ist es mir gelungen die gefundenen Prozessorfragmente zu verstehen. Es sind Überreste alter Quantenprozessoren.",
 	"Mit einigen neuen Teilen kann ich aus den Fragmenten einen funktionsfähigen Prozessor rekonstruieren. Der somit geringfügig leistungsfähiger ist als meine eigenen Prozessoren.",
 	"Assembly:",
-	{"link":"fp:lang/part/as_core.dungeon.json"}
+	{"link":"futurepack:lang/part/as_core.dungeon.json"}
 ]

@@ -2,7 +2,7 @@
   "Ich habe ein Gerät entwickelt was es mir möglichmacht, das aussehen von Blöcken zu ändern.",
   "Ich kann einen belibigen Block scannen und dabei wird seine Visuellestruktur in dem gerät gespeichert. Und kann dan auf einen anderen Block der das unterstüzt übertragen werden.",
   {
-    "link": "fp:lang/part/crafting_tools.hologramm.json"
+    "link": "futurepack:lang/part/crafting_tools.hologramm.json"
   },
   "shift-klick um struktur zu speichern",
   "normaler klick auf einen BLock um das aussehen zu wechseln",

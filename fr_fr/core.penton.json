@@ -3,7 +3,7 @@
 	"J'ai développé une fonctionnalité supplémentaire en ajoutant une unité interne pour gérer les données Support et leur sortie. Cela a considérablement soulagé la charge de travail sur la partie non spécifiée du processeur.",
 
 	"Assemblage:",
-	{"link":"fp:lang/part/as_core.penton.json"},
+	{"link":"futurepack:lang/part/as_core.penton.json"},
 	
 	"Astuce : Se référer au \"Processeur Standard\" pour des informations générales."
 ]

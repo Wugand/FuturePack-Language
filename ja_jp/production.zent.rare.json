@@ -5,12 +5,12 @@
   "その他の素材からも見つかることはありますが、これら3つを得るためのプロセスはコストと時間がかかるため、今回の発見はとても価値があります。",
   "作成図:",
   {
-    "link": "fp:lang/part/zentrifuge_production.zent.rare.json"
+    "link": "futurepack:lang/part/zentrifuge_production.zent.rare.json"
   },
   {
-    "link": "fp:lang/part/zentrifuge_production.zent.rare2.json"
+    "link": "futurepack:lang/part/zentrifuge_production.zent.rare2.json"
   },
   {
-    "link": "fp:lang/part/zentrifuge_production.zent.rare3.json"
+    "link": "futurepack:lang/part/zentrifuge_production.zent.rare3.json"
   }
 ]

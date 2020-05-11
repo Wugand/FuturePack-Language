@@ -5,8 +5,8 @@
 	"It is possible to connect any number of modules to a researcher, whereby one module with 100% RAM has 4 times the calculation power of a normal researcher. The power of a module depends only on its RAM power.",
 	
 	"Crafting:",
-	{"link":"fp:lang/part/cr_calculation.main.json"},
-	{"link":"fp:lang/part/cr_calculation.json"},
+	{"link":"futurepack:lang/part/cr_calculation.main.json"},
+	{"link":"futurepack:lang/part/cr_calculation.json"},
 	
 	"Currently, I should be able to attach 1-2 modules to a researcher."
 ]

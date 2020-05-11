@@ -3,6 +3,6 @@
   "硬化粘土和黑曜石表现出了我想要的属性。除去粘土中的杂质后，我可以开发出一种隔热板。",
   "由这种粘土制成的板材不仅能承受极端的温度，而且还会使热量发生偏转。",
   {
-    "link": "fp:lang/part/industrialneonfurnace_production.nind.keramik.json"
+    "link": "futurepack:lang/part/industrialneonfurnace_production.nind.keramik.json"
   }
 ]

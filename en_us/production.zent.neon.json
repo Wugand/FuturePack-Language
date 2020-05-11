@@ -4,7 +4,7 @@
   "I can apply this to all crystal types, but I first must grind them to dust.",
   "Example:",
   {
-    "link": "fp:lang/part/zentrifuge_production.zent.neon.json"
+    "link": "futurepack:lang/part/zentrifuge_production.zent.neon.json"
   },
   "Information: The centrifuge has many recipes, so not all listed here!"
 ]

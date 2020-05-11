@@ -2,6 +2,6 @@
 	"Mit Hilfe von Spulen durch die ich Energie leite kann ich metallische Objekte weg-katapultieren. Durch einen Lauf und gezielter Ausrichtung der Spulen kann ich so Geschosse über große Distanz verschießen.",
 	"Aus diesem Experiment habe ich eine wirkungsvolle Waffe entwickelt. Mit der ich je nach Ladezeit Geschosse beliebig stark beschleunigen kann, um möglichst genau ein Ziel zu Treffen.",
 	"Crafting:",
-	{"link":"fp:lang/part/cr_tools.grenadelauncher.json"},
+	{"link":"futurepack:lang/part/cr_tools.grenadelauncher.json"},
 	"Es wird Neonenergie für die (wieder-)Aufladung benötigt. Wenn die Ladung komplett aufgebraucht ist, kann die Waffe die Geschosse nicht mehr beschleunigen. Dies kann in einer gefährlichen Situation enden!"
 ]

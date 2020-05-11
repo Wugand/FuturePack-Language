@@ -7,13 +7,13 @@
   "Ich kann dieses Verfahren auf Erden und verschiedenste Pflanzen anwenden, für farbstoffhaltige Pflanzen benötige ich allerdings ein besseres Verfahren.",
   "Beispiele:",
   {
-    "link": "fp:lang/part/zentrifuge_production.zent.bio.json"
+    "link": "futurepack:lang/part/zentrifuge_production.zent.bio.json"
   },
   {
-    "link": "fp:lang/part/zentrifuge_production.zent.bio2.json"
+    "link": "futurepack:lang/part/zentrifuge_production.zent.bio2.json"
   },
   {
-    "link": "fp:lang/part/zentrifuge_production.zent.bio3.json"
+    "link": "futurepack:lang/part/zentrifuge_production.zent.bio3.json"
   },
   "Information: Die Zentrifuge hat sehr viele Rezepte, es werden hier nicht alle aufgelistet!"
 ]

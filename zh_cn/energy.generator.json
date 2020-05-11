@@ -3,7 +3,7 @@
   "每个可燃材料都可以产生热量。发电机不是真的很强大，但足够我目前的使用。",
   "合成:",
   {
-    "link": "fp:lang/part/crafting_energy.generator.json"
+    "link": "futurepack:lang/part/crafting_energy.generator.json"
   },
   "技术数据:",
   "产能速率:0.5NE/Tick",

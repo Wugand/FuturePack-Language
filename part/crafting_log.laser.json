@@ -1,6 +1,6 @@
 [
   {
     "type": "crafting",
-    "load": ["fp:antenne_0", "fp:antenne_1", "fp:antenne_2"]
+    "load": ["futurepack:antenne_0", "futurepack:antenne_1", "futurepack:antenne_2"]
   }
 ]

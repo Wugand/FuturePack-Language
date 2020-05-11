@@ -2,6 +2,6 @@
   "このワールドにある金属から耐久力の非常に高い軽合金を見出し、私はそれを複合金属と名付けることにしました。",
   "これらはさまざまな構造物に使用されており、幅広く活用していけそうです。",
   {
-    "link": "fp:lang/part/industrialfurnace_production.ind.compositemetal.json"
+    "link": "futurepack:lang/part/industrialfurnace_production.ind.compositemetal.json"
   }
 ]

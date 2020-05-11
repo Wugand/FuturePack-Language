@@ -3,6 +3,6 @@
   "Besonders viele Ionen entstehen bei Gewitter und starker Sonneneinstrahlung, der Ionenkollektor kann diese sehr effizient Umwandeln. Mit dieser Konstruktion kann ich sogar Nachts Energie produzieren.",
   "Crafting:",
   {
-    "link": "fp:lang/part/crafting_energy.ionen.json"
+    "link": "futurepack:lang/part/crafting_energy.ionen.json"
   }
 ]

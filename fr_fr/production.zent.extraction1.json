@@ -3,13 +3,13 @@
   "Je peux réaliser cette méthodes plusieurs fois sur divers types de roches pour éventuellement avoir du sable finement moulu et propre...",
   "Exemple :",
   {
-    "link": "fp:lang/part/zentrifuge_production.zent.extraction1.json"
+    "link": "futurepack:lang/part/zentrifuge_production.zent.extraction1.json"
   },
   {
-    "link": "fp:lang/part/zentrifuge_production.zent.extraction12.json"
+    "link": "futurepack:lang/part/zentrifuge_production.zent.extraction12.json"
   },
   {
-    "link": "fp:lang/part/zentrifuge_production.zent.extraction13.json"
+    "link": "futurepack:lang/part/zentrifuge_production.zent.extraction13.json"
   },
   "Information : la centrifugeuse a un nombre important de recettes, qui ne sont pas toutes listées ici !"
 ]

@@ -1,6 +1,6 @@
 [
 	"O monocarrinho somente precisa de um único trilho, que eu posso criar de uma estrutura de suporte feita de metal composto e um trilho de ferro.",
 	"Criando:",
-	{"link":"fp:lang/part/cr_space.drone.mono.rail.json"},
+	{"link":"futurepack:lang/part/cr_space.drone.mono.rail.json"},
 	"Obs: O trilho pode ser posto somente em terra firme."
 ]

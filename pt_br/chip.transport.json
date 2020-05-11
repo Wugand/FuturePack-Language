@@ -3,7 +3,7 @@
 	"Este sistema garante que as máquinas expulsem os produtos ou materiais que não são mais necessários. Isso será feito através de um lado nomeado como saída. A atribuição pode ser realizado usando o editor de logística.",
 
 	"Montagem:",
-	{"link":"fp:lang/part/as_chip.transport.json"},	
+	{"link":"futurepack:lang/part/as_chip.transport.json"},	
 	
 	"Um chipset de transporte de alta qualidade (mais poder) não tem nenhum benefício comparando com um chipset normal!",
 	"Dica: O efeito exato é determinado pela máquina suportada.",

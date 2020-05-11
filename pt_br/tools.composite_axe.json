@@ -4,16 +4,16 @@
 	{
 		"type": "crafting",
 		"slots": {
-			"1": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"2": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"1": {"name":"futurepack:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"2": {"name":"futurepack:spaceship", "meta":"<spaceship.CompositeMetall>"},
 			"3": {},
-			"4": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"5": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
+			"4": {"name":"futurepack:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"5": {"name":"futurepack:spaceship", "meta":"<spaceship.IronStick>"},
 			"6": {},
 			"7": {},
-			"8": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
+			"8": {"name":"futurepack:spaceship", "meta":"<spaceship.IronStick>"},
 			"9": {},
-			"out": {"name":"fp:composite_axe"}
+			"out": {"name":"futurepack:composite_axe"}
 		}
 	}
 ]

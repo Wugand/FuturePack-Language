@@ -3,7 +3,7 @@
   "これはノーマルパイプにグロウタイトを組み込んだもので、サポートポイントの送受信が行えます。",
   "作成図:",
   {
-    "link": "fp:lang/part/crafting_log.supportpipe.json"
+    "link": "futurepack:lang/part/crafting_log.supportpipe.json"
   },
   "これらのパイプはサポートポイントを機械装置に送る際、特に実用的なものです。",
   "-使い方:\nレンチを使用することでパイプの接続面を閉じることができます。(必要な場所を§l右クリック§r)",

@@ -4,11 +4,11 @@
   "如果我希望进行比门勒兰星更远的旅行，我必须在每个宇宙飞船上安装这个驱动器。",
   "合成:",
   {
-    "link": "fp:lang/part/cr_space.drive.ftl.json"
+    "link": "futurepack:lang/part/cr_space.drive.ftl.json"
   },
   "警告：别把FTL-方块拿来做装饰！",
   "Building:",
   {
-    "link": "fp:lang/part/building_space.drive.ftl.json"
+    "link": "futurepack:lang/part/building_space.drive.ftl.json"
   }
 ]

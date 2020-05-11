@@ -4,6 +4,6 @@
 
   "Crafting:",
   {
-    "link": "fp:lang/part/crafting_log.intake.json"
+    "link": "futurepack:lang/part/crafting_log.intake.json"
   }
 ]

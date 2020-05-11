@@ -3,6 +3,6 @@
     "type": "image",
     "width": 16,
     "height": 16,
-    "resource": "fp:textures/gui/slot_bg.png"
+    "resource": "futurepack:textures/gui/slot_bg.png"
   }
 ]

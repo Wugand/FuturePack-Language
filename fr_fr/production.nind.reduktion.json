@@ -1,10 +1,10 @@
 [
   "J\u0027ai ajouté une extension au four industriel au Néon qui me permet d\u0027extraire le carbone résiduel. Je dispose donc désormais d\u0027une source infinie de charbon.",
   {
-    "link": "fp:lang/part/industrialneonfurnace_production.nind.reduktion.json"
+    "link": "futurepack:lang/part/industrialneonfurnace_production.nind.reduktion.json"
   },
   "Même avec des cristaux, le nouveau procédé fonctionne pour créer des lingots.",
   {
-    "link": "fp:lang/part/industrialneonfurnace_production.nind.reduktion2.json"
+    "link": "futurepack:lang/part/industrialneonfurnace_production.nind.reduktion2.json"
   }
 ]
