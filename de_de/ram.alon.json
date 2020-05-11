@@ -2,7 +2,7 @@
 	"Durch Verfeinerung des Herstellungsverfahrens konnte ich die doppelte Menge an Speichereinheiten in einem Speicher-Modul unterbringen. Zudem habe ich durch bessere Materialen den Wärmeabtransport verbessert.",
 	
 	"Assembly:",
-	{"link":"fp:lang/part/as_ram.alon.json"},
+	{"link":"futurepack:lang/part/as_ram.alon.json"},
 	
 	"Info: Für allgemeine Informationen siehe Standartspeicher."
 ]

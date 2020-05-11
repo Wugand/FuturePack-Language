@@ -3,7 +3,7 @@
   "Ich habe probiert daraus eine Ummantelung für meine Kabel zu entwickeln und es hat perfekt funktioniert. Wenn ich diese Kabel mit einem Netzwerk verbinde werden die Signale weitergeleitet.",
   "Crafting:",
   {
-    "link": "fp:lang/part/crafting_log.networkcable.json"
+    "link": "futurepack:lang/part/crafting_log.networkcable.json"
   },
   "Da ich nicht auf das Problem stoßen will, dass ich einen Netzwerk-Switch habe der ausfallen oder überlastet werden könnte, habe ich die Kabel speziell konstruiert. Sie haben einen eigenen Verteiler und Verstärker eingebaut, dadurch kann ich problemlos das Netzwerk erweitern ohne dass es langsamer wird."
 ]

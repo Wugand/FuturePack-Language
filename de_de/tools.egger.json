@@ -2,7 +2,7 @@
   "Ich habe versucht einen intelligenten Angelköder zu entwickeln, irgendwas ist dabei wohl schiefgegangen und ich habe ein Ei erschaffen, das Lebewesen einsaugt und in Stase versetzt.",
   "Assembly:",
   {
-    "link": "fp:lang/part/assembly_tools.egger.json"
+    "link": "futurepack:lang/part/assembly_tools.egger.json"
   },
   "Der \"Entity Egger\" kann geworfen werden, trifft er dabei ein Lebewesen wird dieses eingesaugt. Auf gleiche Weise kann das Lebewesen auch wieder platziert werden."
 ]

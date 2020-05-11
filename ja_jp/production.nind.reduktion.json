@@ -1,10 +1,10 @@
 [
   "ネオン工業製錬炉では、\n炭素を使った還元製錬の機能が拡張されています。\nこれが実用化されたことで、私は石炭事情から解放されるのかもしれません。",
   {
-    "link": "fp:lang/part/industrialneonfurnace_production.nind.reduktion.json"
+    "link": "futurepack:lang/part/industrialneonfurnace_production.nind.reduktion.json"
   },
   "結晶体は新しいプロセスによって、直接インゴットに精錬できます。",
   {
-    "link": "fp:lang/part/industrialneonfurnace_production.nind.reduktion2.json"
+    "link": "futurepack:lang/part/industrialneonfurnace_production.nind.reduktion2.json"
   }
 ]

@@ -3,6 +3,6 @@
   "Zum Befüllen kann einer Rohrleitung an jeder beliebigen Seite angeschlossen werden. Der Tank kann auch ohne Pumpe geleert werden, indem eine Rohrleitung an der Unterseite angeschlossen wird.",
   "Crafting:",
   {
-    "link": "fp:lang/part/crafting_log.tank.json"
+    "link": "futurepack:lang/part/crafting_log.tank.json"
   }
 ]

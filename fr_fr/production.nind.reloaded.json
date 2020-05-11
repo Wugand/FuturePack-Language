@@ -1,9 +1,9 @@
 [
   "Je suis capable d\u0027optimiser les anciennes recettes de mon Four Industriel.",
   {
-    "link": "fp:lang/part/industrialneonfurnace_production.nind.reloaded.json"
+    "link": "futurepack:lang/part/industrialneonfurnace_production.nind.reloaded.json"
   },
   {
-    "link": "fp:lang/part/industrialneonfurnace_production.nind.reloaded2.json"
+    "link": "futurepack:lang/part/industrialneonfurnace_production.nind.reloaded2.json"
   }
 ]

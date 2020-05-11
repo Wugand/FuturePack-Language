@@ -3,11 +3,11 @@
     "type": "zentrifuge",
     "slots": {
       "in": {
-        "OreDict": "oreCopper",
+        "tag": "forge:ores/copper",
         "size": 4
       },
       "out1": {
-        "OreDict": "dustCopper",
+        "tag": "forge:dusts/copper",
         "size": 10
       },
       "out2": {
@@ -16,7 +16,7 @@
         "meta": 0
       },
       "out3": {
-        "OreDict": "dustTin",
+        "tag": "forge:dusts/tin",
         "size": 2
       }
     },

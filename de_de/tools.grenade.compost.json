@@ -5,14 +5,14 @@
   "Crafting (shapeless):",
   "Stärke 1:",
   {
-    "link": "fp:lang/part/crafting_tools.grenade.compost.json"
+    "link": "futurepack:lang/part/crafting_tools.grenade.compost.json"
   },
   "Stärke 2:",
   {
-    "link": "fp:lang/part/crafting_tools.grenade.compost2.json"
+    "link": "futurepack:lang/part/crafting_tools.grenade.compost2.json"
   },
   "Stärke 3:",
   {
-    "link": "fp:lang/part/crafting_tools.grenade.compost3.json"
+    "link": "futurepack:lang/part/crafting_tools.grenade.compost3.json"
   }
 ]

@@ -5,7 +5,7 @@
   "この機械には、さらなる可能性があると確信しています。今以上に複雑なレシピに対応するための、サポートポイントを活用するシステムも統合させました。",
   "作成図:",
   {
-    "link": "fp:lang/part/crafting_production.neonind.json"
+    "link": "futurepack:lang/part/crafting_production.neonind.json"
   },
   "-重要:\nフラッシュメモリを使用してサポートポイント(SP)を供給することはできません。\n必要な技術は、のちに研究可能になるでしょう！"
 ]

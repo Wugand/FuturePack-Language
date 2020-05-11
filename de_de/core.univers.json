@@ -3,5 +3,5 @@
 	"Das ursprüngliche Konzept der Ungreifbaren war es die einzelnen Recheneinheiten der Prozessoren in einem torusförmigen Netzwerk anzuordnen. Auch ich kann dieses Konzept wiederherstellen, indem ich 2 der rekonstruierten Einheiten kombiniere.",
 	"Somit können diese Prozessoren eine extreme Leistung entwickeln, dabei fließt auch die Leistung der beiden Dungeon-Prozessoren in das Ergebnis ein.",
 	"Assembly:",
-	{"link":"fp:lang/part/as_core.univers.json"}
+	{"link":"futurepack:lang/part/as_core.univers.json"}
 ]

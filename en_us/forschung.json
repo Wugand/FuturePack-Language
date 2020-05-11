@@ -9,15 +9,15 @@
   "The Tech Tree extends over multiple Tabs (selectable at the left edge of the screen). In the center, there are research icons, each one of 3 possible types:",
   "Research - Can be researched, enables production and use of an Item",
   {
-    "link": "fp:lang/part/image_forschung.json"
+    "link": "futurepack:lang/part/image_forschung.json"
   },
   "Knowledge - Can be researched, doesn't enable an Item itself, but furthers understanding",
   {
-    "link": "fp:lang/part/image_forschung2.json"
+    "link": "futurepack:lang/part/image_forschung2.json"
   },
   "Experience - Can't be researched, but is instead enabled by achievements. Can enable Items",
   {
-    "link": "fp:lang/part/image_forschung3.json"
+    "link": "futurepack:lang/part/image_forschung3.json"
   },
   "Dependent on the research progress, once again there are 3 variants:",
   "Solid and colored: The concept is completed and can be clicked, opening its information page.",
@@ -32,7 +32,7 @@
   "First, craft a Scanner and a Researcher at the Techtable. You can find the instructions for this at the corresponding entries in the Tech Tree. You will also need a Part Press (found in the \"Production\" Tab) for this task.",
   "At first, the only possible Research is \"Production 1\":",
   {
-    "link": "fp:lang/part/image_forschung4.json"
+    "link": "futurepack:lang/part/image_forschung4.json"
   },
   "In the Tech Tree you can see that the parent of this is \"Techtable\", which enables the block of the same name. That means we should take a Techtable an put it into the Scanner. By fiddling with the Aspects, we find the right one(s) (in this case, Thermodynamics). And finally we click on \"Scan\" again. Now we see our blueprint.",
   "For the second step, we insert this Blueprint into the Researcher and click the Research button. The machine tells us that, to complete this research, we have to put 3 furnace blocks in the left slot. After we have done that, the grey bar at the bottom of the slot begins to fill, indicating research progress is taking place. Once the bar is filled, we see a chat message notifying us that we can see our result in the Tech Tree (accessible via both the Scanner and E-Scanner)",

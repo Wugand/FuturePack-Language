@@ -2,7 +2,7 @@
   "Ich habe Triebwerke entwickelt, bei denen ich Funktionalität und Design so gut es möglich war verbunden habe. Sie enthalten hitzebeständige Keramik und Verbundmetall um die wirkenden Kräfte an das Raumschiff weiterleiten zu können",
   "Crafting:",
   {
-    "link": "fp:lang/part/crafting_space.thruster.json"
+    "link": "futurepack:lang/part/crafting_space.thruster.json"
   },
   "Außerdem kann man sie mit Redstone ein und ausschalten, das wirkt sich jedoch nicht auf den Flug aus."
 ]

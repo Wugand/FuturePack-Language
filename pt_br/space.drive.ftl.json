@@ -5,7 +5,7 @@
   
 	"Criando:",
 	{
-		"link":"fp:lang/part/cr_space.drive.ftl.json"
+		"link":"futurepack:lang/part/cr_space.drive.ftl.json"
 	},
 	
 	"Atenção: Não use o Bloco FTL para decoração!!",
@@ -16,12 +16,12 @@
 	   "blocks":
 	   [
 	       [  
-                ["fp:ftl_drive","fp:ftl_drive","fp:ftl_drive"], 
-                ["fp:ftl_drive","fp:ftl_drive","fp:ftl_drive"] 
+                ["futurepack:ftl_drive","futurepack:ftl_drive","futurepack:ftl_drive"], 
+                ["futurepack:ftl_drive","futurepack:ftl_drive","futurepack:ftl_drive"] 
            ],
            [
-                ["fp:ftl_drive","fp:ftl_drive","fp:ftl_drive"], 
-                ["fp:ftl_drive","fp:ftl_drive","fp:ftl_drive"]
+                ["futurepack:ftl_drive","futurepack:ftl_drive","futurepack:ftl_drive"], 
+                ["futurepack:ftl_drive","futurepack:ftl_drive","futurepack:ftl_drive"]
            ]
         ]
 	}

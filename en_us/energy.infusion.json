@@ -3,7 +3,7 @@
 	"Using this principle I designed a generator which injects crystal fragments into food or burnable materials (not Lava or Coal). The produced heat can simply be cast into neon energy. As a waste product the machine produces a fine Neon Crystal Dust.",
 	 
 	"Crafting:",
-	{"link":"fp:lang/part/cr_energy.infusion.json"},
+	{"link":"futurepack:lang/part/cr_energy.infusion.json"},
 	
 	"The amount of energy depends on: The value of Industrial Chipsets, the type of the crystal and the food/fuel value of the organic substance.",
 	"By increasing the \"ram\"-value I can cause a faster generation and emission of the energy.",

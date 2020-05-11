@@ -3,7 +3,7 @@
 	"Ein weitere Versuch der Verbesserung war das Einbauen einer fest verdrahteten Einheit für das Zwischenspeichern von Supportdaten.",
 
 	"Assembly:",
-	{"link":"fp:lang/part/as_ram.penton.json"},	
+	{"link":"futurepack:lang/part/as_ram.penton.json"},	
 	
 	"Info: Für allgemeine Informationen siehe Standartspeicher."
 ]

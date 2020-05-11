@@ -4,7 +4,7 @@
   "これを集めて結晶のかたちにすることが可能なようですが、それにはまず粉末状にしておく必要があります。",
   "実例:",
   {
-    "link": "fp:lang/part/zentrifuge_production.zent.neon.json"
+    "link": "futurepack:lang/part/zentrifuge_production.zent.neon.json"
   },
   "-通知:\n遠心分離機には多くのレシピがあり、ここに掲載されているものが全てではありません！"
 ]

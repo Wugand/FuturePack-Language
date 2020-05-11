@@ -1,6 +1,6 @@
 [
 	{
 		"type": "crafting",
-		"load": ["fp:baterie_box_0", "fp:baterie_box_1", "fp:baterie_box_2"]
+		"load": ["futurepack:baterie_box_0", "futurepack:baterie_box_1", "futurepack:baterie_box_2"]
 	}
 ]

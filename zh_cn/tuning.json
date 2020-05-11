@@ -2,7 +2,7 @@
   "我可以随时修改我所有的电脑系统。 这可以通过§lshift+右击§r机器上使用Scrench§r（修改模式）来完成。",
   "调节-GUI:",
   {
-    "link": "fp:lang/part/image_tuning.json"
+    "link": "futurepack:lang/part/image_tuning.json"
   },
   "信息：您应该首先阅读“标准内核”，“标准内存”和“逻辑芯片组”",
   "组件：",

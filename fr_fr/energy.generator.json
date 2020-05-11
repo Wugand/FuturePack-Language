@@ -2,7 +2,7 @@
 	"J'ai créé un moteur simple à essence et trouver une solution pour transformer la rotation en énergie Néon. Le moteur tourne avec deux cylindres, un est refroidi et l'autre est chauffé par du feu. En les combinant, ils créent un système clos, qui réchauffe ou refroidit l'air à l'intérieur et le comprime dans l'autre cylindre. Avec cette contraction et expansion de l'air, le système crée de l'énergie.",
 	"La chaleur peut être créée par tout éléments consumables. Le générateur n'est pas très puissant, mais assez pour mon usage actuel.",
 	"Craft :",
-	{"link":"fp:lang/part/cr_energy.generator.json"},
+	{"link":"futurepack:lang/part/cr_energy.generator.json"},
 	
 	"Données Techniques:",
 	"Énergie par Tick: 0.5 NE",

@@ -2,7 +2,7 @@
   "J\u0027ai combiné une machine spéciale avec un système informatique spécifique pour créer un outil qui automatise le processus de craft automatique. Le système informatique interne peut être amélioré en terme de fonctionnalité ou de vitesse, comme mes prototypes (se référer à \"Overdrive\")",
   "Craft :",
   {
-    "link": "fp:lang/part/crafting_production.optibench.json"
+    "link": "futurepack:lang/part/crafting_production.optibench.json"
   },
   "Dans son fonctionnement normal, la machine craft la recette avec les éléments qui se trouvent dans la grille 3x3. Il faut néanmoins que le système informatique fonctionne et qu\u0027il soit alimenté en énergie Néon. Cependant, comme je pense que cette fonction n\u0027est pas parfaite, j\u0027ai ajouté un mode Recette.",
   "Pour l\u0027utiliser, il faut tout d\u0027abord passer en mode Création de Recette (en cliquant sur le bouton au dessus de la barre de progression). Là, je peux placer n\u0027importe quelles ressources nécessaires à la recette dans la grille 3x3. Dans l\u0027emplacement en haut, je dois insérer un cristal (quelque soit le type) qui permettra d\u0027enregistrer la recette. L\u0027objet Crafté apparaît alors dans l\u0027emplacement de sortie de la grille de Craft. Si tout semble OK, je peux sauvegarder la recette dans le cristal en prenant la fiche de recette dans l\u0027emplacement du bas. Maintenant que j\u0027ai ce dont j\u0027ai besoin, je peux retirer tous les objets de la grille de Craft ou simplement réaliser le Craft.",

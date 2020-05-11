@@ -3,6 +3,6 @@
   "Le pousseur d\u0027objet peut être aligné dans les 6 directions. L\u0027entrée est marquée d\u0027une flèche verte et la sortie d\u0027un point noir. Si la machine est déclenchée par une impulsion de Redstone, un stack d\u0027objets est transféré depuis l\u0027entrée vers la sortie (qui peut être l\u0027inventaire d\u0027un bloc)",
   "Craft :",
   {
-    "link": "fp:lang/part/crafting_log.pusher.json"
+    "link": "futurepack:lang/part/crafting_log.pusher.json"
   }
 ]

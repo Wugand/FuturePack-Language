@@ -3,6 +3,6 @@
   "焼成した粘土と黒曜石は優秀な性能を示しました。\n粘土の中の不純物を取り除くことで、耐熱シールドのようなものを開発することができました。",
   "この特殊な粘土タイルは超高温に耐えるだけでなく、熱を逸らす働きも持っています。",
   {
-    "link": "fp:lang/part/industrialneonfurnace_production.nind.keramik.json"
+    "link": "futurepack:lang/part/industrialneonfurnace_production.nind.keramik.json"
   }
 ]

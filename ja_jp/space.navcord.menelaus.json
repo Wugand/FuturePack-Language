@@ -3,7 +3,7 @@
   "何かを見つけることができたら、場所を示したデータレコードを作成します。\nそしてそれを、宇宙船に搭載するコンピュータに挿入します。",
   "作成図:",
   {
-    "link": "fp:lang/part/crafting_space.navcord.menelaus.json"
+    "link": "futurepack:lang/part/crafting_space.navcord.menelaus.json"
   },
   "\"§l右クリック§r\"で使用します。"
 ]

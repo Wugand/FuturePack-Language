@@ -2,6 +2,6 @@
 	"Diese speziell umgebaute Schien kann ich den Energiespeicher von Monocarts automatisiert aufladen.",
 	"Wenn ein Monocart über die Ladeschiene fährt wird es angehalten und vollständig geladen.",
 	"Crafting:",
-	{"link":"fp:lang/part/cr_space.drone.mono.charger.json"},
+	{"link":"futurepack:lang/part/cr_space.drone.mono.charger.json"},
 	"Die Schiene kann wie gewohnt mit Neonenergie versorgt werden."
 ]

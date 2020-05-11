@@ -8,7 +8,7 @@
 	{
 		"type": "crafting",
 		"slots": {
-			"1": {"name":"fp:grenade", "meta":0},
+			"1": {"name":"futurepack:grenade", "meta":0},
 			"2": {"OreDict":"dustNeon"},
 			"3": {},
 			"4": {},
@@ -17,14 +17,14 @@
 			"7": {},
 			"8": {},
 			"9": {},
-			"out": {"name":"fp:grenade", "meta":3, "size":1}
+			"out": {"name":"futurepack:grenade", "meta":3, "size":1}
 		}
 	},
 	"Nível 2:",
 	{
 		"type": "crafting",
 		"slots": {
-			"1": {"name":"fp:grenade", "meta":0},
+			"1": {"name":"futurepack:grenade", "meta":0},
 			"2": {"OreDict":"dustNeon"},
 			"3": {},
 			"4": {"OreDict":"dustNeon"},
@@ -33,14 +33,14 @@
 			"7": {},
 			"8": {},
 			"9": {},
-			"out": {"name":"fp:grenade", "meta":3, "size":1}
+			"out": {"name":"futurepack:grenade", "meta":3, "size":1}
 		}
 	},
 	"Nível 3:",
 	{
 		"type": "crafting",
 		"slots": {
-			"1": {"name":"fp:grenade", "meta":0},
+			"1": {"name":"futurepack:grenade", "meta":0},
 			"2": {"OreDict":"dustNeon"},
 			"3": {"OreDict":"dustNeon"},
 			"4": {"OreDict":"dustNeon"},
@@ -49,7 +49,7 @@
 			"7": {},
 			"8": {},
 			"9": {},
-			"out": {"name":"fp:grenade", "meta":3, "size":1}
+			"out": {"name":"futurepack:grenade", "meta":3, "size":1}
 		}
 	}
 ]

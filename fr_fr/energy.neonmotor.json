@@ -3,6 +3,6 @@
 	"Il est basé sur une sorte de moteur qui convertit l'énergie Néon en une forme moins importante d'énergie. Pour moi, elle est dangereuse et imprédictible, je ne crois pas réellement en cette technologie.",
 	"Mais, qui sait, peut-être que parfois, je serai obligé d'utiliser cette technologie.",
     "Craft :",
-    {"link":"fp:lang/part/cr_energy.neonmotor.json"},
+    {"link":"futurepack:lang/part/cr_energy.neonmotor.json"},
     "Pour plus de facilité, j'ai construit le moteur Néon pour qu'il puisse être alimenté par de la Redstone. De plus, il faut un certain temps pour qu'il soit chaud, la production de RF sera en fonction de la température."
 ]

@@ -1,14 +1,13 @@
 [
 	"我做出了一个简单结构的复合金属，一个普通并且坚固的方块。",
 	"合成:",
-	{"link":"fp:lang/part/cr_deco.metall.json"},
-	{"link":"fp:lang/part/cr_deco.metallslab1.json"},
-	{"link":"fp:lang/part/cr_deco.metalltreppe1.json"},
+	{"link":"futurepack:lang/part/cr_deco.metall.json"},
+	{"link":"futurepack:lang/part/cr_deco.metallslab1.json"},
+	{"link":"futurepack:lang/part/cr_deco.metalltreppe1.json"},
 	
 	"替代:",
-	{"link":"fp:lang/part/cr_deco.metallslab2.json"},
-	{"link":"fp:lang/part/cr_deco.metalltreppe2.json"},
+	{"link":"futurepack:lang/part/cr_deco.metallslab2.json"},
+	{"link":"futurepack:lang/part/cr_deco.metalltreppe2.json"},
 	
-	"信息：可使用喷枪着色。",
-	"信息：放置在一起的两个台阶破坏时会掉落一个完整的方块。"
+	"信息：可使用喷枪着色。"
 ]

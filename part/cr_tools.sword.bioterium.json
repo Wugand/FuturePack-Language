@@ -2,6 +2,6 @@
     "Crafting:",
     {
         "type":"crafting",
-        "load": "fp:sword_bioterium_0"
+        "load": "futurepack:sword_bioterium_0"
     }
 ]

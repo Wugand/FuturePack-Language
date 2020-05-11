@@ -1,7 +1,7 @@
 [
 	"Por meio de eletroímãs, eu posso fazer coisas levitarem. Usando esta ideia, eu desenvolvei um drone logístico para transportar bens, e com magnetismo, o drone levita acima de um trilho metal e pode se mover automaticamente, navigando a destinações selecionadas.",
 	"Criando:",
-	{"link":"fp:lang/part/cr_space.drone.monocart.json"},
+	{"link":"futurepack:lang/part/cr_space.drone.monocart.json"},
 	"O monocarrinho pode ser posto com uma caixa de construção em cima de um monotrilho, e a caixa pode ser removida usando um scrench.",
 	"Com o botão no canto superior direito, eu posso mudar entre os interfaces: caminho e inventário. Ao lado do botão há a barra de energia.",
 	"Interface de Caminho:",

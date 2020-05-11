@@ -3,7 +3,7 @@
   "レーザー装置とカメラが組み合わされており、製造部品を正確に切断、分解します。\n様々なものに活用できるプロセスですが、通常の4倍のエネルギーが必要になります。",
   "作成図:",
   {
-    "link": "fp:lang/part/crafting_production.recycler.lasercutter.json"
+    "link": "futurepack:lang/part/crafting_production.recycler.lasercutter.json"
   },
   "-処理が可能なアイテム類:\nアセンブリテーブルによるすべての製品\n\"装飾\"タブの全製品\n(できれば無着色)\n鉄の格子,バケツ,馬の鎧,\nマインカートなど..."
 ]

@@ -1,8 +1,8 @@
 [
 	"Ich habe eine komplexe Struktur aus Verbundmetall und Eisengittern geschaffen, einen Lüftungsblock.",
 	"Crafting:",
-	{"link":"fp:lang/part/cr_deco.vent.json"},	
-	{"link":"fp:lang/part/cr_deco.ventslab.json"},
+	{"link":"futurepack:lang/part/cr_deco.vent.json"},	
+	{"link":"futurepack:lang/part/cr_deco.ventslab.json"},
 	"Information: Der Block ist mit der Farbpistole färbbar/ sandstrahlbar.",
 	"Information: Zwei übereinander platzierte Stufen ergeben beim Abreißen wieder einen Vollblock."
 ]

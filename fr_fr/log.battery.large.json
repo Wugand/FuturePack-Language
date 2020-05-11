@@ -1,5 +1,5 @@
 [
 	"En utilisant d'autres réactions en métal, je suis capable d'augmenter la capacité, ainsi que la tension des batteries. J'ai l'impression que chaque combinaison de matériaux à une tension de sortie spécifique.",
 	"Craft :",
-	{"link":"fp:lang/part/cr_log.battery.large.json"}
+	{"link":"futurepack:lang/part/cr_log.battery.large.json"}
 ]

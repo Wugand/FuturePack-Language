@@ -3,5 +3,5 @@
 	"A Drone de Mineração pode ser colocada na estação de drones usando §lshift + botão direito§r. Depois disso, a drone pode ser configurada com §lbotão direito§r. Para tirar, use um scrench e §lshift + botão direito§r na drone.",
 	"No GUI todos os traçadores serão listados no lado esquerdo. As áreas movidas ao lado direito serão processadas. Ativando \"Repeat\" (Repetir), as áreas desejadas serão verificadas frequentemente para trabalho novo e caso que tenha, a área será processada de novo. Depois de configurar, pode ligar a drone ao clicar \"Working\" (Trabalhando).",
 	"Criando:",
-	{"link":"fp:lang/part/cr_space.miner.json"}
+	{"link":"futurepack:lang/part/cr_space.miner.json"}
 ]

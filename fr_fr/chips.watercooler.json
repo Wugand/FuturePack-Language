@@ -2,6 +2,6 @@
     "Parce que je souhaite overclocker mes machines pour atteindre leur vitesse maximale, j'ai du inventer un watercooling actif.",
     "Comme je ne veux pas gaspiller d'énergie, le refroidissement et la création de vapeur commence vraiment à environ 100°C.",
 	"Craft :",
-    {"link":"fp:lang/part/cr_chips.watercooler.json"},
+    {"link":"futurepack:lang/part/cr_chips.watercooler.json"},
 	"Je peux mettre des sceaux d'eau dans le dissipateur en utilisant des Tubes à Objets ; Cependant, la vapeur est émise par le haut, donc je ne peux mettre des tubes que sur les côtés."
 ]

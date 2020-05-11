@@ -3,8 +3,7 @@
     "type": "zentrifuge",
     "slots": {
       "in": {
-        "name": "fp:gravel",
-        "meta": 0,
+        "name": "futurepack:gravel_m",
         "size": 8
       },
       "out1": {
@@ -18,7 +17,7 @@
         "meta": 0
       },
       "out3": {
-        "OreDict": "ingotRareEarthMetal",
+        "tag": "forge:ingots/rareearthmetal",
         "size": 12
       }
     },

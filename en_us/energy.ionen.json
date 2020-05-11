@@ -3,6 +3,6 @@
   "An especially significant number of ions are produced during thunderstorms and periods with strong solar radiation. The ion collector can convert ions very efficiently, and with this construction I can even produce energy at night.",
   "Crafting:",
   {
-    "link": "fp:lang/part/crafting_energy.ionen.json"
+    "link": "futurepack:lang/part/crafting_energy.ionen.json"
   }
 ]

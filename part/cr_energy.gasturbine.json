@@ -1,6 +1,6 @@
 [
 	{
 		"type": "crafting",
-		"load": ["fp:gasturbine_2", "fp:gasturbine_6", "fp:gasturbine_10"]
+		"load": ["futurepack:gasturbine_2", "futurepack:gasturbine_6", "futurepack:gasturbine_10"]
 	}
 ]

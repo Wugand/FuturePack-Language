@@ -3,7 +3,7 @@
   "Es ist ein Scanner, der das Werkstück schichtweise abträgt und analysiert. Es produziert dabei Support-Punkte",
   "Crafting:",
   {
-    "link": "fp:lang/part/crafting_production.recycler.analyzer.json"
+    "link": "futurepack:lang/part/crafting_production.recycler.analyzer.json"
   },
   "Dieses Werkzeug kann alle Produkte des Montagetisches analysieren. Bei Prozessoren, Chips und Speichern ist dabei die Menge der Supportpunkte von der Leistung des Bauteils abhängig."
 ]

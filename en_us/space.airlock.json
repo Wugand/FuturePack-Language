@@ -4,6 +4,6 @@
   "With the help of redstone, I can switch between the two states. It is optimally designed for two locks to be placed 3 blocks apart, and due to the rotational properties, you can build both horizontally and vertically.",
   "Crafting:",
   {
-    "link": "fp:lang/part/crafting_space.airlock.json"
+    "link": "futurepack:lang/part/crafting_space.airlock.json"
   }
 ]

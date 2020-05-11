@@ -1,6 +1,6 @@
 [
 	{
 		"type": "crafting",
-		"load": ["fp:sapling_holder_0", "fp:sapling_holder_1", "fp:sapling_holder_2"]
+		"load": ["futurepack:sapling_holder_0", "futurepack:sapling_holder_1", "futurepack:sapling_holder_2"]
 	}
 ]

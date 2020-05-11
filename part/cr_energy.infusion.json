@@ -1,6 +1,6 @@
 [
 	{
 		"type": "crafting",
-		"load": ["fp:plasma_generator_on_2", "fp:plasma_generator_on_6", "fp:plasma_generator_on_10"]
+		"load": ["futurepack:plasma_generator_on_2", "futurepack:plasma_generator_on_6", "futurepack:plasma_generator_on_10"]
 	}
 ]

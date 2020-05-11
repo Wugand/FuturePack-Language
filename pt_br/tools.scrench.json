@@ -8,12 +8,12 @@
 			"2": {},
 			"3": "OreDict:ingotIron",
 			"4": {},
-			"5": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"5": {"name":"futurepack:spaceship", "meta":"<spaceship.CompositeMetall>"},
 			"6": {},
 			"7": {},
-			"8": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
+			"8": {"name":"futurepack:spaceship", "meta":"<spaceship.IronStick>"},
 			"9": {},
-			"out": {"name":"fp:scrench"}
+			"out": {"name":"futurepack:scrench"}
 		}
 	},
 	"Mudar o modo: §lbotão direito \"no ar\"§r",
@@ -23,7 +23,7 @@
 		"type":"image",
 		"width":32,
 		"height":32,
-		"resource":"fp:textures/items/tool_sub.png"
+		"resource":"futurepack:textures/items/tool_sub.png"
 	},
 	"§lbotão direito§r em um bloco para girá-lo.",
 	
@@ -32,7 +32,7 @@
 		"type":"image",
 		"width":32,
 		"height":32,
-		"resource":"fp:textures/items/tool.png"
+		"resource":"futurepack:textures/items/tool.png"
 	},
 	"§lShift + botão direito§r em uma máquina para modificá-la.",
 	"Obs: A primeira máquina que você pode modificar será desbloqueada mais tarde!"

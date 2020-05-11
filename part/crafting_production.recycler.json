@@ -1,6 +1,6 @@
 [
   {
     "type": "crafting",
-    "load": ["fp:recycler_2", "fp:recycler_6", "fp:recycler_10"]
+    "load": ["futurepack:recycler_2", "futurepack:recycler_6", "futurepack:recycler_10"]
   }
 ]

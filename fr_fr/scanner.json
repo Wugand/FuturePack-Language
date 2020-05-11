@@ -4,7 +4,7 @@
   "Une fois que j\u0027ai trouvé une idée réalisable, le résultat s\u0027imprime dans un Blueprint. Cela me permettra d\u0027améliorer la technologie correspondante.",
   "Craft :",
   {
-    "link": "fp:lang/part/crafting_scanner.json"
+    "link": "futurepack:lang/part/crafting_scanner.json"
   },
   "Conseil : Lire d\u0027abord les informations sur \"Le Système de Recherche\".",
   "Utilisation dans le détail :",

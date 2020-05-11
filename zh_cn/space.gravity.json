@@ -3,7 +3,7 @@
   "脉冲通过红石信号激活，这可能是由于红石晶体引起的。",
   "合成:",
   {
-    "link": "fp:lang/part/crafting_space.gravity.json"
+    "link": "futurepack:lang/part/crafting_space.gravity.json"
   },
   "也有可能我完全不正确，我发现了与重力有很大不同的东西。"
 ]

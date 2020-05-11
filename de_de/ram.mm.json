@@ -3,5 +3,5 @@
 	"Die einzelnen Einheiten können dabei auch dynamische Werte annehmen, indem sie sich mit einer bestimmten Wahrscheinlichkeit einen konkreten Zustand enthalten.",
 	"Auf Daten kann auch in konventioneller Form zugegriffen werden, dazu eignen sich besonders Glowtitelemente.",
 	"Assembly:",
-	{"link":"fp:lang/part/as_ram.mm.json"}
+	{"link":"futurepack:lang/part/as_ram.mm.json"}
 ]

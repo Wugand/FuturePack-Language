@@ -2,22 +2,22 @@
 	{
 		"type": "crafting",
 		"load": [
-		    "fp:color_glas_0",
-		    "fp:color_glas_1",
-		    "fp:color_glas_2",
-		    "fp:color_glas_3",
-		    "fp:color_glas_4",
-		    "fp:color_glas_5",
-		    "fp:color_glas_6",
-		    "fp:color_glas_7",
-		    "fp:color_glas_8",
-		    "fp:color_glas_9",
-		    "fp:color_glas_10",
-		    "fp:color_glas_11",
-		    "fp:color_glas_12",
-		    "fp:color_glas_13",
-		    "fp:color_glas_14",
-		    "fp:color_glas_15"
+		    "futurepack:color_glas_0",
+		    "futurepack:color_glas_1",
+		    "futurepack:color_glas_2",
+		    "futurepack:color_glas_3",
+		    "futurepack:color_glas_4",
+		    "futurepack:color_glas_5",
+		    "futurepack:color_glas_6",
+		    "futurepack:color_glas_7",
+		    "futurepack:color_glas_8",
+		    "futurepack:color_glas_9",
+		    "futurepack:color_glas_10",
+		    "futurepack:color_glas_11",
+		    "futurepack:color_glas_12",
+		    "futurepack:color_glas_13",
+		    "futurepack:color_glas_14",
+		    "futurepack:color_glas_15"
 		]
 	}
 ]

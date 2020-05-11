@@ -5,11 +5,11 @@
   "メネラーオスよりも遠くへ飛び出したいのなら、自身の宇宙船にこの装置を配置してください。",
   "作成図:",
   {
-    "link": "fp:lang/part/cr_space.drive.ftl.json"
+    "link": "futurepack:lang/part/cr_space.drive.ftl.json"
   },
   "-警告:\nFTLブロックを装飾に使用しないでください！",
   "構築:",
   {
-    "link": "fp:lang/part/building_space.drive.ftl.json"
+    "link": "futurepack:lang/part/building_space.drive.ftl.json"
   }
 ]

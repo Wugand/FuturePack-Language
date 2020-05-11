@@ -4,7 +4,7 @@
   "我可以在机器上做一些改进，并添加更多的功能，我还安装了一个系统来处理SP点的收集供以后使用。",
   "合成:",
   {
-    "link": "fp:lang/part/crafting_production.zentrifuge.json"
+    "link": "futurepack:lang/part/crafting_production.zentrifuge.json"
   },
   "信息：Support点（SP）还不能使用闪存传输。 相应的技术可能要在以后开发。"
 ]

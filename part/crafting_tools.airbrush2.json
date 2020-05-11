@@ -2,22 +2,22 @@
   {
     "type": "crafting",
     "load": [
-        "fp:lacktank0_0", 
-        "fp:lacktank1_0",
-        "fp:lacktank2_0",
-        "fp:lacktank3_0",
-        "fp:lacktank4_0",
-        "fp:lacktank5_0",
-        "fp:lacktank6_0",
-        "fp:lacktank7_0",
-        "fp:lacktank8_0",
-        "fp:lacktank9_0",
-        "fp:lacktank10_0",
-        "fp:lacktank11_0",
-        "fp:lacktank12_0",
-        "fp:lacktank13_0",
-        "fp:lacktank14_0",
-        "fp:lacktank15_0"
+        "futurepack:lacktank0_0", 
+        "futurepack:lacktank1_0",
+        "futurepack:lacktank2_0",
+        "futurepack:lacktank3_0",
+        "futurepack:lacktank4_0",
+        "futurepack:lacktank5_0",
+        "futurepack:lacktank6_0",
+        "futurepack:lacktank7_0",
+        "futurepack:lacktank8_0",
+        "futurepack:lacktank9_0",
+        "futurepack:lacktank10_0",
+        "futurepack:lacktank11_0",
+        "futurepack:lacktank12_0",
+        "futurepack:lacktank13_0",
+        "futurepack:lacktank14_0",
+        "futurepack:lacktank15_0"
     ]
   }
 ]

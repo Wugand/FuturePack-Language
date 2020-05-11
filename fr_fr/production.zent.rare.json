@@ -4,12 +4,12 @@
   "Ces terres rares peuvent être extraites grâce à des procédés coûteux, mais fournirait du Lithium, Gadolinium et Neodymium. Il serait possible de trouver d\u0027autres matériaux, cependant, ce sont les trois seuls rentables par rapport au coût et au temps d\u0027extraction.",
   "Centrifugeuse :",
   {
-    "link": "fp:lang/part/zentrifuge_production.zent.rare.json"
+    "link": "futurepack:lang/part/zentrifuge_production.zent.rare.json"
   },
   {
-    "link": "fp:lang/part/zentrifuge_production.zent.rare2.json"
+    "link": "futurepack:lang/part/zentrifuge_production.zent.rare2.json"
   },
   {
-    "link": "fp:lang/part/zentrifuge_production.zent.rare3.json"
+    "link": "futurepack:lang/part/zentrifuge_production.zent.rare3.json"
   }
 ]

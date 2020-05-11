@@ -1,6 +1,6 @@
 [
   {
     "type": "crafting",
-    "load": ["fp:grenade_6_3", "fp:grenade_6_3b"]
+    "load": ["futurepack:grenade_6_3", "futurepack:grenade_6_3b"]
   }
 ]

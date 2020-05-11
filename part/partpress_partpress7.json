@@ -2,10 +2,9 @@
   {
     "type": "partpress",
     "slots": {
-      "in": "OreDict:ingotGold",
+      "in": "tag:forge:ingots/gold",
       "out": {
-        "name": "fp:spaceship",
-        "meta": "\u003cspaceship.GoldParts\u003e",
+        "name": "futurepack:parts_gold",
         "size": 4
       }
     }

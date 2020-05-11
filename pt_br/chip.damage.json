@@ -1,7 +1,7 @@
 [
 	"Eu desenvolvei um chipset especial que desativa a máquina inteira se ela começa de superaquecer. Isso evita a falha dos componentes e destruição da máquina.",
 	"Montagem:",
-	{"link":"fp:lang/part/as_chip.damage.json"},
+	{"link":"futurepack:lang/part/as_chip.damage.json"},
 	
 	"Um chipset para controle de dano de alta qualidade (mais poder) não tem nenhum benefício adicional do que um chip normal.",
 	"Dica: Refere a\"Chipset de Lógica\" para informação geral."

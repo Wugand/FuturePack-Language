@@ -4,12 +4,12 @@
   "这些稀有元素可以通过精细的提取方法分离，提取锂，钆和钕。可以偶尔发现其他材料，但是这三种材料往往是最有用的。",
   "离心:",
   {
-    "link": "fp:lang/part/zentrifuge_production.zent.rare.json"
+    "link": "futurepack:lang/part/zentrifuge_production.zent.rare.json"
   },
   {
-    "link": "fp:lang/part/zentrifuge_production.zent.rare2.json"
+    "link": "futurepack:lang/part/zentrifuge_production.zent.rare2.json"
   },
   {
-    "link": "fp:lang/part/zentrifuge_production.zent.rare3.json"
+    "link": "futurepack:lang/part/zentrifuge_production.zent.rare3.json"
   }
 ]

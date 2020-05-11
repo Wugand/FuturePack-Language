@@ -3,7 +3,7 @@
 	"Dieses System sorgt dafür, dass die Maschinen automatisch ihre Produkte oder nicht mehr benötigten Materialen an eine als Ausgang gewählte Seite abgeben. Die Auswahl der Seite erfolgt dabei mithilfe des Logistik-Editors.",
 
 	"Assembly:",
-	{"link":"fp:lang/part/as_chip.transport.json"},	
+	{"link":"futurepack:lang/part/as_chip.transport.json"},	
 	
 	"Ein qualitativ hochwertiger Transportchipsatz (hohe Chippower) erbringt gegenüber eines normalen keinerlei Vorteile!",
 	"Info: Ein abweichender Effekt ist ggf. bei der entsprechenden Maschine vermerkt.",

@@ -3,7 +3,7 @@
 	"Einsetzbar ist der Chipsatz vor allem bei Energieproduzenten, wo er für besser geregelte Erzeugung und Umwandlung von Energie sorgt. Dadurch erhöht er die Energieerzeugung pro Takt oder die Ausbeute der Ressourcen.",
 
 	"Assembly:",
-	{"link":"fp:lang/part/as_chip.industrial.json"},
+	{"link":"futurepack:lang/part/as_chip.industrial.json"},
 	
 	"Ein qualitativ hochwertiger Industriechipsatz (hohe Chippower), sowie der Einbau von mehreren Chipsätzen erhöht entsprechend den Effekt.",
 	"Info: Der genaue Effekt ist bei der entsprechenden Maschine vermerkt.",

@@ -2,11 +2,11 @@
 	"J'ai créé un casier à partir de blocs d'aluminium et de métal. Il a la même capacité qu'un coffre standard, mais il est plus stable et peut être réalisé dans plusieurs formes et coloris.",
 	"L'avantage le plus important est que ce casier peut être déplacé ou cassé sans perdre et déranger son contenu.",
 	"Porte - Claire :",
-	{"link":"fp:lang/part/cr_deco.wardrobe1.json"},	
+	{"link":"futurepack:lang/part/cr_deco.wardrobe1.json"},	
 	"Porte - Foncée :",
-	{"link":"fp:lang/part/cr_deco.wardrobe2.json"},
+	{"link":"futurepack:lang/part/cr_deco.wardrobe2.json"},
 	"Tiroir - Clair :",
-	{"link":"fp:lang/part/cr_deco.wardrobe3.json"},	
+	{"link":"futurepack:lang/part/cr_deco.wardrobe3.json"},	
 	"Tiroir - Foncé :",
-	{"link":"fp:lang/part/cr_deco.wardrobe4.json"}	
+	{"link":"futurepack:lang/part/cr_deco.wardrobe4.json"}	
 ]

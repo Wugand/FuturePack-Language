@@ -3,5 +3,5 @@
 	"Le Drone de Minage peut être placé sur la Station de Drone, en utilisant §lShift + Clic Droit§r. Après ça, le drone peut être configuré en faisant §lClic Droit§r. Pour le retirer, vous pouvez utiliser une clé à molette et faire §lShift + Clic Droit§r sur le drone.",
 	"Dans l'interface sont listées à gauche tous les transmetteurs de zones possibles. Toutes les zones mises à droite seront minées. En activant \"Répéter\" (Vrai), les zones sélectionnées seront périodiquement vérifiées pour voir si un nouveau travail doit être fait.Si tout est bien paramétré, le drone s'activera en cliquant sur \"Tavail\".",
 	"Craft :",
-	{"link":"fp:lang/part/cr_space.miner.json"}
+	{"link":"futurepack:lang/part/cr_space.miner.json"}
 ]

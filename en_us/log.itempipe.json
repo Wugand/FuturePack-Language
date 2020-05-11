@@ -4,7 +4,7 @@
   "If an item stack can\u0027t be carried away it will block the pipe segment against Inserting more Items.",
   "Crafting:",
   {
-    "link": "fp:lang/part/crafting_log.itempipe.json"
+    "link": "futurepack:lang/part/crafting_log.itempipe.json"
   },
   "Configuration: Using the Scrench I\u0027m able to configure every side of a pipe segment, so I can prevent it from connecting with this side. (§lright click§r on desired side)"
 ]

@@ -3,7 +3,7 @@
 	"Eu também adicionei um módulo separado para armazenar pontos de apoio (SP). Isso aliviou gastos do processador em uma parte específica do sistema.",
 
 	"Montagem:",
-	{"link":"fp:lang/part/as_ram.penton.json"},
+	{"link":"futurepack:lang/part/as_ram.penton.json"},
 	
 	"Dica: Refere a \"RAM Padrão\" para informação geral."
 ]

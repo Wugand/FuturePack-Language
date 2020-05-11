@@ -2,23 +2,23 @@
 	{
 		"type": "crafting",
 		"load": [
-		    "fp:metal_gitter_treppe_0",
-		    "fp:color_gitter_stair0_0",
-		    "fp:color_gitter_stair1_0",
-		    "fp:color_gitter_stair2_0",
-		    "fp:color_gitter_stair3_0",
-		    "fp:color_gitter_stair4_0",
-		    "fp:color_gitter_stair5_0",
-		    "fp:color_gitter_stair6_0",
-		    "fp:color_gitter_stair7_0",
-		    "fp:color_gitter_stair8_0",
-		    "fp:color_gitter_stair9_0",
-		    "fp:color_gitter_stair10_0",
-		    "fp:color_gitter_stair11_0",
-		    "fp:color_gitter_stair12_0",
-		    "fp:color_gitter_stair13_0",
-		    "fp:color_gitter_stair14_0",
-		    "fp:color_gitter_stair15_0"
+		    "futurepack:metal_gitter_treppe_0",
+		    "futurepack:color_gitter_stair0_0",
+		    "futurepack:color_gitter_stair1_0",
+		    "futurepack:color_gitter_stair2_0",
+		    "futurepack:color_gitter_stair3_0",
+		    "futurepack:color_gitter_stair4_0",
+		    "futurepack:color_gitter_stair5_0",
+		    "futurepack:color_gitter_stair6_0",
+		    "futurepack:color_gitter_stair7_0",
+		    "futurepack:color_gitter_stair8_0",
+		    "futurepack:color_gitter_stair9_0",
+		    "futurepack:color_gitter_stair10_0",
+		    "futurepack:color_gitter_stair11_0",
+		    "futurepack:color_gitter_stair12_0",
+		    "futurepack:color_gitter_stair13_0",
+		    "futurepack:color_gitter_stair14_0",
+		    "futurepack:color_gitter_stair15_0"
 		]
 	}
 ]

@@ -3,11 +3,11 @@
 	"Aber der größte Vorteil ist, dass auch beim Transport des Schrankes der Inhalt sicher verstaut bleibt.",
 	"Information: Der (gefüllte) Schrank kann abgebaut und wieder platziert werden, ohne seinen Inhalt zu verlieren!",
 	"Tür - Hell:",
-	{"link":"fp:lang/part/cr_deco.wardrobe1.json"},
+	{"link":"futurepack:lang/part/cr_deco.wardrobe1.json"},
 	"Tür - Dunkel:",
-	{"link":"fp:lang/part/cr_deco.wardrobe2.json"},
+	{"link":"futurepack:lang/part/cr_deco.wardrobe2.json"},
 	"Schublade - Hell:",
-	{"link":"fp:lang/part/cr_deco.wardrobe3.json"},
+	{"link":"futurepack:lang/part/cr_deco.wardrobe3.json"},
 	"Schublade - Dunkel:",
-	{"link":"fp:lang/part/cr_deco.wardrobe4.json"}
+	{"link":"futurepack:lang/part/cr_deco.wardrobe4.json"}
 ]

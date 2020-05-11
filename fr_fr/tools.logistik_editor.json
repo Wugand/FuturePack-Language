@@ -2,7 +2,7 @@
   "J\u0027ai créé un outil multi-usage pour ajuster les entrées/sorties de mes machines.",
   "Craft :",
   {
-    "link": "fp:lang/part/crafting_tools.logistik_editor.json"
+    "link": "futurepack:lang/part/crafting_tools.logistik_editor.json"
   },
   "Utilisation :",
   "En §lcliquant Droit§r (dans les airs) le mode peut être changé entre :",

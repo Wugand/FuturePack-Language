@@ -1,6 +1,6 @@
 [
 	{
 		"type": "crafting",
-		"load": ["fp:wandrope_0", "fp:wandrope_4", "fp:wandrope_8"]
+		"load": ["futurepack:wandrope_0", "futurepack:wandrope_4", "futurepack:wandrope_8"]
 	}
 ]

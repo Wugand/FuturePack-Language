@@ -2,7 +2,7 @@
 	"Sobre os elementos de silício e peças de cobre como conectadores, e também sobre o uso de ferro para a camada no wafer de silício, eu consegui criar uma universal unidade de processamento.",
 	"Usando ela corretamente, meu processador primitivo pode completar algoritmos e realizar muitas calculações diferentes.",
 	"Montagem:",
-	{"link":"fp:lang/part/as_core.standart.json"},
+	{"link":"futurepack:lang/part/as_core.standart.json"},
 	"Informação:",
 	"Processadores possuem uma característica critical: A capacidade (§lnúcleo§r), que indica a carga máxima (refere a chipset/memória) que o processador pode manejar até que começaria aquecer. Se a temperatura chegar a 1000 °C, será arruinado!"
 ]

@@ -3,6 +3,6 @@
 "モノカートはこれらのルールに則って経路を探し出します。",
   "Crafting:",
   {
-    "link": "fp:lang/part/crafting_space.drone.mono.oneway.json"
+    "link": "futurepack:lang/part/crafting_space.drone.mono.oneway.json"
   }
 ]

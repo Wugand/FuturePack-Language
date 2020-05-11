@@ -7,7 +7,7 @@
         "type":"zentrifuge",
         "slots":
         {
-            "in":{"name":"fp:dirt", "meta":0, "size":8},
+            "in":{"name":"futurepack:dirt", "meta":0, "size":8},
             "out1":{"name":"minecraft:gravel", "size":4, "meta":0},
             "out2":{"name":"minecraft:clay_ball", "size":3, "meta":0},
             "out3":{"OreDict":"ingotRareEarthMetal", "size":4}
@@ -19,7 +19,7 @@
         "type":"zentrifuge",
         "slots":
         {
-            "in":{"name":"fp:gravel", "meta":0, "size":8},
+            "in":{"name":"futurepack:gravel", "meta":0, "size":8},
             "out1":{"name":"minecraft:gravel", "size":4, "meta":0},
             "out2":{"name":"minecraft:clay_ball", "size":6, "meta":0},
             "out3":{"OreDict":"ingotRareEarthMetal", "size":12}

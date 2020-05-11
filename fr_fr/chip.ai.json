@@ -1,6 +1,6 @@
 [
     "J'ai développée une puce qui booste la capacité de prise de décision dans un système informatique.",
     "Assemblage:",
-	{"link":"fp:lang/part/as_chip.ai.json"},
+	{"link":"futurepack:lang/part/as_chip.ai.json"},
     "Grâce à la puce IA (Intelligence Artificielle), une des conséquence est que le laser d'absorption (entity eater) ne tuera plus les cibles, mais, à la place, les laissera à un niveau de vie très faible."
 ]

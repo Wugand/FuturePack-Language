@@ -4,16 +4,16 @@
 	{
 		"type": "crafting",
 		"slots": {
-			"1": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
+			"1": {"name":"futurepack:spaceship", "meta":"<spaceship.IronStick>"},
 			"2": {},
-			"3": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
-			"4": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
-			"5": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
-			"6": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
-			"7": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
+			"3": {"name":"futurepack:spaceship", "meta":"<spaceship.IronStick>"},
+			"4": {"name":"futurepack:spaceship", "meta":"<spaceship.IronStick>"},
+			"5": {"name":"futurepack:spaceship", "meta":"<spaceship.IronStick>"},
+			"6": {"name":"futurepack:spaceship", "meta":"<spaceship.IronStick>"},
+			"7": {"name":"futurepack:spaceship", "meta":"<spaceship.IronStick>"},
 			"8": {},
-			"9": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
-			"out": {"name":"fp:eisenleiter", "meta":0, "size":3}
+			"9": {"name":"futurepack:spaceship", "meta":"<spaceship.IronStick>"},
+			"out": {"name":"futurepack:eisenleiter", "meta":0, "size":3}
 		}
 	}
 ]

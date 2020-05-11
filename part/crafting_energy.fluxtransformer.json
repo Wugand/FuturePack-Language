@@ -1,6 +1,6 @@
 [
   {
     "type": "crafting",
-    "load": ["fp:rf_ne_converter_2","fp:rf_ne_converter_6","fp:rf_ne_converter_10"]
+    "load": ["futurepack:rf_ne_converter_2","futurepack:rf_ne_converter_6","futurepack:rf_ne_converter_10"]
   }
 ]

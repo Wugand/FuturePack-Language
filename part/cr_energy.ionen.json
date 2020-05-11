@@ -1,6 +1,6 @@
 [
 	{
 		"type": "crafting",
-		"load": ["fp:ion_collector_0", "fp:ion_collector_1", "fp:ion_collector_2"]
+		"load": ["futurepack:ion_collector_0", "futurepack:ion_collector_1", "futurepack:ion_collector_2"]
 	}
 ]

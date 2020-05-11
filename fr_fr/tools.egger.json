@@ -2,7 +2,7 @@
   "J\u0027ai essayé de créer un leurre de pêche intelligent, mais ça n\u0027a pas fonctionné. A la place, j\u0027ai accidentellement créé une sorte d\u0027œuf qui absorbe les organismes et les fige.",
   "Assemblage :",
   {
-    "link": "fp:lang/part/assembly_tools.egger.json"
+    "link": "futurepack:lang/part/assembly_tools.egger.json"
   },
   "L\u0027\"Œuf à Entité\" peut être lancé. Il absorbera l\u0027organisme qui sera touché. La créature peut être relâchée par la suite de la même façon."
 ]

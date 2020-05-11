@@ -3,7 +3,7 @@
   "Deshalb habe ich Treibstofftanks entwickelt, die bis zu 8000mB fassen können. Zusätzlich kann man noch 21 Raketentreibstoff in fester Form einlegen.",
   "Crafting:",
   {
-    "link": "fp:lang/part/crafting_space.tank.json"
+    "link": "futurepack:lang/part/crafting_space.tank.json"
   },
   "Die Tanks müssen nicht extra mit den Triebwerken verbunden werden, es reicht eine einfache Verbindung zum Schiff aus."
 ]

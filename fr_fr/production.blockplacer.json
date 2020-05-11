@@ -3,6 +3,6 @@
   "Je peux y mettre toute sorte de bloc, et si la machine est activée par une impulsion de Redstone, elle essaye de le mettre en face d\u0027elle.",
   "Craft :",
   {
-    "link": "fp:lang/part/crafting_production.blockplacer.json"
+    "link": "futurepack:lang/part/crafting_production.blockplacer.json"
   }
 ]

@@ -5,5 +5,5 @@
   "開発したのは自分の脚に装着するダイナモです。動いたり走ったりすることで発電を行うことができます。",
   "けれどもこれは、すぐにお腹が空いてしまうことが判明しました。",
   "作成図:",
-  {"link":"fp:lang/part/cr_tools.modul.dynamo.json"}
+  {"link":"futurepack:lang/part/cr_tools.modul.dynamo.json"}
 ]

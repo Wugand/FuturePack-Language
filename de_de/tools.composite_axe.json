@@ -2,6 +2,6 @@
   "Ich habe eine Axt aus Verbundmetall entwickelt, sie ist wesentlich stabiler und langlebiger als die herkömmlichen Werkzeuge. Durch ihr geringes Gewicht lässt sie sich besonders leicht schwingen.",
   "Crafting:",
   {
-    "link": "fp:lang/part/crafting_tools.composite_axe.json"
+    "link": "futurepack:lang/part/crafting_tools.composite_axe.json"
   }
 ]

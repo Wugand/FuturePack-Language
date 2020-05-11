@@ -2,7 +2,7 @@
   "I can modify all of my computerized systems at any time. This can be done by §lshift + right click§r with a Scrench§r (Modification-Mode) on the machine.",
   "Tuning-GUI:",
   {
-    "link": "fp:lang/part/image_tuning.json"
+    "link": "futurepack:lang/part/image_tuning.json"
   },
   "Info: You should read \"Standard Core\", \"Standard Memory\" and \"Logic Chipset\" first!",
   "Components:",

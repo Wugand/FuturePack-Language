@@ -1,11 +1,10 @@
 [
 	"Ich habe eine komplexere Struktur aus Verbundmetall und Eisengittern geschaffen, einen Gitterblock.",
 	"Crafting:",
-	{"link":"fp:lang/part/cr_deco.gitter.json"},
-	{"link":"fp:lang/part/cr_deco.gitterpane.json"},
-	{"link":"fp:lang/part/cr_deco.gitterslab.json"},	
-	{"link":"fp:lang/part/cr_deco.gittertreppe.json"},
+	{"link":"futurepack:lang/part/cr_deco.gitter.json"},
+	{"link":"futurepack:lang/part/cr_deco.gitterpane.json"},
+	{"link":"futurepack:lang/part/cr_deco.gitterslab.json"},	
+	{"link":"futurepack:lang/part/cr_deco.gittertreppe.json"},
 			
-	"Information: Die Blöcke sind mit der Farbpistole (ent)färbbar.",
-	"Information: Zwei übereinander platzierte Stufen ergeben beim Abreißen wieder einen Vollblock."
+	"Information: Die Blöcke sind mit der Farbpistole (ent)färbbar."
 ]

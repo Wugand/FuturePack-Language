@@ -2,6 +2,6 @@
 	"Eu posso usar este especial trilho redesenhado como ponto para a configuração do caminho do monocarrinho.",
 	"Ao colocar o ponto, eu posso abrir o interface (§lClique Direito§r) para editar o nome. Isso vai me ajudar identificá-las no futuro.",
 	"Criando:",
-	{"link":"fp:lang/part/cr_space.drone.mono.waypoint.json"},
+	{"link":"futurepack:lang/part/cr_space.drone.mono.waypoint.json"},
 	"Eu acho que seria útil criar uma variedade que carregue e des carregue bens simultaneamente..."
 ]

@@ -5,6 +5,6 @@
     "首先，激光扫描物体以映射损坏的位置，并找出需要哪些材料来修复工具。然后，线圈用于打开时空结构以获得所需的资源。",
     "这一过程需要大量的能量，为了防止形成永久的空间空洞，使用支撑点来稳定这些变化。",
     "Crafting:",
-    {"link":"fp:lang/part/cr_production.recycler.timemanipulator.json"},
+    {"link":"futurepack:lang/part/cr_production.recycler.timemanipulator.json"},
     "该工具支持很多配方，可以修复任何工具。"
 ]

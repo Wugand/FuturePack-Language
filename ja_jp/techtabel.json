@@ -3,7 +3,7 @@
   "この作業台は、今後使用するクラフトレシピのための設備を備えています。\nそれらも、すぐに見つけ出せるはずです。",
   "作成図:",
   {
-    "link": "fp:lang/part/crafting_techtabel.json"
+    "link": "futurepack:lang/part/crafting_techtabel.json"
   },
   "-重要:\nこのMODで追加されているクラフトレシピは、この作業台でのみ使用可能です！",
   "1.12以降では、通常のバニラ作業台でも作成が可能です。"

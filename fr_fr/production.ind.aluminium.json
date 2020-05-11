@@ -1,6 +1,6 @@
 [
   "Ce matériau est extrêmement léger par rapport aux autres métaux, mais sa production est beaucoup plus cher.",
   {
-    "link": "fp:lang/part/industrialfurnace_production.ind.aluminium.json"
+    "link": "futurepack:lang/part/industrialfurnace_production.ind.aluminium.json"
   }
 ]

@@ -3,11 +3,11 @@
   "It\u0027s an airbrush, which accelerates the material in the storage tank and disperses it evenly. The device is able to color blocks, but also to sandblast them to remove coloring. To do this I must use sand or gravel.",
   "Crafting:",
   {
-    "link": "fp:lang/part/crafting_tools.airbrush.json"
+    "link": "futurepack:lang/part/crafting_tools.airbrush.json"
   },
   "Color Tanks (Shapeless):",
   {
-    "link": "fp:lang/part/crafting_tools.airbrush2.json"
+    "link": "futurepack:lang/part/crafting_tools.airbrush2.json"
   },
   "Usage:",
   "§lsShift + right click§r opens the airbrush inventory, where I can insert a color tank or Sand/Gravel.",

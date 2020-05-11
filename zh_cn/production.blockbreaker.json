@@ -3,7 +3,7 @@
   "如果这台机器被放置在可破坏方块的前面，并被红石脉冲激活，它会破坏方块并将其输送到后面。",
   "合成:",
   {
-    "link": "fp:lang/part/crafting_production.blockbreaker.json"
+    "link": "futurepack:lang/part/crafting_production.blockbreaker.json"
   },
   "机器可以通过在其中放入附魔的书升级。"
 ]

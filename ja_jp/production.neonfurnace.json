@@ -4,7 +4,7 @@
   "この製錬炉の本当の性能を引き出すには、アップグレードを積み重ねていかなければなりません。",
   "作成図:",
   {
-    "link": "fp:lang/part/crafting_production.neonfurnace.json"
+    "link": "futurepack:lang/part/crafting_production.neonfurnace.json"
   },
   "-対応しているチップセット:\n論理チップセット\n転送チップセット\nﾚｯﾄﾞｽﾄｰﾝ制御ﾁｯﾌﾟｾｯﾄ\nサポートチップセット\nｱﾙﾃｨﾒｯﾄﾁｯﾌﾟｾｯﾄ\nﾀﾞﾒｰｼﾞ制御ﾁｯﾌﾟｾｯﾄ"
 ]

@@ -2,21 +2,21 @@
   "Pour mes grenades, j\u0027ai développé une base universelle : une capsule en métal, ce qui est idéal pour la mise à feu. Elle inclue aussi un explosif qui s\u0027enflamme à l\u0027impact et disperse son contenu.",
   "Craft :",
   {
-    "link": "fp:lang/part/crafting_tools.grenade.he.json"
+    "link": "futurepack:lang/part/crafting_tools.grenade.he.json"
   },
   "Ma première grenade est simple : je l\u0027ai rempli avec de la poudre à canon, qui s\u0027enflamme à l\u0027impact et cause des dégâts considérables.",
   "Je peux utiliser jusqu\u0027à trois poudres à canon, pour me permettre de choisir le niveau de force de l\u0027explosion.",
   "Craft :",
   "Force 1:",
   {
-    "link": "fp:lang/part/crafting_tools.grenade.he2.json"
+    "link": "futurepack:lang/part/crafting_tools.grenade.he2.json"
   },
   "Force 2:",
   {
-    "link": "fp:lang/part/crafting_tools.grenade.he3.json"
+    "link": "futurepack:lang/part/crafting_tools.grenade.he3.json"
   },
   "Force 3:",
   {
-    "link": "fp:lang/part/crafting_tools.grenade.he4.json"
+    "link": "futurepack:lang/part/crafting_tools.grenade.he4.json"
   }
 ]

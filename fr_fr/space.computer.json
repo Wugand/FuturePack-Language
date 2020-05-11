@@ -2,7 +2,7 @@
   "Dans l\u0027immensité vide de l\u0027espace, il est impératif de ne pas se perdre. C\u0027est pourquoi, j\u0027ai construit un ordinateur pour me guider à travers le vide.",
   "Craft :",
   {
-    "link": "fp:lang/part/cr_space.computer.json"
+    "link": "futurepack:lang/part/cr_space.computer.json"
   },
   "L\u0027interface a 3 onglets :",
   "Le premier représente la planète Minecraft, je peux donc toujours retourner chez moi.",
@@ -11,15 +11,15 @@
   "",
   "De plus, des messages de sécurité peuvent s\u0027afficher :",
   {
-    "link": "fp:lang/part/translate_space.computer2.json"
+    "link": "futurepack:lang/part/translate_space.computer2.json"
   },
   "Cela veut dire que l\u0027ordinateur n\u0027a pas assez d\u0027énergie.",
   {
-    "link": "fp:lang/part/translate_space.computer3.json"
+    "link": "futurepack:lang/part/translate_space.computer3.json"
   },
   "Cela veut dire que la pièce du vaisseau où est installé l\u0027ordinateur n\u0027est pas 100% hermétique.",
   {
-    "link": "fp:lang/part/translate_space.computer4.json"
+    "link": "futurepack:lang/part/translate_space.computer4.json"
   },
   "Cela veut dire qu\u0027il n\u0027y a pas de générateur Néon dans le vaisseau."
 ]

@@ -2,7 +2,7 @@
   "Ein einfacher Stabmagnet ist zwar gut, ist aber relativ schwach. Deshalb habe ich viele Stabmagnete zu einem großen Magnetblock verbunden.",
   "Crafting:",
   {
-    "link": "fp:lang/part/crafting_space.magnetblock.json"
+    "link": "futurepack:lang/part/crafting_space.magnetblock.json"
   },
   "Er kann in einem Radius von 5 Blöcken Items, Minecarts und andere Objekte aus Metall anziehen.",
   "Ich frage mich wie andere Magneten auf diesen Block reagieren."

@@ -13,7 +13,7 @@
             "in":{"name":"minecraft:dirt", "meta":0, "size":8},
             "out1":{"name":"minecraft:gravel", "size":4, "meta":0},
             "out2":{"name":"minecraft:clay_ball", "size":2, "meta":0},
-            "out3":{"name":"fp:spaceship", "size":1, "meta":"<spaceship.Kompost>"}
+            "out3":{"name":"futurepack:spaceship", "size":1, "meta":"<spaceship.Kompost>"}
         },
 	    "support":0,
 	    "time":100
@@ -23,8 +23,8 @@
         "slots":
         {
             "in":{"name":"minecraft:sapling", "size":2},
-            "out1":{"name":"fp:spaceship", "size":1, "meta":"<spaceship.HackSchnitzel>"},
-            "out2":{"name":"fp:spaceship", "size":1, "meta":"<spaceship.Kompost>"},
+            "out1":{"name":"futurepack:spaceship", "size":1, "meta":"<spaceship.HackSchnitzel>"},
+            "out2":{"name":"futurepack:spaceship", "size":1, "meta":"<spaceship.Kompost>"},
             "out3":{}
         },
 	    "support":0,
@@ -35,7 +35,7 @@
         "slots":
         {
             "in":{"name":"minecraft:reeds", "meta":0, "size":6},
-            "out1":{"name":"fp:spaceship", "size":6, "meta":"<spaceship.Fibers>"},
+            "out1":{"name":"futurepack:spaceship", "size":6, "meta":"<spaceship.Fibers>"},
             "out2":{"name":"minecraft:sugar", "meta":0, "size":8},
             "out3":{}
         },

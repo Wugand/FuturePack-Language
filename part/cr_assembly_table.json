@@ -1,6 +1,6 @@
 [
 	{
 		"type": "crafting",
-		"load": ["fp:assembly_table_2", "fp:assembly_table_6", "fp:assembly_table_10"]
+		"load": ["futurepack:assembly_table_2", "futurepack:assembly_table_6", "futurepack:assembly_table_10"]
 	}
 ]

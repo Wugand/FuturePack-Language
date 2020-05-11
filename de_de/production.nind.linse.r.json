@@ -3,6 +3,6 @@
   "Die rote Fokuslinse manipuliert dabei den Laser so, das er sehr viel Hitze beim Auftreffen erzeugt. Dadurch ist diese Linse ideal zum Töten und zerschneiden von Objekten  geeignet.",
   "Die Fokuslinsen benötigen einen sehr präzisen Fertigungsprozess, welchen nur der Neonindustrieofen gewährleisten kann.",
   {
-    "link": "fp:lang/part/industrialneonfurnace_production.nind.linse.r.json"
+    "link": "futurepack:lang/part/industrialneonfurnace_production.nind.linse.r.json"
   }
 ]

@@ -5,6 +5,6 @@
   "所选区域显示为黄色框。闪烁的边缘意味着它们不是直接可见的。例如，如果选择低于海平面，则可能会导致这种情况。",
   "合成:",
   {
-    "link": "fp:lang/part/crafting_space.claime.json"
+    "link": "futurepack:lang/part/crafting_space.claime.json"
   }
 ]

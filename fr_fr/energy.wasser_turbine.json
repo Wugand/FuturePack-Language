@@ -2,7 +2,7 @@
 	"J'ai poussé mes recherches concernant les énergies renouvelables et découvert que la puissance de l'eau pourrait m'être utile. Cela est vrai partout et peut être utilisé simplement et n'importe où.",
     "Il faut que je place la turbine à eau sous une grande quantité d'eau et qu'il y ait en dessous une place pour que l'eau s'écoule à travers de la turbine.",
 	"Craft :",
-	{"link":"fp:lang/part/cr_energy.wasser_turbine.json"},
+	{"link":"futurepack:lang/part/cr_energy.wasser_turbine.json"},
 	"Puces compatibles:",
 	"Puce logique\nPuce Industrielle (quantité d'énergie)\nPuce de contrôle Redstone\nPuce de contrôle des Dommages"
 ]

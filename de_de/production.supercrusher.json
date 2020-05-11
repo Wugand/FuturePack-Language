@@ -2,7 +2,7 @@
   "Diamanten sind das bisher härteste Material das ich kenne, ich kann mit einem entsprechenden Konstrukt aus diesem Material sämtliche mir bekannten Barren, Erze und Kristalle zu feinem Staub mahlen. Aus diesem Prinzip konnte ich eine Maschine entwickeln, welche diese Aufgabe automatisiert ausführt.",
   "Crafting:",
   {
-    "link": "fp:lang/part/crafting_production.supercrusher.json"
+    "link": "futurepack:lang/part/crafting_production.supercrusher.json"
   },
   "Dazu setzte ich ein diamantenbesetztes Mahlwerk ein, welches durch ein Computersystem gesteuert wird und so die genannten Materialien mahlen kann ohne sich erwähnenswert abzunutzen.",
   "Zudem habe ich erkannt das ich durch dieses Verfahren die Ausbeute aus Roherzen verdoppeln kann und auch Kristalle kann ich mahlen um sie ohne Kohleaufwand zu verarbeiten, natürlich muss ich den erzeugten Staub danach noch zu Barren einschmelzen.",

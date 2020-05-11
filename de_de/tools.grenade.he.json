@@ -2,21 +2,21 @@
   "Für den Granatwerfer habe ich ein Universalgeschoss entwickelt, es ist eine Metallkapsel die sich ideal abfeuern lässt. Zudem beinhaltet es eine Sprengladung die bei Aufprall zündet und den Inhalt verteilt.",
   "Crafting:",
   {
-    "link": "fp:lang/part/crafting_tools.grenade.he.json"
+    "link": "futurepack:lang/part/crafting_tools.grenade.he.json"
   },
   "Meine erste einfache Granate habe ich mit Schwarzpulver gefüllt, welches beim Aufprall mit gezündet wird und erheblichen Schaden anrichtet.",
   "In die Hülse passen 1-3 Einheiten Schwarzpulver, somit kann ich die Sprengkraft wählen.",
   "Crafting (shapeless):",
   "Stärke 1:",
   {
-    "link": "fp:lang/part/crafting_tools.grenade.he2.json"
+    "link": "futurepack:lang/part/crafting_tools.grenade.he2.json"
   },
   "Stärke 2:",
   {
-    "link": "fp:lang/part/crafting_tools.grenade.he3.json"
+    "link": "futurepack:lang/part/crafting_tools.grenade.he3.json"
   },
   "Stärke 3:",
   {
-    "link": "fp:lang/part/crafting_tools.grenade.he4.json"
+    "link": "futurepack:lang/part/crafting_tools.grenade.he4.json"
   }
 ]

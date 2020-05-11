@@ -3,6 +3,6 @@
   "So I designed a new lens based on an emerald, which can be fine-tuned by electrical currents. For such high precision, assembly uses a considerable amount of support points.",
   "Crafting:",
   {
-    "link": "fp:lang/part/industrialneonfurnace_production.nind.linse.g.json"
+    "link": "futurepack:lang/part/industrialneonfurnace_production.nind.linse.g.json"
   }
 ]

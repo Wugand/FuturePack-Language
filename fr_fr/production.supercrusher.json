@@ -2,7 +2,7 @@
   "Les diamants sont les matériaux les plus durs que je connaisse. Grâce à eux, je vais pouvoir pulvériser tous les types de lingots, de minerais et de cristaux. Pour cela, j\u0027ai créé un moulin automatisé.",
   "Craft :",
   {
-    "link": "fp:lang/part/crafting_production.supercrusher.json"
+    "link": "futurepack:lang/part/crafting_production.supercrusher.json"
   },
   "J\u0027ai construit un moulin à diamants et je l\u0027ai combiné à un système informatique pour l\u0027accélérer et empêcher une usure coûteuse.",
   "De plus, je peux dupliquer le rendement des minerais en les pulvérisant. Cela peut aussi servir à raffiner du cristal sans charbon. Normalement, les poussières seront ensuite fondues en lingot dans un second temps.",

@@ -2,7 +2,7 @@
   "ブロックの外観を改変するためのツールを開発しました。",
   "あらゆるブロックの外観を読み取り、視覚的構造を保存します。そしてそれを、対応しているブロックへ移すことができます。",
   {
-    "link": "fp:lang/part/crafting_tools.hologramm.json"
+    "link": "futurepack:lang/part/crafting_tools.hologramm.json"
   },
   "§lShift+右クリック§rで、外観を保存",
   "§l右クリック§rで外観を変更",

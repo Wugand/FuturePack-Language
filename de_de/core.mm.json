@@ -3,5 +3,5 @@
 	"Zudem kann man die einzelnen Informationseinheiten so verschränken, das sich ihre Änderungen gegenseitig beeinflussen. Dies ermöglicht dem Prozessor komplexe Operationen auf beliebig große Datenmengen anzuwenden, wobei das Ergebnis immer sofort entnommen werden kann. Die Leistungsgrenzen der Prozessoren entsteht dabei vor allem durch umkonfigurieren der Operation.",
 	"Eingaben und Ausgaben werden durch Licht dem System zugefügt und entnommen, dazu eignet sich besonders Glowtit. Die einzelnen Recheneinheiten werden mit optischen Elementen begrenzt, die ich am besten aus Diamanten herstellen kann.",
 	"Assembly:",
-	{"link":"fp:lang/part/as_core.mm.json"}
+	{"link":"futurepack:lang/part/as_core.mm.json"}
 ]

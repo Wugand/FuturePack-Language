@@ -3,7 +3,7 @@
     "Obwohl ich Eisen leicht nach meinen Bedürfnissen formen kann, ist es zu weich, um großen Schäden standzuhalten. Gusseisen ist haltbarer und starrer, aber es ist zu steif, das Tragen wäre schmerzhaft, außerdem ist es ziemlich schwer. Deshalb habe ich Verbundmetall verwendet um meine Rüstung herzustellen.",
     "Crafting:",
     {
-        "link":"fp:lang/part/cr_tools.modular_armor.json"
+        "link":"futurepack:lang/part/cr_tools.modular_armor.json"
     },
 	"Der Herstellungsprozess unterscheidet sich nicht von den anderen Rüstungen, aber ich habe diesen Stücken einige Besonderheiten hinzugefügt.",
 	"Wenn ich alle Teile trage ist die Rüstung luftdicht. Dies macht mich immun gegenüber Effekten der Außenwelt, einschließlich giftiger Flüssigkeiten. Aber ich sollte immer noch vorsichtig vor Feuer und Lava sein. Der Helm hat einen speziellen Filter: Er lässt nur Sauerstoff hinein und leitet CO2 nach draußen. Also werde ich nicht ersticken, wenn ich die Rüstung trage.",

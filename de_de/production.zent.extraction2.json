@@ -3,13 +3,13 @@
   "Durch die Nutzung von Support-Punkten kann ich aus den Erzen, Staub mit einer Rate von 1:2,5 und einen weiterer Stoff in geringer Menge exrahiert werden.",
   "Beispiele:",
   {
-    "link": "fp:lang/part/zentrifuge_production.zent.extraction2.json"
+    "link": "futurepack:lang/part/zentrifuge_production.zent.extraction2.json"
   },
   {
-    "link": "fp:lang/part/zentrifuge_production.zent.extraction22.json"
+    "link": "futurepack:lang/part/zentrifuge_production.zent.extraction22.json"
   },
   {
-    "link": "fp:lang/part/zentrifuge_production.zent.extraction23.json"
+    "link": "futurepack:lang/part/zentrifuge_production.zent.extraction23.json"
   },
   "Information: Die Zentrifuge hat sehr viele Rezepte, es werden hier nicht alle aufgelistet!"
 ]

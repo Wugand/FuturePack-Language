@@ -3,6 +3,6 @@
 "チューブ内に液体が送り込まれると、液体を受け入れられる場所に向けて輸送を行います。",
   "作成図:",
   {
-    "link": "fp:lang/part/crafting_log.tube.json"
+    "link": "futurepack:lang/part/crafting_log.tube.json"
   }
 ]

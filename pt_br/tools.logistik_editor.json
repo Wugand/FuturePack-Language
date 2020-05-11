@@ -6,14 +6,14 @@
 		"slots": {
 			"1": {"name":"minecraft:glass_pane"},
 			"2": {"OreDict":"ingotAluminum"},
-			"3": {"name":"fp:scrench"},
-			"4": {"name":"fp:spaceship", "meta":"<spaceship.NeonCoil>"},
-			"5": {"name":"fp:wire", "meta":0},
-			"6": {"name":"fp:spaceship", "meta":"<spaceship.CopperParts>"},
-			"7": {"name":"fp:chip", "meta":0},
+			"3": {"name":"futurepack:scrench"},
+			"4": {"name":"futurepack:spaceship", "meta":"<spaceship.NeonCoil>"},
+			"5": {"name":"futurepack:wire", "meta":0},
+			"6": {"name":"futurepack:spaceship", "meta":"<spaceship.CopperParts>"},
+			"7": {"name":"futurepack:chip", "meta":0},
 			"8": {"OreDict":"ingotAluminum"},
-			"9": {"name":"fp:scrench"},
-			"out": {"name":"fp:logisticEditor"}
+			"9": {"name":"futurepack:scrench"},
+			"out": {"name":"futurepack:logisticEditor"}
 		}
 	},
 	

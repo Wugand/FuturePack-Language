@@ -4,5 +4,5 @@
 	"The cooling efficiency of the unit is shown by a blue (3), green (2) or red (1) light on the front of the cooler.",
 
 	"Crafting:",
-	{"link":"fp:lang/part/cr_chips.cooler.json"}
+	{"link":"futurepack:lang/part/cr_chips.cooler.json"}
 ]

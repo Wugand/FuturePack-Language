@@ -2,23 +2,23 @@
 	{
 		"type": "crafting",
 		"load": [
-		  "fp:metal_treppe_01",
-		  "fp:color_iron_stair0_0",
-		  "fp:color_iron_stair1_0",
-		  "fp:color_iron_stair2_0",
-		  "fp:color_iron_stair3_0",
-		  "fp:color_iron_stair4_0",
-		  "fp:color_iron_stair5_0",
-		  "fp:color_iron_stair6_0",
-		  "fp:color_iron_stair7_0",
-		  "fp:color_iron_stair8_0",
-		  "fp:color_iron_stair9_0",
-		  "fp:color_iron_stair10_0",
-		  "fp:color_iron_stair11_0",
-		  "fp:color_iron_stair12_0",
-		  "fp:color_iron_stair13_0",
-		  "fp:color_iron_stair14_0",
-		  "fp:color_iron_stair15_0"
+		  "futurepack:metal_treppe_01",
+		  "futurepack:color_iron_stair0_0",
+		  "futurepack:color_iron_stair1_0",
+		  "futurepack:color_iron_stair2_0",
+		  "futurepack:color_iron_stair3_0",
+		  "futurepack:color_iron_stair4_0",
+		  "futurepack:color_iron_stair5_0",
+		  "futurepack:color_iron_stair6_0",
+		  "futurepack:color_iron_stair7_0",
+		  "futurepack:color_iron_stair8_0",
+		  "futurepack:color_iron_stair9_0",
+		  "futurepack:color_iron_stair10_0",
+		  "futurepack:color_iron_stair11_0",
+		  "futurepack:color_iron_stair12_0",
+		  "futurepack:color_iron_stair13_0",
+		  "futurepack:color_iron_stair14_0",
+		  "futurepack:color_iron_stair15_0"
 		]
 	}
 ]

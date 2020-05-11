@@ -3,7 +3,7 @@
   "これは、矢の代わりに固体化したレーザービームのようなものを放つ弓で、エネルギーを十分に負荷させれば、着弾時にレーザーダーツを爆発させることもできます。",
   "作成図:",
   {
-    "link": "fp:lang/part/crafting_unreach.laserbow.json"
+    "link": "futurepack:lang/part/crafting_unreach.laserbow.json"
   },
   "使用するにはネオンエネルギーを充電させる必要があります。",
   "このレーザーボウがエンチャントに適しているかが気になります..."

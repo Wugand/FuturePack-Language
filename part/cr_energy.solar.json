@@ -1,6 +1,6 @@
 [
 	{
 		"type": "crafting",
-		"load": ["fp:solarpanel_0", "fp:solarpanel_1", "fp:solarpanel_2"]
+		"load": ["futurepack:solarpanel_0", "futurepack:solarpanel_1", "futurepack:solarpanel_2"]
 	}
 ]

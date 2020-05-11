@@ -1,6 +1,6 @@
 [
   {
     "type": "crafting",
-    "load": ["fp:neon_bricks_0", "fp:neon_bricks_1", "fp:neon_bricks_2", "fp:neon_bricks_3"]
+    "load": ["futurepack:neon_bricks_0", "futurepack:neon_bricks_1", "futurepack:neon_bricks_2", "futurepack:neon_bricks_3"]
   }
 ]

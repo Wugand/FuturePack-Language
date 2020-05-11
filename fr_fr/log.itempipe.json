@@ -4,7 +4,7 @@
   "Si un objet ne peut pas être extrait, ce bloquera toute nouvelle insertion.",
   "Craft:",
   {
-    "link": "fp:lang/part/crafting_log.itempipe.json"
+    "link": "futurepack:lang/part/crafting_log.itempipe.json"
   },
   "Configuration: En utilisant la clé à molette, je suis capable de configurer les côtés d\u0027un segment de tube, ce qui me permet de l\u0027empêcher de se connecter avec ce côté. (§lClic droit§r sur le côte souhaité)"
 ]

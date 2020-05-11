@@ -3,7 +3,7 @@
   "何かを発見したらデータを記録し、それをボードコンピューターに挿入します。",
   "作成図:",
   {
-    "link": "fp:lang/part/crafting_space.navcord.tyros.json"
+    "link": "futurepack:lang/part/crafting_space.navcord.tyros.json"
   },
   "\"右クリック\"で使用します。",
   "(これは最終的なものではなく、今後変更される可能性があります)",

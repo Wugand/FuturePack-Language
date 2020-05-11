@@ -1,6 +1,6 @@
 [
 	"Unter Verwendung der neuen Rohstoffe die ich auf Tyros gefunden habe, konnte ich meine Speicher erneut verbessern. Mit Hilfe der organischen Komponenten des Bioteriums habe ich die Quantenspeicher um natürliche Nervenzellen erweitert, welche die Daten intelligenter verwalten.",
 	"Assembly:",
-	{"link":"fp:lang/part/as_ram.non.json"},
+	{"link":"futurepack:lang/part/as_ram.non.json"},
 	"Info: Für allgemeine Informationen siehe Standartspeicher."
 ]

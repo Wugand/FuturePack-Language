@@ -2,5 +2,5 @@
 "通常のケーブルのエネルギー流量は、1tickにつき500NEに制限されています。\n理由は多々ありますが、このままの性能に不足を感じてきました。",
 "そこで、コネクター部分の改良とネオン素材の層を重ねる工程を追加しました。この上位版のケーブルは、\ntickごとに1000NEを転送させることができます。",
   "作成図:",
-  {"link": "fp:lang/part/crafting_log.supercable.json"}
+  {"link": "futurepack:lang/part/crafting_log.supercable.json"}
 ]

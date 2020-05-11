@@ -3,6 +3,6 @@
 	"Das Modul muss direkt mit dem Forscher verknüpft werden um zu funktionieren (daneben stehen), wodurch die eigentliche Arbeit weiter im Forscher ausgeführt wird.",
 
 	"Crafting:",
-	{"link":"fp:lang/part/cr_upgradet2.json"},	
+	{"link":"futurepack:lang/part/cr_upgradet2.json"},	
 	"Das Modul speichert bis zu 512 SP, falls dies einmal nicht genügen sollte (siehe Angaben in den Blaupausen), muss ich mehrere dieser Module mit dem Forscher verbinden. Die Supportpunkte kann ich per Batterien in das Modul transportieren."
 ]

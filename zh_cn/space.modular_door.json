@@ -4,10 +4,10 @@
   "右击任何一个模块都可以打开/关闭。",
   "合成:",
   {
-    "link": "fp:lang/part/crafting_space.modular_door.json"
+    "link": "futurepack:lang/part/crafting_space.modular_door.json"
   },
   "例:",
   {
-    "link": "fp:lang/part/image_space.modular_door2.json"
+    "link": "futurepack:lang/part/image_space.modular_door2.json"
   }
 ]

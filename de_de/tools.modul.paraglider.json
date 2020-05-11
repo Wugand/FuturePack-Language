@@ -2,6 +2,6 @@
 	"Ich habe einen neuen Gleitschirm entwickelt, aber diesmal als Modul für die Leichtbaurüstung. Es verwendet leichtere Materialien, was zu einem langsameren Fall führt. Dank der Motoren, die ich installiert habe, ist es auch möglich leichter zu manövrieren.",
     "Ich habe auch einen Chip installiert der den Gleitschirm in Notsituationen auslöst, so dass er mich automatisch vor gefährlichen Stürzen schützt.",
     "Crafting:",
-    {"link": "fp:lang/part/cr_tools.modul.paraglider.json"}, 
+    {"link": "futurepack:lang/part/cr_tools.modul.paraglider.json"}, 
     "Die Steuerung ist die gleiche wie für den normalen Gleitschirm."
 ]

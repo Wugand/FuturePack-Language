@@ -3,7 +3,7 @@
   "找到一些东西后，我将记录相应的数据，可以将其插入到机载电脑中。",
   "合成:",
   {
-    "link": "fp:lang/part/crafting_space.navcord.menelaus.json"
+    "link": "futurepack:lang/part/crafting_space.navcord.menelaus.json"
   },
   "§l右击§r使用."
 ]

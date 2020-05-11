@@ -2,25 +2,25 @@
   "この機械は、数種類の金属素材を小さな部品へ分割していくよう設計されています。その動作は素早く、あらゆるタイプの可燃性の燃料を受け入れます。",
   "作成図:",
   {
-    "link": "fp:lang/part/crafting_partpress.json"
+    "link": "futurepack:lang/part/crafting_partpress.json"
   },
   "レシピ:",
   {
-    "link": "fp:lang/part/partpress_partpress2.json"
+    "link": "futurepack:lang/part/partpress_partpress2.json"
   },
   {
-    "link": "fp:lang/part/partpress_partpress3.json"
+    "link": "futurepack:lang/part/partpress_partpress3.json"
   },
   {
-    "link": "fp:lang/part/partpress_partpress4.json"
+    "link": "futurepack:lang/part/partpress_partpress4.json"
   },
   {
-    "link": "fp:lang/part/partpress_partpress5.json"
+    "link": "futurepack:lang/part/partpress_partpress5.json"
   },
   {
-    "link": "fp:lang/part/partpress_partpress6.json"
+    "link": "futurepack:lang/part/partpress_partpress6.json"
   },
   {
-    "link": "fp:lang/part/partpress_partpress7.json"
+    "link": "futurepack:lang/part/partpress_partpress7.json"
   }
 ]

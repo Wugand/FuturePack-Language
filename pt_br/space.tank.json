@@ -5,16 +5,16 @@
     {
         "type": "crafting",
         "slots": {
-            "1": {"name":"fp:spaceship","meta":"<spaceship.Tank>"},
+            "1": {"name":"futurepack:spaceship","meta":"<spaceship.Tank>"},
             "2": {"OreDict":"ingotAluminum"},
             "3": {"OreDict":"ingotAluminum"},
-            "4": {"name":"fp:spaceship","meta":"<spaceship.Tank>"},
-            "5": {"name":"fp:spaceship","meta":"<spaceship.IronStick>"},
+            "4": {"name":"futurepack:spaceship","meta":"<spaceship.Tank>"},
+            "5": {"name":"futurepack:spaceship","meta":"<spaceship.IronStick>"},
             "6": "chest",
-            "7": {"name":"fp:spaceship","meta":"<spaceship.Tank>"},
+            "7": {"name":"futurepack:spaceship","meta":"<spaceship.Tank>"},
             "8": {"OreDict":"ingotAluminum"},
             "9": {"OreDict":"ingotAluminum"},
-            "out": {"name":"fp:fuelcell","meta":0}
+            "out": {"name":"futurepack:fuelcell","meta":0}
         }
     },
     "Obs: Os tanques não precisam ser conectados diretamente aos motores. Uma conexão simples ao nave basta para funcionar."

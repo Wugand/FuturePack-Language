@@ -4,6 +4,6 @@
   "ケーブルは自由に配置できます。ネオン導体は電圧や電流など、旧来のような制限を持たず、巨大なエネルギーを転送することが可能で、オーバーロード(過負荷)などについて気にする必要はなさそうです。",
   "作成図:",
   {
-    "link": "fp:lang/part/crafting_log.cable.json"
+    "link": "futurepack:lang/part/crafting_log.cable.json"
   }
 ]

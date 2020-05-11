@@ -5,13 +5,13 @@
   "土や様々な植物をこの処理にかけることができます。しかし染料を含む植物については、より有効な手段があります。",
   "実例:",
   {
-    "link": "fp:lang/part/zentrifuge_production.zent.bio.json"
+    "link": "futurepack:lang/part/zentrifuge_production.zent.bio.json"
   },
   {
-    "link": "fp:lang/part/zentrifuge_production.zent.bio2.json"
+    "link": "futurepack:lang/part/zentrifuge_production.zent.bio2.json"
   },
   {
-    "link": "fp:lang/part/zentrifuge_production.zent.bio3.json"
+    "link": "futurepack:lang/part/zentrifuge_production.zent.bio3.json"
   },
   "-通知:\n遠心分離機には多くのレシピがあり、ここに掲載されているものが全てではありません！"
 ]

@@ -2,6 +2,6 @@
   "複合金属製の斧を開発しました。これは従来のツールよりも、高い耐久性を持っています。\n最適なバランスで仕上がり、私にも軽快に振り回すことができます。",
   "作成図:",
   {
-    "link": "fp:lang/part/crafting_tools.composite_axe.json"
+    "link": "futurepack:lang/part/crafting_tools.composite_axe.json"
   }
 ]

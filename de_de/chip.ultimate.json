@@ -1,7 +1,7 @@
 [
     "Ich habe einen Chip entwickelt der die Herstellung von Gegenständen dokumentiert, dadurch kann ich die Prozesse optimieren und Erfahrung sammeln.",
     "Assembly:",
-    {"link":"fp:lang/part/as_chip.ultimate.json"},	 
+    {"link":"futurepack:lang/part/as_chip.ultimate.json"},	 
     "Die eine höhere Chippower sorgt für mehr Erfahrung bei herausnehmen des Items.",
     "Info: Für allgemeine Informationen siehe Logikchipsatz."
 ]

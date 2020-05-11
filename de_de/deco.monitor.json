@@ -2,5 +2,5 @@
 	"Aus ein paar Eisenelementen und einigen Siliziumchips kann ich eine Vielzahl von Anzeigen und Bedienelementen herstellen, die sich in vielen Verwendungen als \"nützlich\" erweisen.",
 	"Information: Der Monitor ist rein dekorativ und verhält sich wie ein Gemälde!",
 	"Crafting:",
-	{"link":"fp:lang/part/cr_deco.monitor.json"}
+	{"link":"futurepack:lang/part/cr_deco.monitor.json"}
 ]

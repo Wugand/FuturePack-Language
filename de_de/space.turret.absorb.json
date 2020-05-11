@@ -2,7 +2,7 @@
 	"Auf Grundlage der Prismidlinse, habe ich einen Geschützturm entwickelt. Dieser visiert mit Hilfe des integrierten Computers automatisch alle Kreaturen und Spieler in Reichweite an. Mit dem speziellen Laserstrahl saugt der Turm das Ziel aus und wandelt dessen Lebenskraft in Neonenergie um.",
 	"Die Neonenergie muss vom Geschützturm abgeführt werden, damit dieser dauerhaft arbeiten kann.",
 	"Crafting:",
-	{"link":"fp:lang/part/cr_space.turret.absorb.json"},
+	{"link":"futurepack:lang/part/cr_space.turret.absorb.json"},
 	"Der Laserturm wird über ein Computersystem gesteuert, das unter anderem die Zielerfassung und den Energiefluss regelt.",
 	"Unterstützte Chipsätze:",
 	"Industriechipsatz: Erhöht die erzeugte Energie pro Lebenspunkt",

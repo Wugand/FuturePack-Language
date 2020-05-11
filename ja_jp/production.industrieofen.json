@@ -2,11 +2,7 @@
   "この先進的な精練炉は、バケツやパイプで供給される溶岩によって動作します。\nアイテムを溶かすと同時に熱エネルギーを放出した溶岩が冷え、凝固して黒曜石になります。\nこの熱エネルギーを使用して、3つのアイテムを同時に精錬することができます。",
   "作成図:",
   {
-    "link": "fp:lang/part/crafting_production.industrieofen.json"
-  },
-  "-使い方(GUI):",
-  {
-    "link": "fp:lang/part/industrialfurnace_production.industrieofen2.json"
+    "link": "futurepack:lang/part/crafting_production.industrieofen.json"
   },
   "テクニカルデータ:",
   "-溶岩の使用量:\nアイテム1つの精錬に対し10mb",

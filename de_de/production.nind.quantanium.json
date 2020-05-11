@@ -2,7 +2,7 @@
   "Ich habe ein Material zusammengestellt das sich ähnlich wie die winzigen Quantenobjekte verhält. Es unterliegt permanenter Veränderung, und verändert ebenso ständig seine Eigenschaften.",
   "Das Material selbst ist dabei eigentlich nur eine Hülle, die Quantenobjekte einschließt und kontrollierbar macht. Es absorbiert schon bei der Herstellung große Mengen Energie und Daten, die scheinbar für das seltsame Verhalten verantwortlich sind.",
   {
-    "link": "fp:lang/part/industrialneonfurnace_production.nind.quantanium.json"
+    "link": "futurepack:lang/part/industrialneonfurnace_production.nind.quantanium.json"
   },
   "Notiz: Neue Forschungen sind bei \"Schaltkereise\" verfügbar!",
   null

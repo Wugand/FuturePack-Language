@@ -5,8 +5,7 @@
 	"Additionally in whitelist mode, you can adjust the amount for each slot (left click: +1, right click: -1, shift+left: +10, shift+right: -10). An amount over 64 represents infinity/everything.",
 	"The configured load up count represents the total amount of items of this type put inside the monocart, while the unload count represents the amount of items taken from the monocart.",
 	"Crafting:",
-	{
-		"link":"fp:lang/part/cr_space.drone.mono.station.json"
-	},
+	{"link":"futurepack:lang/part/cr_space.drone.mono.station.json"},
+
 	"The monorail station does not have an inventory of its own, therefore the station directly interacts with the surrounding inventories."
 ]

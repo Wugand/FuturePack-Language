@@ -5,7 +5,7 @@
   "Ich kann sicher noch einige Verbesserungen an der Maschine vornehmen um weitere Funktionen hinzuzufügen. Zudem habe ich auch hier ein System zur Arbeit mit Supportpunkten eingebaut um diese eventuell später noch nutzen zu können.",
   "Crafting:",
   {
-    "link": "fp:lang/part/crafting_production.neonind.json"
+    "link": "futurepack:lang/part/crafting_production.neonind.json"
   },
   "Wichtig: Die Zuführung von Supportpunkten (SP) ist nicht mit Flash-Speichern möglich, die entsprechende Technologie wird erst später Verfügbar!"
 ]

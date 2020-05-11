@@ -4,7 +4,7 @@
   "This new tool allows me to break down all kinds of metal blocks* (including almost all of the decorative blocks and machines of the Future Pack) extremely quickly. Although it does not replace any sharp tools, making it unusable for rock for example.",
   "Crafting:",
   {
-    "link": "fp:lang/part/crafting_tools.plasma.json"
+    "link": "futurepack:lang/part/crafting_tools.plasma.json"
   },
   "Neon energy is needed for (re-)charging. If the energy reserves are exhausted, the plasma cutter will be destroyed.",
   "To charge the plasma cutter, I can use the corresponding slots of energy generators, battery boxes, or the Energy Research Module, just like charging a battery.",

@@ -1,6 +1,6 @@
 [
 	"モノカートには複合金属と鉄で作られた専用のレールを使用します。",
 	"作成図:",
-	{"link":"fp:lang/part/cr_space.drone.mono.rail.json"},
+	{"link":"futurepack:lang/part/cr_space.drone.mono.rail.json"},
 	"レールは固い地面にしか置くことができません。"
 ]

@@ -2,6 +2,6 @@
     "Crafting:",
     {
         "type":"crafting",
-        "load": "fp:sword_retium_0"
+        "load": "futurepack:sword_retium_0"
     }
 ]

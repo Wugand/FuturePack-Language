@@ -4,16 +4,16 @@
 	{
 		"type": "crafting",
 		"slots": {
-			"1": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"2": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"1": {"name":"futurepack:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"2": {"name":"futurepack:spaceship", "meta":"<spaceship.CompositeMetall>"},
 			"3": {},
-			"4": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"5": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"4": {"name":"futurepack:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"5": {"name":"futurepack:spaceship", "meta":"<spaceship.CompositeMetall>"},
 			"6": {},
-			"7": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"8": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"7": {"name":"futurepack:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"8": {"name":"futurepack:spaceship", "meta":"<spaceship.CompositeMetall>"},
 			"9": {},
-			"out": {"name":"fp:composite_door", "meta":0, "size":3}
+			"out": {"name":"futurepack:composite_door", "meta":0, "size":3}
 		}
 	}
 ]

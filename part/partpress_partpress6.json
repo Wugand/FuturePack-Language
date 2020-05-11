@@ -2,10 +2,9 @@
   {
     "type": "partpress",
     "slots": {
-      "in": "OreDict:gemDiamond",
+      "in": "tag:forge:gems/diamond",
       "out": {
-        "name": "fp:spaceship",
-        "meta": "\u003cspaceship.DiaParts\u003e",
+        "name": "futurepack:parts_diamond",
         "size": 4
       }
     }

@@ -2,15 +2,15 @@
   "我设计了一些有用的红石组件。",
   "拉杆:",
   {
-    "link": "fp:lang/part/crafting_deco.rs_utils.json"
+    "link": "futurepack:lang/part/crafting_deco.rs_utils.json"
   },
   "按钮:",
   {
-    "link": "fp:lang/part/crafting_deco.rs_utils2.json"
+    "link": "futurepack:lang/part/crafting_deco.rs_utils2.json"
   },
   "红石钟:",
   {
-    "link": "fp:lang/part/crafting_deco.rs_utils3.json"
+    "link": "futurepack:lang/part/crafting_deco.rs_utils3.json"
   },
   "间隔时间可通过GUI设置。"
 ]

@@ -3,7 +3,7 @@
   "Si j\u0027ouvre le parapente, il se déploie de lui-même et me fait descendre tout doucement vers le sol.",
   "Craft :",
   {
-    "link": "fp:lang/part/crafting_tools.gleiter.json"
+    "link": "futurepack:lang/part/crafting_tools.gleiter.json"
   },
   "Pendant une chute libre, je peux déployer mon parapente en appuyant sur la touche \"F\" (il faut appuyer juste une fois, pas tout le temps). En appuyant de nouveau sur cette touche, vous pouvez le ranger.",
   "Info : La touche peut être modifiée dans le menu Option."

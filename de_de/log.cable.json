@@ -4,6 +4,6 @@
   "Das entstandene Kabel kann ich frei platzieren. Ebenso muss ich nicht auf Überlastung achten, da die Neonleiter sehr große Energiemengen transportieren können und es keine Dinge wie Spannung oder Stromstärke zu beachten gibt.",
   "Crafting:",
   {
-    "link": "fp:lang/part/crafting_log.cable.json"
+    "link": "futurepack:lang/part/crafting_log.cable.json"
   }
 ]

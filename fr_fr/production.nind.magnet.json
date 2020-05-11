@@ -2,6 +2,6 @@
   "Il y a quelques temps, j\u0027ai trouvé un minerai qui attire le fer et les autres matériaux ferreux ; Mais il perdait cet effet lorsqu\u0027il fondait et devenait du fer classique.",
   "Grâce à une méthode de refroidissement lente et ciblée après la fusion dans le four industriel néon, je peux maintenant conserver cet effet, et même le renforcer. Je peux maintenant produire des barres de Magnétite à partir des minerais.",
   {
-    "link": "fp:lang/part/industrialneonfurnace_production.nind.magnet.json"
+    "link": "futurepack:lang/part/industrialneonfurnace_production.nind.magnet.json"
   }
 ]

@@ -2,7 +2,7 @@
 	"Eu consegui criar uma máquina simples com meu conhecimento básico da criação de chips, que me dará condições ideais para a montagem destes componentes.",
 	"A unidade principal é feito de um quadro em metal com várias peças de maquinaria para montagem e testes. Adicionalmente, a unidade habilita os passos importantíssimos de montagem serem feitos em um ambiente limpo, que parece imperativo para o sucesso e qualidade do componente.",
 	"Criando:",
-	{"link":"fp:lang/part/cr_assembly_table.json"},
+	{"link":"futurepack:lang/part/cr_assembly_table.json"},
 	
 	"Uso:",
 	"Qualquer item criado aqui consiste de três componentes, colocados nos três lugares centrais. A ordem importa! O produto pode ser retirado do lugar maior embaixo.",

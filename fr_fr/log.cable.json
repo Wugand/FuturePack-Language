@@ -4,6 +4,6 @@
   "Le câble peut être placé dans un espace libre. Je ne me suis pas préoccupé des problème de surcharge ou autres problèmes comme ça, car les conducteurs en Néon peuvent transporter une quantité énorme d\u0027énergie, sans avoir les problèmes traditionnels qui peuvent se produire avec la tension ou le courant.",
   "Crafting:",
   {
-    "link": "fp:lang/part/crafting_log.cable.json"
+    "link": "futurepack:lang/part/crafting_log.cable.json"
   }
 ]

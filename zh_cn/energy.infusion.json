@@ -6,16 +6,16 @@
 	{
 		"type": "crafting",
 		"slots": {
-			"1": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
+			"1": {"name":"futurepack:spaceship", "meta":"<spaceship.IronStick>"},
 			"2": {"name":"minecraft:furnace"},
-			"3": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
+			"3": {"name":"futurepack:spaceship", "meta":"<spaceship.IronStick>"},
 			"4": {"OreDict":"ingotZinc"},
-			"5": [{"name":"fp:color_iron","meta":0},{"name":"fp:color_iron","meta":8},{"name":"fp:color_iron","meta":15}],
+			"5": [{"name":"futurepack:color_iron","meta":0},{"name":"futurepack:color_iron","meta":8},{"name":"futurepack:color_iron","meta":15}],
 			"6": {"OreDict":"ingotZinc"},
-			"7": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"8": {"name":"fp:spaceship", "meta":"<spaceship.Maschinboard>"},
-			"9": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"out": [{"name":"fp:plasma_generator_on","meta":2},{"name":"fp:plasma_generator_on","meta":6},{"name":"fp:plasma_generator_on","meta":10}]
+			"7": {"name":"futurepack:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"8": {"name":"futurepack:spaceship", "meta":"<spaceship.Maschinboard>"},
+			"9": {"name":"futurepack:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"out": [{"name":"futurepack:plasma_generator_on","meta":2},{"name":"futurepack:plasma_generator_on","meta":6},{"name":"futurepack:plasma_generator_on","meta":10}]
 		}
 	},
 

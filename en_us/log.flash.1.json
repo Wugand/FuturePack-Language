@@ -4,11 +4,11 @@
   "For the internal organization and an access to the memory module a simple Logic Chipset including a special program is all that\u0027s needed.",
   "Assembly:",
   {
-    "link": "fp:lang/part/as_log.flash.1.json"
+    "link": "futurepack:lang/part/as_log.flash.1.json"
   },
   "Capacity: 128 SP",
   "Information: The following slot is for load/unload of Flash-Memories (existing in some machines).",
   {
-    "link": "fp:lang/part/image_log.flash.1.json"
+    "link": "futurepack:lang/part/image_log.flash.1.json"
   }
 ]

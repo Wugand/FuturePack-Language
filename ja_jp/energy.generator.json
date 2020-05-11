@@ -4,7 +4,7 @@
   "燃やせるものさえあれば、熱は作り出すことができます。このジェネレーターが最良というわけではありませんが、今の私が使う分には十分でしょう。",
   "作成図:",
   {
-    "link": "fp:lang/part/crafting_energy.generator.json"
+    "link": "futurepack:lang/part/crafting_energy.generator.json"
   },
   "-テクニカルデータ:",
   "アイテムの燃焼時間\u003d@@tick",

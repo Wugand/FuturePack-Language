@@ -2,11 +2,7 @@
   "Ce four avancé est alimenté par de la lave, qui peut être insérée par des seaux ou avec des tubes. Il utilise cette énergie pour faire fondre des objets. Cette lave se refroidit ensuite et solidifie en Obsidienne. Cette puissance permet de faire fondre jusqu\u0027à 3 objets en même temps.",
   "Craft :",
   {
-    "link": "fp:lang/part/crafting_production.industrieofen.json"
-  },
-  "Utilisation (GUI) :",
-  {
-    "link": "fp:lang/part/industrialfurnace_production.industrieofen2.json"
+    "link": "futurepack:lang/part/crafting_production.industrieofen.json"
   },
   "Données techniques :",
   "Utilisation de Lave : 10 mB par objet fondu",

@@ -2,7 +2,7 @@
 	"En améliorant mes méthodes de fabrications, je suis maintenant capable de doubler le nombre d'unité de calculs dans un processeur. De plus, j'ai amélioré le transfert de chaleur en utilisant de meilleurs matériaux.",
 	
 	"Assemblage:",
-	{"link":"fp:lang/part/as_core.alon.json"},
+	{"link":"futurepack:lang/part/as_core.alon.json"},
 	
 	"Astuce : Se référer à \"Processeur Standard\" pour des informations générales."
 ]

@@ -3,7 +3,7 @@
   "这是一个弓，射出的是一道稳定的激光束，而不是一个箭头，如果它有足够的能量，激光束甚至可以炸飞目标。",
   "合成:",
   {
-    "link": "fp:lang/part/crafting_unreach.laserbow.json"
+    "link": "futurepack:lang/part/crafting_unreach.laserbow.json"
   },
   "需要充入氖能量。",
   "我很好奇，看看这个激光弓是否与附魔机制兼容..."

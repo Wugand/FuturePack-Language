@@ -3,7 +3,7 @@
   "Es ist ein Normales Kabel ergänzt mit einer Glowtit-Ummantelung, dadurch kann es Supportpunkte leiten, wenn sie an das Kabel übertragen werden.",
   "Crafting:",
   {
-    "link": "fp:lang/part/crafting_log.supportcable.json"
+    "link": "futurepack:lang/part/crafting_log.supportcable.json"
   },
   "Das Kabel kann selber die Informationen nicht lange speichern, es braucht also auch ein Ziel, damit keine Verluste entstehen."
 ]

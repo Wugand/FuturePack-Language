@@ -2,6 +2,6 @@
   "ビテリペンティウムはおびただしいエネルギーを内包していますが、核分裂を起こさせるのは非常に困難です。\n尋常な爆発では不十分ですが、ブレイズロッドを組み込むことでなんとか機能させることができます。",
   "作成図:",
   {
-    "link": "fp:lang/part/crafting_space.fuel.json"
+    "link": "futurepack:lang/part/crafting_space.fuel.json"
   }
 ]

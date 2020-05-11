@@ -3,7 +3,7 @@
 	"C'est surtout utile pour les machines qui tuent des créatures, pour améliorer leur précision.",
 
 	"Assemblage:",
-	{"link":"fp:lang/part/as_chip.tactic.json"},
+	{"link":"futurepack:lang/part/as_chip.tactic.json"},
 	
 	"Une puce Tactique de haute qualité (puce de haute puissance), comme le fait de monter plusieurs puces, améliore l'effet en conséquence.",
 	"Info: S'il y a un effet spécifique pour une machine, elle le mentionnera.",

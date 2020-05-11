@@ -1,7 +1,7 @@
 [
 	"Unter Verwendung der neuen Rohstoffe die ich auf Menelaus gefunden habe, konnte ich meine Prozessoren erneut verbessern. Besonders Retium, mit seinen besonderen Eigenschaften beim Signaltransport erwies sich als nützlich.",
 	"Assembly:",
-	{"link":"fp:lang/part/as_core.tct.json"},
+	{"link":"futurepack:lang/part/as_core.tct.json"},
 	"Zusammen mit meinen vorherigen Innovationen habe ich zwar eine kleine Verbesserung erzielen können, allerdings glaube ich nicht das Prozessoren auf Siliziumbasis eine Zukunft haben. Ich muss dringend eine Alternative finden!",
 	"Info: Für allgemeine Informationen siehe Standartprozessor."
 ]

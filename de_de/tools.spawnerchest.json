@@ -2,7 +2,7 @@
   "Ich habe den \"Entity Egger\" weiterentwickelt. Warum soll man das gleiche Prinzip nicht auch auf Blöcke anwenden können? Jedoch kann ich damit nur Monster-Spawner mitnehmen, denn bei einer Truhe hatte ich Angst, durch die extreme Komprimierung moglicherweise ein schwarzes Loch zu erzeugen.",
   "Assembly:",
   {
-    "link": "fp:lang/part/assembly_tools.spawnerchest.json"
+    "link": "futurepack:lang/part/assembly_tools.spawnerchest.json"
   },
   "Mit der \"Spawner Truhe\" kann man auf einen Spawner klicken, der dann im Item gespeichert wird, danach kann man ihn überall platzieren."
 ]

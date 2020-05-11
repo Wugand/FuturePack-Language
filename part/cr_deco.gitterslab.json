@@ -2,23 +2,23 @@
 	{
 		"type": "crafting",
 		"load": [
-		    "fp:metal_slap0_1",
-		    "fp:color_gitter_step_half_0_0",
-		    "fp:color_gitter_step_half_0_1",
-		    "fp:color_gitter_step_half_0_2",
-		    "fp:color_gitter_step_half_0_3",
-		    "fp:color_gitter_step_half_0_4",
-		    "fp:color_gitter_step_half_0_5",
-		    "fp:color_gitter_step_half_0_6",
-		    "fp:color_gitter_step_half_0_7",
-		    "fp:color_gitter_step_half_0_8",
-		    "fp:color_gitter_step_half_0_9",
-		    "fp:color_gitter_step_half_0_10",
-		    "fp:color_gitter_step_half_0_11",
-		    "fp:color_gitter_step_half_0_12",
-		    "fp:color_gitter_step_half_0_13",
-		    "fp:color_gitter_step_half_0_14",
-		    "fp:color_gitter_step_half_0_15"
+		    "futurepack:metal_slap0_1",
+		    "futurepack:color_gitter_step_half_0_0",
+		    "futurepack:color_gitter_step_half_0_1",
+		    "futurepack:color_gitter_step_half_0_2",
+		    "futurepack:color_gitter_step_half_0_3",
+		    "futurepack:color_gitter_step_half_0_4",
+		    "futurepack:color_gitter_step_half_0_5",
+		    "futurepack:color_gitter_step_half_0_6",
+		    "futurepack:color_gitter_step_half_0_7",
+		    "futurepack:color_gitter_step_half_0_8",
+		    "futurepack:color_gitter_step_half_0_9",
+		    "futurepack:color_gitter_step_half_0_10",
+		    "futurepack:color_gitter_step_half_0_11",
+		    "futurepack:color_gitter_step_half_0_12",
+		    "futurepack:color_gitter_step_half_0_13",
+		    "futurepack:color_gitter_step_half_0_14",
+		    "futurepack:color_gitter_step_half_0_15"
 		]
 	}
 ]

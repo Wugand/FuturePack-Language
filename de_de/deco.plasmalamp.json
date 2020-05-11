@@ -2,6 +2,6 @@
 	"Mit dem auf Menelaus gefundenem Glowtit konnte ich die Neonlampe weiterentwickeln. Das Energieaufwändige Innere habe ich durch eine neue Mischung ersetzt. Als Energiequelle benutzte ich hierfür Glowtit, welches in Kombination mit Glowstone (und einer einmaligen Energiezufuhr) ein Plasma ergibt. Dieses halte ich mit einem Magnetfeld im Inneren der Lampe, wo es permanent Licht abstrahlt.",
 	"Diese Reaktion ist leider nicht besonders leistungsstark, für eine Lichtquelle jedoch ausreichend. Zudem braucht diese Lampe weder Energie noch Redstone-Signale, um zu funktionieren.",
 	"Crafting:",
-	{"link":"fp:lang/part/cr_deco.plasmalamp.json"},
+	{"link":"futurepack:lang/part/cr_deco.plasmalamp.json"},
 	"Durch ein Redstone-Signal kann ich die Reaktion in der Plasmalampe jedoch so stark hemmen, dass kein Licht mehr abgestrahlt wird."
 ]

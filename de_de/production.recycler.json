@@ -3,7 +3,7 @@
   "Es kann mir ein beliebiges Werkzeug mit Energie versorgen und dieses in Betrieb nehmen. Die Maschine kann dabei ein geeignetes Werkstück in bis zu 9 Teile zerlegen, die Arbeitsgeschwindigkeit hängt dabei von der Leistung des eingebauten Computers ab.",
   "Crafting:",
   {
-    "link": "fp:lang/part/crafting_production.recycler.json"
+    "link": "futurepack:lang/part/crafting_production.recycler.json"
   },
   "Unterstützte Chipsätze:",
   "Logikchipsatz\nTransportchipsatz\nRedstonesteuerungschipsatz\nUnterstützungschipsatz\nSchadenskontrollchipsatz"

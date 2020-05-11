@@ -3,6 +3,6 @@
 	"フォレストマスターはドローンステーションに配置することができます。\n(§lShift-右クリック§r)",
   "11ブロックの範囲にある\n最寄りのターゲットから作業を開始します。\n無人機を格納するには、\nスクレンチを持って§lShift-右クリック§rをしてください。",
 	"作成図:",
-	{"link":"fp:lang/part/cr_space.forstmaster.json"},
+	{"link":"futurepack:lang/part/cr_space.forstmaster.json"},
 	"植林機能の実装を検討しています..."
 ]

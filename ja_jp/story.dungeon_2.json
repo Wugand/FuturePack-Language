@@ -1,6 +1,6 @@
 [
   "遺跡にある保安機能の解析を進めることができ、そこからセキュリティグレードが中級のキーカードを複製することができました。",
   {
-    "link": "fp:lang/part/crafting_story.dungeon_2.json"
+    "link": "futurepack:lang/part/crafting_story.dungeon_2.json"
   }
 ]

@@ -3,7 +3,7 @@
   "It\u0027s a bow that shoots what appears to be a solid laser beam instead of an arrow, and if it\u0027s loaded with enough energy, the laser dart can even explode upon impact.",
   "Crafting:",
   {
-    "link": "fp:lang/part/crafting_unreach.laserbow.json"
+    "link": "futurepack:lang/part/crafting_unreach.laserbow.json"
   },
   "Neon energy is required for (re-)charging of the bow.",
   "I am curious to see if this laser bow is compatible with enchantments..."

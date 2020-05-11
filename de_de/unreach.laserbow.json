@@ -3,7 +3,7 @@
   "Es handelt sich um einen Bogen der eine Art feste Laserstrahlen anstatt von Pfeilen verschießt. Wenn diese stark genug geladen wurden, können sie sogar beim Aufprall explodieren.",
   "Crafting:",
   {
-    "link": "fp:lang/part/crafting_unreach.laserbow.json"
+    "link": "futurepack:lang/part/crafting_unreach.laserbow.json"
   },
   "Es wird Neonenergie für die (wieder-)Aufladung benötigt.",
   "Ich sollte auch einmal testen ob der Laserbogen mit Verzauberungen kompatibel ist."

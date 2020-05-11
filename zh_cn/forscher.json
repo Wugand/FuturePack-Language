@@ -2,7 +2,7 @@
   "我设计了一个特殊的工作台来帮助我进行实验和发展我的各类设想。所以我可以在完成我的研究后，将它们添加到我的数据库。",
   "合成:",
   {
-    "link": "fp:lang/part/crafting_forscher.json"
+    "link": "futurepack:lang/part/crafting_forscher.json"
   },
   "提示：首先阅读“研究系统”的信息。",
   "详细用法:",

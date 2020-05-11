@@ -5,7 +5,7 @@
   "我相信这台机器有更多的用途，我还整合了SP点消耗系统，可以在更复杂的合成中使用。",
   "合成:",
   {
-    "link": "fp:lang/part/crafting_production.neonind.json"
+    "link": "futurepack:lang/part/crafting_production.neonind.json"
   },
   "重要提示：使用闪存不能完成Support点（SP）的消耗。所需的技术在以后的研究中！"
 ]

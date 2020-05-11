@@ -3,11 +3,11 @@
 	"A vantagem melhor é que mesmo se o armário for deslocado, o conteúdo fica seguro.",
 	"Informação: O armário (cheio) pode ser quebrado e colocado novamente sem o conteúdo ser perdido!",
 	"Porta - clara:",
-	{"link":"fp:lang/part/cr_deco.wardrobe1.json"},	
+	{"link":"futurepack:lang/part/cr_deco.wardrobe1.json"},	
 	"Porta - escura:",
-	{"link":"fp:lang/part/cr_deco.wardrobe2.json"},
+	{"link":"futurepack:lang/part/cr_deco.wardrobe2.json"},
 	"Gaveta - clara:",
-	{"link":"fp:lang/part/cr_deco.wardrobe3.json"},	
+	{"link":"futurepack:lang/part/cr_deco.wardrobe3.json"},	
 	"Gaveta - escura:",
-	{"link":"fp:lang/part/cr_deco.wardrobe4.json"}	
+	{"link":"futurepack:lang/part/cr_deco.wardrobe4.json"}	
 ]

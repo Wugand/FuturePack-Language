@@ -1,7 +1,7 @@
 [
 	"Melhorando meus métodos de fabricação, eu consegui dobrar a quantidade de unidades de armazenamento em um módulo de energia. Além disso, eu aumentei o transporte de calor usando materiais melhores.",
 	"Montagem:",
-	{"link":"fp:lang/part/as_ram.alon.json"},
+	{"link":"futurepack:lang/part/as_ram.alon.json"},
 	
 	"Dica: Refere a \"RAM Padrão\" para informação geral."
 ]

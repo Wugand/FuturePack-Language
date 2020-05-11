@@ -3,7 +3,7 @@
   "De plus, ces nouveaux câbles n\u0027ont pas de pertes de puissance de signal et peut être simplement connectés avec de la poudre de Redstone Traditionnelle.",
   "Craft:",
   {
-    "link": "fp:lang/part/crafting_log.redstonecable.json"
+    "link": "futurepack:lang/part/crafting_log.redstonecable.json"
   },
   "Ces câbles sont très pratique pour alimenter les machines et les lampes avec des signaux de Redstone."
 ]

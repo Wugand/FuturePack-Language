@@ -4,7 +4,7 @@
   "Somit kann der Plasmaschneider alle Arten von Metallblöcken* (unter anderem fast alle Dekorationsblöcke und Maschinen des Futurepacks) extrem schnell abbauen. Er ersetzt allerdings keine Spitzhacke, das er beispielsweise für Gestein nicht zu gebrauchen ist.",
   "Crafting:",
   {
-    "link": "fp:lang/part/crafting_tools.plasma.json"
+    "link": "futurepack:lang/part/crafting_tools.plasma.json"
   },
   "Es wird Neonenergie für die (wieder-)Aufladung benötigt. Wenn die Ladung komplett aufgebraucht ist wird der Plasmaschneider zerstört.",
   "Zum Aufladen kann ich, genau wie bei Batterien, die entsprechenden Slots der Energieerzeuger, Batterieboxen oder das Forschungsmodul-Energie nutzen.",

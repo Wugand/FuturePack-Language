@@ -2,21 +2,21 @@
   "投射する爆弾を作るため、基礎的なコンポーネント、発射に最適な金属の実包を開発しました。\nまたこれには、衝撃で起爆し内容物を飛散させる雷管も含まれています。",
   "作成図:",
   {
-    "link": "fp:lang/part/crafting_tools.grenade.he.json"
+    "link": "futurepack:lang/part/crafting_tools.grenade.he.json"
   },
   "私の手製爆弾は黒い火薬で満たされています。\n衝撃で起爆し、かなりのダメージを与えられるでしょう。",
   "火薬の量を1~3単位で調整し、爆破効果を使い分けることができます。",
   "作成図 (不定形):",
   "威力 I:",
   {
-    "link": "fp:lang/part/crafting_tools.grenade.he2.json"
+    "link": "futurepack:lang/part/crafting_tools.grenade.he2.json"
   },
   "威力 II:",
   {
-    "link": "fp:lang/part/crafting_tools.grenade.he3.json"
+    "link": "futurepack:lang/part/crafting_tools.grenade.he3.json"
   },
   "威力 III:",
   {
-    "link": "fp:lang/part/crafting_tools.grenade.he4.json"
+    "link": "futurepack:lang/part/crafting_tools.grenade.he4.json"
   }
 ]

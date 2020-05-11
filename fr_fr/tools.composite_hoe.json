@@ -2,6 +2,6 @@
   "J\u0027ai crée une houe faite avec du métal composite, la rendant plus efficace et durable par rapport aux outils traditionnels. L\u0027arracheur de racine à l\u0027arrière facilite grandement mon travail.",
   "Craft :",
   {
-    "link": "fp:lang/part/crafting_tools.composite_hoe.json"
+    "link": "futurepack:lang/part/crafting_tools.composite_hoe.json"
   }
 ]

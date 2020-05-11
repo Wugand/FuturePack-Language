@@ -3,6 +3,6 @@
   "可以将管道连接到任何一侧进行填充。 将管道连接到底部，可以在没有泵的情况下清空水箱。",
   "合成:",
   {
-    "link": "fp:lang/part/crafting_log.tank.json"
+    "link": "futurepack:lang/part/crafting_log.tank.json"
   }
 ]

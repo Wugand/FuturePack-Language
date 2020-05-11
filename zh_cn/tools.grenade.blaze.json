@@ -5,14 +5,14 @@
   "无序合成:",
   "强度1:",
   {
-    "link": "fp:lang/part/crafting_tools.grenade.blaze.json"
+    "link": "futurepack:lang/part/crafting_tools.grenade.blaze.json"
   },
   "强度2:",
   {
-    "link": "fp:lang/part/crafting_tools.grenade.blaze2.json"
+    "link": "futurepack:lang/part/crafting_tools.grenade.blaze2.json"
   },
   "强度3:",
   {
-    "link": "fp:lang/part/crafting_tools.grenade.blaze3.json"
+    "link": "futurepack:lang/part/crafting_tools.grenade.blaze3.json"
   }
 ]

@@ -3,7 +3,7 @@
     "Eu também consertei alguns problemas que havia na primeira versão do computador da nave. Por exemplo, a mensagem 'Sua nave espacial está aberta.' também aponta onde está aberta.",
     "Criando:",
     {
-        "link": "fp:lang/part/crafting_space.advanced.json"
+        "link": "futurepack:lang/part/crafting_space.advanced.json"
     },
     "Mais informações são disponíveis na página do computador da nave.",
     "Dependendo na cor do encaixe, cada computador da nave tem uma interface gráfica diferente."

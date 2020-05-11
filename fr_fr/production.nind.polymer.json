@@ -3,9 +3,9 @@
   "Les fibres végétales contiennent de cellules pouvant être traitées avec des produits chimiques et organique pour faire un biopolymère uniforme. La meilleure façon de réaliser ce processus est de le faire grâce au four Industriel au Néon, car il peut fournir les conditions optimales pour chaque étape de fabrication.",
   "Craft :",
   {
-    "link": "fp:lang/part/crafting_production.nind.polymer.json"
+    "link": "futurepack:lang/part/crafting_production.nind.polymer.json"
   },
   {
-    "link": "fp:lang/part/industrialneonfurnace_production.nind.polymer2.json"
+    "link": "futurepack:lang/part/industrialneonfurnace_production.nind.polymer2.json"
   }
 ]

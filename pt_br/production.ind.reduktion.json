@@ -7,7 +7,7 @@
 			"in1":  [{"name":"minecraft:coal", "meta":0, "size":1},{"name":"minecraft:coal", "meta":0, "size":1}],
 			"in2":  [{"name":"minecraft:coal", "meta":0, "size":1},{"name":"minecraft:coal", "meta":0, "size":1}],
 			"in3":  {"OreDict":"sand"},
-			"out1": {"name":"fp:spaceship",  "meta":"<spaceship.Silizium>", "size":4},
+			"out1": {"name":"futurepack:spaceship",  "meta":"<spaceship.Silizium>", "size":4},
 			"out2": {},
 			"out3": {}
 		}

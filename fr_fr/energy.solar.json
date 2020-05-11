@@ -3,7 +3,7 @@
 	"J'ai noté une interaction entre les couches de silicium et le soleil, ce qui crée une différence de tension qui se génère entre les couches de silicium. La puissance du courant dépend de celle des radiations.",
 
 	"Craft :",
-	{"link":"fp:lang/part/cr_energy.solar.json"},
+	{"link":"futurepack:lang/part/cr_energy.solar.json"},
 	"Comme ce module utilise un système informatique, je peux augmenter de façon notable la production en mettant plusieurs modules solaires et rendre la conversion plus performante.",
 	"En augmentant la valeur de la \"RAM\" cette énergie sera produite et émise plus rapidement.",
 	

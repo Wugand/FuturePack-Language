@@ -5,6 +5,6 @@
   "In der Welt wird die Auswahl als gelbe Box angezeigt. Blickende Bereiche sind momentan nicht direkt sichtbar, zum Beispiel weil diese Unterirdisch sind.",
   "Crafting:",
   {
-    "link": "fp:lang/part/crafting_space.claime.json"
+    "link": "futurepack:lang/part/crafting_space.claime.json"
   }
 ]

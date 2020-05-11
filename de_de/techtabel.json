@@ -3,7 +3,7 @@
   "Zudem brauche ich diese für alle weiteren Crafting-Rezepte die ich entdecken werde.",
   "Crafting:",
   {
-    "link": "fp:lang/part/crafting_techtabel.json"
+    "link": "futurepack:lang/part/crafting_techtabel.json"
   },
   "WICHTIG: Alle durch in diesem Mod freischaltbaren Crafting-Rezepte sind NUR in dieser Werkbank ausführbar!",
   "Seit 1.12 kann man auch die normale Werkbank verwewnden."

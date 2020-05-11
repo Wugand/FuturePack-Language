@@ -2,12 +2,12 @@
 	"Eine Kombination aus Zinn und Zink in einer geeigneten Flüssigkeit werden Teile von einem der Material abgetragen und wandern zum entsprechend anderen Element der Baterie. Dabei entsteht ein Eneergiestrom in die entgegengesetzte Richtung.",
 	"Durch Zufuhr von Energie kann der Prozess umkehert werden, was den Ausgangszustand langsam wieder her stellt.",
 	"Crafting:",
-	{"link":"fp:lang/part/cr_log.battery.normal.json"},
+	{"link":"futurepack:lang/part/cr_log.battery.normal.json"},
 	
 	"Mit meinen kleinen Energiespeichern kann ich Energie von Hand transportieren, allerdings sind diese kaum als automatisierte Speicher geeignet. Deshalb habe ich mehrere Energiespeicher zu einer Batteriebox verbunden.",
 	"Diese Speichereinheit kann man je nach Einstellung als Sammler, Quelle oder Puffer benutzen. Zudem habe ich im inneren Anschlüsse zum Laden/Entladen von Hand und zur dauerhaften vergrößerung der Kapazität (12 Slots) vorgesehen.",
 	"Crafting:",
-	{"link":"fp:lang/part/cr_log.batbox.json"},
+	{"link":"futurepack:lang/part/cr_log.batbox.json"},
 	"Eigenkapazität: 6000 NE",
 	"Einstellungen: Mit dem \"Logistikeditor\" können die Seiten des Blocks als Energieausgang oder Energieeingang eingestellt werden."
 ]

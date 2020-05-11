@@ -2,23 +2,23 @@
 	{
 		"type": "crafting",
 		"load": [
-		    "fp:metal_gate_0",
-		    "fp:color_gate_0_0",
-		    "fp:color_gate_1_0",
-		    "fp:color_gate_2_0",
-		    "fp:color_gate_3_0",
-		    "fp:color_gate_4_0",
-		    "fp:color_gate_5_0",
-		    "fp:color_gate_6_0",
-		    "fp:color_gate_7_0",
-		    "fp:color_gate_8_0",
-		    "fp:color_gate_9_0",
-		    "fp:color_gate_10_0",
-		    "fp:color_gate_11_0",
-		    "fp:color_gate_12_0",
-		    "fp:color_gate_13_0",
-		    "fp:color_gate_14_0",
-		    "fp:color_gate_15_0"
+		    "futurepack:metal_gate_0",
+		    "futurepack:color_gate_0_0",
+		    "futurepack:color_gate_1_0",
+		    "futurepack:color_gate_2_0",
+		    "futurepack:color_gate_3_0",
+		    "futurepack:color_gate_4_0",
+		    "futurepack:color_gate_5_0",
+		    "futurepack:color_gate_6_0",
+		    "futurepack:color_gate_7_0",
+		    "futurepack:color_gate_8_0",
+		    "futurepack:color_gate_9_0",
+		    "futurepack:color_gate_10_0",
+		    "futurepack:color_gate_11_0",
+		    "futurepack:color_gate_12_0",
+		    "futurepack:color_gate_13_0",
+		    "futurepack:color_gate_14_0",
+		    "futurepack:color_gate_15_0"
 		]
 	}
 ]

@@ -9,15 +9,15 @@
   "L\u0027Arbre des Technologies est représenté sur plusieurs onglets (sélectionnable sur le côté gauche de l\u0027écran). Au centre, il y a des icônes de Recherche qui peuvent être de 3 types:",
   "Recherche - Peut être recherché, Production et Utilisation de l\u0027objet possible",
   {
-    "link": "fp:lang/part/image_forschung.json"
+    "link": "futurepack:lang/part/image_forschung.json"
   },
   "Connaissance - Peut être recherché, Pas d\u0027utilisation de l\u0027Objet, mais favorise la compréhension",
   {
-    "link": "fp:lang/part/image_forschung2.json"
+    "link": "futurepack:lang/part/image_forschung2.json"
   },
   "Expérience - Ne peut pas être recherché, mais est autorisé par les accomplissements. Utilisation possible de l\u0027Objet",
   {
-    "link": "fp:lang/part/image_forschung3.json"
+    "link": "futurepack:lang/part/image_forschung3.json"
   },
   "En fonction de l\u0027avancée des recherches, il y a là aussi 3 cas possibles :",
   "Solide et coloré ; le concept est complété et il est possible de cliquer dessus, ce qui ouvre une page d\u0027information.",
@@ -32,7 +32,7 @@
   "Tout d\u0027abord, crafter un Scanner et un Module de Recherches dans une Table Technique. Vous pourrez trouver les instructions nécessaires dans l\u0027Arbre des Technologies. Vous aurez aussi besoin d\u0027une Presse Industrielle (se référer à l\u0027onglet \"Production\") pour cette tâche.",
   "Au début, la seule Recherche possible est \"Production 1\" :",
   {
-    "link": "fp:lang/part/image_forschung4.json"
+    "link": "futurepack:lang/part/image_forschung4.json"
   },
   "Dans l\u0027Arbre des Technologies, vous pouvez voir que le parent de cette \"Table Technique\" autorise le bloc du même nom. Cela veut dire que vous devrez mettre le Table Technique dans le Scanner. En jouant sur les aspects, vous pouvez trouver le(s) bon(s) (dans cet exemple, Thermodynamiques). Et enfin, cliquez encore sur \"Scan\". Le Blueprint est maintenant disponible.",
   "Dans une seconde étape, insérez ce Blueprint dans le Module de Recherches et cliquez sur le bouton \"Recherche\". La machine vous indique qu\u0027il faut ajouter 3 fours dans les emplacements de gauche pour compléter la recherche. Après cela, la barre grise en dessous de l\u0027emplacement commence à se remplir, indiquant que le process de recherche est en cours. Une fois que la barre est pleine, vous verrez un message dans le chat vous informant que vous pouvez consulter le résultat dans l\u0027Arbre des Technologies (accessible via le Scanner ou l\u0027E-Scanner).",

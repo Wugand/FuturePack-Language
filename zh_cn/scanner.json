@@ -4,7 +4,7 @@
   "一旦我创建了一个可实现的想法，结果将作为蓝图打印。这使我能够改进相关技术。",
   "合成:",
   {
-    "link": "fp:lang/part/crafting_scanner.json"
+    "link": "futurepack:lang/part/crafting_scanner.json"
   },
   "提示：首先阅读“研究系统”的信息。",
   "详细用法:",

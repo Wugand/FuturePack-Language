@@ -3,7 +3,7 @@
   "そこで私は、8000mbの容量を持つ専用の燃料タンクを開発しました。\nさらに、ロケット燃料を固体の状態で格納できる9スロットのスペースがあります。",
   "作成図:",
   {
-    "link": "fp:lang/part/crafting_space.tank.json"
+    "link": "futurepack:lang/part/crafting_space.tank.json"
   },
   "-注意:\nタンクはエンジンに直接接続させる必要はありません。船自体に接続されていれば十分です。"
 ]

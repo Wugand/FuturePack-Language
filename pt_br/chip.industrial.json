@@ -3,7 +3,7 @@
 	"Este chipset é mais útil nos geradores de energia, onde controla a geração e transformação de energia. Isso aumenta a produção de energia por tick ou o lucro adquirido dos recursos.",
 
 	"Montagem:",
-	{"link":"fp:lang/part/as_chip.industrial.json"},
+	{"link":"futurepack:lang/part/as_chip.industrial.json"},
 	
 	"Um chipset industrial de alta qualidade (mais poder) ou o uso de múltiplos chipset aumentará o efeito conformemente.",
 	"Dica: O efeito exato é determinado pela máquina suportada.",

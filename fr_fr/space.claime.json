@@ -5,6 +5,6 @@
   "La zone est délimitée par un contour jaune. Si les bords clignotent, c\u0027est qu\u0027il n\u0027est pas possible de la voir, par exemple, cela peut arriver quand on sélectionne du sous-sol.",
   "Craft :",
   {
-    "link": "fp:lang/part/crafting_space.claime.json"
+    "link": "futurepack:lang/part/crafting_space.claime.json"
   }
 ]

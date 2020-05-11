@@ -3,7 +3,7 @@
   "Wenn ich etwas finde werde ich einen entsprechenden Datensatz anfertigen, den ich in den Bordcomputer einlegen kann.",
   "Crafting:",
   {
-    "link": "fp:lang/part/crafting_space.navcord.menelaus.json"
+    "link": "futurepack:lang/part/crafting_space.navcord.menelaus.json"
   },
   "Benutzung mit \"Rechtsklick\"."
 ]

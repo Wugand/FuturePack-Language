@@ -2,10 +2,10 @@
   "精練処理に石炭(炭素)を使うことで、酸素やその他の汚染物質を除去できることが判明しました。",
   "そしてこの方法を砂ブロックに試したところ、茶色い光沢のある素材、シリコンを得ることができました。素材としては興味深いのですが、利用法が分かるのはまだ先のことなのでしょう...",
   {
-    "link": "fp:lang/part/industrialfurnace_production.ind.reduktion.json"
+    "link": "futurepack:lang/part/industrialfurnace_production.ind.reduktion.json"
   },
   "見つかるさまざまなクリスタルにとっても、これは効果的なようです。今後はこれらのインゴットも作ることができます。",
   {
-    "link": "fp:lang/part/industrialfurnace_production.ind.reduktion2.json"
+    "link": "futurepack:lang/part/industrialfurnace_production.ind.reduktion2.json"
   }
 ]

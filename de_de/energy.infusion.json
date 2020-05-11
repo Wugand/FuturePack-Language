@@ -3,7 +3,7 @@
 	"Mit diesem Prinzip habe ich einen Generator entwickelt, der Kristallfragmente in Lebensmittel oder Brennmaterial (außer Lava, Kohle) injiziert und die freigesetzte Wärme in Neonenergie umgewandelt. Als Abfallprodukt entsteht dabei Kristallstaub.",
 	
 	"Crafting:",
-	{"link":"fp:lang/part/cr_energy.infusion.json"},
+	{"link":"futurepack:lang/part/cr_energy.infusion.json"},
 	
 	"Die Menge an Energie, die aus einer Kombination erzeugt wird ist Abhängigkeit von: Dem Wert der Industirechipsätze, der Art des Kristalls und dem Nährwert/Brennwert des organischen Materials.",
 	"Durch die Erhöhung des \"Ram\"-Wertes wird diese Energie entsprechend schneller erzeugt und abgegeben.",

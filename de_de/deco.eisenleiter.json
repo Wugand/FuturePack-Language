@@ -1,5 +1,5 @@
 [
 	"Aus Eisenstangen habe ich eine Leiter gebaut, sie bringt keine wirklichen Vorteile gegenüber der normalen Holzleiter, ist aber in Metallgebäuden dekorativer.",
 	"Crafting:",
-	{"link":"fp:lang/part/cr_deco.eisenleiter.json"}
+	{"link":"futurepack:lang/part/cr_deco.eisenleiter.json"}
 ]

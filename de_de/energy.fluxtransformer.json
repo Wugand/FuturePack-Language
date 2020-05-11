@@ -1,6 +1,6 @@
 [
 	"Ich habe nun auch einen Konverter für die fremde Energieform entwickelt um diese in sichere Neonenergie umzuwandeln. Allerdings kann dieser bei hohen Durchflussraten ungewollte Nebeneffekte entwickeln, deshalb habe ich auch einen Strombegrenzer integriert.",
 	"Crafting:",
-	{"link":"fp:lang/part/crafting_energy.fluxtransformer.json"},
+	{"link":"futurepack:lang/part/crafting_energy.fluxtransformer.json"},
 	"Die rot markierte Seite ist der Eingang für RF-Energie. Der Konverter hat eine GUI in der er angeschaltet werden kann (rechter Knopf). Zudem kann dort der Strombegrenzer mit Hilfe der \"OK\" und Totenkopf Knöpfe eingestellt werden. Werte unter 400 RF/t sind dabei nicht von gefährlichen Effekten behaftet."
 ]

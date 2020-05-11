@@ -3,7 +3,7 @@
   "C\u0027est un câble normal auquel on a ajouté un revêtement de Glowtite, qui permet une transmission des points Support.",
   "Craft :",
   {
-    "link": "fp:lang/part/crafting_log.supportcable.json"
+    "link": "futurepack:lang/part/crafting_log.supportcable.json"
   },
   "Le câble en lui même ne peut pas stocker des informations, il faut donc prévoir une destination pour ne pas perdre des données."
 ]

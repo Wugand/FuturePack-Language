@@ -3,6 +3,6 @@
   "Wenn Flüssigkeit in die Rohrleitung abgegeben wird, wird versucht diese in ein gültiges Zielgefäs zu transportieren.",
   "Crafting:",
   {
-    "link": "fp:lang/part/crafting_log.tube.json"
+    "link": "futurepack:lang/part/crafting_log.tube.json"
   }
 ]

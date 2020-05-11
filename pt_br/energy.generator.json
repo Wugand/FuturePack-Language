@@ -2,7 +2,7 @@
 	"Eu fiz um motor Stirling simples e achei um jeito para transformar a rotação em energia de néon. O motor trabalha com dois cilindros; um está arrefecido e o outro está esquentado por fogo. Juntos, eles criam um sistema fechado que arrefece e esquenta o ar dentro, empurrando ele ao outro cilindro. Pela expansão e contratação de ar, o sistema gera energia.",
 	"O calor pode ser criado por qualquer tipo de material queimável. O gerador não é muito eficaz, mas é suficiente para meus usos.",
 	"Criando:",
-	{"link":"fp:lang/part/cr_energy.generator.json"},
+	{"link":"futurepack:lang/part/cr_energy.generator.json"},
 	
 	"Dados Técnicos:",
 	"Energia por Tick: 0.5 NE",

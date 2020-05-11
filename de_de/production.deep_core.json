@@ -2,11 +2,11 @@
   "Die Rohstoffe der Planeten sind begrenzt und schon bei einer geringen Tiefe wird das Gestein für normale Werkzeuge undurchdringbar. Allerdings vermute ich das es unter dem Grundstein noch eine nahezu unerschöpfliche Quelle an Ressourcen gibt. Der beste Ansatzpunkt sind die Grundsteinrisse mit einer geeigneten Bergbaumaschine sollte ich daraus Erze gewinnen können.",
   "Crafting:",
   {
-    "link": "fp:lang/part/crafting_production.deep_core.json"
+    "link": "futurepack:lang/part/crafting_production.deep_core.json"
   },
   "Konstruktion:",
   {
-    "link": "fp:lang/part/building_production.deep_core.json"
+    "link": "futurepack:lang/part/building_production.deep_core.json"
   },
   "Der Tiefen-Miner ist ein Konstrukt aus 8 Blöcken und muss mittig über einen Grundsteinriss platziert werden, durch einen Aktivierung des Basisblocks mit Hilfe des Schraubendrehschlüssels kann der Miner zusammengesetzt werden.",
   "An der Seite der Kisten, kann auf das Lager zugegriffen werden. Über die Vorderseite kann auf die eigentliche Bedienung zugegriffen werden. Mit Hilfe des Schraubendrehschlüssels kann das Computersystem im Basisblock (vorn unten) geändert werden, um die Maschine zu verbessern.",

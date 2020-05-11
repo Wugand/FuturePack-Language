@@ -2,22 +2,22 @@
 	{
 		"type": "crafting",
 		"load": [
-            "fp:color_gitter_pane_0",
-            "fp:color_gitter_pane_1",
-            "fp:color_gitter_pane_2",
-            "fp:color_gitter_pane_3",
-            "fp:color_gitter_pane_4",
-            "fp:color_gitter_pane_5",
-            "fp:color_gitter_pane_6",
-            "fp:color_gitter_pane_7",
-            "fp:color_gitter_pane_8",
-            "fp:color_gitter_pane_9",
-            "fp:color_gitter_pane_10",
-            "fp:color_gitter_pane_11",
-            "fp:color_gitter_pane_12",
-            "fp:color_gitter_pane_13",
-            "fp:color_gitter_pane_14",
-            "fp:color_gitter_pane_15"
+            "futurepack:color_gitter_pane_0",
+            "futurepack:color_gitter_pane_1",
+            "futurepack:color_gitter_pane_2",
+            "futurepack:color_gitter_pane_3",
+            "futurepack:color_gitter_pane_4",
+            "futurepack:color_gitter_pane_5",
+            "futurepack:color_gitter_pane_6",
+            "futurepack:color_gitter_pane_7",
+            "futurepack:color_gitter_pane_8",
+            "futurepack:color_gitter_pane_9",
+            "futurepack:color_gitter_pane_10",
+            "futurepack:color_gitter_pane_11",
+            "futurepack:color_gitter_pane_12",
+            "futurepack:color_gitter_pane_13",
+            "futurepack:color_gitter_pane_14",
+            "futurepack:color_gitter_pane_15"
 		]
 	}
 ]

@@ -4,7 +4,7 @@
 	"計算モジュールは研究装置に直接隣接させるか、ネットワークを介して接続する必要があります。\n(注:ネットワークの研究が完了していない場合があります)",
 	"研究装置には複数のモジュールを接続することができ、100%のRAMを持つモジュール一台で、通常の研究装置の4倍の計算能力を持ちます。\nモジュールの消費電力はRAM値によって上下します。",
 	"作成図:",
-	{"link":"fp:lang/part/cr_calculation.main.json"},
-	{"link":"fp:lang/part/cr_calculation.json"},
+	{"link":"futurepack:lang/part/cr_calculation.main.json"},
+	{"link":"futurepack:lang/part/cr_calculation.json"},
 	"解放直後であれば、研究装置には1~2のモジュールを接続できるはずです。"
 ]

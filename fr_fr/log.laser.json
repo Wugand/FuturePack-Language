@@ -2,7 +2,7 @@
   "Cette antenne est une simple et très utile extension pour un réseau. Je suis capable d\u0027étendre mon réseau, sans fil, même dans des cavernes profondes ou à travers des murs.",
   "Craft :",
   {
-    "link": "fp:lang/part/crafting_log.laser.json"
+    "link": "futurepack:lang/part/crafting_log.laser.json"
   },
   "La couverture de l\u0027antenne dépend du nombre de blocs métalliques connectés à l\u0027antenne émettrice et du nombre de blocs métalliques de l\u0027antenne réceptrice.",
   "",
@@ -11,7 +11,7 @@
   "A l\u0027origine, je voulais utiliser les ultras-violets pour transférer les données, mais la déflexion atmosphérique était trop grande et j\u0027ai dû utiliser des infrarouges.",
   "Craft:",
   {
-    "link": "fp:lang/part/crafting_log.laser.json"
+    "link": "futurepack:lang/part/crafting_log.laser.json"
   },
   "Pour que le laser fonctionne (même sur de longues distances) le transmetteur et le récepteur doivent être exactement sur la même ligne."
 ]

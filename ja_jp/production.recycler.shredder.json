@@ -3,7 +3,7 @@
   "これは製造した部品類を細断する2つのローラーで構成されています。この処理はさまざまなものに対応していますが、収量はやや低めです。",
   "作成図:",
   {
-    "link": "fp:lang/part/crafting_production.recycler.shredder.json"
+    "link": "futurepack:lang/part/crafting_production.recycler.shredder.json"
   },
   "-処理が可能なアイテム類:\nアセンブリテーブルによるすべての製品\n石\n植物,木,葉\nガラス,羊毛\n骨"
 ]

@@ -2,6 +2,6 @@
 	"Der Recycler kann nahezu jedes Biomaterial zu Kompost verarbeiten, weshalb ich eine Verwendung für entsprechend große Mengen gesucht habe. Ich habe bemerkt, dass bei der Zersetzung von Kompost brennbares, energiereiches Gas anfällt.",
 	"Mit Hilfe meiner neuen Erfindung kann ich diesen Prozess nutzbar machen. Das Gärfass nimmt Kompost auf und vergärt diesen zu Biogas und geringen Mengen Erde.",
 	"Crafting:",
-	{"link":"fp:lang/part/cr_energy.fermentation.json"},
+	{"link":"futurepack:lang/part/cr_energy.fermentation.json"},
 	"Info: Der Materialdurchsatz ist am höchsten, wenn der Stapel Kompost voll ist."
 ]

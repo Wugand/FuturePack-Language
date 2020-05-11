@@ -5,14 +5,14 @@
   "作成図 (不定形):",
   "範囲_I:",
   {
-    "link": "fp:lang/part/crafting_tools.grenade.slime.json"
+    "link": "futurepack:lang/part/crafting_tools.grenade.slime.json"
   },
   "範囲_II:",
   {
-    "link": "fp:lang/part/crafting_tools.grenade.slime2.json"
+    "link": "futurepack:lang/part/crafting_tools.grenade.slime2.json"
   },
   "範囲_III:",
   {
-    "link": "fp:lang/part/crafting_tools.grenade.slime3.json"
+    "link": "futurepack:lang/part/crafting_tools.grenade.slime3.json"
   }
 ]

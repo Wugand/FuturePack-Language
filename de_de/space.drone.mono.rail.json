@@ -1,6 +1,10 @@
 [
 	"Das Monocart benötigt nur eine Metallschiene, die ich aus einer Stützstruktur aus Verbundmetall und einer Eisenschiene konstruiere.",
 	"Crafting:",
-	{"link":"fp:lang/part/cr_space.drone.mono.rail.json"},
-	"Die Schiene kann nur auf solidem Untergrund gebaut werden."
+	{"link":"futurepack:lang/part/cr_space.drone.mono.rail.json"},
+	"Die Schiene kann nur auf solidem Untergrund gebaut werden.",
+	"Ebenso kann es nötig sein ein Monocart vertical zu bewegen, hierzu habe ich einen Aufzugschacht entwickelt.",
+	"Crafting:",
+	{"link":"futurepack:lang/part/cr_space.drone.mono.lift.json"},
+	"An einen Schacht beliebiger Höhe können exakt 2 Schienen angeschlossen werden. Der untere Zugang muss neben dem unteren und der obere neben dem oberen Block des Schachts platziert werden."
 ]

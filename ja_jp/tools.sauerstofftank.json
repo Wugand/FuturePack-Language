@@ -3,7 +3,7 @@
   "さらに制御装置とコンプレッサーを備え、水上に出た際の自動補充機能も追加しました。",
   "作成図:",
   {
-    "link": "fp:lang/part/crafting_tools.sauerstofftank.json"
+    "link": "futurepack:lang/part/crafting_tools.sauerstofftank.json"
   },
   "-容量: 2 分間\n-補充: 2 分間",
   "-表示:\nタンクの充填量は通常の酸素ゲージを使用して表示されます。\n2分経過しそれが尽きると、酸素タンクが空になったことになります。すると酸素ゲージが最大に戻り、そこから通常の速度で消耗してゆきます。",

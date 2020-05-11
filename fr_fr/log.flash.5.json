@@ -1,6 +1,6 @@
 [
 	"Pendant l'extraction de différents matériaux, j'ai remarqué que les extraits de terres rares peuvent se présenter sous plusieurs formes stables. En poussant mes expérimentations, j'ai choisi le Gadolinium pour lequel j'ai trouvé 5 formes d'isotopes stables. Le changement d'état peut aussi être déclenché par une exposition ciblée que je génère à partir d'un système de contrôle compliqué basé sur une structure cristalline d'émeraude. Depuis que j'ai des cellules avec 5 états à ma disposition, je peux stocker beaucoup plus de données.",	
 	"Assemblage:",
-	{"link":"fp:lang/part/as_log.flash.5.json"},
+	{"link":"futurepack:lang/part/as_log.flash.5.json"},
 	"Capacité: 2048 SP"
 ]

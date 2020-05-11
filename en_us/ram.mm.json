@@ -3,5 +3,5 @@
 	"The individual units can also assume dynamic values, meaning that they contain concrete states, each with a certain probability.",
 	"Data can also be accessed via conventional forms, Glowtite being especially suitable for this.",
 	"Assembly:",
-	{"link":"fp:lang/part/as_ram.mm.json"}
+	{"link":"futurepack:lang/part/as_ram.mm.json"}
 ]

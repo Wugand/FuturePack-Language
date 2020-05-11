@@ -5,8 +5,8 @@
 	"可以同时连接多个计算模块到研究台上，一个连有ram为100%的计算模块的研究台计算能力是普通研究台的4倍。模块的能量取决于它的ram。",
 
 	"合成:",
-	{"link":"fp:lang/part/cr_calculation.main.json"},
-	{"link":"fp:lang/part/cr_calculation.json"},
+	{"link":"futurepack:lang/part/cr_calculation.main.json"},
+	{"link":"futurepack:lang/part/cr_calculation.json"},
 
 	"目前,我最多只能为研究台附加2个计算模块。"
 ]

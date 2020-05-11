@@ -1,22 +1,22 @@
 [
   "铁棒:",
   {
-    "link": "fp:lang/part/crafting_util.json"
+    "link": "futurepack:lang/part/crafting_util.json"
   },
   "(空)储罐:",
   {
-    "link": "fp:lang/part/crafting_util2.json"
+    "link": "futurepack:lang/part/crafting_util2.json"
   },
   "线圈:",
   {
-    "link": "fp:lang/part/crafting_util3.json"
+    "link": "futurepack:lang/part/crafting_util3.json"
   },
   "冻鱼块 (像蛋糕那样食用):",
   {
-    "link": "fp:lang/part/crafting_util4.json"
+    "link": "futurepack:lang/part/crafting_util4.json"
   },
   "晶体砖块:",
   {
-    "link": "fp:lang/part/crafting_util5.json"
+    "link": "futurepack:lang/part/crafting_util5.json"
   }
 ]

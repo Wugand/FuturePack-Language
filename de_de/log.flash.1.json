@@ -4,11 +4,11 @@
   "Zur Organisation und zum Zugriff auf den Speicher genügt ein einfacher Logikchipsatz mit entsprechendem Programm.",
   "Assembly:",
   {
-    "link": "fp:lang/part/as_log.flash.1.json"
+    "link": "futurepack:lang/part/as_log.flash.1.json"
   },
   "Kapazität: 128 SP",
   "Information: Folgender Slot ist, falls in einer Maschine vorhanden zum Laden/Entladen von Flashspeichern.",
   {
-    "link": "fp:lang/part/image_log.flash.1.json"
+    "link": "futurepack:lang/part/image_log.flash.1.json"
   }
 ]

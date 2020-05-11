@@ -1,6 +1,6 @@
 [
   {
     "type": "crafting",
-    "load": ["fp:ind_neon_furn_2", "fp:ind_neon_furn_6", "fp:ind_neon_furn_10"]
+    "load": ["futurepack:ind_neon_furn_2", "futurepack:ind_neon_furn_6", "futurepack:ind_neon_furn_10"]
   }
 ]

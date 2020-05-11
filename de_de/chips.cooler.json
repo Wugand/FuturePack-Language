@@ -4,5 +4,5 @@
 	"Die Kühlleistung wird dabei mit der blauen (3), grünen (2) oder roten (1) Lampe am Kühler angezeigt.",
 
 	"Crafting:",
-	{"link":"fp:lang/part/cr_chips.cooler.json"}
+	{"link":"futurepack:lang/part/cr_chips.cooler.json"}
 ]

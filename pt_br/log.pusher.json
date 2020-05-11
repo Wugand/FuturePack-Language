@@ -4,6 +4,22 @@
 
 	"Montagem:",
 	{
+<<<<<<< HEAD
  		 "link": "fp:lang/part/crafting_log.pusher.json"
+=======
+		"type": "crafting",
+		"slots": {
+			"1": {"OreDict":"ingotAluminum"},
+			"2": {"OreDict":"ingotAluminum"},
+			"3": {"OreDict":"ingotAluminum"},
+			"4": {"name":"minecraft:chest", "meta":0},
+			"5": {"OreDict":"dustRedstone"},
+			"6": {"name":"minecraft:bow", "meta":0},
+			"7": {"OreDict":"ingotAluminum"},
+			"8": {"OreDict":"ingotAluminum"},
+			"9": {"OreDict":"ingotAluminum"},
+			"out": {"name":"futurepack:pucher", "meta":0, "size":1}
+		}
+>>>>>>> 65ef30f4da434cc7974e43802f3abaa4f67d77d7
 	}
 ]

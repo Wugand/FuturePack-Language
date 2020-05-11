@@ -3,6 +3,6 @@
   "機械がレッドストーン信号を受けると、入れておいたブロックを機械の正面に設置することができます。",
   "作成図:",
   {
-    "link": "fp:lang/part/crafting_production.blockplacer.json"
+    "link": "futurepack:lang/part/crafting_production.blockplacer.json"
   }
 ]

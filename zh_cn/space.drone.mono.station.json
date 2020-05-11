@@ -4,6 +4,6 @@
 	"此外，您可以调整每个标记槽的物品数量（左键：+1，右键：-1，shift+左箭：+10，shift+右键：-10）。 超过64代表无限/所有物品。",
 	"配置的装载计数表示在矿车中放置的这种类型的物品的总量，而卸载计数表示从矿车获取的物品的数量。",
 	"合成:",
-	{"link":"fp:lang/part/cr_space.drone.mono.station.json"},
+	{"link":"futurepack:lang/part/cr_space.drone.mono.station.json"},
 	"单轨站没有自己的物品槽，因此单轨站只能紧靠着容器才能起作用。"
 ]

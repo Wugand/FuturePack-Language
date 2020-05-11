@@ -4,23 +4,23 @@
     "blocks": [
       [
         [
-          "fp:composite_chest",
-          "fp:color_luftung",
-          "fp:color_iron_fence"
+          "futurepack:composite_chest",
+          "futurepack:color_luftung_white",
+          "futurepack:color_iron_fence_white"
         ]
       ],
       [
         [
-          "fp:composite_chest",
-          "fp:entity_eater",
-          "fp:color_iron_fence"
+          "futurepack:composite_chest",
+          "futurepack:entity_killer",
+          "futurepack:color_iron_fence_white"
         ]
       ],
       [
         [
-          "fp:composite_chest",
+          "futurepack:composite_chest",
           "minecraft:air",
-          "fp:deep_core_miner"
+          "futurepack:deepcore_miner"
         ]
       ]
     ]

@@ -2,10 +2,10 @@
     "Crafting:",
     {
         "type":"crafting",
-        "load": "fp:spaceship_48"
+        "load": "futurepack:spaceship_48"
     },
     {
         "type":"crafting",
-        "load": "fp:sword_neon_0"
+        "load": "futurepack:sword_neon_0"
     }
 ]

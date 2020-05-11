@@ -5,7 +5,7 @@
   "Ce module doit être connecté directement ou par l\u0027intermédiaire du réseau au Module de Recherches, le travail se faisant toujours via le Module de Recherche de base.",
   "Craft :",
   {
-    "link": "fp:lang/part/crafting_upgradet3.json"
+    "link": "futurepack:lang/part/crafting_upgradet3.json"
   },
   "Ce module peut contenir au maximum 1 500 XP (ce qui correspond environ au niveau 31). Si ce n\u0027est pas suffisant, je peux combiner plusieurs module d\u0027XP."
 ]

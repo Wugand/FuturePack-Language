@@ -3,7 +3,7 @@
   "It can supply any tool with energy and activate it. During this process, the machine can deconstruct a suitable unit into up to 9 parts, the speed of which depends on the power of the embedded computer system.",
   "Crafting:",
   {
-    "link": "fp:lang/part/crafting_production.recycler.json"
+    "link": "futurepack:lang/part/crafting_production.recycler.json"
   },
   "Supported Chipsets:",
   "Logic Chipset\nTransport Chipset\nRedstone Control Chipset\nSupport Chipset\nDamage Control Chipset"

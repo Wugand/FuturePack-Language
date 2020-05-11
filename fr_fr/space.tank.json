@@ -3,7 +3,7 @@
   "C\u0027est pourquoi j\u0027ai développé un réservoir de carburant capable de contenir jusqu\u0027à 8000mB. De plus, il y a 21 emplacements additionnels pour stocker du carburant de fusée sous forme solide.",
   "Craft :",
   {
-    "link": "fp:lang/part/crafting_space.tank.json"
+    "link": "futurepack:lang/part/crafting_space.tank.json"
   },
   "Note : Les réservoirs n\u0027ont pas besoin d\u0027être connectés directement aux moteurs. Un simple connexion au vaisseau suffira."
 ]

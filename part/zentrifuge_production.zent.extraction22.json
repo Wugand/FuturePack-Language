@@ -3,11 +3,11 @@
     "type": "zentrifuge",
     "slots": {
       "in": {
-        "OreDict": "oreDiamond",
+        "tag": "forge:ores/diamond",
         "size": 4
       },
       "out1": {
-        "OreDict": "gemDiamond",
+        "tag": "forge:gems/diamond",
         "size": 12
       },
       "out2": {
@@ -16,7 +16,7 @@
         "meta": 0
       },
       "out3": {
-        "OreDict": "nuggetGold",
+        "tag": "forge:nuggets/gold",
         "size": 12
       }
     },

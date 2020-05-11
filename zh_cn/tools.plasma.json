@@ -7,15 +7,15 @@
 		"type": "crafting",
 		"slots": {
 			"1": {},
-			"2": {"name":"fp:spaceship", "meta":"<spaceship.NeonCoil>"},
-			"3": {"name":"fp:spaceship", "meta":"<spaceship.CopperParts>"},
+			"2": {"name":"futurepack:spaceship", "meta":"<spaceship.NeonCoil>"},
+			"3": {"name":"futurepack:spaceship", "meta":"<spaceship.CopperParts>"},
 			"4": "OreDict:ingotAluminum",
 			"5": "OreDict:dustNeon",
-			"6": {"name":"fp:spaceship", "meta":"<spaceship.NeonCoil>"},
-			"7": {"name":"fp:spaceship", "meta":"<spaceship.Tank>"},
+			"6": {"name":"futurepack:spaceship", "meta":"<spaceship.NeonCoil>"},
+			"7": {"name":"futurepack:spaceship", "meta":"<spaceship.Tank>"},
 			"8": "OreDict:ingotAluminum",
-			"9": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
-			"out": {"name":"fp:plasmaschneider", "meta":2500, "size":1}
+			"9": {"name":"futurepack:spaceship", "meta":"<spaceship.IronStick>"},
+			"out": {"name":"futurepack:plasmaschneider", "meta":2500, "size":1}
 		}
 	},
 	"需要充入氖能量。 如果能量耗尽, 切割器将会自毁。",

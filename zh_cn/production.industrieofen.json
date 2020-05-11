@@ -2,11 +2,7 @@
   "这台先进的炉子是通过熔岩来驱动的，可以插入桶或者管道。它可以通过将熔岩冷却成黑曜石这一大量的放热过程来熔化物品，该炉子可以同时熔化3个物品！",
   "合成:",
   {
-    "link": "fp:lang/part/crafting_production.industrieofen.json"
-  },
-  "(GUI):",
-  {
-    "link": "fp:lang/part/industrialfurnace_production.industrieofen2.json"
+    "link": "futurepack:lang/part/crafting_production.industrieofen.json"
   },
   "技术数据:",
   "熔岩消耗: 每熔化一个物品消耗10mB",

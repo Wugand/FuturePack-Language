@@ -3,7 +3,7 @@
   "Mit einem Steuergerät sowie einem einfachen Kompressor habe ich das Gerät so ergänzt, dass sich die Tanks an Land automatisch wieder auffüllen.",
   "Crafting:",
   {
-    "link": "fp:lang/part/crafting_tools.sauerstofftank.json"
+    "link": "futurepack:lang/part/crafting_tools.sauerstofftank.json"
   },
   "Kapazität: 2 min",
   "Auffüllen: 2 min",

@@ -2,8 +2,9 @@
 	"Eu criei uma bancada especial para realizar experimentos e melhorar minhas idéias. Assim eu posso terminar meus projetos e adicioná-los a meu base de dados.",
 	"Montagem:",
         {
-             "link": "fp:lang/part/crafting_forscher.json"
-        },
+	"Criando:",
+	{ "link": "futurepack:lang/part/crafting_forscher.json" },
+
 	"Dica: Leia a informação em \"O Sistema de Pesquisa\" primeiro.",
 	"Uso detalhado:",
 	"(Neste texto, tem os conceitos Energia, Apoio, Experiência, e Rede; estes conceito serão somente disponíveis mais tarde no jogo.)",

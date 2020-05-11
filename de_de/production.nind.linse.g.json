@@ -2,6 +2,6 @@
   "Für die Manipulation von Nanostrukturen, benötige ich eine sehr präzise und genau einstellbaren Laserstrahl.",
   "Hierzu habe ich eine neue Linse entwickelt, die mittels elektrischer Beeinflussung eines Edelsteins einen solchen Laserstrahl erzeugen kann. Aufgrund der benötigten Genauigkeit benötigt die Herstellung sehr viele Supportpunkte.",
   {
-    "link": "fp:lang/part/industrialneonfurnace_production.nind.linse.g.json"
+    "link": "futurepack:lang/part/industrialneonfurnace_production.nind.linse.g.json"
   }
 ]

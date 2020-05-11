@@ -4,7 +4,7 @@
 	"A organização internal é acesso ao módulo de memória é fácil: só precisa de um chipset de lógica.",
 	
 	"Montagem:",
-	{"link":"fp:lang/part/as_log.flash.1.json"},
+	{"link":"futurepack:lang/part/as_log.flash.1.json"},
 	"Capacidade: 128 SP (pontos de apoio)",
 	
 	"Informação: O lugar seguinte é para o carregamento e descarregamento de memórias flash (já existente em algumas máquinas).",
@@ -12,7 +12,7 @@
 		"type":"image",
 		"width":32,
 		"height":32,
-		"resource":"fp:textures/research/slot_support.png"
+		"resource":"futurepack:textures/research/slot_support.png"
 	}
 	
 ]

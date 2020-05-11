@@ -1,9 +1,9 @@
 [
   "溶岩熱製錬炉からの古いレシピを、最適化させることができました。",
   {
-    "link": "fp:lang/part/industrialneonfurnace_production.nind.reloaded.json"
+    "link": "futurepack:lang/part/industrialneonfurnace_production.nind.reloaded.json"
   },
   {
-    "link": "fp:lang/part/industrialneonfurnace_production.nind.reloaded2.json"
+    "link": "futurepack:lang/part/industrialneonfurnace_production.nind.reloaded2.json"
   }
 ]

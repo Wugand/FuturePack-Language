@@ -2,7 +2,7 @@
 	"Ich konnte einen einfachen Stirlingmotor bauen und die Drehbewegung in Neonenergie umwandeln. Der Motor beruht dabei auf 2 Zylindern, von denen einer durch die Umgebung gekühlt wird und der andere durch ein Feuer erhitzt. Die Zylinder bilden dabei zusammen ein geschlossenes System, in dem Luft erhitzt/abgekühlt und in den jeweils anderen Zylinder gedrückt wird. Die Ausdehnung und das Zusammenziehen der Luft erzeugt dabei Energie.",
 	"Die Hitze kann, dank des speziellen Designs, dabei durch jedes beliebige Brennmaterial erzeugt werden. Allerdings ist der Generator nicht besonders leistungsstark, sollte für meine momentanen Zwecke allerdings ausreichen.",
 	"Crafting:",
-	{"link":"fp:lang/part/cr_energy.generator.json"},
+	{"link":"futurepack:lang/part/cr_energy.generator.json"},
 	
 	"Technische Daten:",
 	"Energie pro Tick: 0.5 NE",

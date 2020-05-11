@@ -2,6 +2,6 @@
     "Da ich Maschinen stark übertakten will, um maximale Geschwindigkeiten zu bekommen, habe ich einen aktiven Wasserkühler erfunden.",
     "Allerdings will ich die Energie nicht verschwenden, deswegen wird erst ab ~100°C richtig gekühlt und Wasserdampf erzeugt.",
 	"Crafting:",
-	{"link":"fp:lang/part/cr_chips.watercooler.json"},
+	{"link":"futurepack:lang/part/cr_chips.watercooler.json"},
 	"Über Item-Rohre kann ich Wassereimer in den Kühler bringen, allerdings kommt auf der Oberseite der Dampf heraus, ich kann also nur an den Seiten Items einführen."
 ]

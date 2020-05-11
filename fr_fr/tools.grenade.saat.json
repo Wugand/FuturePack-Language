@@ -5,14 +5,14 @@
   "Craft :",
   "Force 1:",
   {
-    "link": "fp:lang/part/crafting_tools.grenade.saat.json"
+    "link": "futurepack:lang/part/crafting_tools.grenade.saat.json"
   },
   "Force 2:",
   {
-    "link": "fp:lang/part/crafting_tools.grenade.saat2.json"
+    "link": "futurepack:lang/part/crafting_tools.grenade.saat2.json"
   },
   "Force 3:",
   {
-    "link": "fp:lang/part/crafting_tools.grenade.saat3.json"
+    "link": "futurepack:lang/part/crafting_tools.grenade.saat3.json"
   }
 ]

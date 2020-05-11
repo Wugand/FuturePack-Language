@@ -6,16 +6,16 @@
 	{
 		"type": "crafting",
 		"slots": {
-			"1": {"name":"fp:spaceship", "meta":"<spaceship.keramik>"},
-			"2": {"name":"fp:spaceship", "meta":"<spaceship.IronParts>"},
-			"3": {"name":"fp:spaceship", "meta":"<spaceship.keramik>"},
-			"4": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"5": {"name":"fp:spaceship", "meta":"<spaceship.Polymer>"},
-			"6": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"7": {"name":"fp:spaceship", "meta":"<spaceship.keramik>"},
-			"8": {"name":"fp:spaceship", "meta":"<spaceship.IronParts>"},
-			"9": {"name":"fp:spaceship", "meta":"<spaceship.keramik>"},
-			"out": {"name":"fp:modular_door", "meta":0, "size":2}
+			"1": {"name":"futurepack:spaceship", "meta":"<spaceship.keramik>"},
+			"2": {"name":"futurepack:spaceship", "meta":"<spaceship.IronParts>"},
+			"3": {"name":"futurepack:spaceship", "meta":"<spaceship.keramik>"},
+			"4": {"name":"futurepack:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"5": {"name":"futurepack:spaceship", "meta":"<spaceship.Polymer>"},
+			"6": {"name":"futurepack:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"7": {"name":"futurepack:spaceship", "meta":"<spaceship.keramik>"},
+			"8": {"name":"futurepack:spaceship", "meta":"<spaceship.IronParts>"},
+			"9": {"name":"futurepack:spaceship", "meta":"<spaceship.keramik>"},
+			"out": {"name":"futurepack:modular_door", "meta":0, "size":2}
 		}
 	},
 	"Exemplo:",
@@ -23,6 +23,6 @@
 		"type":"image",
 		"width":96,
 		"height":116,
-		"resource":"fp:textures/mdoor.png"
+		"resource":"futurepack:textures/mdoor.png"
 	}
 ]

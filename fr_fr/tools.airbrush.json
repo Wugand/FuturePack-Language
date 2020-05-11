@@ -3,11 +3,11 @@
   "C\u0027est un pistolet à peinture, qui pulvérise le produit placé dans un réservoir. Cet outil peut colorer des blocs, mais aussi de les décaper en envoyant du sable pour retirer la couleur. Pour cela on utilise du sable ou du gravier.",
   "Craft :",
   {
-    "link": "fp:lang/part/crafting_tools.airbrush.json"
+    "link": "futurepack:lang/part/crafting_tools.airbrush.json"
   },
   "Réservoir à Couleur :",
   {
-    "link": "fp:lang/part/crafting_tools.airbrush2.json"
+    "link": "futurepack:lang/part/crafting_tools.airbrush2.json"
   },
   "Utilisation :",
   "§lsShift + clic Droit§r : ouvre l\u0027inventaire du pistolet à peinture pour mettre le réservoir à couleur ou le sable/gravier.",

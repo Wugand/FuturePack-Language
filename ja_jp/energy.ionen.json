@@ -4,6 +4,6 @@
 "強い日光や雷雨にみまわれた環境では、特に多くのイオンが発生します。\nイオンコレクターは非常に効率よくそれらを変換することができ、この機能によって夜間でもエネルギーを生成することが可能です。",
   "作成図:",
   {
-    "link": "fp:lang/part/crafting_energy.ionen.json"
+    "link": "futurepack:lang/part/crafting_energy.ionen.json"
   }
 ]

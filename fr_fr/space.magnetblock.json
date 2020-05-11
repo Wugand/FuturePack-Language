@@ -2,7 +2,7 @@
   "Bien qu\u0027une simple barre d\u0027aimant soit utile, elle est relativement faible. C\u0027est pourquoi, j\u0027en ai connecté plusieurs pour créer un grand bloc magnétique.",
   "Craft :",
   {
-    "link": "fp:lang/part/crafting_space.magnetblock.json"
+    "link": "futurepack:lang/part/crafting_space.magnetblock.json"
   },
   "Il peut attirer des objets, wagonnets ou autres objets en métal s\u0027ils sont positionnés dans un rayon de 5 blocs.",
   "Ça me fait demander ce qu\u0027il se passerait si d\u0027autres aimants étaient en présence de ce blocs."

@@ -3,7 +3,7 @@
   "The pulse is activated via a redstone signal, which is probably due to the Retium.",
   "Crafting:",
   {
-    "link": "fp:lang/part/crafting_space.gravity.json"
+    "link": "futurepack:lang/part/crafting_space.gravity.json"
   },
   "It\u0027s also possible I am entirely incorrect and I have discovered something quite different from gravity."
 ]

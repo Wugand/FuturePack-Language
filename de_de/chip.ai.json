@@ -1,6 +1,6 @@
 [
     "Ich habe einen Chip entwickelt der die Entscheidungsfähigkeit des Computersystems verbessert.",
     "Assembly:",
-	{"link":"fp:lang/part/as_chip.ai.json"},
+	{"link":"futurepack:lang/part/as_chip.ai.json"},
     "Durch den KI (Künstliche Intelligenz) Chip kann zum Beispiel der Absorptionslaser (Entity Eater) keine Ziele mehr töten, sondern lässt sie nur stark geschwächt zurück."
 ]

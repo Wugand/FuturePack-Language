@@ -3,13 +3,13 @@
   "この処理を行ってゆくと、岩石類は最終的に砂になります。",
   "実例:",
   {
-    "link": "fp:lang/part/zentrifuge_production.zent.extraction1.json"
+    "link": "futurepack:lang/part/zentrifuge_production.zent.extraction1.json"
   },
   {
-    "link": "fp:lang/part/zentrifuge_production.zent.extraction12.json"
+    "link": "futurepack:lang/part/zentrifuge_production.zent.extraction12.json"
   },
   {
-    "link": "fp:lang/part/zentrifuge_production.zent.extraction13.json"
+    "link": "futurepack:lang/part/zentrifuge_production.zent.extraction13.json"
   },
   "-通知:\n遠心分離機には多くのレシピがあり、ここに掲載されているものが全てではありません！"
 ]

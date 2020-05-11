@@ -2,7 +2,7 @@
   "J\u0027ai développé un outil qui permet de changer l\u0027apparence physique d\u0027un bloc.",
   "Je peux scanner un bloc et stocker sa structure visuelle dans l\u0027appareil, puis la transférer à un autre bloc qui le support.",
   {
-    "link": "fp:lang/part/crafting_tools.hologramm.json"
+    "link": "futurepack:lang/part/crafting_tools.hologramm.json"
   },
   "§lShift + Clic Droit§r pour sauvegarder une structure",
   "Simple §lClic Droit§r pour modifier l\u0027apparence",

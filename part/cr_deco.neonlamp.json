@@ -2,22 +2,22 @@
 	{
 		"type": "crafting",
 		"load": [
-		    "fp:color_neon_on_0",
-		    "fp:color_neon_on_1",
-		    "fp:color_neon_on_2",
-		    "fp:color_neon_on_3",
-		    "fp:color_neon_on_4",
-		    "fp:color_neon_on_5",
-		    "fp:color_neon_on_6",
-		    "fp:color_neon_on_7",
-		    "fp:color_neon_on_8",
-		    "fp:color_neon_on_9",
-		    "fp:color_neon_on_10",
-		    "fp:color_neon_on_11",
-		    "fp:color_neon_on_12",
-		    "fp:color_neon_on_13",
-		    "fp:color_neon_on_14",
-		    "fp:color_neon_on_15"
+		    "futurepack:color_neon_on_0",
+		    "futurepack:color_neon_on_1",
+		    "futurepack:color_neon_on_2",
+		    "futurepack:color_neon_on_3",
+		    "futurepack:color_neon_on_4",
+		    "futurepack:color_neon_on_5",
+		    "futurepack:color_neon_on_6",
+		    "futurepack:color_neon_on_7",
+		    "futurepack:color_neon_on_8",
+		    "futurepack:color_neon_on_9",
+		    "futurepack:color_neon_on_10",
+		    "futurepack:color_neon_on_11",
+		    "futurepack:color_neon_on_12",
+		    "futurepack:color_neon_on_13",
+		    "futurepack:color_neon_on_14",
+		    "futurepack:color_neon_on_15"
 		]
 	}
 ]

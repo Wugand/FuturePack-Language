@@ -3,7 +3,7 @@
   "Si cette machine est placée devant un bloc et qu\u0027elle est activée par une impulsion de Redstone, elle cassera le bloc qui tombera derrière-elle.",
   "Craft :",
   {
-    "link": "fp:lang/part/crafting_production.blockbreaker.json"
+    "link": "futurepack:lang/part/crafting_production.blockbreaker.json"
   },
   "Cette machine peut être améliorée en mettant un livre enchanté à l\u0027intérieur."
 ]

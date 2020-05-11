@@ -10,12 +10,12 @@
 			"2": {"OreDict":"ingotIron"},
 			"3": {},
 			"4": {"OreDict":"ingotIron"},
-			"5": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
+			"5": {"name":"futurepack:spaceship", "meta":"<spaceship.IronStick>"},
 			"6": {"OreDict":"ingotIron"},
 			"7": {},
 			"8": {"OreDict":"ingotIron"},
 			"9": {},
-			"out": [{"name":"fp:shredder","meta":0}]
+			"out": [{"name":"futurepack:shredder","meta":0}]
 		}
 	},
 	

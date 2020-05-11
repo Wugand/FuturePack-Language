@@ -2,6 +2,6 @@
 	"Si j'alimente une diode laser avec une grande quantité d'énergie pendant un temps très court, cela crée une très forte pulsation Laser. Cependant, entre deux activations, il faut un certain temps pour recharger",
 	"Je me suis arrangé pour mettre le système entier dans une arme portable. L'impulsion émise provoque énormément de dommage.",
 	"Craft :",
-	{"link":"fp:lang/part/cr_tools.laserrifle.json"},
+	{"link":"futurepack:lang/part/cr_tools.laserrifle.json"},
 	"De l'énergie Néon est nécessaire pour (re)charger. Si la charge restante est plus petite que 18 NE, plus aucun tir ne pourra être effectué."
 ]

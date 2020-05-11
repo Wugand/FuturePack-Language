@@ -3,7 +3,7 @@
   "此外，新的电缆没有信号强度的损失，可以简单地连接到原版的红石电路。",
   "合成:",
   {
-    "link": "fp:lang/part/crafting_log.redstonecable.json"
+    "link": "futurepack:lang/part/crafting_log.redstonecable.json"
   },
   "这种电缆特别方便地为机器和灯具提供红石信号。"
 ]

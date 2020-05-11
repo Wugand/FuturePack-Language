@@ -4,7 +4,7 @@
   "我可以把它应用到所有的水晶类型，但是我必须先把它们磨碎。",
   "例:",
   {
-    "link": "fp:lang/part/zentrifuge_production.zent.neon.json"
+    "link": "futurepack:lang/part/zentrifuge_production.zent.neon.json"
   },
   "信息：离心机有很多配方，所以在这里并没有全部列出！"
 ]

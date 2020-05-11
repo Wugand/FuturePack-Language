@@ -3,7 +3,7 @@
 	"Usando esta idéia, eu criei um gerador que injeta fragmentos de cristais em comida ou materiais queimáveis (não lava ou carvão). O calor produzido pode ser virado para energia de néon. Um resíduo produzido pela máquina é poeira fina de cristal de néon.",
 	 
 	"Criando:",
-	{"link":"fp:lang/part/cr_energy.infusion.json"},
+	{"link":"futurepack:lang/part/cr_energy.infusion.json"},
 	
 	"A quantidade de energia depende de: o valor dos chipsets industriais, o tipo de cristal, e o valor da comida/combustível usado.",
 	"Ao aumentar o valor do \"RAM\", eu posso causar uma geração mais rápida e emitir energia mais rapidamente.",

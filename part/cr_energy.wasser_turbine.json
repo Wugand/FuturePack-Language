@@ -1,6 +1,6 @@
 [
 	{
 		"type": "crafting",
-		"load": ["fp:wasser_turbine_0", "fp:wasser_turbine_1", "fp:wasser_turbine_2"]
+		"load": ["futurepack:wasser_turbine_0", "futurepack:wasser_turbine_1", "futurepack:wasser_turbine_2"]
 	}
 ]

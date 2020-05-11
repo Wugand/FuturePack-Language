@@ -4,7 +4,7 @@
   "Once I have created an implementable idea, the result will be printable as a Blueprint. This allows me to improve the related technology.",
   "Crafting:",
   {
-    "link": "fp:lang/part/crafting_scanner.json"
+    "link": "futurepack:lang/part/crafting_scanner.json"
   },
   "Hint: Read the information at \"The Research System\" first.",
   "Usage in detail:",

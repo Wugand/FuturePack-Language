@@ -8,22 +8,22 @@
 			"1": {},
 			"2": {"name":"minecraft:nether_wart", "meta":0},
 			"3": {},
-			"4": {"name":"fp:spaceship", "meta":"<spaceship.HackSchnitzel>"},
+			"4": {"name":"futurepack:spaceship", "meta":"<spaceship.HackSchnitzel>"},
 			"5": {"name":"minecraft:water_bucket", "meta":0},
 			"6": {"name":"minecraft:gunpowder", "meta":0},
 			"7": {},
 			"8": {"name":"minecraft:fermented_spider_eye", "meta":0},
 			"9": {},
-			"out": {"name":"fp:spaceship", "meta":"<spaceship.Chemicals>", "size":32}
+			"out": {"name":"futurepack:spaceship", "meta":"<spaceship.Chemicals>", "size":32}
 		}
 	},
 	{
 		"type": "industrialneonfurnace",
 		"slots": {
-			"in1":  {"name":"fp:spaceship", "meta":"<spaceship.Fibers>", "size":1},
-			"in2":  {"name":"fp:spaceship", "meta":"<spaceship.Chemicals>", "size":1},
-			"in3":  {"name":"fp:spaceship", "meta":"<spaceship.Fibers>", "size":1},
-			"out1": {"name":"fp:spaceship",  "meta":"<spaceship.Polymer>", "size":1},
+			"in1":  {"name":"futurepack:spaceship", "meta":"<spaceship.Fibers>", "size":1},
+			"in2":  {"name":"futurepack:spaceship", "meta":"<spaceship.Chemicals>", "size":1},
+			"in3":  {"name":"futurepack:spaceship", "meta":"<spaceship.Fibers>", "size":1},
+			"out1": {"name":"futurepack:spaceship",  "meta":"<spaceship.Polymer>", "size":1},
 			"out2": {},
 			"out3": {}
 		},

@@ -2,6 +2,6 @@
   "J\u0027ai crée une bêche faite avec du métal composite, la rendant plus efficace et durable par rapport aux outils traditionnels. Une bêche est meilleure qu\u0027une pelle pour creuser des trous.",
   "Craft :",
   {
-    "link": "fp:lang/part/crafting_tools.composite_spade.json"
+    "link": "futurepack:lang/part/crafting_tools.composite_spade.json"
   }
 ]

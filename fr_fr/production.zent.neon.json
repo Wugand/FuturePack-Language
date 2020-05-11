@@ -4,7 +4,7 @@
   "Je peux appliquer cette méthode à tous les cristaux, mais je dois d\u0027abord les réduire en poussière.",
   "Exemple :",
   {
-    "link": "fp:lang/part/zentrifuge_production.zent.neon.json"
+    "link": "futurepack:lang/part/zentrifuge_production.zent.neon.json"
   },
   "Information : La centrifugeuse a un nombre important de recettes, qui ne sont pas toutes listées ici !"
 ]

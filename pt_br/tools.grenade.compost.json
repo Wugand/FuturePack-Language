@@ -8,8 +8,8 @@
 	{
 		"type": "crafting",
 		"slots": {
-			"1": {"name":"fp:grenade", "meta":0},
-			"2": {"name":"fp:spaceship", "meta":"<spaceship.Kompost>"},
+			"1": {"name":"futurepack:grenade", "meta":0},
+			"2": {"name":"futurepack:spaceship", "meta":"<spaceship.Kompost>"},
 			"3": {},
 			"4": {},
 			"5": {},
@@ -17,39 +17,39 @@
 			"7": {},
 			"8": {},
 			"9": {},
-			"out": {"name":"fp:grenade", "meta":5, "size":1}
+			"out": {"name":"futurepack:grenade", "meta":5, "size":1}
 		}
 	},
 	"Nível 2:",
 	{
 		"type": "crafting",
 		"slots": {
-			"1": {"name":"fp:grenade", "meta":0},
-			"2": {"name":"fp:spaceship", "meta":"<spaceship.Kompost>"},
+			"1": {"name":"futurepack:grenade", "meta":0},
+			"2": {"name":"futurepack:spaceship", "meta":"<spaceship.Kompost>"},
 			"3": {},
-			"4": {"name":"fp:spaceship", "meta":"<spaceship.Kompost>"},
+			"4": {"name":"futurepack:spaceship", "meta":"<spaceship.Kompost>"},
 			"5": {},
 			"6": {},
 			"7": {},
 			"8": {},
 			"9": {},
-			"out": {"name":"fp:grenade", "meta":5, "size":1}
+			"out": {"name":"futurepack:grenade", "meta":5, "size":1}
 		}
 	},
 	"Nível 3:",
 	{
 		"type": "crafting",
 		"slots": {
-			"1": {"name":"fp:grenade", "meta":0},
-			"2": {"name":"fp:spaceship", "meta":"<spaceship.Kompost>"},
-			"3": {"name":"fp:spaceship", "meta":"<spaceship.Kompost>"},
-			"4": {"name":"fp:spaceship", "meta":"<spaceship.Kompost>"},
+			"1": {"name":"futurepack:grenade", "meta":0},
+			"2": {"name":"futurepack:spaceship", "meta":"<spaceship.Kompost>"},
+			"3": {"name":"futurepack:spaceship", "meta":"<spaceship.Kompost>"},
+			"4": {"name":"futurepack:spaceship", "meta":"<spaceship.Kompost>"},
 			"5": {},
 			"6": {},
 			"7": {},
 			"8": {},
 			"9": {},
-			"out": {"name":"fp:grenade", "meta":5, "size":1}
+			"out": {"name":"futurepack:grenade", "meta":5, "size":1}
 		}
 	}
 ]

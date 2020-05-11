@@ -1,6 +1,6 @@
 [
   {
     "type": "crafting",
-    "load": ["fp:scanner_block_2", "fp:scanner_block_6", "fp:scanner_block_10"]
+    "load": ["futurepack:scanner_block_2", "futurepack:scanner_block_6", "futurepack:scanner_block_10"]
   }
 ]

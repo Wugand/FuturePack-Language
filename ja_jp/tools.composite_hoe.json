@@ -2,6 +2,6 @@
   "複合金属のクワを開発し、従来のツールよりも強く、耐久性のあるものにしました。\n特に根を刈り取る機能は、農作業を楽にしてくれました。",
   "作成図:",
   {
-    "link": "fp:lang/part/crafting_tools.composite_hoe.json"
+    "link": "futurepack:lang/part/crafting_tools.composite_hoe.json"
   }
 ]

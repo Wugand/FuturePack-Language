@@ -1,0 +1,9 @@
+[
+  "Ich habe mein Item-Transportsystem weiter verbessert, damit ich Items anziehen kann. Der Itemempfänger zieht Items über das Transportsystem an und plaziert diese im angeschlossenen Inventar.",
+  "Dieser Vorgang ist relativ langsam und es wird nur ein Item auf einmal angezogen, damit die Rohre nicht verstopfen können.",
+  "Herstellung:",
+  {
+    "link": "futurepack:lang/part/crafting_log.insert_node.json"
+  },
+  "Einstellungen: Mit dem Schraubendrehschlüssel kann ich einzelnen Seiten des Itemempfängers umstellen, damit er sich nicht mehr mit anderen Rohren und Inventaren verbindet. (§lRechstklick§r auf die entsprechende Seite des Rohrs)."
+]

@@ -2,15 +2,15 @@
 "今回は、幅広く使えるレッドストーン機器を開発しました。",
   "レバー:",
   {
-    "link": "fp:lang/part/crafting_deco.rs_utils.json"
+    "link": "futurepack:lang/part/crafting_deco.rs_utils.json"
   },
   "ボタン:",
   {
-    "link": "fp:lang/part/crafting_deco.rs_utils2.json"
+    "link": "futurepack:lang/part/crafting_deco.rs_utils2.json"
   },
   "レッドストーンタイマー\n(Clock):",
   {
-    "link": "fp:lang/part/crafting_deco.rs_utils3.json"
+    "link": "futurepack:lang/part/crafting_deco.rs_utils3.json"
   },
 "タイマーの間隔はGUIで設定ができます。"
 ]

@@ -2,7 +2,7 @@
 	"J'ai développé un électroaimant, un bloc qui plus fort qu'un bloc d'aimants classique, mais qui a besoin d'énergie Néon. La différence principale est que le peut l'arrêter ou le mettre en route avec un signal de Redstone.",
 	"Craft :",
 	{
-		"link":"fp:lang/part/cr_space.emagnet.json"
+		"link":"futurepack:lang/part/cr_space.emagnet.json"
 	},
 	"Le bloc magnétique est contrôlé par un système informatique pour protéger les bobines de la surchauffe et pour ajuster finement le champ et l'intensité magnétique. If faut noter que la vitesse de la RAM détermine la fréquence du champ magnétique, fréquence qui peut causer des interférences plus fortes que les sources normales peuvent produire.",
 	"Puces supportées:\nPuce Industrielle"

@@ -3,19 +3,19 @@
     "type": "zentrifuge",
     "slots": {
       "in": {
-        "OreDict": "ingotRareEarthMetal",
+        "tag": "forge:ingots/rareearthmetal",
         "size": 4
       },
       "out1": {
-        "OreDict": "ingotLithium",
+		"tag": "forge:ingots/lithium",
         "size": 2
       },
       "out2": {
-        "OreDict": "ingotGadolinium",
+		"tag": "forge:ingots/gadolinium",
         "size": 1
       },
       "out3": {
-        "OreDict": "ingotNeodymium",
+		"tag": "forge:ingots/neodymium",
         "size": 1
       }
     },

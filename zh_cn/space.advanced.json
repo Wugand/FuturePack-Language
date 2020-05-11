@@ -3,7 +3,7 @@
   "我也修复了第一个版本的一些问题。例如信息\u0027你的太空飞船是开放的\u0027也会指出哪些地方是开放的。",
   "合成:",
   {
-    "link": "fp:lang/part/crafting_space.advanced.json"
+    "link": "futurepack:lang/part/crafting_space.advanced.json"
   },
   "更多注解用于机载电脑的入门。",
   "根据主页的颜色，每台电脑会会生成不同图案的用户界面。"

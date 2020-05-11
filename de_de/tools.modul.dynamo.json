@@ -2,5 +2,5 @@
 	"Das Laden der Batterien ist schwieriger als es klingen mag. Ja, ich könnte sie regelmäßig aus dem Anzug nehmen und in eine Ladestation stecken, aber das wird sehr schnell langweilig.",
     "Deshalb habe ich beschlossen, stattdessen Energie von mir selbst zu ernten. Es ist nicht viel, aber es wird die meisten Systeme am Leben erhalten. Ich habe Dynamos für meine Beine entwickelt, sie werden Kraft erzeugen wenn ich mich bewege und renne, aber es scheint, dass ich schneller hungrig werde.",
     "Crafting:",
-    {"link":"fp:lang/part/cr_tools.modul.dynamo.json"}
+    {"link":"futurepack:lang/part/cr_tools.modul.dynamo.json"}
 ]

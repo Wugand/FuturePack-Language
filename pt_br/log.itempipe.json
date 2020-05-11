@@ -4,9 +4,9 @@
 	"Se uns itens não acham um destionário, eles vão ficar no cano e impedir qualquer outro item de passar.",
 
  "Crafting:",
-  {
-    "link": "fp:lang/part/crafting_log.itempipe.json"
-  },
+  {"link": "futurepack:lang/part/crafting_log.itempipe.json"},
+
+
 	
 	"Configuração: Usando o scrench, eu posso configurar os lados de um cano. Fazendo isso, o cano não vai conectar com um outro neste lado. (§lBotão Direto§r no lado desejado)."
 ]

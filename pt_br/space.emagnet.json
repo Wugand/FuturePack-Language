@@ -2,7 +2,7 @@
 	"Eu desenvolvei uma eletroímã, um bloco que é muito mais forte do que um bloco magnético normal, mas precisa de energia de néon. A diferência maior é que eu posso ligar e desligar com sinais de redstone.",
 	"Criando:",
 	{
-		"link":"fp:lang/part/cr_space.emagnet.json"
+		"link":"futurepack:lang/part/cr_space.emagnet.json"
 	},
 	"Este bloco magnético é controlado por um computador para evitar superaquecimento e para ajustar finamente o campo magnético e a intensidade. Deve-se notar que o valor do RAM determina a frequencia variável do campo. Finas calculações aumentam a força do campo, criando atrações mais fortes do que normalmente existente na natureza.",
 	"Chipsets Compatíveis:\nChipset Industrial"

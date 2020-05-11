@@ -3,7 +3,7 @@
   "I also added a controller and a compressor, for automatic refilling of the tanks above water.",
   "Crafting:",
   {
-    "link": "fp:lang/part/crafting_tools.sauerstofftank.json"
+    "link": "futurepack:lang/part/crafting_tools.sauerstofftank.json"
   },
   "Capacity: 2 min",
   "Refill: 2 min",

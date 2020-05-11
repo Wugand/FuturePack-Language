@@ -2,7 +2,8 @@
 	"Esta antena é uma extensão simples e muito útil do meu rede. Eu posso agora estender a rede sem fio em cavernas fundas e através de paredes.",
 	"Montagem:",
 	{
-	     "link": "fp:lang/part/crafting_log.laser.json"
+	     "link": "futurepack:lang/part/crafting_log.laser.json"
+
 	},
 	"A alcance da antena depende do número de blocos de metal conectados do transmissor e do receptor.",
 	"",
@@ -11,7 +12,8 @@
 	"Originalmente eu queria usar luz ultravioleta para transferir dados, mas o sinal é perdido com distâncias longas por causa de refração ambiental. Então eu vou usar luz infravermelha.",
 	"Montagem:",
 	{
-              "link": "fp:lang/part/crafting_log.laser2.json"
+              "link": "futurepack:lang/part/crafting_log.laser2.json"
+
 	},
 	"Para o laser funcionar bem, a fonte e o destionário devem ser em exatamente uma linha."
 ]

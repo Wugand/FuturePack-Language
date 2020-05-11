@@ -3,8 +3,8 @@
 	"Este desenho é muito instável e propenso a fatores ambientais, então eu cobri o fio com um invólucro de alumínio.",
 	"O cabo pode ser colocado em qualquer lugar. Também eu não preciso me preocupar com sobrecarregando o cabo porque os conductores de néon parecem ser capazes de transmitir quantidades gigantescas de energia sem tendo problemas com a voltagem ou corrente.",
 	
-	"Montagem:",
-	{
-		"link": "fp:lang/part/crafting_log.cable.json"
-	}
+	"Criando:",
+	{"link": "futurepack:lang/part/crafting_log.cable.json"}
+
+
 ]

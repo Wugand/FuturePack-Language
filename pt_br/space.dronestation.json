@@ -3,6 +3,6 @@
 	"A estação de drones contém um inventário grande (no topo) e uma barra de energia (ao fundo). Eu preciso adicionar ao menos uma bateria para usar uma drone.",
 	"O inventário pode ser enchido e esvaziado usando canos e fúnis. Au conectar um cabo, as baterias podem carregar automaticamente.",
 	"Criando:",
-	{"link":"fp:lang/part/cr_space.dronestation.json"},
-	{"link":"fp:lang/part/cr_space.dronestation.engine.json"}	
+	{"link":"futurepack:lang/part/cr_space.dronestation.json"},
+	{"link":"futurepack:lang/part/cr_space.dronestation.engine.json"}	
 ]

@@ -4,10 +4,10 @@
   "The idea is to count all blocks that have contact with each other as a door. With a §lRight Click§r on any block of the gate, it can be opened/closed.",
   "Crafting:",
   {
-    "link": "fp:lang/part/crafting_space.modular_door.json"
+    "link": "futurepack:lang/part/crafting_space.modular_door.json"
   },
   "Example:",
   {
-    "link": "fp:lang/part/image_space.modular_door2.json"
+    "link": "futurepack:lang/part/image_space.modular_door2.json"
   }
 ]

@@ -9,13 +9,13 @@
 			"1": {},
 			"2": "OreDict:ingotAluminum",
 			"3": {},
-			"4": {"name":"fp:spaceship","meta":"<spaceship.CompositeMetall>"},
+			"4": {"name":"futurepack:spaceship","meta":"<spaceship.CompositeMetall>"},
 			"5": "OreDict:ingotAluminum",
-			"6": {"name":"fp:spaceship","meta":"<spaceship.CompositeMetall>"},
-			"7": {"name":"fp:spaceship","meta":"<spaceship.NeonCoil>"},
+			"6": {"name":"futurepack:spaceship","meta":"<spaceship.CompositeMetall>"},
+			"7": {"name":"futurepack:spaceship","meta":"<spaceship.NeonCoil>"},
 			"8": {"name":"sticky_piston","meta":0},
 			"9": "OreDict:ingotMagnetite",
-			"out": {"name":"fp:spacedoor","meta":0}
+			"out": {"name":"futurepack:spacedoor","meta":0}
 		}
 	}
 ]

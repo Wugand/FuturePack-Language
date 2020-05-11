@@ -3,7 +3,7 @@
   "如果我找到一些东西，那么我将记下数据并将其放入电脑上。",
   "合成:",
   {
-    "link": "fp:lang/part/crafting_space.navcord.tyros.json"
+    "link": "futurepack:lang/part/crafting_space.navcord.tyros.json"
   },
   "用法：“右击”使用。",
   "（这不是最后的终点，可能在将来还有着更多的未知）。",

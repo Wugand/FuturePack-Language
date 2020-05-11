@@ -2,7 +2,7 @@
   "J\u0027ai développé l\u0027\"Œuf à Entité\". Pourquoi il ne serait pas possible d\u0027utiliser ce principe sur les blocs ? Après des recherches, je ne peux maintenant transporter que des spawner à monstres. En effet, je suis effrayé par les possibilités de ce coffre qui pourrait créer un trou noir à cause de l\u0027extrême compression qu\u0027il produit.",
   "Assemblage :",
   {
-    "link": "fp:lang/part/assembly_tools.spawnerchest.json"
+    "link": "futurepack:lang/part/assembly_tools.spawnerchest.json"
   },
   "Il est possible de cliquer sur un spawner avec un \"Coffre à Spawner\" pour le mettre à l\u0027intérieur. Après ça, il est possible de le replacer n\u0027importe où."
 ]

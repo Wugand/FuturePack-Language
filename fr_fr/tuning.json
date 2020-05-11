@@ -2,7 +2,7 @@
   "Je peux modifier à tous moments tous mes systèmes informatiques. Cela peut être réalisé en faisant §lShift + Clic Droit§r avec une $lClé à Molette§r (Mode Modification) sur la machine.",
   "Interface de Tuning :",
   {
-    "link": "fp:lang/part/image_tuning.json"
+    "link": "futurepack:lang/part/image_tuning.json"
   },
   "Info : Vous devriez d\u0027abord lire \"Processeur Standard\", \"Mémoire Standard\" et \"Puce Logique\" !",
   "Composants:",

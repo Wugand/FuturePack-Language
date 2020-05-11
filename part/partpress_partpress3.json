@@ -2,10 +2,9 @@
   {
     "type": "partpress",
     "slots": {
-      "in": "OreDict:ingotCopper",
+      "in": "tag:forge:ingots/copper",
       "out": {
-        "name": "fp:spaceship",
-        "meta": "\u003cspaceship.CopperParts\u003e",
+        "name": "futurepack:parts_copper",
         "size": 4
       }
     }

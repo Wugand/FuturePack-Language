@@ -1,5 +1,5 @@
 [
 	"Apesar da minha pesquisa, eu não consegui desenvolver uma unidade melhor baseado em células de redsone. Mas, eu descobri uma alternativa. É baseada no fato que as características de glowstone mudam quando exposto a um pulso de energia de néon. Graças a esse fato, eu posso reduzir o tamanho das minhas células de armazenamento, aumentando a capacidade de um módulo.",
-	{"link":"fp:lang/part/as_log.flash.3.json"},
+	{"link":"futurepack:lang/part/as_log.flash.3.json"},
 	"Capacidade: 512 SP"
 ]

@@ -2,7 +2,23 @@
 	"Para conectar núcleos, memoria, e chipsets, eu criei uma placa grande isolada, feita de quartzo, e cheia de pontos para conexões e energia.",
 	"Montagem:",
 	{
+<<<<<<< HEAD
 		"link": "fp:lang/part/crafting_motherboard.json"
+=======
+		"type": "crafting",
+		"slots": {
+			"1": {"name":"futurepack:spaceship", "meta":"<spaceship.QuartzParts>"},
+			"2": [{"name":"futurepack:ram","meta":0}],
+			"3": {"name":"futurepack:spaceship", "meta":"<spaceship.QuartzParts>"},
+			"4": {"name":"futurepack:spaceship", "meta":"<spaceship.CopperCoil>"},
+			"5": [{"name":"futurepack:core","meta":0}],
+			"6": {"name":"futurepack:spaceship", "meta":"<spaceship.CopperCoil>"},
+			"7": {"name":"futurepack:spaceship", "meta":"<spaceship.QuartzParts>"},
+			"8": [{"name":"futurepack:chip","meta":0}],
+			"9": {"name":"futurepack:spaceship", "meta":"<spaceship.QuartzParts>"},
+			"out": {"name":"futurepack:spaceship","meta":"<spaceship.Maschinboard>"}
+		}
+>>>>>>> 65ef30f4da434cc7974e43802f3abaa4f67d77d7
 	},
 	
 	"Informação:",

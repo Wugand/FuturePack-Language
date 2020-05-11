@@ -2,6 +2,6 @@
   "Bitripentium ist scheinbar extrem Energiereich, allerdings ist es äußerst schwer die Struktur aufzuspalten. Eine einfache Explosion reicht dazu allerdings nicht, aber mit Hilfe von Lohenruten kann der Vorgang erleichtert werden.",
   "Crafting:",
   {
-    "link": "fp:lang/part/crafting_space.fuel.json"
+    "link": "futurepack:lang/part/crafting_space.fuel.json"
   }
 ]

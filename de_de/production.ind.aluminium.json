@@ -2,6 +2,6 @@
   "Dieses Material scheint wesentlich leichter zu sein als Eisen. Die Herstellung ist aber um einiges kostspieliger als Eisen zu schmelzen. Es scheint sich um Aluminium zu handeln.",
   "Herstellung:",
   {
-    "link": "fp:lang/part/industrialfurnace_production.ind.aluminium.json"
+    "link": "futurepack:lang/part/industrialfurnace_production.ind.aluminium.json"
   }
 ]

@@ -3,11 +3,11 @@
 	"The most significant advantage is that even if the locker is moved, its contents remain safe.",
 	"Info: The (filled) locker can be broken down and placed again without its contents becoming lost!",
 	"Door - light:",
-	{"link":"fp:lang/part/cr_deco.wardrobe1.json"},	
+	{"link":"futurepack:lang/part/cr_deco.wardrobe1.json"},	
 	"Door - dark:",
-	{"link":"fp:lang/part/cr_deco.wardrobe2.json"},
+	{"link":"futurepack:lang/part/cr_deco.wardrobe2.json"},
 	"Drawer - light:",
-	{"link":"fp:lang/part/cr_deco.wardrobe3.json"},
+	{"link":"futurepack:lang/part/cr_deco.wardrobe3.json"},
 	"Drawer - dark:",
-	{"link":"fp:lang/part/cr_deco.wardrobe4.json"}	
+	{"link":"futurepack:lang/part/cr_deco.wardrobe4.json"}	
 ]

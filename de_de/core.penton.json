@@ -3,7 +3,7 @@
 	"Ein weitere Versuch der Verbesserung war das Einbauen einer fest verdrahteten Einheit für das Verarbeiten und Ausgeben von Supportdaten, was den unspezifischen Teil des Prozessors stark entlastet.",
 
 	"Assembly:",
-	{"link":"fp:lang/part/as_core.penton.json"},
+	{"link":"futurepack:lang/part/as_core.penton.json"},
 	
 	"Info: Für allgemeine Informationen siehe Standartprozessor."
 ]

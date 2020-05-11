@@ -2,6 +2,6 @@
 	"Je peux maintenant faire une multitude d'écrans et d'éléments de contrôle à partir d'éléments en fer et d'une plaque de silicium, ce qui semble être \"utile\" pour pleins d'applications.",
 	"Info : L'écran est juste une décoration, et se positionne comme une tableau!",
 	"Craft :",
-	{"link":"fp:lang/part/cr_deco.monitor.json"}
+	{"link":"futurepack:lang/part/cr_deco.monitor.json"}
 ]
 
