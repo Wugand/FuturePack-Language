@@ -1,0 +1,14 @@
+[
+	"С помощью композитного металла я смог создать как простые структуры, так и обычные цельные блоки.",
+	"Создание:",
+	{"link":"fp:lang/part/cr_deco.metall.json"},
+	{"link":"fp:lang/part/cr_deco.metallslab1.json"},
+	{"link":"fp:lang/part/cr_deco.metalltreppe1.json"},
+	
+	"Альтернативное:",
+	{"link":"fp:lang/part/cr_deco.metallslab2.json"},
+	{"link":"fp:lang/part/cr_deco.metalltreppe2.json"},
+	
+	"Информация: Данные блоки можно обесцвечивать и раскрашивать при помощи аэрографа.",
+	"Информация: При разрушении двух плит, поставленных друг на друга, выпадет целый блок."
+]

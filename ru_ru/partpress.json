@@ -1,0 +1,26 @@
+[
+  "Эта машина предназначена для разбивания некоторых материалов на маленькие полезные детали. Она быстра и принимает все виды горючего топлива.",
+  "Создание:",
+  {
+    "link": "fp:lang/part/crafting_partpress.json"
+  },
+  "Рецепты:",
+  {
+    "link": "fp:lang/part/partpress_partpress2.json"
+  },
+  {
+    "link": "fp:lang/part/partpress_partpress3.json"
+  },
+  {
+    "link": "fp:lang/part/partpress_partpress4.json"
+  },
+  {
+    "link": "fp:lang/part/partpress_partpress5.json"
+  },
+  {
+    "link": "fp:lang/part/partpress_partpress6.json"
+  },
+  {
+    "link": "fp:lang/part/partpress_partpress7.json"
+  }
+]
