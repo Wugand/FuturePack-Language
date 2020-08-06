@@ -1,18 +1,7 @@
 [
+  "空气阻力、辐射、阳光等影响因素在空气中产生一定数量的离子。我可以用一个金属网格来收集这些粒子，然后用一个改良的太阳能电池板把它们转换成氖能源。 ",
+  "在雷暴和太阳辐射强烈的时期会产生特别大量的离子，离子收集器可以非常有效地转换离子，并且有了这台机器，我甚至可以在晚上产生能量。",
 	"合成:",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {"name":"futurepack:cristall","meta":0},
-			"2": {"name":"futurepack:spaceship","meta":"<spaceship.Silizium>"},
-			"3": {"name":"futurepack:cristall","meta":0},
-			"4": {"name":"futurepack:spaceship","meta":"<spaceship.CompositeMetall>"},
-			"5": [{"name":"futurepack:solarpanel","meta":0},{"name":"futurepack:solarpanel","meta":1},{"name":"futurepack:solarpanel","meta":2}],
-			"6": {"name":"futurepack:spaceship","meta":"<spaceship.CompositeMetall>"},
-			"7": {"name":"futurepack:spaceship","meta":"<spaceship.CompositeMetall>"},
-			"8": {"OreDict":"ingotNeon"},
-			"9": {"name":"futurepack:spaceship","meta":"<spaceship.CompositeMetall>"},
-			"out": [{"name":"futurepack:ion_collector","meta":0},{"name":"futurepack:ion_collector","meta":1},{"name":"futurepack:ion_collector","meta":2}]
-		}
+	{"link": "futurepack:lang/part/crafting_energy.ionen.json"
 	}
 ]

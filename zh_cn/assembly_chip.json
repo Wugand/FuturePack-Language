@@ -3,19 +3,7 @@
 	"主机由金属框架和各种机械部件组装而成。 此外，执行关键的组装步骤必须要在非常干净的环境下完成，这是保证部件精致度的必要条件。",
 		"合成:",
 	{
-		"type": "crafting",
-		"slots": {
-			"1": {"name":"minecraft:stone_slab"},
-			"2": {"name":"minecraft:crafting_table"},
-			"3": {"name":"minecraft:stone_slab"},
-			"4": {"name":"futurepack:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"5": [{"name":"futurepack:color_iron","meta":0},{"name":"futurepack:color_iron","meta":8},{"name":"futurepack:color_iron","meta":15}],
-			"6": {"name":"futurepack:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"7": {"name":"futurepack:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"8": {"OreDict":"ingotNeon"},
-			"9": {"name":"futurepack:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"out": [{"name":"futurepack:assembly_table","meta":2},{"name":"futurepack:assembly_table","meta":6},{"name":"futurepack:assembly_table","meta":10}]
-		}
+		"link":"futurepack:lang/part/cr_assembly_table.json"
 	},
 
 	"用法：",

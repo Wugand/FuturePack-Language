@@ -1,25 +1,25 @@
 [
-  "最近我问自己如何跨越很大的水平距离。结果是一个传送器，可以传送我上下。",
+  "最近我问自己如何跨越很大的水平距离。结果是一个传送器，可以上下传送我。",
+  "合成:",
+  {
+    "link": "futurepack:lang/part/cr_space.teleport.json"
+  },
+  "黄色传送器是基本要素。可以传送至它，但不能通过它传送走。",
+  "您可以用末影珍珠传送。当他们用氖能量充电并且目标稳定时，您可以使用该功能，而不会破坏末影珍珠。(译者没搞懂这个功能)",
   "合成:",
   {
     "link": "futurepack:lang/part/crafting_space.teleport.json"
   },
-  "黄色传送器是基本要素。可以传送给它，但不能远离它。",
-  "您可以用末影珍珠传送。当他们用氖能量充电并且目标稳定时，您可以使用该功能，而不会破坏末影珍珠。",
+  "绿色传送器只能传送你到顶部，无论它是一个基本的还是向上或向下传送器。",
   "合成:",
   {
-    "link": "futurepack:lang/part/crafting_space.teleport2.json"
-  },
-  "绿色传送点只能传送你到顶部，无论它是一个正常的，向上或向下传送器。",
-  "合成:",
-  {
-    "link": "futurepack:lang/part/crafting_space.teleport3.json"
+     "link": "futurepack:lang/part/crafting_space.teleport2.json"
   },
   "红色传送器只能将你传送走。 接收传送器的类型无关紧要。",
   "不过，我也注意到，多层建筑既可上也可下。",
   "合成:",
   {
-    "link": "futurepack:lang/part/crafting_space.teleport4.json"
+    "link": "futurepack:lang/part/crafting_space.teleport3.json"
   },
-  "如果您使用扳手右击一对送器，则会断开，向下传送时，直接传送至地面。 像这样，您可以轻松地再次连接两台传送机。"
+  "如果您使用扳手右击传送器（上/下），绿色传送器则会降落至地表，红色传送器留在原处。再次扳手右击红色传送器将收回绿色传送器。像这样，您可以轻松使用传送机。"
 ]

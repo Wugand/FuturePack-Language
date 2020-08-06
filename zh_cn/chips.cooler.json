@@ -4,19 +4,6 @@
 	"冷却器灯的颜色和对应的冷却效率分别为蓝(3)绿(2)红(1)。",
 
 	"合成:",
-	{
-		"type": "crafting",
-		"slots": {
-			"1": {"name":"futurepack:spaceship", "meta":"<spaceship.CopperCoil>"},
-			"2": {"OreDict":"ingotCopper"},
-			"3": {"name":"futurepack:spaceship", "meta":"<spaceship.CopperCoil>"},
-			"4": {"name":"futurepack:spaceship", "meta":"<spaceship.CopperCoil>"},
-			"5": {"OreDict":"ingotCopper"},
-			"6": {"name":"futurepack:spaceship", "meta":"<spaceship.CopperCoil>"},
-			"7": {"OreDict":"ingotIron"},
-			"8": {"OreDict":"ingotCopper"},
-			"9": {"OreDict":"ingotIron"},
-			"out": {"name":"futurepack:extern_cooler", "meta":0}
-		}
+	{"link":"futurepack:lang/part/cr_chips.cooler.json"
 	}
 ]

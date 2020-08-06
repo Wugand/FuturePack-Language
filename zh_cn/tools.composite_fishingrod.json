@@ -1,0 +1,7 @@
+[
+  "我研发了一种复合金属钓竿，它比木头钓竿更坚固耐用。此外，我还加装了一个弹簧机关，可以在鱼挣脱之前自动捕鱼。",
+  "合成:",
+  {
+    "link": "futurepack:lang/part/crafting_tools.composite_rod.json"
+  }
+]
