@@ -4,19 +4,7 @@
 	"这个新工具使我能够快速分解各种金属块*（包括几乎所有的Future Pack的装饰块和机器）。",
 	"合成:",
 	{
-		"type": "crafting",
-		"slots": {
-			"1": {},
-			"2": {"name":"futurepack:spaceship", "meta":"<spaceship.NeonCoil>"},
-			"3": {"name":"futurepack:spaceship", "meta":"<spaceship.CopperParts>"},
-			"4": "OreDict:ingotAluminum",
-			"5": "OreDict:dustNeon",
-			"6": {"name":"futurepack:spaceship", "meta":"<spaceship.NeonCoil>"},
-			"7": {"name":"futurepack:spaceship", "meta":"<spaceship.Tank>"},
-			"8": "OreDict:ingotAluminum",
-			"9": {"name":"futurepack:spaceship", "meta":"<spaceship.IronStick>"},
-			"out": {"name":"futurepack:plasmaschneider", "meta":2500, "size":1}
-		}
+		"link": "futurepack:lang/part/crafting_tools.plasma.json"
 	},
 	"需要充入氖能量。 如果能量耗尽, 切割器将会自毁。",
 	"为了对等离子切割机充电，我可以使用能量发生器，电池盒或能量研究模块的相应插槽，就像给电池充电一样。",

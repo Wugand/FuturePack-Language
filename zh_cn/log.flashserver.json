@@ -4,19 +4,7 @@
 	"闪存服务器在更现代化的系统中尤为重要，因为我根本无法为所有机器提供读取闪存的单元。",
 	"合成:",
 	{
-		"type": "crafting",
-		"slots": {
-			"1": {"name":"futurepack:spaceship", "meta":"<spaceship.SupportSpeicher2>"},
-			"2": {"name":"minecraft:chest"},
-			"3": {"name":"futurepack:spaceship", "meta":"<spaceship.SupportSpeicher2>"},
-			"4": {"name":"futurepack:chip", "meta":"<chip.SupportChip>"},
-			"5": [{"name":"futurepack:color_iron", "meta":0},{"name":"futurepack:color_iron", "meta":8},{"name":"futurepack:color_iron", "meta":15}],
-			"6": {"name":"futurepack:chip", "meta":"<chip.SupportChip>"},
-			"7": {"name":"futurepack:spaceship", "meta":"<spaceship.SupportSpeicher2>"},
-			"8": {"name":"futurepack:wire", "meta":3},
-			"9": {"name":"futurepack:spaceship", "meta":"<spaceship.SupportSpeicher2>"},
-			"out": [{"name":"futurepack:flash_server", "meta":2, "size":1},{"name":"futurepack:flash_server", "meta":6, "size":1},{"name":"futurepack:flash_server", "meta":10, "size":1}]
-		}
+		"link":"futurepack:lang/part/cr_log.flashserver.json"
 	},
 	"容量:2048SP",
 	"注意：可以通过“物流编辑器”将该方块设置为支持输出或支持输入."
