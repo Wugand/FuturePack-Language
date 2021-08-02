@@ -4,23 +4,7 @@
 	
 	"Montagem:",
 	{
-<<<<<<< HEAD
     "link": "fp:lang/part/crafting_log.redstonecable.json"
-=======
-		"type": "crafting",
-		"slots": {
-			"1": {},
-			"2": {"OreDict":"dustRedstone"},
-			"3": {},
-			"4": {"name":"futurepack:wire", "meta":0},
-			"5": {"name":"futurepack:wire", "meta":0},
-			"6": {"name":"futurepack:wire", "meta":0},
-			"7": {},
-			"8": {},
-			"9": {},
-			"out": {"name":"futurepack:wire", "meta":1, "size":3}
-		}
->>>>>>> 65ef30f4da434cc7974e43802f3abaa4f67d77d7
 	},
 	
 	"Esses cabos são muito úteis para transmitir sinais para máquinas e lanternas que precisam energia de néon e um sinal de redstone."

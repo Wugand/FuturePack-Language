@@ -3,23 +3,7 @@
 	"É um cano normal com uma camada extra de brilhatita que habilita a transmissão de pontos de apoio.",	
 	"Montagem:",
 	{
-<<<<<<< HEAD
 		"link": "fp:lang/part/crafting_log.supportpipe.json"
-=======
-		"type": "crafting",
-		"slots": {
-			"1": {},
-			"2": {"OreDict":"ingotGlowtite"},
-			"3": {},
-			"4": {"name":"futurepack:pipe", "meta":0},
-			"5": {"name":"futurepack:pipe", "meta":0},
-			"6": {"name":"futurepack:pipe", "meta":0},
-			"7": {},
-			"8": {},
-			"9": {},
-			"out": {"name":"futurepack:pipe", "meta":3, "size":3}
-		}
->>>>>>> 65ef30f4da434cc7974e43802f3abaa4f67d77d7
 	},
 	
 	"Estes canos são especialmente úteis para fornecer algumas máquinas com pontos de apoio.",

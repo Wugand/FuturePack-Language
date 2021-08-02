@@ -6,23 +6,7 @@
 
 	"Criando:",
 	{
-<<<<<<< HEAD
   		 "link": "fp:lang/part/crafting_log.sorter.json"
-=======
-		"type": "crafting",
-		"slots": {
-			"1": {"name":"futurepack:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"2": {"OreDict":"dyeGreen"},
-			"3": {"name":"futurepack:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"4": {"OreDict":"dyeBlue"},
-			"5": {"name":"futurepack:spaceship", "meta":"<spaceship.Maschinboard>"},
-			"6": {"OreDict":"dyeYellow"},
-			"7": {"name":"futurepack:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"8": {"OreDict":"dyeRed"},
-			"9": {"name":"futurepack:spaceship", "meta":"<spaceship.CompositeMetall>"},
-			"out": {"name":"futurepack:sorter", "meta":0, "size":1}
-		}
->>>>>>> 65ef30f4da434cc7974e43802f3abaa4f67d77d7
 	},
 	
 	"Modificação:",

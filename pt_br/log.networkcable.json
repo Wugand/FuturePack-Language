@@ -4,23 +4,7 @@
 	
 	"Montagem:",
 	{
-<<<<<<< HEAD
   	     "link": "fp:lang/part/crafting_log.networkcable.json"
-=======
-		"type": "crafting",
-		"slots": {
-			"1": {},
-			"2": "OreDict:ingotWakurium",
-			"3": {},
-			"4": {"name":"futurepack:wire", "meta":0},
-			"5": {"name":"futurepack:wire", "meta":0},
-			"6": {"name":"futurepack:wire", "meta":0},
-			"7": {},
-			"8": {},
-			"9": {},
-			"out": {"name":"futurepack:wire", "meta":4, "size":3}
-		}
->>>>>>> 65ef30f4da434cc7974e43802f3abaa4f67d77d7
 	},
 	
 	"Para evitar uma falha da rede ou um comutador sobrecarregado, eu incluí um desenho especial: os cabos têm divisores e aplificadores embutidos. Eu posso expandir minha rede sem perda de velocidade."

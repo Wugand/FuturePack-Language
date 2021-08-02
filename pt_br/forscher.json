@@ -1,8 +1,6 @@
 [
 	"Eu criei uma bancada especial para realizar experimentos e melhorar minhas idéias. Assim eu posso terminar meus projetos e adicioná-los a meu base de dados.",
 	"Montagem:",
-        {
-	"Criando:",
 	{ "link": "futurepack:lang/part/crafting_forscher.json" },
 
 	"Dica: Leia a informação em \"O Sistema de Pesquisa\" primeiro.",
