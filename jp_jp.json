@@ -992,9 +992,9 @@
     "aspect.hydraulic.name":                                "水力学",
 
     "key.categories.futurepack":                            "Futurepack",
-    "key.fp.gleiter":                                       "パラグライダーの開閉",
-    "key.fp.compositearmor":                                "複合材装備のGUIを開く",
-    "key.fp.modul_magnet":                                  "マグネットモジュールの有効化/無効化",
+    "key.futurepack.gleiter":                                       "パラグライダーの開閉",
+    "key.futurepack.compositearmor":                                "複合材装備のGUIを開く",
+    "key.futurepack.modul_magnet":                                  "マグネットモジュールの有効化/無効化",
 
     "research.need.advancements.futurepack":                "%s が必要です。",
 

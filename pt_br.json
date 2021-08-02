@@ -992,9 +992,9 @@
     "aspect.hydraulic.name":                                "Hidráulica",
 
     "key.categories.futurepack":                            "Futurepack",
-    "key.fp.gleiter":                                       "Parapente abrir/fechar",
-    "key.fp.compositearmor":                                "TODO: key.fp.compositearmor",
-    "key.fp.modul_magnet":                                  "TODO: key.fp.modul_magnet",
+    "key.futurepack.gleiter":                                       "Parapente abrir/fechar",
+    "key.futurepack.compositearmor":                                "TODO: key.futurepack.compositearmor",
+    "key.futurepack.modul_magnet":                                  "TODO: key.futurepack.modul_magnet",
 
     "research.need.advancements.futurepack":                "Precisa de %s",
 

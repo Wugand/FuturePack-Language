@@ -9,5 +9,5 @@
 	"Crafting:",
 	{"link":"futurepack:lang/part/cr_log.batbox.json"},
 	"Eigenkapazität: 6000 NE",
-	"Einstellungen: Mit dem \"Logistikeditor\" können die Seiten des Blocks als Energieausgang oder Energieeingang eingestellt werden."
+	"Einstellungen: Mit dem \"Logistikeditor\" können die Seiten des Blocks als Energieausgang oder Energieeingang eingestellt werden. In der Standarteinstellung sind alle Seiten alsd Eingang definiert."
 ]

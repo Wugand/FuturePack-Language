@@ -3,5 +3,11 @@
   "Herstellung:",
   {
     "link": "futurepack:lang/part/industrialfurnace_production.ind.aluminium.json"
+  },
+  {
+    "link": "futurepack:lang/part/industrialfurnace_production.ind.aluminium.door.json"
+  },
+  {
+    "link": "futurepack:lang/part/industrialfurnace_production.ind.aluminium.trapdoor.json"
   }
 ]

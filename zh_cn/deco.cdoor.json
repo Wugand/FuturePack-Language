@@ -15,5 +15,6 @@
 			"9": {},
 			"out": {"name":"futurepack:composite_door", "meta":0, "size":3}
 		}
-	}
+	},
+	{"link":"futurepack:lang/part/cr_deco.ctrapdoor.json"}
 ]

@@ -1,5 +1,6 @@
 [
 	"J'ai fait une porte en métal composite. Je peux même l'ouvrir et la fermer à la main.",
 	"Craft:",
-	{"link":"futurepack:lang/part/cr_deco.cdoor.json"}
+	{"link":"futurepack:lang/part/cr_deco.cdoor.json"},
+	{"link":"futurepack:lang/part/cr_deco.ctrapdoor.json"}
 ]

@@ -992,9 +992,9 @@
     "aspect.hydraulic.name":                                "Гидравлика",
 
     "key.categories.futurepack":                            "Futurepack",
-    "key.fp.gleiter":                                       "Параплан открыть/закрыть",
-    "key.fp.compositearmor":                                "Открыть Композитный Доспех",
-    "key.fp.modul_magnet":                                  "Магнитный модуль вкл/выкл",
+    "key.futurepack.gleiter":                                       "Параплан открыть/закрыть",
+    "key.futurepack.compositearmor":                                "Открыть Композитный Доспех",
+    "key.futurepack.modul_magnet":                                  "Магнитный модуль вкл/выкл",
 
     "research.need.advancements.futurepack":                "Нужно %s",
 

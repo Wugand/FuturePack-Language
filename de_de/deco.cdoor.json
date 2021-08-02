@@ -1,5 +1,6 @@
 [
 	"Ich habe eine stabile Tür aus Verbundmetall geschaffen. Ich kann sie sogar von Hand öffnen und verschließen.",
 	"Crafting:",
-	{"link":"futurepack:lang/part/cr_deco.cdoor.json"}
+	{"link":"futurepack:lang/part/cr_deco.cdoor.json"},
+	{"link":"futurepack:lang/part/cr_deco.ctrapdoor.json"}
 ]
