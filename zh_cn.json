@@ -992,9 +992,9 @@
     "aspect.hydraulic.name":                                "压力学",
 
     "key.categories.futurepack":                            "Futurepack",
-    "key.fp.gleiter":                                       "降落伞 开/关",
-    "key.fp.compositearmor":                                "打开复合盔甲",
-    "key.fp.modul_magnet":                                  "磁力模块开启/关闭",
+    "key.futurepack.gleiter":                                       "降落伞 开/关",
+    "key.futurepack.compositearmor":                                "打开复合盔甲",
+    "key.futurepack.modul_magnet":                                  "磁力模块开启/关闭",
 
     "research.need.advancements.futurepack":                "需要 %s",
 

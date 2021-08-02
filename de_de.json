@@ -639,7 +639,7 @@
     "item.futurepack.record_fp_entros":                     "Schallplatte",
     "item.futurepack.record_fp_entros.desc":                "Mantes - Stimme von Entros",
     "item.futurepack.record_fp_envia":                      "Schallplatte",
-    "item.futurepack.record_fp_envia.desc":                 "Mantes - Stimme von Entros",
+    "item.futurepack.record_fp_envia.desc":                 "Mantes - Stimme von Envia",
     "item.futurepack.record_futurepack":                    "Schallplatte",
     "item.futurepack.record_futurepack.desc":               "Mantes - Futurepack Soundtrack",
     "item.futurepack.record_fp_menelaus":                   "Schallplatte",
@@ -648,6 +648,8 @@
     "item.futurepack.record_fp_tyros.desc":                 "Mantes - Stimme von Tyros",
     "item.futurepack.record_fp_unknown":                    "Unbekannte Schallplatte",
     "item.futurepack.record_fp_unknown.desc":               "Martin 1",
+    "item.futurepack.record_fp_lyrara":                     "Schallplatte",
+    "item.futurepack.record_fp_lyrara.desc":                "Mantes - Stimme von Lyrara",
 
     "item.futurepack.aiflash0":                             "Einfacher Redstone-Flashspeicher",
     "item.futurepack.aiflash1":                             "Verbesserter Redstone-Flashspeicher",
@@ -940,6 +942,8 @@
     "advancements.futurepack.laserbow.description":         "Baue eine antike Hightech Waffe! ",
     "advancements.futurepack.brain_touch.title":            "Gehirnextraktion",
     "advancements.futurepack.brain_touch.description":      "Finde einen Tectern",
+    "advancements.futurepack.i_can_sleep.title":            "Ich kann schlafen, was kannst du?",
+    "advancements.futurepack.i_can_sleep.description":      "Schlafe auf Menelaus oder Tyros",
 
     "harvest.tool.shovel.0":                                "Abbau: Schaufel",
     "harvest.tool.pickaxe.0":                               "Abbau: Spitzhacke",
@@ -992,9 +996,14 @@
     "aspect.hydraulic.name":                                "Hydraulik",
 
     "key.categories.futurepack":                            "Futurepack",
-    "key.fp.gleiter":                                       "Gleitschirm öffnen/schließen",
-    "key.fp.compositearmor":                                "Leichtbaurüstung öffnen",
-    "key.fp.modul_magnet":                                  "Magnetmodul aktivieren/deaktivieren",
+    "key.futurepack.gleiter":                                       "Gleitschirm öffnen/schließen",
+    "key.futurepack.compositearmor":                                "Leichtbaurüstung öffnen",
+    "key.futurepack.modul_magnet":                                  "Magnetmodul aktivieren/deaktivieren",
+	
+	"research.record.tooltip":                              "Benutze das Item (Rechtsklick) für mehr Informationen!",
+	"research.record.unresearched":                         "Diese Disc wirkt seltsam, sie scheint mehr als nur ein Musikstück zu enthalten. Ich sollte sie im Scanner nach Anomalien untersuchen.",
+	"research.planet.discover":								"Ein Koordinatensatz für das stellare Objekt '%s' wurde mit Hilfe dieser Disc erzeugt.",
+	"research.record.sorry":								"Oder auch nicht :( Leider ist dieses stellare Objekt noch nicht fertig. Auchte auf neue Versionen des Mods, die könnten es enthalten. Vielen Dank fürs Spielen!",
 
     "research.need.advancements.futurepack":                "Benötigt %s",
 
@@ -1099,6 +1108,14 @@
     "research.story.dungeon_tectern":                       "Tectern",
     "research.unreachable_tec":                             "Technik der Ungreifbaren",
     "research.unreach.laserbow":                            "Laserbogen",
+	
+	"research.story.nav.mincra":							"Disc Entschlüsselung: Mincra",
+	"research.story.nav.menelaus":							"Disc Entschlüsselung: Menelaus",
+	"research.story.nav.tyros":								"Disc Entschlüsselung: Tyros",
+	"research.story.nav.entros":							"Disc Entschlüsselung: Entros",
+	"research.story.nav.envia":								"Disc Entschlüsselung: Envia",
+	"research.story.nav.lyrara":							"Disc Entschlüsselung: Lyrara",
+	"research.story.nav.asteroid":							"Disc Entschlüsselung: Asteroidenfeld",
 
     "research.story.menelaus":                              "Menelaus Planetenanalyse",
     "research.hs.menelaus.surface":                         "Wüstenplanet",
@@ -1431,6 +1448,7 @@
 
     "block.futurepack.fluid_tank_mk2":                      "TODO: block.futurepack.fluid_tank_mk2",
     "block.futurepack.fluid_tank_mk3":                      "TODO: block.futurepack.fluid_tank_mk3",
+    "block.futurepack.door_marker":                         "Wassertürmarkierung",
     "gui.futurepack.wardrobe.title":                        "Wandschrank",
     "block.futurepack.logistic_chest":                      "Logistikkiste",
     "gui.futurepack.researcher.title":                      "Forscher",
@@ -1449,5 +1467,28 @@
     "item.futurepack.research_blueprint.support":           "Support:",
     "item.futurepack.research_blueprint.xp":                "XP:",
     "item.futurepack.dungeon_tablet":                       "Buch der Ungreifbaren",
-    "research.story\/crystal_science":                      "Kristall Wissenschaft"
+    "research.story\/crystal_science":                      "Kristall Wissenschaft",
+    "block.futurepack.composite_trapdoor":                  "Verbundmetallfalltür",
+    "block.futurepack.glass_trapdoor":                      "Aluminiumglasfalltür",
+    "block.futurepack.glass_door":                          "Aluminiumglastür",
+    "item.futurepack.ancient_energy":                       "Uraltes Teil",
+    "item.futurepack.ancient_energy.tooltip":               "Es schein als wäre es nur Teil von etwas. ICh glaube es braucht energy.",
+    "advancements.futurepack.energy_sponge.title":			"Energie Schwamm!",
+    "advancements.futurepack.energy_sponge.description":	"Villeicht solltest du es in die nähe deiner Maschine halten.",
+    "research.story.dungeon_ancient_energy":	            "Uralte Energie",
+    "item.futurepack.neon_bucket":							"Eimer mit flüssigem Neon",
+    "item.futurepack.salt_water_bucket":					"Salzwassereimer",
+    "tooltip.composite.can_be_installed":					"Kann installiert werden in:",
+    "item.futurepack.spawn_egg_evil_robot":					"Technokraten Einheit-Spawn-Ei",
+    "item.futurepack.spawn_egg_cyber_zombie":				"Cyber Zombie-Spawn-Ei",
+    "item.futurepack.spawn_egg_jawaul":						"Jawaul-Spawn-Ei",
+    "item.futurepack.spawn_egg_heuler":						"Heuler-Spawn-Ei",
+    "item.futurepack.spawn_egg_dungeon_spider":				"Dungeon Spinne-Spawn-Ei",
+    "item.futurepack.spawn_egg_wolba":						"Wollbah-Spawn-Ei",
+    "item.futurepack.spawn_egg_gehuf":						"Gehuf-Spawn-Ei",
+    "item.futurepack.spawn_egg_crawler":					"Crawler-Spawn-Ei",
+    "info.note.read":                                       "Rechtsklick zum Betrachten",
+    "item.futurepack.hambone":								"Fette Haxxe",
+    
+    "block.futurepack.spaceship_mover":						"Man�ver Triebwerk"
 }
