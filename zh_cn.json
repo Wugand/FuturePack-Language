@@ -885,7 +885,7 @@
 
 
     "tooltip.futurepack.block.conduct.neon":                "可以传导 NP",
-    "tooltip.futurepack.block.conduct.redstone":            "可以传导红石",
+    "tooltip.futurepack.block.conduct.redstone":            "可以传导 RF",
     "tooltip.futurepack.block.conduct.support":             "可以传导 SP",
 
     "tooltip.futurepack.items.insertnode.joke":             "“塞子”",
