@@ -2,7 +2,7 @@
   "在空空荡荡的空间中，绝对不要失去你的方向。我已经搭建了一台电脑，引导我安全地通过空白区。",
   "合成:",
   {
-    "link": "futurepack:lang/part/translate_space.computer.json"
+    "link": "futurepack:lang/part/cr_space.computer.json"
   },
   "GUI有3个选项：",
   "第一个选项总是显示Minecraft星，所以我可以随时返回家。",
