@@ -1194,7 +1194,7 @@
     "research.log.neonpipe":                                "氖管道",
     "research.log.redstonepipe":                            "红石管道",
     "research.log.supportpipe":                             "SP管道",
-    "research.log.insert_node":                             "插入节点",
+    "research.log.insert_node":                             "物品接收器",
     "research.log.pusher":                                  "物品推送",
     "research.log.sorter":                                  "分类器",
     "research.log.redstonecable":                           "红石电缆",
