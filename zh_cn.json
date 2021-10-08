@@ -967,7 +967,7 @@
     "gui.futurepack.machine.burned":                        "你的机器烧坏了！",
 
     "chat.escanner.athmosphere.breathable":                 "这里的空气含有氧气，可以呼吸",
-    "chat.escanner.athmosphere.filled":                     "这里的空气没有氧气，不能呼吸.这个房间充满 %s.%s %% ，有足够的空气供一人使用 %s .",
+    "chat.escanner.athmosphere.filled":                     "这里的空气没有氧气，不能呼吸.这个空间的填充度为 %s.%s %% ，有足够的空气供一人使用 %s .",
 
     "material.metall":                                      "金属方块:适合于太空船",
 
@@ -980,7 +980,7 @@
     "chat.spaceship.missingThruster":                       "你的飞船有%1$s个方块,但只有%2$s个推进器;需要%3$s个额外推进器",
     "chat.spaceship.lowEnergie":                            "没有足够的氖能量",
     "chat.spaceship.missingBeam":                           "你的飞船没有传送器",
-    "chat.spaceship.missingFuel":                           "推进器的燃料不够.你还%s个推进器需要动力",
+    "chat.spaceship.missingFuel":                           "推进器的燃料不够.还有%s个推进器需要动力",
 
     "chat.research.add":                                    "你的研究完成了(%s).",
     "chat.plasma_core.toobig":                              "等离子罐子太大了! 找到 %s 个方块但最多只允许 %s 个.",
