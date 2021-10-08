@@ -618,7 +618,7 @@
     "item.futurepack.core_dungeon":                         "地牢处理器",
     "item.futurepack.core_torus":                           "宇宙处理器",
     "item.futurepack.core_zombie":                          "僵尸处理器",
-    "item.futurepack.core_entronium":                       "硝素内存条",
+    "item.futurepack.core_entronium":                       "硝素处理器",
 
     "item.futurepack.ram_standart":                         "标准内存条",
     "item.futurepack.ram_a":                                "Alon内存条",
@@ -898,10 +898,10 @@
     "tooltip.futurepack.item.core_power":                   "核心功率: %f",
     "tooltip.futurepack.item.shutdown_temp":                "停机温度: %s °C",
     "tooltip.futurepack.item.max_temp":                     "最高温度: %s °C",
-    "tooltip.futurepack.item.ram_speed":                    "RAM速度: %.1f",
+    "tooltip.futurepack.item.ram_speed":                    "内存速度: %.1f",
     "tooltip.futurepack.item.neon":                         "%s / %s NE",
     "tooltip.futurepack.item.support":                      "%s / %s SP",
-    "tooltip.futurepack.item.grenade.power":                "手榴弹威力: %s",
+    "tooltip.futurepack.item.grenade.power":                "榴弹威力: %s",
 
 
     "advancements.futurepack.root.title":                   "我喜欢星星",
@@ -967,7 +967,7 @@
     "gui.futurepack.machine.burned":                        "你的机器烧坏了！",
 
     "chat.escanner.athmosphere.breathable":                 "这里的空气含有氧气，可以呼吸",
-    "chat.escanner.athmosphere.filled":                     "这里的空气没有氧气，不能呼吸.这个房间充满 %s.%s %% ，有足够的空气供 %s 一人使用.",
+    "chat.escanner.athmosphere.filled":                     "这里的空气没有氧气，不能呼吸.这个房间充满 %s.%s %% ，有足够的空气供一人使用 %s .",
 
     "material.metall":                                      "金属方块:适合于太空船",
 
@@ -1316,7 +1316,7 @@
     "research.tools.airbrush":                              "喷枪",
     "research.tools.sauerstofftank":                        "氧气罐",
     "research.tools.logistik_editor":                       "物流编辑器",
-    "research.tools.composite_pickaxe":                     "复合稿",
+    "research.tools.composite_pickaxe":                     "复合镐",
     "research.tools.composite_axe":                         "复合斧",
     "research.tools.composite_hoe":                         "复合锄",
     "research.tools.composite_spade":                       "复合铲",
