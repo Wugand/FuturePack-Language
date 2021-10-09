@@ -1373,7 +1373,7 @@
     "entity.futurepack.forestmaster":                       "伐木无人机",
     "entity.futurepack.miner":                              "采掘无人机",
     "entity.futurepack.monocart":                           "单轨矿车",
-    "entity.futurepack.cyber_zombie":                       "网络僵尸",
+    "entity.futurepack.cyber_zombie":                       "赛博格僵尸",
     "entity.futurepack.heuler":                             "外星飞虫",
     "entity.futurepack.wolba":                              "沃尔巴 ",
 
@@ -1485,7 +1485,7 @@
     "item.futurepack.salt_water_bucket":					"盐水桶",
 	"tooltip.composite.can_be_installed":					"可安装在：",
 	"item.futurepack.spawn_egg_evil_robot":					"邪恶机器人刷怪蛋",
-	"item.futurepack.spawn_egg_cyber_zombie":				"网络僵尸刷怪蛋",
+	"item.futurepack.spawn_egg_cyber_zombie":				"赛博格僵尸刷怪蛋",
 	"item.futurepack.spawn_egg_jawaul":						"吉瓦兽刷怪蛋",
 	"item.futurepack.spawn_egg_heuler":						"外星飞虫刷怪蛋",
 	"item.futurepack.spawn_egg_dungeon_spider":				"地牢蜘蛛刷怪蛋",
