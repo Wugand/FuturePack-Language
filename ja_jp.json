@@ -1114,12 +1114,12 @@
     "research.unreach.laserbow":                            "レーザーボウ",
 
     "research.story.nav.mincra":                            "ディスク説明: ミンクラ",
-    "research.story.nav.menelaus":                            "ディスク説明: メネラーオス",
-    "research.story.nav.tyros":                                "ディスク説明: テュロス",
+    "research.story.nav.menelaus":                          "ディスク説明: メネラーオス",
+    "research.story.nav.tyros":                             "ディスク説明: テュロス",
     "research.story.nav.entros":                            "ディスク説明: 門",
-    "research.story.nav.envia":                                "ディスク説明: エンビア",
+    "research.story.nav.envia":                              "ディスク説明: エンビア",
     "research.story.nav.lyrara":                            "ディスク説明: リララ",
-    "research.story.nav.asteroid":                            "ティスク説明: 小惑星の領域",
+    "research.story.nav.asteroid":                          "ティスク説明: 小惑星の領域",
 
     "research.story.menelaus":                              "メネラーオスの探検と調査",
     "research.hs.menelaus.surface":                         "砂の惑星",
