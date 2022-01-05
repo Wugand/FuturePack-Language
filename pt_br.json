@@ -1437,7 +1437,7 @@
     "block.futurepack.fluid_tank_mk3":                      "Tanque de Fluidos Nível 3",
     "gui.futurepack.wardrobe.title":                        "Armário",
     "block.futurepack.door_marker":                         "Marcador de Porta com Água",
-    "gui.futurepack.researcher.title":                      "Pesquisador"
+    "gui.futurepack.researcher.title":                      "Pesquisador",
     "block.futurepack.logistic_chest":                      "Baú Logístico",
     "gui.futurepack.researcher.title":                      "Pesquisador",
     "chat.escanner.magnetism":                              "Nível Magnético: %s",
