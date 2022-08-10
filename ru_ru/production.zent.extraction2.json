@@ -1,0 +1,15 @@
+[
+  "С помощью центрифуги я могу перерабатывать руду для извлечения более ценных материалов",
+  "С помощью Очков Поддержки я могу извлекать из руды пыль в соотношении 1:2.5. А также небольшое количество дополнительного материала.",
+  "Пример:",
+  {
+    "link": "fp:lang/part/zentrifuge_production.zent.extraction2.json"
+  },
+  {
+    "link": "fp:lang/part/zentrifuge_production.zent.extraction22.json"
+  },
+  {
+    "link": "fp:lang/part/zentrifuge_production.zent.extraction23.json"
+  },
+  "Информация: У центрифуги много рецептов, поэтому здесь перечислены не все!".
+]
