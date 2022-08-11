@@ -1385,7 +1385,7 @@
     "laser.attack.player.name":                             "Атаковать игроков",
     "laser.player.warn.name":                               "Предупреждение целей",
     "laser.player.distance.name":                           "Защита позиции (10 блоков)",
-    "laser.wait.10.name":                                   "Время предупреждения 10 секунд,
+    "laser.wait.10.name":                                   "Время предупреждения 10 секунд",
     "laser.wait.15.name":                                   "Время предупреждения 15 секунд",
     "laser.wait.30.name":                                   "Время предупреждения 30 секунд",
     "laser.wait.60.name":                                   "Время предупреждения 60 секунд",
