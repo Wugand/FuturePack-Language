@@ -1,0 +1,10 @@
+[
+    "Я\u0027 добавил расширение к неоновой промышленной печи, которое позволяет мне извлекать остаточный углерод. Теперь я практически не завишу от угля."
+  {
+    "link": "fp:lang/part/industrialneonfurnace_production.nind.reduktion.json"
+  },
+    "Даже с кристаллами новый процесс позволяет перерабатывать их в слитки",
+  {
+    "link": "fp:lang/part/industrialneonfurnace_production.nind.reduktion2.json"
+  }
+]

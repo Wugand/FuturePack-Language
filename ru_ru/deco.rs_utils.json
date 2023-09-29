@@ -1,0 +1,16 @@
+[
+  "Я разработал несколько полезных редстоун-компонентов",
+  "Рычаг:",
+  {
+    "link": "fp:lang/part/crafting_deco.rs_utils.json"
+  },
+  "Кнопка:",
+  {
+    "link": "fp:lang/part/crafting_deco.rs_utils2.json"
+  },
+  "Редстоуновый таймер (часы):",
+  {
+    "link": "fp:lang/part/crafting_deco.rs_utils3.json"
+  },
+  "Интервал таймера может быть установлен через графический интерфейс."
+]
